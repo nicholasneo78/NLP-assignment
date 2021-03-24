@@ -1,0 +1,1866 @@
+CLINICAL TRIAL
+
+A 3-year Randomized Clinical Trial of MiSight Lenses for
+Myopia Control
+Paul Chamberlain, BSc (Hons),1* Sofia C. Peixoto-de-Matos, MSc,2 Nicola S. Logan, PhD,3 Cheryl Ngo, MBBS, MMed,4
+Deborah Jones, BSc, FAAO,5 and Graeme Young, PhD, FAAO6
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8KKGKV0Ymy+78= on 10/31/2020
+
+SIGNIFICANCE: Results of this randomized, double-masked clinical trial demonstrate the effectiveness of the
+MiSight soft contact lens in slowing myopia progression over multiple years.
+PURPOSE: The purpose of this study was to quantify the effectiveness of MiSight daily disposable soft contact lens
+in slowing the progression of juvenile-onset myopia.
+METHODS: Myopic children (spherical equivalent refraction, −0.75 to −4.00 D; astigmatism, <1.00 D) aged 8 to
+12 years with no prior contact lens experience were enrolled in a 3-year, double-masked, randomized clinical trial
+at four investigational sites in four countries. Subjects in each group were matched for age, sex, and ethnicity and
+were randomized to either a MiSight 1-day contact lens (test) or Proclear 1-day (control; omafilcon A) and worn on a
+daily disposable basis. Primary outcome measures were the change in cycloplegic spherical equivalent refraction
+and axial length.
+RESULTS: Of the subjects enrolled, 75.5% (109/144) completed the clinical trial (53 test, 56 control). Unadjusted change in spherical equivalent refraction was −0.73 D (59%) less in the test group than in the control group
+(−0.51 ± 0.64 vs. –1.24 ± 0.61 D, P < .001). Mean change in axial length was 0.32 mm (52%) less in the test
+group than in the control group (0.30 ± 0.27 vs. 0.62 ± 0.30 mm, P < .001). Changes in spherical equivalent refraction and axial length were highly correlated (r = −0.90, P < .001). Over the course of the study, there were no
+cases of serious ocular adverse events reported. Four asymptomatic corneal infiltrative (one test, three control)
+events were observed at scheduled study visits.
+CONCLUSIONS: Results of this clinical trial demonstrate the effectiveness of the MiSight daily disposable soft
+contact lens in slowing change in spherical equivalent refraction and axial length.
+
+Optom Vis Sci 2019;96:556–567. doi:10.1097/OPX.0000000000001410
+Copyright © 2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Optometry.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives
+License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+
+Myopia represents a growing public health issue, affecting 33%
+of adults in the United States1 and markedly higher proportions in
+Asia.2–4 Increasing myopia is associated with increased risk of retinal detachment,5 glaucoma,6 cataract,7 and myopic retinopathy.8
+Higher levels of myopia are also associated with increased disability9,10 and poorer refractive surgery outcomes.11
+In the past decade, there has been increased research activity aimed at slowing the progression of myopia by optical
+methods, including overnight corneal reshaping contact lenses
+(orthokeratology)12–14 and soft contact lenses incorporating
+multifocal or aspheric optics,15–24 and these have shown promise
+to slow myopia progression.
+Studies of the mechanisms that regulate refractive development in nonhuman primates show that hyperopic defocus can induce excessive eye growth and myopia and that myopic defocus
+can retard or reverse eye growth.25 Further research has shown that
+eye growth can be manipulated when defocus, particularly myopic
+defocus, is presented simultaneously with an additional optical
+
+www.optvissci.com
+
+Author Afﬁliations:
+1
+CooperVision Inc., Pleasanton,
+California
+2
+Clinical and Experimental Optometry
+Research Lab, Centre of Physics, School
+of Sciences, University of Minho, Braga,
+Portugal
+3
+Ophthalmic Research Group, School of
+Optometry, Aston University, Aston
+Triangle, Birmingham, United Kingdom
+4
+Department of Ophthalmology,
+National University Hospital, Singapore
+5
+Centre for Ocular Research and
+Education, School of Optometry and
+Vision Science, University of Waterloo,
+Waterloo, Ontario, Canada
+6
+Visioncare Research Ltd., Farnham,
+Surrey, United Kingdom
+*pchamberlain@coopervision.com
+
+power. These simultaneous optics are typically used with concentric alternating powers in a zonal design within the lens optic and
+are commonly referred to as “dual-focus optics.” Lenses with
+dual-focus optics have been used in a number of animal models,
+such as chickens, guinea pigs, marmosets, and rhesus monkeys,
+with the aim of retarding eye growth. All of these studies26–32 have
+consistently shown that adding simultaneous myopic defocus to either hyperopic or plano correction resulted in reduced eye growth
+when compared with the control animals or fellow control eyes.
+This principle of applying myopic defocus via a dual-focus optical design has been studied in clinical trials of human subjects.
+Anstice and Phillips15 evaluated a dual-focus soft contact lens in
+children aged 11 to 14 years. This dual-focus design had a central
+zone containing the distance correction with concentric peripheral
+zones, alternating myopic defocus (additional positive power) with
+distance correction power. The intent of this optical design was to
+fully correct refractive error but simultaneously create myopic
+defocus in all directions of gaze. The central correction zone was
+
+Optom Vis Sci 2019; Vol 96(8)
+
+556
+
+MiSight Myopia Control — Chamberlain et al.
+
+made sufficiently large for good visual acuity, but also to ensure
+that normal accommodation would be stimulated for near work.
+The zone diameters were designed to achieve constant presentation of myopic defocus to the retina. The dual-focus lens was compared in a contralateral study design with a single-vision soft
+contact lens. The mean 10-month change in spherical equivalent
+refraction in the eye wearing the dual-focus lens was significantly
+less than that in the contralateral eye wearing the single-vision lens
+(−0.44 vs. −0.69 D). The mean axial elongation was also significantly less with the dual-focus lenses (0.11 vs. 0.22 mm) than with
+the single-vision lenses.
+This dual-focus optical design is the basis for the MiSight soft
+contact lens (CooperVision, Inc., Pleasanton, CA). Myopia progression was recently studied in 89 children aged 8 to 12 years in a
+2-year parallel-group study comparing MiSight with standard
+single-vision spectacles.23 In this study, the mean change in
+spherical equivalent refraction and the mean axial elongation
+were significantly less in the MiSight group than in the spectacle
+control group (−0.45 vs. −0.74 D, 0.28 vs. 0.44 mm).
+The purpose of the current study is to report the results from a
+clinical trial of MiSight lenses with dual-focus optics compared
+with a single-vision contact lens of the same lens material and overall geometry. The clinical trial was designed to quantify the effectiveness of the MiSight lenses for slowing juvenile-onset myopia
+progression. The primary outcomes for effectiveness were change
+of cycloplegic spherical equivalent refractive error and axial length
+over the 3-year period. Additional end points included assessment
+of best-corrected visual acuity and subjective responses.
+
+METHODS
+Study Design
+This study was a multicenter, parallel-group, double-masked, randomized clinical trial (ClinicalTrials.gov identifier: NCT01729208) of
+a daily wear, daily disposable myopia control soft contact lens compared with a standard daily disposable lens. The duration of the
+study was 3 years.
+The study was performed at four investigational sites: University
+of Minho, Portugal; Aston University, United Kingdom; National
+University Hospital, Singapore; and the University of Waterloo,
+Canada. The study was conducted in conformance with the ethical
+principles in the Declaration of Helsinki, with the International
+Conference on Harmonization Good Clinical Practice guidelines
+and all applicable local regulations. The protocol, consent, and assent documents, along with all recruitment materials, were approved by each institution's institutional review board before
+commencing the study.
+The test product, MiSight, and the control lenses, Proclear
+1-day (CooperVision, Inc.), are both soft (hydrophilic) contact
+lenses composed of omafilcon A material. The study contact lenses
+were identical for both material and lens overall geometry and differed only in the optical design of the contact lens.
+To ensure standardized measurements across sites, all sites
+were provided with the same protocol and trained before study initiation. Identical equipment calibration instructions were implemented for each site.
+Subjects were recruited between November 2012 and April
+2014. An assent document was explained to, read, and signed by
+each potential study subject before enrollment in the study. Similarly, a consent document was explained to, read, understood,
+www.optvissci.com
+
+and signed by a parent or legal guardian of the subject
+before enrollment.
+All the inclusion and exclusion criteria are listed in Table 1.
+Children with spherical equivalent refractive error between −0.75
+and −4.00 D inclusive with less than 1.00 D of astigmatism or anisometropia were eligible for the study. The study population was
+children aged 8 to <13 years at the baseline examination with
+targeted enrollment of a minimum of 50% of the study population
+in the 8- to 10-year age group.
+At baseline, subjects were assessed for eligibility, which included ocular characteristics such as refraction, visual acuity, binocular status, and ocular health (Table 1). Subjective refraction
+was performed using a phoropter and projector chart at 6 m.
+Cycloplegic autorefraction and axial length measurements were
+performed as described in detail hereinafter.
+Eligible subjects were sequentially randomized into either the
+MiSight or control group (1:1 ratio). The randomization procedure
+was stratified by clinical site and age group using a random permuted block design to achieve the 50% target of the younger-age
+group. The randomization log was created centrally by the contract
+research organization using a random number–generating computer program. Each clinical site was given a randomization log
+to assign the order in which subjects were dispensed the lens
+types. The randomization log was stored in the study documentation, so all investigators could access it, but the study product
+was coded (lens A and lens B) and the randomization log only
+had the lens codes listed on it. This code was also the only identifying feature on the study product. Participants and their parents
+were masked.
+A lens-fitting procedure was performed where the contact lens
+power for the subject was finalized, and acceptable lens fitting
+was confirmed. The subject was dispensed once he/she had successfully completed training for insertion and removal of the contact lenses. Both the MiSight and control lenses were used
+following a daily wear, daily disposable modality. Progress was
+monitored at follow-up visits at 1 week, 1 month, and 6, 18, 24,
+30, and 36 months.
+Cycloplegic spherical equivalent refraction and axial length
+were assessed at baseline and at the annual follow-up visits.
+Cycloplegia was produced by first instilling one drop of anesthetic,
+either 0.5% proparacaine or 0.4% benoxinate, in each eye. One
+minute later, one drop of 1% tropicamide was instilled in each
+eye, followed by a second drop 5 minutes later. The examiner
+waited at least 25 minutes before conducting further assessments.
+Cycloplegic refraction was measured using the Grand Seiko
+Binocular Auto-refractor/Keratometer WR-5100K or WAM-5500
+(Grand Seiko Co., Hiroshima, Japan). Subjects were instructed to
+view a 4-m distance target one line larger than their best acuity;
+subsequently, 10 measurements were taken per eye and later averaged. Axial length was measured using the IOLMaster (Carl Zeiss
+Meditec, Dublin, California), with the subject fully cyclopleged.
+Subjects were instructed to view the internal fixation target, and
+10 measurements were taken of each eye.
+Visual acuity was assessed using ETDRS Revised 2000 Series
+Charts (Precision Vision, Woodstock, IL) using by-letter scoring
+(0.02 logMAR). The charts were standardized to a luminance of
+85 cd/m2. With the subject wearing the appropriate distance vision
+correction and left eye covered, the subject began at 20/50 line,
+reading the first letter on each successive line until he/she made
+an error. When the subject made an error, he/she was asked to read
+progressively larger lines until the subject was able to correctly
+
+Optom Vis Sci 2019; Vol 96(8)
+
+557
+
+MiSight Myopia Control — Chamberlain et al.
+
+TABLE 1. Inclusion and exclusion criteria
+Inclusion criteria
+
+Exclusion criteria
+
+Be between 8 and 12 y of age inclusive at baseline examination
+
+Current or prior contact lens wear
+
+The participant has been given a clear explanation, then read,
+understood, and signed the informed assent form.
+
+Subject is currently or within 30 d before this study has
+been an active participant in another clinical study
+
+The participant has been given a clear explanation, then read,
+understood, and signed the informed assent form.
+
+Parent/guardian or close relative is a member of the office staff,
+including the investigator(s)
+
+The parent or legal guardian has been given a clear explanation,
+then read, understood, and signed the informed consent form.
+
+Current or prior use of bifocals, progressive addition
+lenses, atropine, pirenzepine, or any other myopia control treatment
+
+Willingness to adhere to protocol, agreement to maintain
+the visit schedule
+
+Birth earlier than 30 wk or <1500 g (3.3 lb) at birth
+
+Along with their parent or guardian, agree to maintain the visit schedule
+Regular use of ocular medications, artificial tears, or wetting agents
+and be able to keep all appointments as specified in the study protocol
+for the duration of the study
+Acceptance of either the control or test lens as assigned
+by randomization
+
+Current use of systemic medications, which may affect contact lens wear,
+tear film production, pupil size, accommodation, or refractive state
+
+Agreement to wear the assigned contact lenses for a minimum of
+10 hours per day, at least 6 days per week, for the duration of the 3-y study.
+Agreement to inform the study investigator if this schedule is interrupted
+
+A known allergy to fluorescein, benoxinate, proparacaine, or tropicamide
+
+Possess wearable and visually functional eyeglasses
+
+A history of corneal hypoesthesia (reduced corneal sensitivity), corneal
+ulcer, corneal infiltrates, ocular viral or fungal infections, or other
+recurrent ocular infections
+
+Be in good general health, based on his/her and
+parent's/guardian's knowledge
+
+Strabismus by cover test at distance or near wearing distance correction
+
+Best-corrected visual acuity by manifest refraction of +0.10 logMAR
+(20/25) or better in each eye
+
+History of ocular or systemic diseases, including
+those that could influence refractive development
+
+Meet the following refractive criteria determined by cycloplegic
+autorefraction at baseline:
+(a) Spherical equivalent refractive error: between −0.75
+and −4.00 D inclusive
+(b) Astigmatism: ≤−0.75 D
+(c) Anisometropia: <1.00 D
+
+Keratoconus or an irregular cornea
+
+Contraindications for contact lens wear including giant papillary
+conjunctivitis of grade 2 or worse and allergic or seasonal conjunctivitis
+Subject seems to exhibit poor personal hygiene (that in
+the investigator's opinion might prevent safe contact lens wear)
+or the investigator for any reason considers that it is not in
+the best interest of the subject to participate in the study
+
+identify all five letters on a line. The subject continued reading until
+three or more letters were missed on a given line. Visual acuity was
+recorded in logMAR to the nearest letter, including the final read
+line. Near visual acuity was measured in logMAR notation with
+Near Point Flip Charts (Precision Vision) held at 40 cm. The same
+protocol for measuring distance vision was used to assess near vision under the same lighting conditions. Refractive status was
+assessed at each visit before cycloplegia. A change in lens power
+was provided at any study visit when subjective overrefraction was
+equal or greater than 0.50 D or a clinically meaningful improvement in visual acuity could be achieved (greater than ½ line). Lens
+fit and ocular health were also assessed at these visits.
+Subjective feedback was obtained from both the participants
+and the parents via questionnaires at each follow-up visit. Questionnaires targeted information for lens handling along with assessments of comfort, vision, and overall satisfaction. Each question
+offered five Likert-type responses. The subjects were given ample
+time and asked to complete the questionnaire by themselves. A
+member of the site staff was available to answer any queries and
+www.optvissci.com
+
+to help the subject understand the question but was instructed
+not to help the subject with the answer.
+For the purposes of demonstrating the general acceptance of
+the contact lenses in this trial population, this publication will present findings only for lens handling and overall satisfaction from the
+extensive questionnaire. Subjects were invited to rate their contact
+lens handling experience to choose from the following: really easy,
+kind of easy, neither easy nor hard, kind of hard, or really hard. For
+the overall satisfaction rating for wearing both their spectacles and
+contact lenses, the following choices were given to the subjects:
+I like them the best, I kind of like them, neither like them nor do
+not like them, I do not like them, and I cannot stand them.
+Wearing time was collected by asking participants their typical lens insertion and removal times on a typical weekday and
+weekend and how many days in a week the lenses were typically
+worn. The wear time was calculated from these responses for
+each participant.
+The primary outcomes for safety were assessed using slit-lamp
+biomicroscopy findings and ocular adverse event rates between
+
+Optom Vis Sci 2019; Vol 96(8)
+
+558
+
+MiSight Myopia Control — Chamberlain et al.
+
+the MiSight and control groups. Adverse events were classified and
+reported according to a pre-determined list detailed in the study
+protocol. Slit-lamp signs were graded using a 0- to 4-point scale developed from the guidance illustrated in the regulatory standard
+ISO11980, with 0 representing none or absent findings and 4
+representing severe. Unique supplementary descriptions were
+added to this scale for specific tissue grading.
+
+Sample Size Estimation
+The target effect size for sample size calculation was specified
+as “0.25 D per year (i.e., 0.75 D for 3 years).” This therefore produced two aims for the primary effectiveness end point; the first
+was to detect 0.25 D between groups for each year of the study.
+Using 0.25 D per year as a target and assuming a standard deviation of 0.50 D, it was estimated that 87 subjects per group would
+be needed (two-sample t test with equal variance, α = 0.05,
+power = 90%). The protocol anticipated an enrollment target of
+150 eligible subjects per group to account for attrition (14%, or
+42 subjects per year) over the 3-year period.
+However, because of a longer-than-expected recruitment period, it was evident that the number of subjects enrolled would be
+smaller than this target. As a consequence, the sample size requirements for the second aim, which was to detect a 0.75-D difference between the groups for 3 years, were applied. Assuming a
+standard deviation of 0.50 D, 22 subjects (11 per group) would
+have been needed (two-sample t test, α = .05, power = 90%) to
+complete the study. As such, the final sample size of 144 eligible
+subjects was more than adequate to detect the primary effectiveness end point.
+
+Statistical Methods
+Baseline data for the MiSight and control groups were evaluated
+by the two-sample t test (continuous data), Mann-Whitney U test
+(categorical data), or Fisher exact test (nominal data). Imbalances
+of potentially confounding variables that were identified between
+the two groups were addressed by including them as covariates in
+the final analysis. All inferences were carried out with the type I error rate controlled at 5%.
+Data were pooled from all sites based on three factors: (1) common protocol, (2) common data collection procedures, and (3)
+closely monitored protocol compliance. As specified in the protocol,
+an analysis of the interaction of lens type by site was performed and
+found not significant (P > .10) for the primary outcome variables.
+The primary outcome measures for effectiveness were checked
+for normality and first compared between treatment groups using a
+t test. These primary outcomes were also compared using linear
+mixed models. Comparisons between the MiSight and control
+lenses were carried out using two-sided confidence interval constructed least-square mean differences at each follow-up visit.
+The model included treatment (lens type), visit, site, and the interactions: visit by treatment and site by treatment as fixed effects;
+age, sex, weekday wearing time, weekend wearing time, and baseline value as fixed covariates; and subject (nested in site) and eye
+as random effects. The inclusion of eye as a random effect accounts for any correlation between eyes. The analyses included
+all evaluable subjects who did not have a protocol deviation that
+rendered data unsuitable for inclusion. If a subject missed a primary outcome visit, no data were included for that visit, but all
+other visits with evaluable data for that subject were included. Data
+from discontinued subjects were included up to the point of their
+discontinuation. A statistical difference was concluded if the
+www.optvissci.com
+
+95% confidence limit of the mean difference was greater than zero
+(test minus control). The questionnaire responses were compared
+with linear mixed models. The model included treatment (lens
+type), visit, site, and the interactions.
+The statistical analyses were performed using SAS version 9.4
+(SAS Institute, Cary, NC).
+
+RESULTS
+Baseline Data
+Table 2 summarizes the demographics for all enrolled subjects.
+There were no statistically significant differences between the
+MiSight and control groups with respect to the critical demographic
+factors that have been associated with myopia progression. At baseline, the mean cycloplegic spherical equivalent refractive errors were
+−2.02 ± 0.77 D for the MiSight lens group and −2.19 ± 0.81 D for
+the control lens group. Axial length was also similar between the
+groups: 24.42 ± 0.70 and 24.46 ± 0.66 mm for the MiSight and
+control lens groups, respectively.
+
+Subject Accountability
+Fig. 1 shows the flow of participants through the clinical trial
+from recruitment to study completion and analysis. Of the 187 subjects who were screened, 144 were eligible and randomized. This
+number comprised 21 subjects in Portugal, 28 in the United
+Kingdom, 31 in Singapore, and 64 in Canada. The main reasons
+for ineligibility were spherical refractive error (15), cylinder (7),
+and anisometropia (5). Of those allocated treatment, six had unacceptable lens fits (three MiSight and three control), and two had
+challenges with lens insertion and removal, whereas one control
+subject elected to withdraw from the study during the first week.
+TABLE 2. Subject demographics at baseline
+Variable
+
+Control (n = 74)
+
+MiSight (n = 70)
+
+P
+
+Age (y)
+
+10.1 ± 1.4
+
+10.1 ± 1.3
+
+.83
+
+Range
+
+8–12
+
+8–12
+
+<10
+
+42 (57%)
+
+40 (57%)
+
+10–12
+
+32 (43%)
+
+30 (43%)
+
+Male
+
+37 (50%)
+
+38 (54%)
+
+Female
+
+37 (50%)
+
+32 (46%)
+
+White (European)
+
+40 (54%)
+
+39 (56%)
+
+East Asian
+
+18 (24%)
+
+16 (23%)
+
+West Asian
+
+7 (9%)
+
+5 (7%)
+
+Other
+
+4 (5%)
+
+2 (3%)
+
+Mixed
+
+5 (7%)
+
+8 (11%)
+
+Cycloplegic spherical
+equivalent (D)
+Range
+Cylinder (D)
+Range
+Axial length (mm)
+Range
+
+Optom Vis Sci 2019; Vol 96(8)
+
+(n = 148 eyes)
+
+(n = 140 eyes)
+
+−2.19 ± 0.81
+
+−2.02 ± 0.77
+
+−0.83 to −4.00
+
+−0.77 to −3.77
+
+−0.40 ± 0.21
+0.00 to −0.75
+
+−0.40 ± 0.21
+
+.62
+
+.79
+
+.08
+
+.82
+
+0.00 to −0.75
+
+24.46 ± 0.70
+
+24.42 ± 0.66
+
+23.0 to 27.0
+
+22.7 to 26.0
+
+.90
+
+559
+
+MiSight Myopia Control — Chamberlain et al.
+
+FIGURE 1. Flowchart to indicate the disposition of subjects from screening to study completion.
+
+Thus, 135 subjects were dispensed the allocated intervention,
+ranging between 21 and 60 subjects per site.
+One hundred nine subjects completed the 3-year clinical trial
+(53 MiSight and 56 control). One subject in the MiSight group
+was excluded from the 36-month analysis because the subject
+began a course of growth hormone treatment during the last
+6 months of the study. The total retention rate for the study
+was 75.5%.
+Compliance to the protocol-specified wearing time was high.
+The mean wearing times reported for weekdays at the 36-month
+visit were 13.3 ± 1.5 hours per day for the control group and
+13.7 ± 1.5 for the MiSight group, and this difference was not significant. The mean wearing times reported for weekends were
+slightly lower but were 12.4 ± 0.9 and 12.1 ± 1.2 hours per day
+for the control and MiSight groups, respectively. The linear mixed
+
+www.optvissci.com
+
+model showed no differences between lens types for wear time at
+weekdays or weekends (P > .05). Subjects also reported the number of days per week that lenses were worn. The mean reported
+wearing times were at least 6.5 days per week for both lens groups.
+None of the above measures were significantly different between
+the groups.
+
+Refractive Error Progression
+The MiSight group exhibited less progression in cycloplegic
+spherical equivalent refraction than did the control group at
+each of the annual follow-up visits (Fig. 2, Table 3). In comparison with the control group, the changes in cycloplegic spherical
+equivalent refraction were on average 0.40 D less (−0.58 vs.
+−0.18 D) with MiSight at 12 months, 0.54 D less at 24 months,
+
+Optom Vis Sci 2019; Vol 96(8)
+
+560
+
+MiSight Myopia Control — Chamberlain et al.
+
+After adjusting for factors detailed in Statistical Methods, the
+least-square estimated mean progression was calculated. The estimated mean progression and differences are shown in Table 4. The
+adjusted differences in progression rate remained statistically significant at all follow-up visits.
+Fig. 3 shows the distribution of individual subject's change in
+spherical equivalent refraction after 36 months. Among the
+MiSight lens–wearing eyes, 41% showed no clinically meaningful
+change in spherical equivalent refraction (defined as −0.25 D or
+less change) in comparison to 4% of the eyes in the control lens
+group. Conversely, 62% of the control lens–wearing eyes had
+progressed by more than −1.00 D compared with 18% of the
+MiSight eyes.
+
+Axial Elongation
+
+FIGURE 2. Mean unadjusted changes in spherical equivalent refractive error (D) for the test (MiSight) and control (Proclear 1-day) study
+groups. The filled and open symbols represent the MiSight and control
+groups, respectively, for the 36-month study period. The error bars denote the 95% CI of the mean changes. The mean unadjusted differences were 0.40 D less with MiSight at 12 months, 0.54 D less at
+24 months, and 0.73 D less at 36 months. CI = confidence interval.
+
+and 0.73 D less at 36 months. These differences were statistically significant at each time point (Student t test, P < .0001), representing
+myopia control effects of 69%, 59%, and 59%, respectively.
+
+The MiSight group exhibited less axial length growth than did
+the control group at each of the annual follow-up visits. At
+12 months, the change in axial length was 0.24 mm in the control
+group versus 0.09 mm in the MiSight group, representing on average a 0.15-mm less growth in the MiSight lens group. At 24 and
+36 months, the change in axial length growth was 0.24 and
+0.32 mm less in the MiSight lens group, respectively (Fig. 4,
+Table 3). These differences were statistically significant at each
+time point, representing myopia control effects of 63%, 53%,
+and 52%, respectively.
+After adjusting for factors detailed in Statistical Methods, the
+least-square estimated mean change in axial length was calculated. The estimated mean change and differences between groups
+are shown in Table 4. The differences in axial length were statistically significant at all follow-up visits.
+
+TABLE 3. Myopia progression for spherical equivalent and axial length
+Visit
+
+Study group
+
+Baseline
+
+12 mo
+
+24 mo
+
+36 mo
+
+Baseline
+
+12 mo
+
+24 mo
+
+36 mo
+
+n (Eyes)
+
+Spherical equivalent
+(D ± SD)
+
+Control
+
+148
+
+−2.19 ± 0.81
+
+MiSight
+
+140
+
+−2.02 ± 0.77
+
+Change (D)
+
+95% CI
+
+−0.51 to −0.66
+
+Control
+
+120
+
+−2.80 ± 1.01
+
+−0.58 ± 0.41
+
+MiSight
+
+116
+
+−2.17 ± 0.85
+
+−0.18 ± 0.39
+
+Control
+
+120
+
+−3.13 ± 1.08
+
+−0.92 ± 0.53
+
+MiSight
+
+110
+
+−2.33 ± 0.92
+
+−0.38 ± 0.52
+
+−0.82 to −1.01
+
+Control
+
+112
+
+−3.45 ± 1.14
+
+−1.24 ± 0.61
+
+MiSight
+
+104
+
+−2.52 ± 0.98
+
+−0.51 ± 0.64
+
+−1.12 to −1.35
+
+Axial length (mm)
+
+Change (mm)
+
+95% CI
+
+Control
+
+148
+
+24.42 ± 0.66
+
+MiSight
+
+140
+
+24.46 ± 0.70
+
+Control
+
+120
+
+24.68 ± 0.66
+
+0.24 ± 0.15
+
+0.21 to 0.27
+
+MiSight
+
+116
+
+24.52 ± 0.69
+
+0.09 ± 0.13
+
+Control
+
+120
+
+24.88 ± 0.70
+
+0.45 ± 0.23
+
+MiSight
+
+110
+
+24.60 ± 0.64
+
+0.21 ± 0.22
+
+Control
+
+112
+
+25.07 ± 0.74
+
+0.62 ± 0.30
+
+MiSight
+
+104
+
+24.76 ± 0.66
+
+0.30 ± 0.27
+
+0.41 to 0.50
+
+0.57 to 0.68
+
+CI = confidence interval.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+561
+
+MiSight Myopia Control — Chamberlain et al.
+
+TABLE 4. Least-square mean estimates for spherical equivalent and axial length progression
+Visit
+12 mo
+
+24 mo
+
+36 mo
+
+Study group
+
+Spherical equivalent change (D ± SD)
+
+Difference (D ± SD)
+
+95% Confidence interval
+
+P
+
+Control
+
+−0.64 ± 0.07
+
+0.38 ± 0.09
+
+0.21 to 0.55
+
+<.0001
+
+MiSight
+
+−0.27 ± 0.07
+
+Control
+
+−0.99 ± 0.07
+
+0.52 ± 0.09
+
+0.35 to 0.69
+
+<.0001
+
+MiSight
+
+−0.47 ± 0.07
+
+Control
+
+−1.31 ± 0.08
+
+0.67 ± 0.09
+
+0.49 to 0.84
+
+<.0001
+
+Axial length change (mm)
+
+Difference (mm)
+
+95% Confidence interval
+
+P
+
+−0.13 ± 0.04
+
+−0.21 to −0.05
+
+<.002
+
+−0.22 ± 0.04
+
+−0.30 to −0.14
+
+<.0001
+
+−0.28 ± 0.04
+
+−0.36 to 0.20
+
+<.0001
+
+MiSight
+
+12 mo
+
+24 mo
+
+36 mo
+
+−0.65 ± 0.07
+
+Control
+
+0.23 ± 0.03
+
+MiSight
+
+0.10 ± 0.03
+
+Control
+
+0.45 ± 0.03
+
+MiSight
+
+0.23 ± 0.03
+
+Control
+
+0.62 ± 0.03
+
+MiSight
+
+0.34 ± 0.03
+
+Factors Impacting Progression
+Statistically significant factors affecting refractive error progression and axial length elongation included lens type, investigative
+site, study visit, age, and sex (Table 5). Ethnicity and baseline myopia (refractive error or axial length) were not significant. There was
+a significant interaction of lens type and visit for refractive error
+progression and axial elongation, suggesting that the rate of change
+of the two lens types is different over the years. There was no significant interaction between lens type and site, suggesting that the
+myopia progression for both lens types was independent of
+
+investigative sites. The interaction of lens type with age, sex, or
+baseline myopia was not significant and was removed from the
+model. The absence of significant interactions of lens type with
+age, sex, baseline myopia, or investigative site demonstrates that
+the myopia control effect is independent of these factors in this
+study population.
+
+Correlation between Changes in Axial Length and
+Refractive Error
+There is a strong relationship between increasing myopia with
+increasing axial length. With the MiSight and control combined
+
+FIGURE 3. Frequency distribution of change in refractive error from baseline to 36 months. The filled and open bars represent the MiSight and control
+groups, respectively.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+562
+
+MiSight Myopia Control — Chamberlain et al.
+
+population. The slope did not vary significantly between treatment
+groups or among sites.
+
+Contact Lens Visual Acuity
+At the dispensing visit, mean distance visual acuity with contact
+lenses was within one letter for the MiSight lenses and control
+lenses (−0.03 ± 0.06 vs. –0.05 ± 0.07 logMAR). Mean visual acuity with contact lenses varied slightly at follow-up visits, possibly
+due to refractive error changes that occurred since the last visit,
+but did not differ by more than two letters at any visit. With spherical overrefraction, best-corrected visual acuity with contact lenses
+remained similar for the two lens types and within one letter at each
+visit. Near visual acuity remained within one letter for the MiSight
+and control lenses at each visit. The data for visual acuity are shown
+in Table 6.
+
+Subjective Responses
+Responses to the question “How easy is it to put the lenses on
+your eye?” were obtained. At the 1-month visit, a large proportion
+of children (>80%) in each group described insertion of lenses as
+“kind of easy” or “really easy” (top 2 box responses). Over the remainder of the study period, more than 90% of subjects rated
+within the top 2 box category. There was no difference between
+study groups in the response to this question (P = .64). With respect to lens removal, the responses to “How easy is it to take the
+lenses out of your eye?” remained in the top 2 boxes for more than
+90% of the subjects throughout all visits of the study; again, there
+was no difference between study groups for this response (P = .99).
+A positive response to the general experience of wearing contact
+lenses was also observed. For the question “How much do you like
+wearing your contact lenses?” an average of 97% of children chose
+one of the top 2 responses across all visits of the study. There was
+no difference between study groups in the response (P = 1.00).
+This was compared with a less positive response for spectacles,
+with an average of 57% choosing one of the top 2 responses to
+the question “How much do you like wearing your spectacles?”
+across all visits. The difference between groups approached
+statistical significance (P = .05), In general, this was due to
+higher variation in the response across the groups, throughout the
+study period.
+
+FIGURE 4. Mean unadjusted changes in axial length (in millimeters)
+for the test (MiSight) and control (Proclear 1-day) study groups. The
+filled and open symbols represent the MiSight and control groups, respectively, for the 36-month study period. The error bars denote the
+95% CI of the mean changes. The mean unadjusted differences were
+0.15 mm less with MiSight at 12 months, 0.24 mm less at 24 months,
+and 0.32 mm less at 36 months. CI = confidence interval.
+
+data, there were statistically significant correlations at each of the
+follow-up visits (P < .0001). These correlations became stronger
+as the study progressed. At 12 months, the correlation coefficient (R) was −0.77; at 24 months, the R value was −0.86; and
+at 36 months, the R value was −0.90.
+The correlations were also statistically significant at each
+follow-up visit when considered separately for the MiSight and control groups. At 36 months, the correlation coefficients were −0.89
+(P < .0001) for the MiSight group and −0.85 (P < .0001) for the
+control group.
+The slope for all subjects at 36 months was −0.42 (95% confidence interval, −0.45 to −0.39), showing that a 0.1-mm change in
+axial length corresponded to 0.24-D change in myopia in this study
+TABLE 5. Tests of fixed effects for primary variables
+
+Refractive error
+Model term
+
+df
+
+Axial length
+
+F
+
+P
+
+df
+
+F
+
+P
+<.0001
+
+Lens type
+
+1, 106
+
+44.31
+
+<.0001
+
+1, 106
+
+33.29
+
+Site
+
+3, 104
+
+13.26
+
+<.0001
+
+3, 106
+
+4.90
+
+Visit
+
+2, 209
+
+119.89
+
+<.0001
+
+2, 209
+
+245.13
+
+<.0001
+
+Age
+
+1, 103
+
+7.78
+
+.006
+
+1, 108
+
+13.75
+
+.0003
+
+Sex
+
+1, 103
+
+9.20
+
+.006
+
+1, 122
+
+4.43
+
+.04
+
+Ethnicity
+
+4, 104
+
+0.59
+
+.67
+
+4, 106
+
+0.11
+
+.98
+
+Baseline spherical equivalent/axial length
+
+1, 361
+
+2.22
+
+.14
+
+1, 364
+
+0.26
+
+.61
+
+Lens type  site
+
+3, 105
+
+1.08
+
+.36
+
+3, 107
+
+1.70
+
+.17
+
+.003
+
+Lens type  visit
+
+2, 209
+
+9.03
+
+.0002
+
+2, 209
+
+14.89
+
+<.0001
+
+Site  visit
+
+6, 209
+
+2.21
+
+.05
+
+6, 209
+
+5.31
+
+<.0001
+
+Lens type  site  visit
+
+6, 209
+
+1.14
+
+.34
+
+6, 209
+
+0.81
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+.56
+
+563
+
+MiSight Myopia Control — Chamberlain et al.
+
+Safety Evaluation
+
+TABLE 6. BCVA with contact lenses
+BCVA with
+Presenting
+spherical
+n (eyes) contact lens VA overrefraction
+
+There were no serious (events that are vision-threatening and result
+in permanent impairment of a body function or permanent damage to
+a body structure) or significant (events that usually are symptomatic
+but are non–vision-threatening and result in temporary impairment of
+a body function or temporary damage to a body structure) ocular adverse events reported in the 3-year study. There were 18 events (11
+subjects) in subjects wearing the MiSight lens and 12 (10 subjects)
+with the control lens. Seven events (six subjects) with the test lens
+and seven events (five subjects) with the control lens were considered
+lens related. Four of these were asymptomatic corneal infiltrative
+events, one in the MiSight lens and three in the control lens group.
+The remainder of these events included foreign body, bilateral allergic
+reaction, unilateral mild pannus (requiring temporary discontinuation),
+superficial punctate corneal staining, a unilateral subconjunctival
+hemorrhage, and a case of irritation with the lens located under the
+eyelid. There were no reports of loss of best-corrected visual acuity.
+There was only one instance of a slit-lamp finding of grade 3 or
+more. Grade 3 palpebral roughness was recorded in a MiSight
+lens–wearing eye at the 1-month visit. This was attributed to a
+
+Presenting
+contact lens
+near VA
+
+Control
+Dispensing
+
+148
+
+−0.05 ± 0.07 −0.05 ± 0.07 −0.07 ± 0.11
+
+12 mo
+
+120
+
++0.01 ± 0.13 −0.07 ± 0.08 −0.11 ± 0.11
+
+24 mo
+
+120
+
++0.00 ± 0.13 −0.07 ± 0.08 −0.11 ± 0.09
+
+36 mo
+
+112
+
++0.00 ± 0.10 −0.05 ± 0.07 −0.10 ± 0.08
+
+Dispensing
+
+140
+
+−0.03 ± 0.06 −0.03 ± 0.06 −0.05 ± 0.10
+
+12 mo
+
+116
+
+−0.04 ± 0.09 −0.07 ± 0.06 −0.09 ± 0.10
+
+24 mo
+
+110
+
+−0.04 ± 0.10 −0.07 ± 0.08 −0.11 ± 0.09
+
+36 mo
+
+104
+
+−0.01 ± 0.11 −0.05 ± 0.07 −0.09 ± 0.09
+
+MiSight
+
+All values are in logMAR (mean ± SD). BCVA = best-corrected visual
+acuity; VA = visual acuity.
+
+TABLE 7. Summary of previous studies of soft contact lenses on myopia progression
+
+Authors
+
+Analyzed
+Duration test/
+Discontinued
+(mo)
+control
+(%)
+
+Treatment effect
+for axial length
+Study
+design
+
+Treatment
+lens
+
+Control
+lens
+
+Age (y)
+
+Entry Rx
+range (D)
+
+Axial length
+Myopia
+difference (mm) control (%)
+
+Anstice
+and Phillips15
+
+10
+
+35/35*
+
+13
+
+Randomized Dual focus
+paired eye,
+crossover
+
+Soft lenses 11–14 −1.25 to −4.50
+
+0.11
+
+49
+
+Sankaridurg
+et al.16
+
+12
+
+43/39
+
+18
+
+Prospective
+
+Spectacles
+
+7–14 −0.75 to −3.50
+
+0.15
+
+38
+
+Fujikado
+et al.18
+
+12
+
+11/13
+
+0
+
+Randomized Menicon
+masked,
+low-addition
+(Nagoya, Japan)
+crossover
+
+Soft lenses 10–16 −0.75 to −3.50
+
+0.05
+
+25
+
+Aller et al.21
+
+12
+
+39/40
+
+9
+
+Randomized, Acuvue Bifocal
+Soft lenses
+masked
+(Vistakon, a division
+of Johnson &
+Johnson Vision
+Care, Jacksonville,
+FL)
+
+8–18 −0.50 to −6.00
+
+0.19
+
+79
+
+Cheng et al.22
+
+12
+
+53/59
+
+16
+
+Randomized, Positive spherical
+masked
+aberration
+
+Soft lenses
+
+8–11 −0.75 to −4.00
+
+0.14
+
+39
+
+Walline et al.17
+
+24
+
+27/27
+
+33
+
+Historical
+control
+
+Soft lenses
+
+8–11 −1.00 to −6.00
+
+0.12
+
+29
+
+Allen et al.24
+
+24
+
+45/50
+
+33
+
+Randomized Aberration
+masked
+controlled
+monofocal
+
+Soft lenses 14–22 −0.75 to −10.00
+
+−0.01
+
+−0.1
+
+Lam et al.19
+
+24
+
+65/63
+
+42
+
+Randomized, Custom
+masked
+concentric
+bifocal
+
+Soft lenses
+
+8–13 −1.00 to −5.00
+
+0.12
+
+32
+
+Paune et al.20
+
+24
+
+19/21
+
+44
+
+Prospective
+
+Spectacles
+
+9–16 −0.75 to −7.00
+
+0.14
+
+27
+
+Ruiz-Pomeda
+et al.23
+
+24
+
+41/33
+
+7
+
+Randomized, MiSight
+masked
+
+Spectacles
+
+8–12 −0.75 to −4.00
+
+0.17
+
+36
+
+Present study
+
+36
+
+52/56
+
+19
+
+Randomized, MiSight
+masked
+
+Soft lenses
+
+8–12 −0.75 to −4.00
+
+0.32
+
+52
+
+Progressive
+periphery
+
+Proclear
+multifocal
+
+Radial refractive
+gradient
+
+Rx = refraction.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+564
+
+MiSight Myopia Control — Chamberlain et al.
+
+foreign body and was not noted at subsequent follow-up visits. Palpebral roughness was graded from 0 to 4 as follows: 0 (none), uniform
+satin appearance of the conjunctiva; 1 (trace), slight conjunctival injection without texture; 2 (mild), mild or scattered papillae/follicles
+less than 1 mm in diameter; 3 (moderate), (a) significant papillae/
+follicles less than 1 mm in diameter and/or marked conjunctival injection and (b) staining of the top of one papilla; and 4 (severe), (a)
+localized or generalized papillae/follicles 1 mm or more in diameter
+and (b) staining of the top of more than one papilla.
+
+DISCUSSION
+The findings of this 3-year randomized clinical trial demonstrate
+that myopia progression is significantly slowed by the MiSight
+soft contact lens. MiSight lenses showed less unadjusted refractive error change by 0.40 D at 12 months, 0.54 D at 24 months,
+and 0.73 D at 36 months compared with the single-vision control
+contact lens. This was closely mirrored by a reduction in axial elongation of 0.32 mm at 36 months in the MiSight group. The strong
+correlation between axial elongation and refractive error progression demonstrates that the lenses slow myopia progression by reducing the rate of axial growth.
+Table 7 presents a summary of other clinical trials that utilized
+soft contact lenses for myopia control, arranged by trial duration.
+This current clinical trial presents 3-year results, whereas all of those
+summarized in Table 7 are 1- or 2-year studies. The reduction in myopia progression reported here approaches the greatest observed effect size from previously published studies. However, the absence of
+studies of similar duration makes comparison of effect size difficult.
+Ruiz-Pomeda et al.23 recently published results of a 2-year clinical trial assessing myopia progression with the MiSight lens
+compared with a control group wearing single-vision spectacles. Although the study used a different control group and different statistical methods for accounting for imbalances between groups at
+baseline compared with the current study, overall the results of
+the studies are similar. In the study by Ruiz-Pomeda et al., the
+mean change in axial length at the 12-month visit was 0.12 mm
+for the MiSight lens and 0.24 mm for the control group, for a difference in elongation of −0.12 mm. At the 24-month visit, the difference in axial elongation was −0.16 mm (0.28 vs. 0.44 mm).
+These findings are within the 95% confidence intervals
+(Table 4) for adjusted axial length differences of this current study
+(95% confidence intervals, −0.21 to −0.05 [year 1] and −0.30 to
+−0.14 mm [year 2]).
+The current clinical trial used a soft contact lens as the control
+group. This is in line with the recommendation of the Food and
+Drug Administration Public Workshop on Controlling the Progression of Myopia.33 The lenses were matched for all parameters, with
+the exception of the dual-focus optical design of MiSight. This way,
+if physiological effects are produced in either a myopic or hyperopic direction, whatever the underlying etiology, they should be
+identical in the two groups, and thus, any refractive and axial
+length differences between the two groups can be attributed to
+the optical design.
+The study was conducted in four countries and recruited an
+ethnically diverse sample. Although myopia progression showed
+variation among investigational sites, the reduction in myopic
+progression with MiSight was statistically significant at all sites.
+Some studies, although not all, have noted a difference in myopia
+www.optvissci.com
+
+progression as a function of ethnicity.34–36 This study found no such
+effect; furthermore, the interaction of lens type with ethnicity or lens
+type with site when assessing spherical equivalent refraction and axial
+length progression was not significant, which implies generalizability of
+the myopia control treatment across different regions and populations.
+The high level of wearing time compliance (both hours and days
+per week) for both groups did not provide sufficient variation to
+evaluate the effect of wearing time on myopia progression reported
+by some investigators.19
+In line with other research, myopia progression varied with age,
+with younger subjects progressing faster. However, the degree of
+myopia control with MiSight was not impacted by this factor, suggesting that MiSight works with similar treatment effect in younger
+and older subjects. A similar finding is observed with sex, where female participants display higher myopia progression than do male
+participants, also observed by Hyman et al.,36 but again, the interaction with treatment effect was not significant.
+For both refractive error progression and axial elongation, there
+was a persistence of myopia control effect across the 3 years of the
+study. The magnitude of the effect was highest in the first year of wear
+but continued to accrue across the period of observation. In other
+2-year studies of myopia control with multifocal soft contact lenses
+(Table 7), the myopia control effect persisted and accrued over the
+2 years.17,19,20 This is in contrast to the 3-year Correction of Myopia
+Evaluation Trial (COMET) trial of progressive addition spectacles,37
+where the adjusted treatment effect was 0.18 D with minimal to no
+accrual in the subsequent 2 years.
+A significant proportion of the MiSight group (41%) showed no
+meaningful progression in spherical equivalent refraction (−0.25 D
+or less change) over the duration of the trial. In contrast, only 4% of
+control eyes showed a similar lack of progression (absolute risk reduction, 37%). The number of eyes needed to treat (=1/absolute risk reduction) to achieve this benefit is approximately three eyes (95%
+confidence interval, 2.1 to 3.6). Therefore, for every three eyes
+treated in this cohort, one eye will show no meaningful myopic progression over a 3-year period.
+Questionnaire responses collected throughout the study align
+with previous studies38,39 that have shown that soft contact lenses
+are well accepted by children. The children in this study showed
+that they were able to achieve full-time wear, were able to handle
+the lenses confidently, and had a positive response to contact lens
+wear. Only one child discontinued for vision quality reasons over
+the 3-year period. The overall retention rate compares very favorably with previous studies (Table 7).
+No serious ocular adverse events were observed during the 3-year
+clinical trial, including no cases of microbial keratitis. Only four nonsignificant corneal infiltrative events were reported over the 3-year
+period, all asymptomatic and noted at scheduled visits. The absence
+of serious or significant ocular adverse events supports the growing
+acceptance that soft contact lenses are safe for use by children.40
+
+Limitations
+Enrollment was lower than the target because of recruitment
+difficulties at some of the sites; however, subject retention was
+high, and the sample size was sufficiently large to show differences
+between the two lens types for the primary efficacy end point of
+0.75 D at 3 years.
+Subjects in this clinical trial were not withdrawn from treatment
+to assess the extent to which the benefit is sustained. Some myopia
+treatments with atropine have been shown to be susceptible to posttreatment acceleration.41 Finally, the investigators had access to the
+
+Optom Vis Sci 2019; Vol 96(8)
+
+565
+
+MiSight Myopia Control — Chamberlain et al.
+
+randomization codes. Although these randomization codes were
+only identified as “lens A” and “lens B,” theoretically an examiner
+could have identified whether lens A was the experimental or
+control assignment.
+
+Summary
+This 3-year randomized clinical trial, designed to evaluate the
+safety and effectiveness of a soft contact lens intended to slow myopia progression in children, demonstrates the following:
+• The progression of refractive error in children is significantly
+reduced by the MiSight lens compared with a single-vision
+soft contact lens.
+
+ARTICLE INFORMATION
+Submitted: June 14, 2018
+Accepted: March 25, 2019
+Funding/Support: The study was sponsored by CooperVision
+Inc. No additional funding was received by the investigator
+or CRO.
+Conflict of Interest Disclosure: PC is an employee of the
+sponsor. The sponsor participated in study design, analysis,
+and interpretation. The authors were responsible for
+preparation of this article and the decision to submit
+this article for publication. The contract research
+organization had full access to the study data; the
+investigators had partial access to the study data and
+take full responsibility for their presentation in this article.
+Study Registration Information: This study is registered on
+ClinicalTrials.gov (identifier NCT01729208).
+Author Contributions: Conceptualization: PC, NSL; Formal
+Analysis: PC, GY; Investigation: SCP-d-M, NSL, CN, DJ;
+Project Administration: PC, GY; Writing – Original Draft: PC;
+Writing – Review & Editing: PC, SCP-d-M, NSL, CN, DJ, GY.
+Acknowledgments
+CooperVision, Inc.
+Paul Chamberlain, John McNally, Stuart Cockerill,
+Janice Tarrant, Percy Lazon de la Jara, Wenjuan Feng
+Visioncare Research Ltd.
+Graeme Young (Medical Monitor); Chris Hunt (Statistician);
+Ruth Craven (Clinical Research Manager); Susanna
+Jones (Project Manager); Michael Spyridon, Tom Boyes,
+Sarah McCready, Kristina Roslin (Clinical Research
+Associates); Shaun Peters (Clinical Research Coordinator); Tricia
+Riley, Emma Lyle, Glenis Rogers, Janet Faulks (Data Entry)
+University of Minho, CEOR Lab
+José Manuel González-Méijome (Principal Investigator);
+Sofia Cláudia Peixoto-de-Matos, Ana Maria Fernandes de
+Pinho Dias, Helena Isabel Ferreira-Neves, Daniela Patricia
+Lopes-Ferreira, Ana Amorim-de-Sousa (Coinvestigators)
+Aston University Ophthalmic Research Group
+Nicola Logan (Principal Investigator); Susie Jones, Fi
+Cruickshank, Manbir Nagra (Coinvestigators)
+National University Health System, Ophthalmology
+Department, Singapore
+Seang Mei Saw (Chief Investigator); Cheryl Ngo (Principal
+Investigator 2014 to current, Coinvestigator 2012 to
+2014); Inez By Wong (Principal Investigator, 2012 to
+2014); Ivy Law (Administrative Manager); Ray Manotosh,
+Michelle Lim, Amanda Lim (Coinvestigators); Anny Leow
+(Coordinator)
+
+www.optvissci.com
+
+• The axial elongation that underlies and is correlated with refractive error progression is significantly less with the MiSight
+lens compared with a single-vision soft contact lens.
+• No safety concerns were evident for this population of children who started daily disposable soft contact lens wear between 8 and 12 years of age.
+• The high subject retention, long wearing time, and favorable
+subjective ratings show that contact lens acceptance was
+sustained across 3 years. This work supports previous findings38,39 that soft contact lenses are well accepted by children.
+Children as young as 8 years are able to achieve full-time
+wear, handle the lenses confidently soon after initial fitting,
+and achieve good comfort.
+
+University of Waterloo School of Optometry, Waterloo,
+Canada
+
+Low-contrast Visual Acuity. Optom Vis Sci 2004;81:
+362–8.
+
+Lyndon Jones (Principal Investigator); Debbie Jones, Jill
+Woods Lindsay Paquette, Mike Yang, Karen Walsh
+(Coinvestigators); Jane Johnson, Marina Simpson, Leona
+Voss, Debbie Murray, Amanda McIntosh (Assistants)
+
+12. Cho P, Cheung SW. Retardation of Myopia in
+Orthokeratology (Romio) Study: A 2-year Randomized
+Clinical Trial. Invest Ophthalmol Vis Sci 2012;53:
+7077–85.
+
+Consultant
+
+13. Cho P, Cheung SW, Edwards M. The Longitudinal
+Orthokeratology Research in Children (Loric) in Hong
+Kong: A Pilot Study on Refractive Changes and Myopic
+Control. Curr Eye Res 2005;30:71–80.
+
+Mark A. Bullimore
+
+REFERENCES
+1. Vitale S, Ellwein L, Cotch MF, et al. Prevalence of Refractive Error in the United States, 1999–2004. Arch
+Ophthalmol 2008;126:1111–9.
+2. Lee YY, Lo CT, Sheu SJ, et al. What Factors Are Associated with Myopia in Young Adults? A Survey Study in
+Taiwan Military Conscripts. Invest Ophthalmol Vis Sci
+2013;54:1026–33.
+3. Lin LL, Shih YF, Tsai CB, et al. Epidemiologic Study
+of Ocular Refraction among Schoolchildren in Taiwan
+in 1995. Optom Vis Sci 1999;76:275–81.
+4. Wu HM, Seet B, Yap EP, et al. Does Education
+Explain Ethnic Differences in Myopia Prevalence? A
+Population-based Study of Young Adult Males in
+Singapore. Optom Vis Sci 2001;78:234–9.
+5. Risk Factors for Idiopathic Rhegmatogenous Retinal
+Detachment. The Eye Disease Case-control Study Group.
+Am J Epidemiol 1993;137:749–57.
+6. Mitchell P, Hourihan F, Sandbach J, et al. The Relationship between Glaucoma and Myopia: The Blue
+Mountains Eye Study. Ophthalmology 1999;106:
+2010–5.
+
+14. Walline JJ, Jones LA, Sinnott LT. Corneal
+Reshaping and Myopia Progression. Br J Ophthalmol
+2009;93:1181–5.
+15. Anstice NS, Phillips JR. Effect of Dual-focus Soft
+Contact Lens Wear on Axial Myopia Progression in Children. Ophthalmology 2011;118:1152–61.
+16. Sankaridurg P, Holden B, Smith E, 3rd, et al. Decrease in Rate of Myopia Progression with a Contact
+Lens Designed to Reduce Relative Peripheral Hyperopia: One-year Results. Invest Ophthalmol Vis Sci 2011;
+52:9362–7.
+17. Walline JJ, Greiner KL, McVey ME, et al. Multifocal
+Contact Lens Myopia Control. Optom Vis Sci 2013;90:
+1207–14.
+18. Fujikado T, Ninomiya S, Kobayashi T, et al. Effect of
+Low-addition Soft Contact Lenses with Decentered Optical Design on Myopia Progression in Children: A Pilot
+Study. Clin Ophthalmol 2014;8:1947–56.
+19. Lam CS, Tang WC, Tse DY, et al. Defocus Incorporated
+Soft Contact (Disc) Lens Slows Myopia Progression in Hong
+Kong Chinese Schoolchildren: A 2-year Randomised Clinical Trial. Br J Ophthalmol 2014;98:40–5.
+
+7. Lim R, Mitchell P, Cumming RG. Refractive Associations with Cataract: The Blue Mountains Eye Study. Invest Ophthalmol Vis Sci 1999;40:3021–6.
+
+20. Paune J, Morales H, Armengol J, et al. Myopia Control with a Novel Peripheral Gradient Soft Lens and
+Orthokeratology: A 2-year Clinical Trial. Biomed Res
+Int 2015;2015:507572.
+
+8. Vongphanit J, Mitchell P, Wang JJ. Prevalence and
+Progression of Myopic Retinopathy in an Older Population. Ophthalmology 2002;109:704–11.
+
+21. Aller TA, Liu M, Wildsoet CF. Myopia Control with
+Bifocal Contact Lenses: A Randomized Clinical Trial.
+Optom Vis Sci 2016;93:344–52.
+
+9. Vitale S, Schein OD, Meinert CL, et al. The Refractive
+Status and Vision Profile: A Questionnaire to Measure
+Vision-related Quality of Life in Persons with Refractive
+Error. Ophthalmology 2000;107:1529–39.
+
+22. Cheng X, Xu J, Chehab K, et al. Soft Contact Lenses
+with Positive Spherical Aberration for Myopia Control.
+Optom Vis Sci 2016;93:353–66.
+
+10. Hays RD, Mangione CM, Ellwein L, et al. Psychometric Properties of the National Eye Institute–Refractive
+Error Quality of Life Instrument. Ophthalmology 2003;
+110:2292–301.
+11. Bailey MD, Olson MD, Bullimore MA, et al.
+The Effect of LASIK on Best-corrected High- and
+
+Optom Vis Sci 2019; Vol 96(8)
+
+23. Ruiz-Pomeda A, Perez-Sanchez B, Valls I, et al.
+MiSight Assessment Study Spain (MASS). A 2-Year
+Randomized Clinical Trial. Graefes Arch Clin Exp
+Ophthalmol 2018;256:1011–21.
+24. Allen PM, Radhakrishnan H, Price H, et al. A
+Randomised Clinical Trial to Assess the Effect of a Dual
+Treatment on Myopia Progression: The Cambridge
+
+566
+
+MiSight Myopia Control — Chamberlain et al.
+Anti-Myopia Study. Ophthalmic Physiol Opt 2013;
+33:267–76.
+
+Rhesus Monkeys. Invest Ophthalmol Vis Sci 2016;57:
+3949–60.
+
+Myopia and Hyperopia in Australian Schoolchildren.
+Ophthalmology 2013;120:1482–91.
+
+25. Smith EL, 3rd, Hung LF, Arumugam B. Visual Regulation of Refractive Development: Insights from Animal
+Studies. Eye (Lond) 2014;28:180–8.
+
+31. Tse DY, Lam CS, Guggenheim JA, et al. Simultaneous Defocus Integration During Refractive Development. Invest Ophthalmol Vis Sci 2007;48:
+5352–9.
+
+36. Hyman L, Gwiazda J, Hussein M, et al. Relationship of Age, Sex, and Ethnicity with Myopia
+Progression and Axial Elongation in the Correction of
+Myopia Evaluation Trial. Arch Ophthalmol 2005;123:
+977–87.
+
+26. Liu Y, Wildsoet C. The Effect of Two-zone Concentric
+Bifocal Spectacle Lenses on Refractive Error Development and Eye Growth in Young Chicks. Invest Ophthalmol
+Vis Sci 2011;52:1078–86.
+27. Liu Y, Wildsoet C. The Effective Add Inherent in
+2-zone Negative Lenses Inhibits Eye Growth in Myopic
+Young Chicks. Invest Ophthalmol Vis Sci 2012;53:
+5085–93.
+28. Arumugam B, Hung LF, To CH, et al. The Effects of
+Simultaneous Dual Focus Lenses on Refractive Development in Infant Monkeys. Invest Ophthalmol Vis Sci
+2014;55:7423–32.
+29. Benavente-Perez A, Nour A, Troilo D. The Effect
+of Simultaneous Negative and Positive Defocus on
+Eye Growth and Development of Refractive State in
+Marmosets. Invest Ophthalmol Vis Sci 2012;53:
+6479–87.
+30. Arumugam B, Hung LF, To CH, et al. The Effects
+of the Relative Strength of Simultaneous Competing Defocus Signals on Emmetropization in Infant
+
+www.optvissci.com
+
+32. McFadden SA, Tse DY, Bowrey HE, et al. Integration
+of Defocus by Dual Power Fresnel Lenses Inhibits Myopia in the Mammalian Eye. Invest Ophthalmol Vis Sci
+2014;55:908–17.
+33. Walline JJ, Robboy MW, Hilmantel G, et al. Food and
+Drug Administration, American Academy of Ophthalmology, American Academy of Optometry, American Association for Pediatric Ophthalmology and Strabismus,
+American Optometric Association, American Society of
+Cataract and Refractive Surgery, and Contact Lens Association of Ophthalmologists Co-sponsored Workshop:
+Controlling the Progression of Myopia: Contact Lenses
+and Future Medical Devices. Eye Contact Lens 2018;
+44:205–11.
+34. Saw SM, Tong L, Chua WH, et al. Incidence and Progression of Myopia in Singaporean School Children. Invest Ophthalmol Vis Sci 2005;46:51–7.
+35. French AN, Morgan IG, Burlutsky G, et al. Prevalence and 5- to 6-year Incidence and Progression of
+
+Optom Vis Sci 2019; Vol 96(8)
+
+37. Gwiazda J, Hyman L, Hussein M, et al. A Randomized Clinical Trial of Progressive Addition Lenses
+versus Single Vision Lenses on the Progression of Myopia in Children. Invest Ophthalmol Vis Sci 2003;44:
+1492–500.
+38. Walline JJ, Jones LA, Sinnott L, et al. Randomized Trial of the Effect of Contact Lens Wear on
+Self-perception in Children. Optom Vis Sci 2009;
+86:222–32.
+39. Walline JJ, Gaume A, Jones LA, et al. Benefits
+of Contact Lens Wear for Children and Teens.
+Eye Contact Lens 2007;33:317–21.
+40. Bullimore MA. The Safety of Soft Contact Lenses in
+Children. Optom Vis Sci 2017;94:638–46.
+41. Chia A, Chua WH, Wen L, et al. Atropine for the
+Treatment of Childhood Myopia: Changes after Stopping
+Atropine 0.01%, 0.1% and 0.5%. Am J Ophthalmol
+2014;157:451–7 e1.
+
+567
+
+

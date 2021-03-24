@@ -1,0 +1,702 @@
+ORIGINAL INVESTIGATION
+
+Safety and Efficacy of Scleral Lenses for Keratoconus
+Daniel G. Fuller, OD, FAAO(Dipl)1 and Yueren Wang, OD1*
+
+SIGNIFICANCE: This study affirms the long-term safety and efficacy of scleral contact lens use in patients with
+keratoconus.
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+PURPOSE: This study aimed to evaluate the safety and efficacy of contemporary scleral contact lenses in the visual
+rehabilitation of the keratoconic population.
+METHODS: A retrospective study of keratoconic subjects examined between 2013 and 2018 was conducted. Subjects were included regardless of age, sex, pre-existing morbidity, or scleral lens design. Only eyes fit successfully
+with scleral contact lenses for ≥1 year were included. Exclusion criteria were prior corneal surgery, dystrophy, degeneration, and trauma.
+RESULTS: A total of 157 eyes of 86 subjects met the study criteria. The mean Keratoconus Severity Score at initial
+fitting was 3.6 ± 1.0. Lenses were gas-permeable and nonfenestrated, with a mean overall diameter of
+15.8 ± 0.6 mm and 70.1% toric scleral periphery. Physiological adverse events occurred in 9.6% of eyes, including microbial keratitis (0.6%), phlyctenulosis (0.6%), corneal abrasion (1.3%), contact lens–induced acute red
+eye (1.3%), corneal infiltrative events (1.3%), pingueculitis (1.3%), and hydrops (3.2%). Lens-related adverse
+events were documented in 55.4% of eyes. Adverse events related to surface issues included poor wetting in
+1.9%, handling in 3.8%, reservoir fogging in 7.0%, lens intolerance in 7.6%, deposit in 8.9%, and broken lenses
+in 26.1% of eyes. The most common management strategies involved refits (54.0% of interventions), patient reeducation (29.5%), medical treatment (5.5%), surgical referral (6.8%), adjustment to wear time (2.5%), surface
+treatment (1.2%), and lens replacement (0.6%). Best-corrected distance logMAR visual acuity improved significantly from a mean of 0.50 in spectacles to a mean of 0.08 in scleral lenses (P < .0001). During the study period,
+14.6% of eyes lost best-corrected scleral lens visual acuity, all from keratoconus progression.
+CONCLUSIONS: Consistent with other groups, our study demonstrates excellent safety and efficacy of scleral contact lenses in subjects with keratoconus.
+
+Author Afﬁliations:
+1
+Southern College of Optometry,
+Memphis, Tennessee
+*ywang@sco.edu
+
+Optom Vis Sci 2020;97:741–748. doi:10.1097/OPX.0000000000001578
+Copyright © 2020 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Optometry.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives
+License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+
+Scleral lenses have increased in popularity in the last decade.
+According to the Scleral Lens in Current Optometric Practice study,
+80% of the 989 respondents indicated their first year of fitting to
+be after 2005, and 54% began 2010 or later.1 It was estimated
+that in 2016, 70,000 individuals in the United States wore a scleral
+lens.2 Modern scleral lens indications include corneal ectasia (27.5
+to 91%),3–10 post-surgical or post-traumatic corneal irregularity
+(17.6 to 40.0%),3–6,8–10 ocular surface diseases (3 to 49%),3–5,7–11
+aphakia (2 to 23%),3,7–9 refractive errors (2.6 to 10%),3,8,10,11 and
+others.1,12 Keratoconus is the primary indication for scleral lens wear.
+Keratoconus is a bilateral, progressive but self-limiting corneal
+disorder characterized by protrusion, distortion, thinning, and
+sometimes corneal scarring, which reduces optical clarity.13–16
+Prevalence is increasing with better detection abilities and is reported to be 50 to 265 per 100,000, with an annual incidence
+of 2 to 13.3 per 100,000.16–18 Early management of keratoconus
+includes spectacles and soft contact lenses, with the more advanced cases fitted in varying gas-permeable lenses, piggyback
+lens systems, hybrid lenses, and scleral lenses.19 Contact lenses
+are estimated to manage 75% of keratoconus cases successfully.17
+Scleral lenses are indicated for corneal gas-permeable lens intolerance, improved comfort, and lens centration.20 Koppen et al.21
+
+www.optvissci.com
+
+reported that scleral lenses mitigated the need for corneal transplant
+in 80% of those with severe keratoconus. Although lamellar or
+full-thickness keratoplasty improves visual acuity in eyes with corneal
+scarring, it must be noted that scleral lenses may still be necessary to
+reach the best-corrected post-surgical visual acuity.7–9,22
+Little is known about the rates of adverse events in contemporary scleral contact lenses, and many of the adverse events previously reported are from PMMA or first-generation gas-permeable
+designs.3 Other more contemporary studies have focused on case
+reports and case series or are limited by small sample sizes in a single lens type.7,23–25 Common physiological complications include
+hypoxia leading to corneal edema (7.4%),3 neovascularization (1.1
+to 13.3%),3,26 corneal abrasion (3.1%),3 and infection, inflammation,
+and solution toxicity.2,3,7,23–25,27–29 Other lens-related adverse
+events are midday fogging (20 to 46%; McKinney et al. IOVS
+2013;54:ARVO E-Abstract 5483),2,11 mechanical irritation
+(12.6%),3 protein deposits (3.5%),3 giant papillary conjunctivitis
+(1.7%),3 and poor lens fit due to disease progression.2,3,7,23–25,27–29
+A survey of 164 scleral lens practitioners revealed that common
+minor complications include poor lens wetting (90.8%), lens fogging (84.8%), blurred vision (53%), ocular redness (34.8%), ocular dryness (24.4%), and ocular pain/discomfort (20.7%).30 All of
+
+Optom Vis Sci 2020; Vol 97(9)
+
+741
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+these studies included a variety of corneal pathologies and scleral
+lens indications.2,7,8,10,23,31,32
+Because compromised corneas are more susceptible to adverse
+events, it is difficult to generalize these results to keratoconus patients and determine the risks associated with scleral wear in this
+population. Regardless, these studies provide foundational points
+of comparison for this and other studies. Our study seeks to evaluate the longitudinal safety and efficacy of modern scleral lenses in
+a large cohort of pre-surgical keratoconus subjects.
+
+that were lens related. Physiological adverse events surveyed included corneal hydrops, pingueculitis, corneal inflammatory events
+(symptomatic and asymptomatic),38–42 contact lens–associated
+red eye, corneal abrasion, phlyctenulosis, and microbial keratitis.
+Lens-related adverse events included the presence of lens deposits,26
+lens intolerance,43,44 tear reservoir clouding,11,45–47 difficulty
+handling the lenses,45,48 and poor lens wettability.26 Specific details of the complications and their management strategies were
+documented.
+
+Efficacy Outcomes
+METHODS
+The study was approved by the institutional review board at the
+Southern College of Optometry and followed the Declaration of
+Helsinki tenets. A retrospective record review was performed on
+subjects examined in the Cornea and Contact Lens Service at
+The Eye Center at the Southern College of Optometry between
+January 1, 2013, and December 31, 2018. Attending faculty supervised fourth-year interns during patient examinations and followed
+prevailing protocols and community standards of care unless practitioner judgment required departure. This academic model, along with
+individual patient needs, introduces variations in test selection and examination sequencing but reflects actual clinical practice. Subjects
+were deidentified and located by database query using International
+Classification of Diseases, Tenth Revision, Clinical Modification codes
+for keratoconus.
+Subjects were included regardless of pre-existing morbidity or
+scleral lens design. Only eyes fit with scleral lenses for 1 year or
+more for visual rehabilitation due to keratoconus were included in
+the study to provide longitudinal data from a cohort of initially successful wearers. Subjects who discontinued lens wear during the
+first year were excluded and warrant a separate study to elucidate
+the reason for early dropout. Other exclusion criteria were prior corneal surgery (most of which were penetrating keratoplasty, deep
+anterior lamellar keratoplasty, corneal crosslinking, and refractive
+surgery), dystrophy, other degeneration, and trauma. Eyes that required corneal surgery after scleral lens fitting were included in
+data analysis up to surgical referral.
+Demographic data collected included age, sex, years since
+keratoconus diagnosis, manifest refraction, and maximum keratometry
+value from topography (Medmont, Nunawading, Australia) or tomography (Pentacam AXL; Oculus, Wetzlar, Germany) at the initial
+visit. The stage of keratoconus was determined using the Keratoconus
+Severity Score ranking scheme.13 Several grading schemes exist to
+classify keratoconus severity and to track its progression,13,33,34 but
+there is no consensus on a standard.35 The Amsler-Krumeich system,34 the Belin-Belin Ambrósio Enhanced Display,36 and the ABCD
+grading system37 were considered and rejected because some fail to
+account for posterior corneal changes, require analysis that was not
+performed on all subjects in our study, or do not incorporate clinical
+findings. The Keratoconus Severity Score ranking system, which
+grades the disease severity from 0 to 5 based on biomicroscopy
+signs, topography pattern, and common topographic indices, was
+chosen for its lack of ties to any particular topographic instrument,
+high sensitivity and specificity, and record of good reproducibility.13
+
+Safety Outcomes
+Safety was defined as the number of adverse events experienced by the subjects after the first year of lens finalization. Adverse
+events were divided into those that impacted physiology and those
+www.optvissci.com
+
+The primary outcomes selected to measure efficacy included
+best-corrected distance Snellen visual acuity in spectacles at the
+initial visit, after finalization of scleral lens parameters, and at the
+most recent visit within the survey period. The Snellen visual acuities were converted to logMAR values for analysis. Other outcomes
+included the numbers of lenses lost or broken and dropouts during
+the period surveyed. True logMAR visual acuities, contrast sensitivity, and higher-order aberrations, although important measures of
+visual performance in scleral lenses,49–52 were not obtained because they are not readily available in the clinical setting.
+
+Secondary Outcomes
+The details of scheduled and unscheduled follow-up visits were
+analyzed as secondary outcomes to examine associations between
+the number of follow-up visits and adverse events. The overall number and reason for both planned and unplanned visits during the
+survey period were recorded. Compliance with scheduled visits
+was documented. Patients were seen based on individual needs
+and typically every 6 months. The patient's reason for failure to return for scheduled visits was inferred based on the case history
+from his/her next visit or by staff note after telephone calls, for example, declined insurance coverage or requested record transfer.
+Patients lost to follow-up, defined as those whose most recent
+examination was >2 years ago at the time of data collection, were
+also documented. Metrics on lens care, hygiene, and case conditions were not consistently documented and could not be included
+in this analysis. These are known associations that contribute to
+both microbial keratitis and inflammatory events from studies of
+soft lenses.53–58
+
+Statistics
+Statistical analysis was performed using Microsoft Excel 2016
+(ver. 16.0.4266.1001; Santa Rosa, CA) and Analyse-it for Microsoft
+Excel (ver. 4.90, build 6422.19585; Leeds, United Kingdom), with
+the significance level set at P < .05 and confidence interval at 95%.
+
+RESULTS
+Demographics
+Three hundred eighty-five subjects with the diagnosis of keratoconus
+were screened. Based on the inclusion and exclusion criteria, 157 eyes
+of 86 subjects qualified for the study. Fifteen subjects were fit with
+scleral lenses in one eye and 71 in both eyes, totaling 78 right and
+79 left eyes. The male-to-female ratio was 38:48. The mean age
+at initial lens fitting was 34.8 ± 11.7 years, ranging from 14 to
+64 years. Primary reasons for exclusion were less than 1 year since
+lens fitting, wearing contact lens modality other than a scleral lens,
+and prior corneal surgery. These accounted for 284 (95%) of the
+299 subjects excluded from the study.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+742
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+FIGURE 1. Frequency of eyes by severity using the Keratoconus Severity Score ranking scheme (n = 157 eyes). Two eyes of one subject could not be
+appropriately classified (unknown [UNK]) because of the diagnosis of pellucid marginal degeneration.
+
+FIGURE 2. Frequency of the most common adverse events observed by physiological and lens-related occurrences (n = 157 eyes).
+
+www.optvissci.com
+
+Optom Vis Sci 2020; Vol 97(9)
+
+743
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+Of the 157 eyes included in the study, 54.1% were diagnosed
+with keratoconus <5 years before scleral lens fitting, 16.6% were
+diagnosed 5 to 10 years, and 29.3% were diagnosed >10 years
+prior. The mean Keratoconus Severity Score at the time of fitting
+was 3.6 ± 1.0 (Fig. 1). The mean maximum keratometry measurement was 61.4 ± 10.9 D (range, 31.0 to 89.9 D).
+
+surface caused by the progression of keratoconus, as evaluated
+by biomicroscopy. Patient reeducation and adjustment of care
+and handling accounted for 29.4% of interventions. Subjects were
+advised to reduce or temporarily discontinue lens wear in 2.5%.
+Medical treatments (5.5%) were initiated as necessary. Surgical
+referrals were recommended in 6.7% (Fig. 3).
+
+Safety
+
+Efficacy
+
+One hundred two adverse events occurred in 157 eyes during
+the period surveyed. Some subjects experienced multiple adverse
+events, whereas others experienced none. Physiological adverse
+events infrequently occurred in 9.6% of eyes. The most frequently
+occurring adverse physiological event was acute corneal hydrops
+(3.2% of eyes). Pingueculitis, corneal infiltrative events (asymptomatic and symptomatic), contact lens–associated red eye, and
+abrasion were each observed in 1.3% of eyes. The most common
+lens-related adverse event was damaged or lost lens, which occurred
+in 26.1% of 157 eyes and one mix-up between the right and left
+lens. Additional lens-related events included lens deposits (8.9%
+of eyes), intolerance due to progression of keratoconus (7.6%), tear
+reservoir clouding (7%), handling difficulty (3.8%), and poor lens
+wetting (1.9%; Fig. 2). An analysis examining the association between keratoconus severity and the number of adverse events failed
+to find a significant relationship. Likewise, no correlation was found
+between any of the lens parameters, brands, or designs.
+Some adverse events required more than one management strategy, totaling 163 interventions documented. Most interventions
+involved refit of the scleral lens (54.0% of interventions). The primary reason for recommending refit of a lens was nonoptimal fitting
+characteristics, such as corneal apex bearing on posterior lens
+
+Overall, scleral lenses significantly improved the best-corrected
+distance visual acuity over spectacles (n = 155). A mean logMAR
+of 0.50 (95% confidence interval, 0.44 to 0.56) in spectacles improved to a mean logMAR of 0.08 (95% confidence interval, 0.06
+to 0.11) in scleral lenses, representing a clinically and statistically
+significant improvement (P < .0001; Fig. 4). Two eyes of one patient were excluded from the analysis because of missing documentation of best-corrected spectacle visual acuity.
+A total of 14.6% (23/157) of eyes experienced a change in
+best-corrected scleral lens visual acuity during the survey period.
+All experienced decreased vision due to keratoconus progression.
+LogMAR visual acuities significantly decreased from pre– (0.11;
+95% confidence interval, 0.05 to 0.18) to post–adverse event acuities (0.60; 95% confidence interval, 0.34 to 0.85; P < .0001).
+One outlier among those who lost vision was a subject whose condition progressed to acute hydrops and light perception vision and
+was referred for penetrating keratoplasty (Fig. 5).
+
+Compliance
+Four hundred ninety-three office visits occurred after the initial
+scleral lens finalization. The mean number of follow-ups per subject was 5.7 ± 4.8 (range, 1 to 34 visits). The reason for follow-up
+
+FIGURE 3. Frequency of management interventions used to overcome adverse events (n = 163 interventions).
+
+www.optvissci.com
+
+Optom Vis Sci 2020; Vol 97(9)
+
+744
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+FIGURE 4. Boxplot comparison of the medians of best-corrected distance logMAR acuity in spectacles (SRx) with those through the finalized scleral lens
+(SLRx) in 155 eyes. Whiskers represent 1.5 times the interquartile value. Vision improved significantly in scleral lenses (P < .0001).
+
+included annual examinations (51.6%), adverse events (38.2%),
+and fellow eye issues (10.2%). Twenty-six (30.2%) of the 86 subjects were noncompliant with prescribed follow-ups and were seen
+after a mean of 13.3 ± 9.0 months past their expected annual examinations. The most common reasons provided for missing prescribed
+annual recall including those lost to follow-up are satisfaction with
+lens (68.2%), relocation (13.6%), insurance issues (9.1%), and
+job demands (2.3%). One subject (one eye) dropped out of scleral
+lens wear 2 years after initial fitting because of contact lens discomfort and was referred for surgical management, resulting in
+penetrating keratoplasty.
+
+DISCUSSION
+Since the reintroduction of modern scleral lenses 25 years ago,
+improvements in technology have allowed an increasing number of
+subjects to benefit from these lenses.3,59,60 The safety and efficacy
+of scleral lenses have been evaluated across multiple patient populations and clinical settings. Although keratoconic patients typically account for most subjects, most of the studies did not
+evaluate subjects with keratoconus in isolation.2,3,7–10,32,61 In
+our study, only subjects with keratoconus and no prior corneal surgery and at least 1 year of wearing experience were included to
+assess the long-term scleral lens safety without regard to the increased risks associated with post-surgical eyes. The study design
+also separated long-term adverse events from those encountered in
+the initial fitting period, which warrants separate study.
+www.optvissci.com
+
+The most frequently encountered physiological adverse event
+was acute corneal hydrops. Although its etiology is not entirely
+clear, corneal hydrops is known to be a late-stage complication associated with the progression of keratoconus.62 The frequency of
+hydrops in our study (3.2%) was marginally higher than the estimated prevalence in the literature of between 2.6 and 2.8% (estimated incidence of 1.63 per 100,000)62 likely because of the
+versatility of scleral lens in managing advanced keratoconus.21
+Keratoconus severity scores for our subjects were skewed toward
+moderate to severe, with a mean of 3.6 (95% confidence interval,
+3.5 to 3.8), which may inflate the rate of hydrops observed.
+Specific information on the prevalence of inflammatory events
+for scleral contact lens wearers is rare. Our study observed relatively low rates of asymptomatic or symptomatic corneal infiltrative
+events, contact lens–associated red eye, and pingueculitis evenly
+distributed for 1.3% of eyes each. Both Schornack et al.10 and
+Visser et al.26 found a lower rate of infiltrates in 0.6 (n = 164)
+and 0.0% (n = 284), respectively. The inconsistency may represent a difference in the study design, which included a variety of indications for scleral lens wear and differing length of study periods.
+The review by Chalmers et al.38 on the annualized rates of corneal
+infiltrative events in daily disposable lenses (0 to 0.6% per year)
+compared with reusable designs (3 to 4% per year) may provide additional insights. Our rate of contact lens–associated red eye was
+lower than the 2.1% reported by Visser et al.26 More studies are
+needed to assess user habits and the bioburdens associated with
+scleral lens wear in specific populations to help identify contributing risk factors, but it is reasonable to suspect they will mirror what
+has been learned from soft lenses.39–42,58,63–68 The finding of
+
+Optom Vis Sci 2020; Vol 97(9)
+
+745
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+FIGURE 5. Boxplot comparison of the best-corrected distance logMAR acuity at scleral lens parameter finalization before adverse events (PRE AE) with
+those obtained in the most recent visit after adverse events (POST AE; n = 22 eyes). Whiskers represent 1.5 times the interquartile value. Vision significantly declined after adverse events (P < .0001), all of which were related to the progression of keratoconus. The far outlier represents an eye that
+progressed to having acute hydrops and light perception vision.
+
+pingueculitis does not prove an association with scleral lens wear,
+although mechanical incitement cannot be excluded. Past studies
+have shown that both soft lenses and corneal gas-permeable lenses
+are associated with incitement of pingueculae.69
+The potentially most severe adverse event recorded was microbial
+keratitis, observed in one eye (0.6%) in our study. Two eyes of another subject experienced corneal infiltrative events, as discussed
+previously. Both subjects were noncompliant and reported extended
+wear leading up to the event. Our subjects, in general, experienced
+lower rates of major complications compared with other scleral lens
+safety studies that included post-operative eyes.2,10 In a literature
+review of scleral lenses, Schornack et al.70 reported two incidence
+rates, between 0.5 and 1.6%,28 of microbial or Acanthamoeba keratitis among post-surgical eyes or those with severe ocular surface
+disease, which are known risk factors for infection.71 Zimmerman
+and Marks54 reported on a case of microbial keratitis associated with
+poor compliance with scleral lens use in a case of neurotrophic keratitis. Walker et al.2 reviewed 11 cases of microbial keratitis from the
+literature, all of which either were post-surgical eyes or had pre-existing
+epithelial defects. None were keratoconus only. The safety and efficacy
+of scleral lenses in post-surgical subjects were similarly explored by
+Fuller and Lam (OVS 2018;95;E-Abstract 185358) in detail in a separate unpublished study presented at the annual meeting of the
+American Academy of Optometry 2018, San Antonio, TX. Looking to
+the abundance of detailed information on prevalence, incidence, and
+risk factors associated with microbial keratitis among corneal
+gas-permeable and soft lens wearers would similarly fail to account
+for underlying comorbidities. Nonetheless, the prevalence and
+incidence of microbial keratitis among keratoconus patients wearing
+www.optvissci.com
+
+scleral lenses are likely very low. A larger sample size across a variety
+of environments is needed to sufficiently power an epidemiological
+study on this topic.
+An older comprehensive retrospective analysis of scleral lens
+safety was conducted by Tan et al.3 and included 517 eyes, 36%
+of which had keratoconus. A comparison of anterior segment complications reveals a significantly improved safety profile with the
+advent of gas-permeable materials and innovations in lens designs,
+thereby reducing risks of severe corneal neovascularization and
+corneal edema.3 Neovascularization was not observed in our study,
+and our findings conflict with the severity of neovascularization
+(12.2% of eyes) documented by Tan et al.32 Visser et al.26 reported
+a rate of 1.1% (n = 284 eyes) of eyes experiencing neovascularization secondary to scleral lens wear. This difference is likely due to
+improvements in the permeability of contemporary gas-permeable
+materials.
+Our study found a greater improvement in the mean best-corrected
+logMAR of 0.08 in scleral lenses compared with Schornack and
+Patel,31 who found a mean visual acuity of 0.14 logMAR after scleral
+lens refitting in subjects with keratoconus. This is likely due to cohort
+differences. The conversion from Snellen to logMAR visual acuities reduces the validity of the findings in this and other studies, as the increment of change is not consistent between rows of the Snellen chart.
+Our spherical/toric periphery scleral landing zone distribution
+(29.9:70.1%) is somewhat inconsistent with the findings by
+DeNaeyer et al.,72 who found that 5.7% of subjects had spherical
+scleral shapes, 28.6% had regular toric shapes, 40.7% had asymmetric toric shapes, and 25% had irregular shapes. None of the
+subjects in our study were fit with quadrant-specific design or
+
+Optom Vis Sci 2020; Vol 97(9)
+
+746
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+
+custom peripheral curves. No correlation was found in this study
+between the geometry of the scleral landing zone and the frequency of adverse events.
+Many commonly reported minor scleral lens complications are
+encountered during the initial lens fitting and can be easily managed by modifying the lens parameters, lens care, or other factors
+such as instilling artificial tears, decreasing wearing time, or reapplying
+the lens.2,30,73 Compared with other reports, our subjects experienced a
+lower rate of midday fogging (7%), surface deposits (8.9%), and surface
+wetting issues (1.9%).2,30 This may be due to the lack of inclusion of
+first-year data in the study. Schornack et al.11 did not find an association between midday fogging and either lens design or care products
+and reported a frequency of 25% (n = 248). Our study found a higher
+rate of adverse events related to scleral lens material properties, consistent with the findings by Tan et al.32 that gas-permeable lenses are more
+prone to deposit than PMMA lens materials. Deposits then increase the
+risk of contact lens papillary conjunctivitis, lens breakage, and poor lens
+wetting.32 When compared with our findings, all adverse events, except
+for contact lens papillary conjunctivitis, are consistent with the previous
+study, with the only occurrence documented in a subject who had previously experienced the condition before scleral lens fitting. The contradictory finding of increased lens deposits and wetting issues with
+reduced papillary conjunctivitis may be a function of sample size.
+However, we cannot rule out that newer technologies have improved lens surface properties with better wetting characteristics,
+which may reduce issues associated with surface problems.19,74,75
+
+higher interclinician variability in lens fitting philosophies, documentation habits, and adverse event management. A prospective
+study with subjects examined by a single clinician would allow for
+more consistent grading of essential details, including corneal neovascularization, corneal edema, epithelial bogging, conjunctival
+prolapse, conjunctival papillae, wearing time, lens care regimen, compliance with prescribed solutions, changes in contrast
+sensitivities, and other findings that may be relevant to scleral
+lens complications over the long term. The interclinician variability in the study, along with the wide variety of scleral lens designs and materials, may increase the generalizability of our
+data to other practitioners and clinics. The length of follow-up
+for each subject was not documented beyond a minimum of
+1 year and a maximum of 6 years after fitting. A skew in sampling cannot be excluded, and calculation of incidence rates in
+person-years, which would facilitate comparison to soft lens studies,
+cannot be presented. The limitations associated with converting
+Snellen to logMAR visual acuities were previously addressed. The
+advantage of limiting the survey period in our study is consistency
+among lens designs, materials, and lens care systems, which afforded
+insights into contemporary practices.
+
+Limitations
+
+Consistent with the findings of other groups, our study demonstrates excellent long-term safety and efficacy of scleral lenses in the
+visual rehabilitation in subjects with keratoconus.7,9,26,28,31,32,61
+
+Limitations of our study include its retrospective design and its
+setting in an academic institution with multiple clinicians, creating
+
+ARTICLE INFORMATION
+Submitted: January 31, 2020
+Accepted: July 23, 2020
+Funding/Support: None of the authors have reported
+funding/support.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest.
+Author Contributions: Conceptualization: DGF; Data Curation:
+YW; Formal Analysis: DGF; Investigation: YW; Methodology:
+DGF, YW; Project Administration: DGF; Resources: DGF;
+Software: DGF; Supervision: DGF; Validation: YW; Writing
+– Original Draft: YW; Writing – Review & Editing: DGF, YW.
+
+REFERENCES
+1. Nau CB, Harthan J, Shorter E, et al. Demographic
+Characteristics and Prescribing Patterns of Scleral Lens
+Fitters: The SCOPE Study. Eye Contact Lens 2018;44:
+S265–72.
+2. Walker MK, Bergmanson JP, Miller WL, et al. Complications and Fitting Challenges Associated with Scleral
+Contact Lenses: A Review. Cont Lens Anterior Eye 2016;
+39:88–96.
+3. Tan DT, Pullum KW, Buckley RJ. Medical Applications of Scleral Contact Lenses: 1. A Retrospective Analysis of 343 Cases. Cornea 1995;14:121–9.
+4. Visser ES, Van der Linden BJ, Otten HM, et al. Medical Applications and Outcomes of Bitangential Scleral
+Lenses. Optom Vis Sci 2013;90:1078–85.
+
+www.optvissci.com
+
+CONCLUSIONS
+
+5. Dimit R, Gire A, Pflugfelder SC, et al. Patient Ocular
+Conditions and Clinical Outcomes Using a PROSE Scleral
+Device. Cont Lens Anterior Eye 2013;36:159–63.
+
+Advanced Keratoconus. Ophthalmology 2015;122:
+909–17.
+
+6. Baran I, Bradley JA, Alipour F, et al. PROSE Treatment
+of Corneal Ectasia. Cont Lens Anterior Eye 2012;35:
+222–7.
+
+15. Wagner H, Barr JT, Zadnik K. Collaborative Longitudinal Evaluation of Keratoconus (CLEK) Study: Methods
+and Findings to Date. Cont Lens Anterior Eye 2007;30:
+223–32.
+
+7. Pecego M, Barnett M, Mannis MJ, et al. Jupiter Scleral
+Lenses: The UC Davis Eye Center Experience. Eye Contact
+Lens 2012;38:179–82.
+
+16. Krachmer JH, Feder RS, Belin MW. Keratoconus
+and Related Noninflammatory Corneal Thinning Disorders. Surv Ophthalmol 1984;28:293–322.
+
+8. Pullum KW, Whiting MA, Buckley RJ. Scleral Contact
+Lenses: The Expanding Role. Cornea 2005;24:269–77.
+
+17. Barnett M, Mannis MJ. Contact Lenses in the Management of Keratoconus. Cornea 2011;30:1510–6.
+
+9. Severinsky B, Millodot M. Current Applications and
+Efficacy of Scleral Contact Lenses—A Retrospective Study.
+J Optom 2010;3:158–63.
+10. Schornack M, Nau C, Nau A, et al. Visual and Physiological Outcomes of Scleral Lens Wear. Cont Lens Anterior Eye 2019;42:3–8.
+11. Schornack MM, Fogt J, Harthan J, et al. Factors Associated with Patient-reported Midday Fogging in Established Scleral Lens Wearers [published online March
+20, 2020]. Cont Lens Anterior Eye. 2020. doi:10.1016/
+j.clae.2020.03.005.
+
+18. Godefrooij DA, de Wit GA, Uiterwaal CS, et al. Agespecific Incidence and Prevalence of Keratoconus: A Nationwide Registration Study. Am J Ophthalmol 2017;
+175:169–72.
+19. Bennett ES, Henry VA. Clinical Manual of Contact Lenses. 5th ed. Philadelphia, PA: Wolters
+Kluwer; 2019.
+20. Pullum K. Rigid Gas Permeable Scleral Lenses:
+There Has to Be a Bearing Surface Somewhere. Cont Lens
+Anterior Eye 2018;41:S29–30.
+
+12. Fadel D, Kramer E. Potential Contraindications to
+Scleral Lens Wear. Cont Lens Anterior Eye 2019;42:
+92–103.
+
+21. Koppen C, Kreps EO, Anthonissen L, et al. Scleral
+Lenses Reduce the Need for Corneal Transplants in Severe Keratoconus. Am J Ophthalmol 2018;185:43–7.
+
+13. Mcmahon TT, Szczotka-Flynn L, Barr JT, et al. A
+New Method for Grading the Severity of Keratoconus:
+The Keratoconus Severity Score (KSS). Cornea 2006;
+25:794–800.
+
+22. Parker JS, van Dijk K, Melles GRJ. Treatment Options for Advanced Keratoconus: A Review. Surv Ophthalmol
+2015;60:459–80.
+
+14. Van Dijk K, Liarakos VS, Parker J, et al. Bowman
+Layer Transplantation to Reduce and Stabilize Progressive,
+
+Optom Vis Sci 2020; Vol 97(9)
+
+23. van der Worp E, Bornman D, Ferreira DL, et al. Modern Scleral Contact Lenses: A Review. Cont Lens Anterior Eye 2014;37:240–50.
+
+747
+
+Safety and Efficacy of Scleral Lenses for Keratoconus — Fuller and Wang
+24. Rathi VM, Mandathara PS, Vaddavalli PK, et al.
+Fluid Filled Scleral Contact Lens in Pediatric Patients:
+Challenges and Outcome. Cont Lens Anterior Eye 2012;
+35:189–92.
+
+Infiltrative Events and Healthy Controls. Invest Ophthalmol
+Vis Sci 2016;57:47–55.
+
+25. Bruce AS, Nguyen LM. Acute Red Eye (Non-ulcerative
+Keratitis) Associated with Mini-scleral Contact Lens Wear
+for Keratoconus. Clin Exp Optom 2013;96:245–8.
+
+42. Chalmers RL, Wagner H, Mitchell GL, et al. Age and
+Other Risk Factors for Corneal Infiltrative and Inflammatory
+Events in Young Soft Contact Lens Wearers from the
+Contact Lens Assessment in Youth (CLAY) Study. Invest
+Ophthalmol Vis Sci 2011;52:6690–6.
+
+26. Visser ES, Visser R, Van Lier HJ, et al. Modern Scleral
+Lenses Part I: Clinical Features. Eye Contact Lens 2007;
+33:13–20.
+
+43. Yan P, Kapasi M, Conlon R, et al. Patient Comfort
+and Visual Outcomes of Mini-scleral Contact Lenses.
+Can J Ophthalmol 2017;52:69–73.
+
+27. Walker MK. Scleral Lenses: Clearing the Fog. I-site
+Newsletter; 2014. Available at: http://www.netherlens.
+com/october_2014. Accessed August 5, 2020.
+
+44. Bergmanson JPG, Walker MK, Johnson LA. Assessing
+Scleral Contact Lens Satisfaction in a Keratoconus Population. Optom Vis Sci 2016;93:855–60.
+
+28. Rosenthal P, Croteau A. Fluid-ventilated, Gas-permeable
+Scleral Contact Lens Is an Effective Option for Managing
+Severe Ocular Surface Disease and Many Corneal Disorders That Would Otherwise Require Penetrating Keratoplasty. Eye Contact Lens 2005;31:130–4.
+
+45. Michaud L, Bennett ES, Woo SL, et al. Clinical Evaluation of Large Diameter Rigid-gas Permeable versus
+Soft Toric Contact Lenses for the Correction of Refractive Astigmatism. A Multicenter Study. Eye Contact Lens
+2018;44:164–9.
+
+29. Barnett M, Johns LK. Contemporary Scleral Lenses:
+Theory and Application. Sharjah, UAE: Bentham Science
+Publishers; 2017.
+
+46. Carracedo G, Serramito-Blanco M, Martin-Gil A,
+et al. Post-lens Tear Turbidity and Visual Quality After
+Scleral Lens Wear. Clin Exp Optom 2017;100:577–82.
+
+30. Pucker AD, Bickle KM, Jones-Jordan LA, et al. Assessment of a Practitioner's Perception of Scleral Contact Lens Complications. Cont Lens Anterior Eye 2019;
+42:15–9.
+
+47. Schornack MM, Nau CB. Changes in Optical Density
+of Postlens Fluid Reservoir during 2 Hours of Scleral
+Lens Wear. Eye Contact Lens 2018;44:S344–9.
+
+31. Schornack MM, Patel SV. Scleral Lenses in the
+Management of Keratoconus. Eye Contact Lens 2010;
+36:39–44.
+32. Tan DT, Pullum KW, Buckley RJ. Medical Applications of Scleral Contact Lenses: 2. Gas-permeable
+Scleral Contact Lenses. Cornea 1995;14:130–7.
+33. Belin MW, Duncan JK. Keratoconus: The ABCD
+Grading System. Klin Monbl Augenheilkd 2016;233:
+701–7.
+34. Naderan M, Shoar S, Kamaleddin MA, et al.
+Keratoconus Clinical Findings According to Different
+Classifications. Cornea 2015;34:1005–11.
+
+48. Barnett M, Johns LK. Sceral lens Handling. In:
+Barnett M, Johns LK, eds. Contemporary Scleral Lenses:
+Theory and Application. Sharjah, UAE: Bentham Science
+Publishers; 2017:346–70.
+49. Hastings GD, Applegate RA, Nguyen LC, et al. Comparison of Wavefront-guided and Best Conventional Scleral
+Lenses After Habituation in Eyes with Corneal Ectasia.
+Optom Vis Sci 2019;96:238–47.
+50. Ticak A, Marsack JD, Koenig DE, et al. A Comparison of Three Methods to Increase Scleral Contact Lens
+On-eye Stability. Eye Contact Lens 2015;41:386–90.
+51. Gumus K, Gire A, Pflugfelder SC. The Impact of the
+Boston Ocular Surface Prosthesis on Wavefront Higher-order
+Aberrations. Am J Ophthalmol 2011;151:682–90.e2.
+
+35. Gomes JA, Tan D, Rapuano CJ, et al. Global Consensus on Keratoconus and Ectatic Diseases. Cornea 2015;
+34:359–69.
+
+52. Marsack JD, Ravikumar A, Nguyen C, et al. Wavefrontguided Scleral Lens Correction in Keratoconus. Optom Vis
+Sci 2014;91:1221–30.
+
+36. Belin M, Ambrósio R. Scheimpflug Imaging for
+Keratoconus and Ectatic Disease. Indian J Ophthalmol
+2013;61:401–6.
+
+53. Hall BJ, Jones L. Contact Lens Cases: The Missing Link
+in Contact Lens Safety? Eye Contact Lens 2010;36:101–5.
+
+37. Grisevic S, Gilevska F, Biscevic A, et al. Keratoconus
+Progression Classification One Year After Performed
+Crosslinking Method Based on ABCD Keratoconus Grading System. Acta Inform Med 2020;28:18–23.
+38. Chalmers RL, Hickson-Curran SB, Keay L, et al.
+Rates of Adverse Events with Hydrogel and Silicone Hydrogel Daily Disposable Lenses in a Large Postmarket
+Surveillance Registry: The TEMPO Registry. Invest
+Ophthalmol Vis Sci 2015;56:654–63.
+39. Keay L, Stapleton F, Schein O. Epidemiology of Contact Lens–related Inflammation and Microbial Keratitis:
+A 20-year Perspective. Eye Contact Lens 2007;33:346–53.
+40. Szczotka-Flynn L, Jiang Y, Raghupathy S, et al. Corneal Inflammatory Events with Daily Silicone Hydrogel
+Lens Wear. Optom Vis Sci 2014;91:3–12.
+41. Richdale K, Lam DY, Wagner H, et al. Case-control
+Pilot Study of Soft Contact Lens Wearers with Corneal
+
+www.optvissci.com
+
+54. Zimmerman AB, Marks A. Microbial Keratitis Secondary to Unintended Poor Compliance with Scleral
+Gas-permeable Contact Lenses. Eye Contact Lens
+2014;40:e1–4.
+55. Szczotka-Flynn LB, Pearlman E, Ghannoum M. Microbial Contamination of Contact Lenses, Lens Care Solutions, and Their Accessories: A Literature Review.
+Eye Contact Lens 2010;36:116–29.
+56. Carnt N, Hoffman JJ, Verma S, et al. Acanthamoeba
+Keratitis: Confirmation of the UK Outbreak and a Prospective Case-control Study Identifying Contributing
+Risk Factors. Br J Ophthalmol 2018;102:1621–8.
+
+59. Schein OD, Rosenthal P, Ducharme C. A Gas-permeable
+Scleral Contact Lens for Visual Rehabilitation. Am J
+Ophthalmol 1990;109:318–22.
+60. Harthan J, Nau CB, Barr J, et al. Scleral Lens Prescription and Management Practices: The SCOPE Study.
+Eye Contact Lens 2018;44:S228–32.
+61. Pullum KW, Buckley RJ. A Study of 530 Patients
+Referred for Rigid Gas Permeable Scleral Contact Lens
+Assessment. Cornea 1997;16:612–22.
+62. Barsam A, Petrushkin H, Brennan N, et al. Acute
+Corneal Hydrops in Keratoconus: A National Prospective
+Study of Incidence and Management. Eye 2015;29:
+469–74.
+63. Sweeney DF, Naduvilath TJ. Are Inflammatory
+Events a Marker for an Increased Risk of Microbial Keratitis? Eye Contact Lens 2007;33:383–7.
+64. Radford CF, Minassian D, Dart JK, et al. Risk
+Factors for Nonulcerative Contact Lens Complications
+in an Ophthalmic Accident and Emergency Department:
+A Case-control Study. Ophthalmology 2009;116:
+385–92.
+65. Robertson DM. The Effects of Silicone Hydrogel Lens Wear on the Corneal Epithelium and Risk
+for Microbial Keratitis. Eye Contact Lens 2013;
+39:67–72.
+66. Suchecki JK, Ehlers WH, Donshik PC. Peripheral
+Corneal Infiltrates Associated with Contact Lens Wear.
+CLAO J 1996;22:41–6.
+67. Robboy MW, Comstock TL, Kalsow CM. Contact
+Lens–associated Corneal Infiltrates. Eye Contact Lens
+2003;29:146–54.
+68. Ozkan J, Mandathara P, Krishna P, et al. Risk Factors for Corneal Inflammatory and Mechanical Events
+with Extended Wear Silicone Hydrogel Contact Lenses.
+Optom Vis Sci 2010;87:847–53.
+69. Mimura T, Usui T, Mori M, et al. Pinguecula and
+Contact Lenses. Eye 2010;24:1685–91.
+70. Schornack MM, Pyle J, Patel SV. Scleral Lenses in
+the Management of Ocular Surface Disease. Ophthalmology 2014;121:1398–405.
+71. Schornack MM. Scleral Lenses: A Literature Review.
+Eye Contact Lens 2015;41:3–11.
+72. DeNaeyer G, Sanders DR, van der Worp E, et al.
+Qualitative Assessment of Scleral Shape Patterns Using
+a New Wide Field Ocular Surface Elevation Topographer: The SSSG Study. J Contact Lens Res Sci 2017;
+1:12–22.
+73. Fadel D. Scleral Lens Issues and Complications Related to a Non-optimal Fitting Relationship between the
+Lens and Ocular Surface. Eye Contact Lens 2019;45:
+152–63.
+
+57. Bui TH, Cavanagh HD, Robertson DM. Patient Compliance during Contact Lens Wear: Perceptions, Awareness, and Behavior. Eye Contact Lens 2010;36:334–9.
+
+74. Wagner H. Polish Up Your Practice: Today’ s Contact
+Lens Surfaces. Rev Optom 2018;1–8. Available at:
+https://www.reviewofoptometry.com/article/polishup-your-practice-todays-contact-lens-surfaces.
+Accessed August 5, 2020.
+
+58. Fonn D, Jones L. Hand Hygiene Is Linked to Microbial Keratitis and Corneal Inflammatory Events. Cont
+Lens Anterior Eye 2019;42:132–5.
+
+75. Wang Y, Qian X, Zhang X, et al. Plasma Surface
+Modification of Rigid Contact Lenses Decreases Bacterial Adhesion. Eye Contact Lens 2013;39:376–80.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+748
+
+

@@ -1,0 +1,802 @@
+Petroleum Research (2016) 1,53-58
+
+Effect of particle size on high-pressure methane
+adsorption of coal
+Jie Zou and Reza Rezaee*
+Department of Petroleum Engineering, Curtin University, Western Australia, Australia
+Received May 15, 2016; Accepted August 6, 2016
+
+Abstract: Adsorbed gas cannot be neglected in the evaluation of coalbed methane and shale gas since
+a significant proportion of gas is stored in the form of adsorbed gas. Adsorbed methane of coal and
+shale has been widely studied by high-pressure methane adsorption experiment. In sample treatment
+of the experiment, the sample is crushed and sieved to a particular particle size range. However, how
+particle size influence high-pressure methane adsorption is still unclear. In this study, low-pressure
+nitrogen (N2) and high-pressure methane adsorption have been measured on coal samples with
+different particle size. According to N2 sorption analysis, pore volume and surface area increase with
+particle size reduction. Pore size distribution of small pores (<10nm) changes among varying particle
+size. Pore volume proportion of small pores (<10nm) increases and pore volume proportion of big
+pores (>10nm) decreases with decreasing particle size. Decreasing particle size by crushing sample
+introduces new connectivity for closed pores to the particle surface. The responses of isotherms
+of high-pressure methane adsorption are different with different particle size. Methane adsorption
+at initial pressure (145psi) increases with decreasing particle size. Adsorption increase rate at high
+pressure (435-870psi) decreases with particle size reduction. This can be explained that fine sample
+has more pore volume and higher pore volume proportion of small pores (<10nm). Sample with
+particle size of 150-250μm has the highest Langmuir volume.
+
+Key words: particle size, high-pressure methane adsorption, coal, shale gas
+
+1 Introduction
+Natural gas production in shale gas and coalbed methane is
+perspective, especially when taking gas adsorption properties
+into consideration. Hydrocarbon gas (mostly methane) can be
+stored in pores and fractures, and as adsorbed gas on organic
+and inorganic matter. However, heterogeneous pore structure
+and complex chemical composition in shale and coal make the
+quantification of gas storage challenging (Labani et al., 2013). To
+evaluate methane adsorption capacity under reservoir condition,
+one reliable and popular research method is high-pressure
+methane adsorption experiment (Chalmers and Bustin, 2007a;
+Chalmers and Bustin, 2007b; Ross and Bustin, 2009; Zhang et
+al., 2012; Gasparik et al., 2014).
+
+Prior to the high-pressure adsorption experiment, the sample
+is crushed and sieved to a particular particle size. Surprisingly,
+different particle size has been used in high-pressure methane
+adsorption related studies (Ross and Bustin, 2009; Zhang et al.,
+2012; Gasparik et al., 2014). Table 1 shows particle size used in
+high-pressure methane adsorption related studies. A study by
+Clarkson and Bustin (1999) has suggested that a particle size of
+4mesh (<4.75mm) and 60mesh (<0.250mm) coal sample has a
+negligible effect on high-pressure methane adsorption (Clarkson
+and Bustin, 1999). Another study on pure clay samples has
+shown that methane adsorption capacity of clay minerals
+increases with decreasing particle size because of the enlarged
+internal surface area (Ji et al., 2012). Furthermore, the effect of
+particle size on gas adsorption porosimetry and high-pressure
+
+* Corresponding author. Email: R.Rezaee@curtin.edu.au
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+53
+
+J.Zou and R.Rezaee./Petroleum Research (2016) 1,53-58
+
+CO2 adsorption has been investigated as well (Chen et al., 2015;
+Lutynski and González González, 2016). The gas adsorption
+porosimetry study on shale has shown that micropore volume
+generally increases with particle size reduction. The highpressure CO2 adsorption study on coal and shale has shown
+that coal samples have different composition among varying
+particle size, and shale samples get extended surface area with
+decreasing particle size. Although high-pressure methane
+adsorption has been widely used, the effect of particle size on
+the high-pressure methane adsorption is not clear.
+In this study, we measured high-pressure methane adsorption
+on the same coal samples but with different particle size. Lowpressure N2 sorption was also engaged to give an insight into
+the pore structure of the studied samples. This study attempted
+to find out if and how particle size of sample influence highpressure methane adsorption.
+Table 1 Particle sizes used in high-pressure methane
+Literature
+
+Particle size (µm)
+
+Gasparik et al, 2013
+
+500-1000, <100
+
+Ross and Bustin, 2009
+
+<250
+
+Chalmers and Bustin, 2012
+
+<250
+
+Zhang et al., 2012
+
+150-500
+
+2 Materials and methods
+
+Where nadsis the amount of moles adsorbed by the sample, ndosed
+is the amount of moles dosed into the system, and nvoid is the
+amount of moles occupying the void volume.
+He
+
+For the purpose of this study the original coal was sieved to four
+particle size range: <325mesh, 200-325mesh, 60-100mesh, and
+18-20mesh.
+
+Vacuum
+gauge
+
+High pressure
+transducer
+Low pressure
+transducer
+
+Reference cell
+VACUUM
+
+VENT
+
+Table 2 Composition of the studied sample
+Telovitrinite (%)
+
+71.1
+
+Detrovitrinite (%)
+
+3.7
+
+Fusinite (%)
+
+3.3
+
+Semi-Fusinite (%)
+
+13
+
+Macrinite (%)
+
+0.3
+
+Inertodetrinite (%)
+
+4
+
+Mineral matter (%)
+
+4.5
+
+2.2 Methods
+2.2.1 High-pressure methane adsorption
+High-pressure (up to 870psi) methane adsorption was measured
+
+54
+
+(1)
+
+nads = ndosed - nvoid 	  
+
+Gas
+
+For the purpose of this study, the particle size of the sample
+was the only experimental variable. Herein, commercial coal
+provided by BM Alliance coal operations Pty Ltd was used.
+Table 2 shows the sample information. The mean vitrinite
+reflectance of the sample is 1.43%.
+
+
+
+CH 4
+
+2.1 Materials
+
+at 30℃ by a commercial volumetric apparatus (High pressure
+volumetric analyzer) (Fig 1). The experiment setup basically
+consists of a vacuum pump, an outgassing furnace with a
+temperature controller, a sample cell, a thermostat bath connected with sample cell for controlling the experimental temperature
+and a reference cell connected to two pressure transducers (high
+pressure transducer and low pressure transducer). All valves are
+controlled by a software on the connected computer. Pressure
+and temperature are precisely recorded. Prior to the experiment,
+helium expansion is used to measure the void volume, which is
+defined as the total volume of helium that can penetrate in the
+sample cell with the sample inside. After that, the system completely evacuated and methane dosed into the reference cell. As
+soon as the pressure equilibrium criteria are met (pressure variation less than 0.01 bar in one minute or waiting for 30 minutes
+after dosing the gas into the reference cell), methane is injected
+into the sample cell. Methane volume dosed in the system could
+be calculated based on pressure, temperature, sample cell volume and the gas compressibility factor. The gas compressibility
+factor is determined by Peng-Robinson equation of state. The
+amount of adsorbed methane in sample cell is calculated by the
+static volumetric method as follows:
+
+Sample cell
+
+Furnace
+
+Thermostated bath
+
+Fig. 1 Schematic diagram of high pressure volumetric analyzer
+
+Gas adsorption is usually described by isotherms, the amount of
+adsorbed gas as a function of pressure at constant temperature.
+For methane adsorption on coal and shale, Langmuir equation
+is used to fit experiment result in many studies. According to
+Langmuir equation, the amount of adsorbed methane (Vads) can
+be expressed as follows:
+
+J.Zou and R.Rezaee./Petroleum Research (2016) 1,53-58
+
+P
+(2)
+P + PL 
+Where VLis the Langmuir volume, defined as the maximum
+amount of gas that can be adsorbed on coal or shale at infinite
+pressure, P L is the Langmuir pressure, defined as the pressure
+at which one half of the Langmuir volume can be adsorbed, P
+is reservoir pressure. Herein, Langmuir volume and Langmuir
+pressure can be determined by the following rearranged
+Langmuir equation:
+Vads =
+
+P
+P PL
+= +
+Vads VL VL 
+
+(3)
+
+Given that experimental pressure is precisely recorded and
+
+P
+the amount of adsorbed methane is measured, a plot of
+Vads
+versus P is provided as fitted line. The slope is 1 , and the
+VL
+P
+P PL .
+intercept
+= is+
+Vads VL VL
+2.2.2 Low-pressure N2 sorption
+Low-pressure N2 adsorption and desorption isotherms were measured at 77K on a Micromeritics® Tristar II 3020 apparatus. Prior
+
+Type B
+
+The experimental data was interpreted by Brunauer-EmmettTeller (BET) method for surface area and density functional
+theory (DFT) for pore size distribution. The surface area is calculated by BET method in the P/P0 range of 0.1-0.3 (Brunauer et
+al., 1938). Density function theory, comparing to other methods
+such as BJH model and DH model, can provide a description
+of micropores and smaller mesopores (Do and Do, 2003). Pore
+model is considered in density functional theory and determined
+by hysteresis loops. Five types of hysteresis loops have been
+identified by De Boer (De Boer, 1958) (Fig. 2). Type A hysteresis is correlated with cylindrical pores; type B is attributed to
+slit pores; type C and type D are associated with wedge shaped
+pores and type E is produced by bottle neck pores.
+Besides, the total pore volume is obtained at maximum relative
+pressure (P/P0 =1) by the assumption that pores are filled with
+liquid adsorbate.
+
+Type C
+
+Type E
+
+Type D
+
+Vads
+
+Type A
+
+to N2 adsorption, the sample was degassed for at least 5 hours at
+110℃ to remove moisture and volatile in sample pores. N2 adsorption volume was measured over the relative equilibrium adsorption
+pressure (P/P0) range of 0.01-0.99, where P is the gas vapour pressure in the system and P0 is the saturation pressure of N2.
+
+P/P 0
+
+1
+
+Cylindrical
+
+P/P 0
+
+1
+
+P/P 0
+
+Slits
+
+1
+
+P/P 0
+
+Wedge shaped
+
+1
+
+P/P 0
+
+1
+
+Bottle neck
+
+Fig. 2 Five types of hysteresis loops and corresponding pore shapes (De Boer, 1958)
+
+3 Results
+3.1 Low-pressure N2 analysis
+Fig. 3 shows the comparison of low-pressure N2 adsorption and
+desorption isotherms of samples with different particle sizes.
+The shapes of isotherm curves reveal type II isotherm (Brunauer
+et al., 1940). The nitrogen adsorption at low relative pressure
+could be interpreted as the filling of micropores, and isotherms
+
+rise rapidly at P/P0=1 due to the presence of macropores in the
+samples. As a general rule of gas adsorption, N2 adsorption of
+all samples increases with increasing relative pressure. But the
+N2 adsorption rate of increase is greater for the samples with
+smaller particle size when compared with samples with larger
+particle size.
+As shown in Table 3, total pore volume and BET surface area
+increase significantly with particle size reduction. The total
+
+55
+
+J.Zou and R.Rezaee./Petroleum Research (2016) 1,53-58
+
+2.5
+
+pore volume of C45 sample is 0.733cm3 per 100gram, which is
+nearly 10 times of total pore volume of C1000 sample (0.07cm3
+per 100gram). The BET surface area increases from 0.4757m2/
+g to 3.3571m2/g from the coarsest to the finest sample. The BET
+surface area is the summary of the internal surface area and the
+external surface area. It is assumed that all particles are spherical.
+Based on the average radius of the studied samples, external
+surface area can be calculated by the following formula:
+
+2.0
+
+a=6/ρd           (4)
+
+5.0
+C45
+
+N 2 adsorption (cm 3 /g, STP)
+
+4.5
+
+C75
+C250
+
+4.0
+
+C1000
+
+3.5
+3.0
+
+where a is the external surface area (with the assumption that
+the surface is completely smooth), ρ is the sample density, d is
+the particle diameter.
+
+1.5
+1.0
+0.5
+0
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure (P/P 0 )
+
+1.0
+
+Fig. 3 Low pressure N 2 sorption isotherms of the studied
+samples at 77K: C45, C75, C250 and C1000 are sample
+names with particle size range in Table 3.
+
+Given that the sample density here is the true density of coal, a
+value of 1.37g/cm3 is used for theoretical calculation (Stanton,
+1982). The external surface area of samples with different
+particle size is shown in Table 3. The internal surface area is
+obtained by subtracting external surface area from BET surface
+area. The increase in BET surface area with particle size
+
+Table 3 Low pressure N2 sorption result of the studied samples
+Sample
+
+Particle size range
+
+BET surface
+area(m2/gr)
+
+Total pore
+volume(cm3/100gr)
+
+External surface
+area(m2/gr)
+
+Internal surface
+area(m2/gr)
+
+C45
+
+<45μm (325mesh)
+
+3.36
+
+0.70
+
+5.82E-02
+
+3.302
+
+C75
+
+45~75μm (325-200mesh)
+
+3.29
+
+0.56
+
+3.64E-02
+
+3.250
+
+C250
+
+150~250μm (100-60mesh)
+
+0.58
+
+0.13
+
+1.09E-02
+
+0.570
+
+C1000
+
+850~1000μm (20-18mesh)
+
+0.48
+
+0.07
+
+2.36E-03
+
+0.480
+
+Incremental pore volume(cm 3 /g,STP)
+
+reduction mainly results from an increase in internal surface.
+0.00035
+C45
+C75
+C250
+C1000
+
+0.00030
+0.00025
+0.00020
+0.00015
+0.00010
+0.00005
+0
+
+1
+
+10
+Pore width(nm)
+
+100
+
+Fig. 4 Pore size distribution defined by incremental pore volume
+at the pore width range of 1-100nm.
+
+Comparing with Fig. 2, hysteresis loops of the studied samples
+show type B. Type B hysteresis loop is produced by slit
+shaped pore. So slit-pore model is used in calculating pore
+size distribution by density function theory. Fig. 4 shows pore
+
+56
+
+size distribution of samples with different particle size using
+incremental pore volume. All studied samples reveal multimodal
+pore size distribution and pore volume increases with decreasing
+particle size. Although pore size distribution among varying
+particle size follows the same trend for pores larger than 10nm,
+it is different for pores less than 10nm: the main mode of C45 is
+between 2.5nm to 3.7nm; the main mode of C75 is between 3.7nm
+to 5.0nm; the main mode of C250 is between 3.0nm to 3.7nm.
+Table 4 is the pore volume proportion of samples with different
+particle size. It is shown that the pore volume proportion of
+small pores (<10nm) increases with particle size reduction.
+Table 4 Pore volume proportion of samples with
+100different particle
+size
+Sample
+name
+
+95
+Pore volume proportion Pore volume
+proportion
+of small pores(<10nm)
+of big pores(>10nm)
+
+C45
+
+40.60%
+
+C75
+
+35.70%
+
+C250
+
+28.00%
+
+C1000
+
+19.10%
+
+75
+
+59.40%
+64.30%
+
+25
+5
+0
+
+72.00%
+80.90%
+
+J.Zou and R.Rezaee./Petroleum Research (2016) 1,53-58
+
+3.2 High pressure methane analysis
+Fig. 5 compares methane adsorption on coal samples with
+different particle size. Isotherms curves for samples with
+different particle size are different from each other. In general,
+methane adsorption capacity increases with decreasing particle
+size at 145psi and the adsorption increase rate of the fine
+sample decreases rapidly with increasing pressure. C45 has
+the highest methane adsorption capacity at 145psi and reaches
+its methane adsorption peak at 870psi. C250 has low methane
+adsorption capacity at 145psi, but the adsorption increase rate
+remains stable with increasing pressure. Therefore, the methane
+adsorption capacity of samples at 870psi with different particle
+size follows this order: C75>C250>C45 >C1000.
+600
+
+Adsorbed methane(scf/ton)
+
+500
+
+C1000 Langmuir
+C1000
+C75 Langmuir
+C75
+
+400
+
+300
+
+200
+
+The crushing sample creates new sections in particle and the
+sections can connect more pores to the particle surface. The
+introduced connectivity of pores enlarges the internal surface
+area and pore volume and changes pore size distribution. For
+coarse samples, small pores (<10nm) are neglected in that the
+pressure equilibrium of N2 sorption takes too much time to
+reach or small pores (<10nm) are isolated. As for fine sample,
+small pores (<10nm) are connected by new sections and pressure
+equilibrium of N2 sorption is easy to reach. Therefore, pore size
+distribution of small pores (<10nm) is different with decreasing
+particle size.
+The hypothetical types of pores are shown in Fig. 6 (Rouquerol
+et al., 2014). Decreasing particle size can influence isolated
+pores rather than open pores (if pore channels are wide enough
+for probe gas). The introduced connectivity of isolated pores
+results in an increase in pore volume and surface area and the
+difference in pore size distribution. So increase in total pore
+volume from C1000 to C45 indicates that isolated pores for the
+studied coal sample is at least 10 times of open pores in terms of
+pore volume. Meanwhile, pore volume proportion of small pores
+(<10nm) increases with particle size reduction, so crushing
+sample connects more small pores than big pores (> 10nm).
+Therefore, isolated pores have more small pores (<10nm) than
+big pores (>10nm) in terms of pore volume.
+
+C45 Langmuir
+C45
+
+100
+
+B
+
+C250 Langmuir
+C250
+
+0
+0
+
+200
+
+400
+600
+Pressure(psi)
+
+800
+
+T
+1000
+
+Fig. 5 Comparison of methane adsorption of samples with
+different particle size at 30℃. Points are the experimental
+results and lines are the Langmuir fitting results.
+
+As shown in Fig. 5, methane adsorption isotherms can be well
+fitted by the Langmuir equation. Table 5 shows the Langmuir
+volume (V L), Langmuir pressure (P L) and coefficient of
+determination (R2). Among samples with varying particle size,
+C250 has the highest Langmuir volume.
+Table 5 Langmuir parameters of samples with different particle size
+Sample
+
+VL (scf/ton)
+
+P L (psi)
+
+R2
+
+C45
+
+545
+
+101
+
+0.999
+
+C75
+
+573
+
+111
+
+0.998
+
+C250
+
+984
+
+890
+
+0.999
+
+C1000
+
+378
+
+604
+
+0.999
+
+4 Discussion
+4.1 Effect of particle size on N2 sorption
+Particle size can influence pore structure of sample significantly.
+
+R
+
+C
+
+I
+Fig. 6 Cross section of a hypothetical particle (Rouquerol et al.,
+2014)
+
+4.2 Effect of particle size on methane sorption
+Methane adsorption is closely related to particle size due to the
+effect of particle size on surface area, pore volume, and pore
+size distribution. The fine sample has enlarged surface area
+which provides more sites for adsorption. The sites determine
+methane adsorption capacity at low pressure. With increasing
+pressure, methane adsorption capacity increases as the general
+rule of gas adsorption. But if the pressure continues increasing,
+adsorption layers would increase and the sites would be filled
+up since the fine sample is mainly composed of small pores. So
+fine sample has low methane adsorption increase rate at high
+
+57
+
+J.Zou and R.Rezaee./Petroleum Research (2016) 1,53-58
+
+pressure, which leads to relatively low Langmuir volume. On
+the other hand, coarse sample has so small surface area that
+methane sorption capacity is low at low pressure. However,
+adsorption increase rate would not decrease greatly with
+increasing pressure because big pores have more adsorption
+sites than small pores. Therefore, Langmuir volume of coarse
+sample is similar to fine sample but Langmuir pressure is high.
+Based on the experimental results, an appropriate particle size
+can be recommended for high-pressure methane adsorption
+experiment in this study. If sample powder is too fine, much new
+connectivity for small pores is introduced by crushing sample.
+Isotherm of the fine sample would be mainly controlled by small
+pores. If the sample is too coarse, the time to reach pressure
+equilibrium would be very long. Adsorption of small pores is
+hard to measure, and isotherm of the coarse sample would be
+mainly controlled by big pores. Both small and big pores can
+be measured in the 150-250μm sample, and 150-250μm sample
+has the highest Langmuir volume. Therefore, 150-250μm can be
+used in high-pressure methane adsorption for coal.
+
+5 Conclusions
+Coal samples with different particle size have been measured on
+low-pressure N2 sorption and high-pressure methane adsorption
+to study if and how particle size influence high-pressure
+methane adsorption. The following conclusions were made.
+Particle size can influence pore structure of coal sample.
+The crushing sample can connect closed pores to the particle
+surface. Isolated pores have much more pore volume than open
+pores in coal sample. So surface area and pore volume increase
+significantly with particle size reduction. Furthermore, closed
+pores are mainly composed of pores less than 10nm. Pore size
+distribution changes and proportion of pore volume increases for
+pores less than 10nm with particle size reduction.
+Particle size has a great impact on methane adsorption since
+pore structure changes with particle size reduction. The fine
+sample has introduced much connectivity for closed pores less
+than 10nm, which results in that methane adsorption is mainly
+controlled by pores less than 10nm. Coarse sample takes too
+long to reach pressure equilibrium in adsorption experiment.
+Small pores could be neglected and methane adsorption is
+mainly controlled by pores larger than 10nm. 150-250μm is the
+recommended as the optimized particle size in this study as a
+medium sample.
+
+Acknowledgement
+This work was conducted with support from Petroleum
+Engineering Department and Chemical Engineering Department
+
+58
+
+at Curtin University. We also thank our lab technician Bob
+Webb for his equipment support and Dr. Hongcai Wang for his
+helpful discussion.
+
+References
+Brunauer S, Deming L S, Deming W E, et al. On a theory of the van der
+Waals adsorption of gases. Journal of the American Chemical Society,
+1940, 62: 1723-1732.
+Brunauer S, Emmett P H, Teller E. Adsorption of gases in multimolecular
+layers. Journal of the American Chemical Society, 1938, 60: 309-319.
+Chalmers G R L and Bustin R M. The organic matter distribution and
+methane capacity of the Lower Cretaceous strata of Northeastern British
+Columbia, Canada. International Journal of Coal Geology, 2007a, 70:
+223-239.
+Chalmers G R L and Bustin R M. On the effects of petrographic composition
+on coalbed methane sorption. International Journal of Coal Geology,
+2007b, 69: 288-304.
+Chen Y, Wei L, Mastalerz M, et al. The effect of analytical particle size
+on gas adsorption porosimetry of shale. International Journal of Coal
+Geology, 2015, 138: 103-112.
+Clarkson C R and Bustin R M. The effect of pore structure and gas pressure
+upon the transport properties of coal: A laboratory and modeling study.
+1. Isotherms and pore volume distributions. Fuel, 1999, 78: 1333-1344.
+De Boer J. The shape of capillaries: The structure and properties of porous
+materials. London: Butterworths Scientific Publications, 1958, 68-92.
+Do D D and Do H D. Pore characterization of carbonaceous materials
+by DFT and GCMC simulations: A review. Adsorption Science &
+Technology, 2003, 21: 389-423.
+Gasparik M, Bertier P, Gensterblum Y, et al. Geological controls on the
+methane storage capacity in organic-rich shales. International Journal of
+Coal Geology, 2014, 123: 34-51.
+Ji L, Zhang T, Milliken K L, et al. Experimental investigation of
+main controls to methane adsorption in clay-rich rocks. Applied
+Geochemistry, 2012, 27: 2533-2545.
+Labani M M, Rezaee R, Saeedi A, et al. Evaluation of pore size spectrum
+of gas shale reservoirs using low pressure nitrogen adsorption, gas
+expansion and mercury porosimetry: A case study from the Perth and
+Canning Basins, Western Australia. Journal of Petroleum Science and
+Engineering, 2013, 112: 7-16.
+Lutynski M and González M G. Characteristics of carbon dioxide sorption
+in coal and gas shale – The effect of particle size. Journal of Natural
+Gas Science and Engineering, 2016, 28: 558-565.
+Ross D J K. and Bustin R M. The importance of shale composition and pore
+structure upon gas storage potential of shale gas reservoirs. Marine and
+Petroleum Geology, 2009, 26: 916-927.
+Rouquerol F, Rouquerol J, Llewellyn P, et al. Introduction, adsorption by
+powders and porous solids (Second Edition). Oxford: Academic Press,
+2014, 1-24.
+Stanton R. W. Determination of the true density of pulverized coal samples.
+Open-File Report, 1982.
+Zhang T, Ellis G S, Ruppel S C, et al. Effect of organic-matter type and
+thermal maturity on methane adsorption in shale-gas systems. Organic
+Geochemistry, 2012, 47: 120-131.
+
+

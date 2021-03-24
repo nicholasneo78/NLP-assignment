@@ -1,0 +1,1065 @@
+Petroleum Research (2016) 2,113-122
+
+Some key issues on the unconventional
+petroleum systems
+Chengzao Jia1, Min Zheng2* and Yongfeng Zhang2
+China National Petroleum Corporation, Beijing 100742, China
+CNPC Research Institute of Petroleum Exploration and Development, Beijing 100083, China
+Received June 15, 2016; Accepted August 18, 2016
+1
+2
+
+Abstract: Oil and gas currently still hold a leading role in the global energy mix. The recent drastic
+increase in unconventional oil and gas production contributes significantly to strike a balance
+between the global demand and supply of oil and gas. However, a range of important fundamental
+questions about the unconventional oil and gas resources have not been adequately answered. Little is
+known about the distribution and accumulation patterns, as well as the exploration and development
+characteristics of unconventional oil and gas. The current status of global oil and gas exploration
+was reviewed and four key theoretical issues regarding the unconventional oil and gas geology were
+identified: (1) the traditional concept and definition of “petroleum system” needs to be revisited. The
+concept of a “holistic-process accumulation” model of a “total petroleum system” in petroliferous
+basins was proposed to analyze the unconventional hydrocarbon accumulation mechanisms from four
+key aspects of quantitative studies on hydrocarbon generation–expulsion–migration–accumulation
+processes. (2) The second issue is related to fine-grained sedimentary system and sedimentary
+facies of tight reservoirs. Through analyzing the relationship between fine-grained sediments and
+unconventional hydrocarbon accumulation, three research integration areas were put forward. (3) The
+third issue is on the micro-nano pore system and fluid phase behavior in shales and tight reservoirs.
+Five aspects of micro-nano pore system were identified to focus on unconventional hydrocarbon
+research, and the characteristics of micro-nano pore development and fluid phase behavior in
+micro-nanopores were elucidated. (4) The fourth issue is related to unconventional hydrocarbon
+accumulation patterns and resource evaluation. Based on the characteristics of unconventional
+hydrocarbon accumulation, an evaluation system for unconventional hydrocarbon resources was
+established and optimized.
+
+Key words: energy consumption; unconventional hydrocarbons; exploration
+status; petroleum system; tight reservoirs; micro-nano pore system
+
+1 Introduction
+Despite that global economic growth is slowing down, oil and
+gas still dominate the energy consumption mix, crude oil account for 32.9% of the global energy total consumption, and
+natural gas account for 23.8% of primary energy consumption
+(BPC, 2016). As degree of the conventional oil and gas explora-
+
+tion and development became more and more high, the unconventional oil and gas is regarded as a new resource to maintain
+long-term stability of oil and gas supplies. In the past several
+years, the main contribution to global oil and gas production
+growth comes from the United States and Canada instead of the
+OPEC countries. Indeed, the increment of oil and gas primarily
+came from the tight oil, shale gas and deep sea oil and gas of the
+
+* Corresponding author. Email: zhenmin@petrochina.com.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+113
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+United States, as well as the oil sands of Canada. In the next decade, the growth of global energy supply will mainly come from
+tight oil, shale gas and oil sands, and till 2030, the net growth of
+these three types of resources will account for 75% of the global
+energy supply (BPC, 2011).
+Technological innovation and productivity gains have unlocked
+vast resources of the unconventional oil and gas. According to
+the prediction of Energy Information Administration (EIA),
+the global production of the unconventional gas is 822.7×109m3
+in 2015, and will increase 2.48×1012m3 which accounts for 42%
+of global total natural gas production, including shale gas production of 1.7×1012 m3, tight gas of 0.46× 1012 m3 and coalbed
+methane of 0.32× 1012 m3; the global production of the unconventional oil is 4.8×10 8t in 2015, and will increase 10×10 8t
+which accounts for 20% of global total crude oil production,
+including tight oil production of 5.1×108 t and oil sand oil of 3.4×
+108 t (EIA, 2016).
+Although unconventional oil and gas have made a lot of progresses, many questions are still remained on the realistic significance of unconventional hydrocarbons and its sustainability as
+a viable fuel supply. It was reported in the Investor Journal that
+“the World Energy Outlook report of the International Energy
+Agency (IEA) gives us the impression that we are swimming in
+oil”. Due to the development of the unconventional hydrocarbon
+resources, the once popular “peak oil” theory now merely becomes an irrelevant cultural concept (Hafez, 2013). A groundbreaking survey by the New York Times in 2011 revealed that
+“although the oil industry in the United States has adopted an
+extremely optimistic stance publically, it was skeptical about the
+potential of the shale gas in private” (Hafez, 2013). The assessment is not entirely irrelevant, and the exploration success rate
+of unconventional oil and gas with “continuous distribution” has
+not been all that satisfactory, while rapid decline of the production in the exploitation stage of shale gas is an indisputable fact.
+For example, the production of a shale gas well in the first year
+would fall by 60% to 90%. However, for the energy industry, the
+challenge is how to deal with the enormous transition at each
+stage by developing suitable conceptual geological models and
+enabling exploration and production (E & P) technology for
+unconventional oil and gas. In order to more effectively explore
+and exploit unconventional oil and gas resources and reduce
+E&P risk, one must carefully analyzes the generation, expulsion, migration and accumulation patterns of unconventional oil
+and gas, selects appropriate methods to evaluate unconventional
+oil and gas resources, and objectively assesses the potential of
+unconventional oil and gas resources. Accordingly, this study
+identified four important theoretical issues relating to unconventional oil and gas development, i.e., (1) reexamining the
+conventional “petroleum system” concept, (2) understanding the
+fine-grained sedimentary system and tight reservoir sedimentology, (3) elucidating the micro-nano pore system and fluid phase
+
+114
+
+behavior in shale and tight reservoirs, (4) understanding the accumulation patterns of unconventional oil and gas and resource
+potential.
+
+2 Strategic status and development
+restriction factor of unconventional oil and
+gas
+2.1 Huge potential of unconventional oil and gas in
+global hydrocarbon exploration
+2.1.1 Abundance and potential of unconventional oil and gas
+resources for exploration and development
+Global unconventional oil and gas resources are extremely rich
+with huge potential for exploration and development. The total
+unconventional oil recoverable resources is up to 620×109 t,
+equivalent to the conventional oil resources, the unconventional
+gas recoverable resources estimated to be 4000×1012 m3(BPC,
+2016; CAPP, 2016; EIA, 2016). The ratio of unconventional and
+conventional oil and gas resources was 8:2 (Zou et al., 2015).
+In China, the unconventional oil resource is about 24×10 9 t,
+unconventional gas resource is about 100×1012 m3, indicating a
+tremendous development potential (Li et al., 2012). Industrial
+development has been achieved for tight oil and gas, shale gas
+and coalbed methane as important supplement to conventional
+oil and gas, which will make more contributions to future oil and
+gas supply. Thus exploration and development of unconventional
+oil and gas has an important practical significance.
+A decade ago, the inclusion of oil sands in Canada and heavy
+oil in South America led to an increase in global oil reserves by
+140×109 t, representing the first expansion of global oil and gas
+resources. Tight oil and gas, shale gas, coalbed methane and
+other unconventional oil and gas resources have been greatly
+developed in the existing economic and technical conditions to
+show huge resource potential, resulting in the second expansion
+of global oil and gas resources. Taking the development of
+unconventional gas in the United States as an example, the
+development of shale gas and tight gas led to an increase in the
+proven gas reserves in the U.S. from 5.0121×1012 m 3 in 2002
+to 6.9376×1012 m 3 in 2008 with a growth rate of 38% (BPC,
+2013). Reserve growth greatly expands the resource potential.
+For example, unconventional gas resources are rich in China,
+with unconventional gas geologic resources of 140×1012 to
+230×1012 m3, and recoverable reserves of 35×1012 to 48×1012 m3,
+accounting for about 75% of total gas resources (Jia et al., 2011a;
+Jia et al, 2011b). This has greatly expanded the total resources in
+China.
+2.1.2 Steady increase of the proportion of unconventional oil
+and gas production
+With the development of production technology, especially
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+the application of horizontal drilling and hydraulic fracturing
+technology, the production of unconventional oil and gas
+resources has been increased consecutively with increasing
+proportions of oil and gas production. The proportion of
+unconventional oil and gas production occupies close to 10%
+of the total oil and gas production, becoming an important
+component of global oil and gas output. Such proportion will
+become even larger in the future oil and gas supply. Variations
+in gas production of the United States during 1949-2009 are
+the most direct reflection of this trend of oil and gas resource
+production structure. Gas production of the U.S. reached a
+peak at 640×109 m 3 in 1973, then declined subsequently, and
+amounted to 600×10 9 m 3 in 2009 (BPC, 2013). Since 1990,
+although conventional gas production has declined annually,
+total gas production is steady with growth, where contribution
+of unconventional gas is undeniable. Unconventional gas
+production exceeded 50% of the total gas production in 2009, of
+which the proportions of tight gas, coalbed methane and shale
+gas production were about 53%, 22% and 25%, respectively.
+
+2.2 Some challenging geological issues around
+unconventional oil and gas exploration
+Unconventional oil and gas exploration and development become
+extremely successful in the U.S., but the successful story failed
+to be replicated by other countries and regions. Unconventional
+oil and gas has complex geologic reservoiring conditions and
+exploration development environment (Zou et al., 2012b), thus
+great effort has to be made in the research on unconventional
+oil and gas geological theories, resource evaluation and other
+core technologies. Studies should be carried out on micro-nano
+pore structures, fluid phase behavior and flow patterns, so as to
+systematically investigate regional accumulation and distribution
+patterns. In addition to solid fundamental geological research,
+more attention should be paid to important basic theoretical
+issues affecting the unconventional oil and gas development
+such as: (1) revisiting the conventional “petroleum system”
+model, (2) fine-grained sedimentary system and tight reservoir
+sedimentology, (3) micro-nano pore systems and fluid phase
+behavior in shale and tight reservoirs, (4) unconventional oil and
+gas enrichment patterns and resource evaluation.
+
+3 I mp or t a nt t he or e t i c a l i s s ue s of
+unconventional oil and gas geology
+It is often said that petroleum exists in the mind of oil explorers
+first. As a new frontier in the exploration of oil and gas, the
+exploration and development of unconventional hydrocarbons
+needs new oil and gas accumulation theory as guidance.
+The development of unconventional oil and gas changes the
+conventional hydrocarbon prospecting idea and viewpoint from
+the “trap” back to the “source”. Starting from the concept of
+conventional petroleum system, the “petroleum system” for
+
+the unconventional oil and gas has been further developed and
+improved to include the study of the fine-grained sedimentary
+system and tight reservoirs and identify micro-nanopores and
+fluid phase behavior, so as to analyze the distribution and
+enrichment patterns of the unconventional oil and gas and its
+resource potential.
+
+3.1 Refining the “petroleum system” concept
+Since the Petroleum System concept was proposed by Dow in
+1972 (Dow, 1972), a series of significant achievements have been
+obtained in oil and gas exploration under the guidance of this
+theory. As unconventional oil and gas resources have gradually
+become the primary focus of the future oil and gas exploration
+and development, the development conditions and exploration
+characteristics add new meanings to the conventional petroleum
+system. On one hand, through a holistic-process accumulation
+research, the hydrocarbon reservoiring capacity of source rocks
+will be revisited, on the other hand, hydrocarbon generation,
+expulsion and retention potential of source rocks shall be
+analyzed and studied to evaluate the mechanisms of in-source
+and near-source hydrocarbon accumulation.
+3.1.1 “Holistic-process accumulation” model of the “total
+petroleum system” concept in a petroliferous basin
+Petroleum system consists of a hydrocarbon kitchen and three
+dimensional units involved in migration and accumulation of
+the generated hydrocarbons (Zhao et al., 2012). Oil and gas
+occurrence depends on different classes of geological spaces
+and their internal factors, and the formation and distribution of
+hydrocarbon reservoirs is a core issue of research in petroleum
+system or compound (complex) petroleum system (Zhao, 2003).
+The concept of “total petroleum system” emphasizes not only
+the accumulated oil and gas resources through generation,
+expulsion, migration, accumulation and preservation processes,
+but also the oil and gas retained in the source rocks and filling
+the near-source tight layers.
+As the deepening of research on unconventional hydrocarbon
+exploration and basic geological theory, oil and gas resources
+display the “holistic-process accumulation” characteristics
+of the total petroleum system from source rocks to enriched
+accumulations. Shale oil and gas, tight oil and gas, oil sands and
+other unconventional oil and gas plays expand the traditional
+petroleum system concept, so as to extend the reservoiring types
+of available and usable oil and gas resources to the immature
+and low-mature source rock series, high-mature source rock
+series, near-source tight sandstone and limestone rock series,
+and near-surface rock series capturing the loss of crude oil and
+etc. According to the different evolution stages of source rocks,
+different types of oil and gas resources can be formed.
+Immature or low-mature source rocks are extracted in the form
+
+115
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+of solid shale mineral and carbonized at low temperature to
+obtain shale oil. After oil and gas are expelled, the hydrocarbons
+retained in the source rocks formed shale oil and gas. After
+the primary migration, near-source oil and gas is charged
+into tight sandstone or limestone to form tight oil and gas,
+so that favorable traps are accumulated efficiently to develop
+conventional oil and gas, or oil sand resources after oxidation
+or biodegradation of oil and gas reservoirs. Therefore, the
+traditional “petroleum system” should be revisited and studied
+according to the “total petroleum system accumulation model”
+based on the holistic-process of hydrocarbon evolution.
+3.1.2 Quantitative research on process of hydrocarbon
+generation-expulsion-migration-accumulation
+Traditional oil and gas resource potential evaluation starts from
+source rocks to use the quantity of hydrocarbons generated
+and accumulation-to-primary-migration coefficient to obtain
+the resource potential of oil and gas reservoirs at the end.
+The resource accumulation of hydrocarbon reservoirs at the
+end in the process of generation, expulsion, migration and
+accumulation is particularly emphasized. However, quantitative
+research on various stages of generation, expulsion, migration
+and accumulation is ignored, so that the resource potential has
+not been evaluated scientifically and properly. A more effective
+approach should start from the hydrocarbon generation model,
+refine the hydrocarbon evolution process, clarify quantitative
+research at various stages of hydrocarbon generation, expulsion,
+migration and accumulation, and carry out quantitative research
+on the holistic-process of hydrocarbon generation, expulsion,
+migration and accumulation (Jarvie et al., 2007; Jia, 2012;
+Mahlstedt and Horsfield, 2012), so that resource evaluation will
+be more scientific and realistic.
+Advances in fundamental geological theory and analytical
+technology for oil and gas enable the implementation of
+quantitative research on the holistic-process of the hydrocarbon
+generation, expulsion, m igration and accumulation. A
+hydrocarbon generation and expulsion model under simulated
+geological conditions (under the actions of temperature,
+pressure, porosity, permeability, wettability and stress field) is
+required to study the holistic-process from immaturity to highover maturity, and from residual hydrocarbons to migrated/
+accumulated hydrocarbons and scattered hydrocarbons (Fig.
+1), which involves four key issues: (1) hydrocarbon generating
+potentials in three stages, i.e., primary cracking, secondary
+cracking and high temperature cracking, (2) restoration of highover mature organic-matter hydrocarbon generation potential
+and quantitative evaluation on hydrocarbon generation and
+expulsion process, (3) gas generating potential evaluation for
+scattered soluble organic matter and hydrocarbon generating
+potential of limy oil source rocks, (4) quantitative evaluation on
+the amount of retained hydrocarbons in the source rocks. The
+
+116
+
+holistic-process hydrocarbon generation– expulsion–migration–
+accumulation model under geological conditions is used to guide
+the oil and gas resource evaluation and increase the objectivity
+of resource evaluation.
+Content of original organic carbon (6.41%)
+Content of organic
+carbon of hydrocarbon
+generation (2.32%)
+Expulsed
+carbon
+content
+(1.39%)
+
+Expulsion
+Gas
+0.42%
+Oil
+0.97%
+
+Residual organic carbon content
+(4.09%)
+
+Residual
+carbon
+content
+(0.93%)
+
+Residual
+
+Oil cracking gas
+0.31%
+Residual organic carbon content
+(4.09%)
+
+0.28%
+Residual carbon
+0.34%
+
+Residual organic carbon content
+(4.43%)
+
+Ro>2%
+Oil expulsion
+amount
+
+Gas expulsion
+amount
+
+Reserved gas
+volume
+
+Potential
+gas volume
+
+Fig. 1 A whole-process modified model of hydrocarbon
+generation and expulsion in the increasing high-temperature
+pyrolysis (Mahlstedt and Horsfield, 2012)
+
+3.1.3 Unconventional oil and gas accumulation mechanisms
+In terms of hydrocarbon expulsion stages, unconventional oil
+and gas can be divided into in-source retained shale oil and
+gas, near-source charged tight oil and gas, or tight oil and gas
+transported through secondary migration to tight conventional
+reservoir. Unconventional oil and gas resources are within the
+source rocks or in inter-bedded neighboring tight sandstone/
+limestone. Tight reservoirs (including tight layers of mudstoneshale and tight layers of sandstone/limestone) provide oil and
+gas reservoiring space in a unique way. A large amount of
+unconventional oil and gas is “blocked” and “bounded” in tight
+stratigraphic layers that were previously thought to have no oil
+and gas reservoiring capability. In the source rocks at the high
+thermal maturation stage, the development of organic pores can
+compensate for the loss of inorganic pores. Deep tight reservoirs
+can also undergo organic acid dissolution in the process of
+hydrocarbon generation to produce pore-increasing effect, so
+as to make up for the pore-reduction effect due to diagenetic
+compaction and to improve the unconventional oil and gas
+reservoiring ability.
+Mudstone-shale pores consist mainly of three types, i.e.,
+interparticle pores, organic-matter nanopores and dissolution
+pores. Because of the development of organic pores, the source
+rocks of mudstone-shale can provide storage space for shale oil
+and gas enrichment and accumulation in the high-mature stage
+(Fig. 2). It has been revealed that organic-matter nanopores
+account for 31.74% of the total mudstone-shale pores but only
+accounts for 1.8% of the rock volume on average (Guo et al.,
+2013). In the source rock layers at a high thermal evolution
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+reduction from diagenetic compaction.
+
+stage, organic pores compensate for the loss of inorganic pores.
+Low-mature stage Oil window stage
+R o /%
+
+0.42
+
+0.2
+
+0.38 0.48
+
+0.82 1.06 1.5
+
+Type-II kerogen
+Bitum
+
+Increase of porosity
+
+Kerogen
+
+3.2 Fine-grained sedimentary system and tight
+facies belt sedimentology
+
+Shale gas window stage
+
+en
+
+Oil
+
+2.8
+Gas
+
+Co kin g asp ha
+
+lt
+
+5.0
+
+3.2.1 Definitions of fine-grained sedimentary system and
+tight facies belt sedimentology
+
+?
+
+Fine-grained sediments refer to the sediments with 50% of
+grain sizes less than 0.1 mm in diameter (Jiang et al., 2013).
+These are composed mainly of clay and silty terrigenous clastic
+particles, as well as a small number of endogenous basinal
+carbonate, biological siliceous matter, and phosphate particles.
+Fine-grained sediments can be divided into marine fine-grained
+sedimentary system and lacustrine fine-grained sedimentary
+system. Dimberline et al regarded that hemipelagic sediments
+are a kind of layered fine-grained sediments dominated by silt
+particles, which can be mixed with sandy or muddy turbidite
+sediments (storm influence) or form independent sedimentary
+facies, it was proposed that such hemipelagic fine-grained
+layer is the result of alternating plankton flourish and silty
+sand deposition (Dimberline et al., 1990), and such alternating
+cycles may be formed yearly or quarterly (Fig. 3). Lemons and
+Chan studied some lacustrine basin fine-grained sediments, and
+concluded that lake level variations, tectonism, sedimentary
+provenance and basin bedform may be the main factors
+influencing the distribution of lacustrine basin fine-grained
+sedimentary facies, of which basin bedform is the most critical
+factor (Lemons and Chan, 1999).
+
+Conversion from
+kerogen to oil Organic pore
+C om pa ct io
+n
+di ag en es isan d
+
+Clay
+Siliceous matter
+
+Fig. 2 Correspondence between kerogen thermal evolution
+stage and pore development in source rocks (Passey et al.,
+2010)
+
+The change in porosity of tight sandstone in the burial process
+is not only associated with burial depth but is also affected by
+sediment compositions, grain sizes, sorting, presence of early
+cement, geothermal gradient, abnormal high pressure zones and
+other factors (Liu et al., 2007). Dissolution is the key influential
+factor for sandstone porosity development. Due to early dissolution,
+secondary pores can be formed, dominated by interparticle pores
+and intraparticle dissolution pores. A large number of interparticle
+dissolution pores can also be developed due to the dissolution of
+early cements by organic acids in the late hydrocarbon-generation
+peak period (Liu et al., 2012). All the above pores play key roles of
+pore-increasing effect for tight sandstone and make up for the poreTransition zone
+
+In situ zone
+
+H ig h d
+
+e n s it y
+
+Sedimentary zone
+
+f lo w
+Low density flow
+Bathyal suspended matter
+
+Chappel Limeatons
+Tu
+
+rbi
+
+dit
+
+Suspended matter
+
+yc
+
+urr
+
+ent
+
+Clay-rich facies
+
+Spicule-rich facies
+Rh yt hm ic m
+
+ud sto ne fa ci
+es
+G ra de d m
+ud st on e fa
+ed -i n cl in
+ci es
+ed
+M as siv e m ud
+b ed d in g
+sto ne fa ci es
+fa ci es
+
+C o rr u g at
+
+Ordovician Ellenburger Group
+
+Fig. 3
+
+Depositional model of Barnett Shale in Ford Wards Basin, Texas, USA (Dimberline et al., 1990)
+
+3.2.2 Combining fine-grained sedimentary investigation and
+unconventional oil and gas evaluation
+With exploration and development of global shale oil and gas as
+well as tight oil and gas, fine-grained sedimentation has become
+a frontier research area. In terms of unconventional oil and
+gas exploration, fine-grained sediment research should focus
+on the following three areas: (1) establishing the classification
+
+scheme for fine-grained sedimentary system, and carrying out
+research on tight sedimentary facies belt based on sedimentary
+textures, structures, depositional environments, mineral and
+chemical compositions; (2) studying the source-reservoir
+configuration of fine-grained sedimentary system in terms of
+favorable reservoiring conditions of unconventional oil and
+gas, analysing single and mixed hydrocarbon accumulation
+models, such as in-source type (shale oil and gas) of marine or
+
+117
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+lacustrine mudstone-shale, near-source tight type (tight oil and
+gas) and source-reservoir alternating type (tight and shale oil
+and gas) of prodelta fine-grained sediments, and identifying
+fine-grained sedimentary formation series with unconventional
+oil and gas resource potential by enhancing the research on
+fine-grained sediment and tight sedimentary facies belt; (3)
+investigating the relationship between fine-grained sedimentary
+system and conventional oil and gas reservoir system, and
+making accurate assessment on whether an integrated research
+and joint exploration and development should be carried out for
+unconventional and conventional oil and gas.
+The development condition of tight oil is a typical representative
+of fine-grained sedimentary system, which requires both finegrained mudstone-shale source rock and tight sandstone or
+limestone as reservoir sequences. As viewed from lacustrine
+basin types and sedimentary environments, tight reservoirs in
+close contact with major oil-generating rocks in China mainly
+include three genetic types (Jia et al., 2012): (1) the saline
+lacustrine carbonate sedimentary environment related to lake
+salinization, where high-quality source rocks are interbedded
+with carbonate-enriched reservoirs or gypsum-salt layers, and
+the saline lacustrine carbonates are sandwiched in dark semideep lacustrine to deep lacustrine facies mudstone-shale,
+forming superior tight oil accumulation conditions; (2) the deeplacustrine underwater prodelta sedimentary environment, which
+is dominated by thin-layer silty fine-sand sediments transported
+via delta front while satisfying the sedimentation of high-quality
+argillaceous source rocks, so as to form interbed high-quality
+source rocks and thin-layer silty fine sandstone or tight intervals
+adjacent to or in close contact with the source-reservoir; (3) the
+gravity-flow dominated sedimentary environment resulting from
+the disturbance on deep-lacustrine depression or slope areas,
+which is usually located at the centre of hydrocarbon generation
+depression, and gravity-flow sediments come in direct contact
+with source rocks.
+The basic research on continental fine-grained sediment
+system is presently insufficient, and there has been no unified
+understanding on the genesis and distribution patterns of the
+organic-rich shales. Therefore understanding the relationship
+between sedimentary environment and organic matter is of great
+benefit to the prediction and evaluation of shale (tight) oil and
+gas resources.
+
+3.3 Micro-nano pore system and fluid phase
+behavior in shales and tight reservoirs
+3.3.1 Research focus on micro-nano pore system and fluid
+phase behavior
+Unconventional oil and gas reservoirs are primarily dominated
+by nanopore-throat system with local development of pores
+at millimeter–micrometer scale. The identification of micro-
+
+118
+
+nano pore is not the purpose of unconventional reservoir study.
+Instead, through the study of micro-nano pores and fluid phase
+behavior, oil and gas storage space and mobility are to be
+determined. The research focuses should include the following
+five aspects: (1) the development condition and distribution
+patterns of micro-nano pores in shales and tight reservoirs, (2)
+the binding effect and adsorption properties of shales and tight
+reservoirs on oil and gas, (3) the fluid phase behavior of micronanopores in shales and tight reservoirs, (4) the mechanism of
+hydrocarbon charge and displacement for micro-nano pores, (5)
+the connectivity and fluid phase behavior of micro-nano pores
+for the purpose of determining the movable oil potential.
+3.3.2 Characteristics of micro-nanopores
+The micro-nano pore-throat system has a dominant pore
+size range of 20-500 nm (Zou, 2013), of which the shale gas
+reservoir, shale oil reservoir, tight limestone oil reservoir, tight
+sandstone oil reservoir and tight sandstone gas reservoir have
+pore size ranges of 5-200 nm, 30-400 nm, 40-500 nm, 50-900
+nm and 40-700 nm, respectively. Reservoir characterisation
+shows that the nano pore-throats with a diameter less than
+1 μm account for more than 80% of reservoiring space, and
+micropores account for 5%–20% (Zou, 2013).
+Unconventional oil and gas reservoir pore types include
+primary interparticle pores, intercrystalline pores, interparticle
+dissolution pores, intraparticle pores and organic pores.
+Scanning electron microscopy (SEM) studies show that
+interparticle dissolution pores and primary interparticle pores
+are important spaces for oil in tight sandstone, tight limestone
+and other unconventional reservoirs (Zou et al., 2009b). As
+important channels for shale gas occurrence and seepage,
+organic pores play a key role in determining the gas content
+of shale reservoir. The development or absence of organic
+pores in shales determines whether shale gas can be developed
+commercially and viably (Zou, 2013).
+Shale pore types include interparticle dissolution pores, clay
+interlayer micropores, particle dissolution pores, dissolution
+intramatrix pores, intraparticle dissolution pores and organic
+pores. Pore size is generally of micron range, and organic pore
+throats are normally 100-200 nm with large specific surface
+areas and complex structures. Shales with low-medium thermal
+maturity contain inorganic interparticle and intraparticle pores,
+while shales with high thermal maturity consist primarily of
+organic nanopores. The increase of organic pores generated in
+the high thermal evolution stage largely makes up for the loss
+of inorganic pores during the compaction and diagenesis stage
+(Fig. 4) (Cander, 2012). Organic nanopores of mudstone-shale in
+the Weiyuan and Changning, Sichuan Basin, account for 31.74%
+of the total pores in mudstone-shale, equivalent to 1.8% of rock
+volume on average (Guo et al., 2013).
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+3.3.3 Fluid phase behavior in micro-nanopores
+Micro-nanopores govern hydrocarbon accumulation modes and
+fluid phase behaviors. In millimeter pores (with pore-throat
+diameter greater than 1 mm) and above, fluids can flow freely
+to form a “pipe flow”, where oil and gas mostly occurs in a free
+state in the connected pores and fractures, obeying the law of
+hydrostatics. In micro pores (with pore-throat diameter of 1
+mm-1 μm), the capillary resistance restricts the free flow of fluid
+and forms “seepage”, obeying the Darcy Law of seepage. In
+nanopore throats (with the pore-throat diameter less than 1μm),
+there are strong viscous force and molecular force between fluid
+and the surrounding medium, where oil and gas is adsorbed
+in adsorbed state on the surface of minerals and kerogen or
+adsorbed in a diffusion state to the internal solid organic matter.
+0.01
+0
+
+Porosity
+0.1
+
+1
+
+0.5
+1.0
+
+Depth/km
+
+1.5
+
+Inorganic pore
+
+2.0
+2.5
+3.0
+3.5
+
+Organic pore
+
+4.0
+4.5
+5.0
+
+Fig. 4 Development and evolution model of inorganic and
+organic pores in shales
+
+Effective migration phases of gas include water soluble phase,
+oil soluble phase, free phase and diffusion phase. As three major
+types of unconventional natural gases, tight gas, shale gas and
+coalbed methane are stored in the reservoirs under different
+modes, due primarily to the difference in organic matter
+content. In tight sandstone, organic matter content is low and
+the gas occurs in pores as a free phase. In shales, organic matter
+content is moderate and organic pores are abundant, thus the
+gas occurrence state is more complex: usually with 20%-85%
+adsorbed to kerogen or clay particles, and 25%-30% in a free
+state filling fractures or interparticle pores, and minor amount
+dissolved in kerogen, bitumen and water. In coal seams, organic
+matter content is very high, and coalbed methane mainly occurs
+in absorbed state in micropores of coal. The presence of water
+in shale reservoirs has some adverse impacts on shale reservoir
+storage capability, because the water molecule film can greatly
+reduce the adsorption ability of clay minerals. In nanopores,
+
+there are great viscous force and molecular force between
+fluid and surrounding medium, where fluid can hardly flow
+freely under general condition and can thus be retented. When
+temperature and pressure condition changes, diffusion only
+occurs in the state of molecules or molecular groups (Zou et al.,
+2012a), and oil and gas in the nanopores is just “migration” in
+such states.
+
+3.4 Enrichment patterns and resource evaluation
+of unconventional oil and gas
+3.4.1 Enrichment patterns of unconventional oil and gas
+Unconventional oil and gas reservoirs are also known as
+“continuous” oil and gas reservoirs in the early days, which
+vividly illustrate the occurrence state of unconventional oil and
+gas and at the same time gives an impression of widespread
+occurrence of oil and gas. As viewed from exploration practices
+for the unconventional oil and gas, such as shale gas in the
+Longmaxi Formation in the southern Sichuan, tight oil in the
+Chang-7 Member of the Yanchang Formation in the Ordos
+Basin, tight oil in the Lucaogou Formation, Jimusar Depression,
+Junggar Basin, tight oil in the Qingshankou Formation,
+Songliao Basin, and tight gas in the Sulige Field, Ordos Basin,
+unconventional oil and gas may exist in association with bottom
+water, top water, side water, or exhibit oil-water differentiation or
+intercalation, or shows slope-controlled continuous distribution
+(Zou et al., 2009a). This may be also manifested as structurally
+controlled local enrichment, which is not continuous in a
+narrow sense. Overall, unconventional oil and gas enrichment is
+primarily controlled by the following four factors:
+(1) Sedimentary configuration of the prototype basins: the
+tectono-sedimentary characteristics of prototype basins not
+only affect the development and distribution of source rocks
+and reservoir units, but also have an overwhelming control
+over the hydrocarbon generation and expulsion processes of
+the source rocks, the formation of favorable migration conduit
+systems, and the development of pore–fracture network system.
+A comprehensive understanding of the characteristics of the
+prototype basin is thus a pre-requisite for effective oil and gas
+exploration.
+(2) Concentrated development zones of high-quality source
+rocks: the development of unconventional oil and gas resources
+have more stringent requirements for organic matter types,
+abundance and maturity characteristics. According to the lower
+limits of organic carbon content (e.g. 1%, 1%-2% or > 2%),
+source rocks can be divided into three categories. The highquality source rock zones with organic carbon content over 2%
+are the realistic areas for unconventional oil and gas exploration
+and development, while the rest two categories have potential to
+be developed for unconventional oil and gas.
+
+119
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+(3) Large-scale development of reservoir sweet spots: the
+continuous distribution of unconventional oil and gas is
+characterized by extensive (diffusive) distribution, and the
+oil and gas show higher enrichment extent in reservoir sweetspot zones and their peripherals, whereas elsewhere oil and
+gas is mostly scattered in irregular distribution. Therefore, the
+identification and development of sweet-spot zone governs the
+commercial development value of unconventional oil and gas
+resources.
+(4) Moderately preservation conditions: the lithology and pore
+development characteristics of unconventional oil and gas
+reservoirs have a strong binding force to oil and gas and can
+lead to huge variations in hydrocarbon charge and accumulation
+along with high risk of destruction and loss. The strict “trap,
+migration and preservation” conditions required for conventional
+oil and gas have little significance for unconventional oil and
+gas reservoirs. Due to their unique accumulation characteristics,
+unconventional oil and gas resources are not prone to damage
+by external factors. Once accumulated, unconventional oil
+and gas can be easily preserved, which also determines the
+characteristics of extensive distribution of unconventional oil
+and gas resources.
+3.4.2 Evaluation of unconventional oil and gas resources
+As the exploration and development of unconventional oil and
+gas characterized by huge challenge, rapid production decline
+and relatively small production per well, recoverablity and
+profitability of resources have to be emphasized in its evaluation.
+This include: (1) recoverable resource evaluation must be
+
+emphasized, and objective evaluation of Estimated Ultimate
+Recovery (EUR) should rely on mature production area and
+production well data; (2) it requires to carry out comprehensive
+evaluation of the favorable zones, prototype basin analysis,
+source rocks, stable tectonic region and preservation condition,
+as well as surface engineering construction conditions; (3)
+geophysical data should be used to differentiate shale facies,
+predict the spatial distribution of organic-rich shale facies and
+brittle shale facies; (4) geological and engineering conditions
+need to be considered for comprehensive prediction of “sweet
+spots” and their distribution under given engineering conditions;
+(5) favorable optimization parameters and standard are to be
+established.
+Due to the varieties of unconventional oil and gas resources and
+their diverse geological characteristics, no single unified method
+can be directly used for resource evaluation. Suitable evaluation
+methods should thus be optimized according to the specific
+characteristics of the unconventional oil and gas resources.
+Several evaluation methods were developed in China and
+elsewhere as summarized in Guo et al. (Guo et al., 2011). Coalbed
+methane, gas hydrate, oil shale and oil sands are mainly evaluated
+by volume method. For the tight sandstone gas, tight oil, and
+shale oil and gas resources, the evaluation methods used are quite
+different in China and elsewhere. Analogy method and genetic
+method are usually used in China, while the analogy method
+and statistical method are often used elsewhere. In terms of the
+analogy method, the resource abundance analogy method is more
+often used in China, while the FORSPAN method (Schmoker,
+1999) and its variations are more often used elsewhere (Table 1).
+
+Table 1 Optimization of unconventional oil and gas resource evaluation methods
+Resource
+type
+
+China
+
+Overseas
+
+Tight
+sandstone
+gas
+
+Delphi method, geological analogy method, residual resource
+analysis method, accumulation-dispersion balance calculation
+method, formation-fluid abnormal pressure recovery method,
+accumulation condition analysis and prediction method, basin
+simulation method, sweet-spot scale sequence model method of
+deep-basin gas reservoir, volume method
+
+FORSPAN method (USGS analogy method), resource
+network density method (ExxonMobile analogy
+method), stochastic simulation method, singlewell reserve estimation method, statistical method
+(discovery process method and spatial resource
+distribution and prediction method)
+
+Tight oil
+
+Graded resource abundance analogy method, EUR analogy
+method, small surface element method (volume method) and
+basin simulation method
+
+FORSPAN method, small surface element method
+
+Shale gas
+
+Resource abundance analogy method, EUR analogy method,
+volume method, adsorption method of unit rock gas
+
+USGS analogy method, single-well reserves estimation
+method
+
+Volume method
+
+Volume method, analogy method
+
+Volume method
+
+Volume method
+
+Oil shale
+
+Volume method, pyrolysis simulation method
+
+Volume method, spatial resource distribution and
+prediction method
+
+Oil sands
+
+Volume method
+
+Volume method
+
+Coalbed
+Methane
+Gas
+hydrate
+
+120
+
+Unconventional oil and gas resource evaluation methods
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+4 Conclusions
+The exploration and development of unconventional oil and
+gas shows a good development momentum. Some acute issues
+were encountered in the exploration and development practices
+of unconventional oil and gas, such as great difficulty in
+exploration and development, relatively high investment, single
+well rapid production decline and relatively small production
+per well. For example, the output of a shale gas well can fall by
+60%-90% in the first year of production. From the perspective
+of unconventional oil and gas accumulation and distributionenrichment patterns, four important theoretical issues were
+identified:
+(1) The concept of “petroleum system” was further elucidated.
+The adoption of a holistic-process accumulation model
+of total petroleum system highlighted the possibility and
+the objectivity of predicting the distribution in generation,
+expulsion, accumulation and dispersion of hydrocarbons. In
+the holistic-process hydrocarbon generation and expulsion
+model, three stages were recognised, i.e., primary cracking,
+secondary cracking and high-temperature cracking, and their
+hydrocarbon generation potentials were evaluated. Hydrocarbon
+generation and expulsion quantities were adopted to constrain
+the evaluation of related conventional oil and gas resources.
+Based on the accumulation mechanisms, unconventional oil and
+gas accumulation models were categorised as in-source retained
+shale oil and gas, near-source charged tight oil and gas, or tight
+oil and gas transported via secondary migration to conventional
+reservoirs.
+(2) The research on fine-grained sedimentation and tight
+reservoirs was emphasized. Three issues were identified from the
+perspective of fine-grained sedimentation and unconventional
+oil and gas exploration, including the classification scheme, the
+source-reservoir configurations of fine-grained sedimentary
+system, and the integrated research and exploration of finegrained sedimentary system.
+(3) M icro -na no pores a re t he ma i n storage spaces of
+unconventional oil and gas reservoirs. Nanopore-throats
+with diameters less than 1 μm account for over 80% in most
+reservoirs, whereas micropores only account for 5%–20%.
+Micro-nanopores govern hydrocarbon accumulation models and
+fluid phase behaviors. Due to these characteristics, micro-nano
+pore research should focus on the micro-nano pore development
+and distribution patterns, oil and gas adsorption properties of
+micro-nano pores, fluid phase behavior in pores, hydrocarbon
+charge and migration mechanisms, and movable oil potential
+evaluation.
+(4) Multiple factors shall be taken into account comprehensively
+in the research of unconventional oil and gas enrichment patterns
+
+and resource evaluation. Unconventional oil and gas distribution
+is complex, and its enrichment patterns are controlled by four
+major factors, i.e., the tectonic-sedimentary configuration of
+the prototype basin, concentrated development area of highquality source rocks, the conditions for large-scale development
+and preservation of reservoir sweet spots. The distribution and
+enrichment patterns of unconventional oil and gas should be
+investigated comprehensively including unconventional oil and
+gas from geological evaluation, geophysical data, development
+data, parameter criteria, method optimization and other aspects,
+so as to objectively evaluate the recoverable resources.
+
+Acknowledegments
+This work was funded by National Science and Technology
+Major Project (2011ZX05043), CNPC Major Science and
+Technology Project (2013E0502) and Innovation Project of
+PetroChina Research Institute of Exploration and Development
+(2012Y006).
+
+References
+British Petroleum Company (BPC) .BP statistical review of world energy
+2013. London: British Petroleum Company, 2013.
+British Petroleum Company (BPC). BP energy outlook 2030. London:British
+Petroleum Company, 2011.
+British Petroleum Company (BPC). BP statistical review of world energy
+2016. London: British Petroleum Company, 2016
+Canadian Association of Petroleum Producers(CAPP). Statistical handbook
+for Canada’s upstream petroleum industry. Calgary: Canadian Association of Petroleum Producers, 2016.
+Cander H. Sweet spots in shale gas and liquids plays:prediction of fluid composition and reservoir pressure. California: 2012 AAPG Annaul Meeting, 2012.
+Dimberline A J, Bell A, Woodcock N H. A laminated hemipelagic facies
+from the Wenlock and Ludlow of the Welsh Basin. Journal of the Geological Society, 1990, 147: 693-701.
+Dow W G. Application of oil correlation and source rock data to exploration
+in Williston Basin (abs.). AAPG Bulletin, 1972, 56: 615.
+Guo Q L, Chen X M, Song H Q, et al. Evolution and models of shale porosity during burial process. Natural Gas Geoscience, 2013, 24(3): 439-449
+(in Chinese with English abstract).
+Guo Q L, Zhou C Q, Chen N S, et al. Evaluation methods for unconventional
+hydrocarbon resources. Lithologic Reservoirs, 2011, 23(4): 12-19 (in
+Chinese with English abstract).
+Hafez. A . Shale gas “hoax”. Investor Journal, 2013, (3). http: www.qikan.
+com.cn/Article/tzzb/tzzb201303.
+Jarvie D M, Hill R J, Ruble T E, et al. Unconventional shale gas systems:
+the Mississippian Barnett shale of north central Texas as one model for
+thermogenic shale gas assessment. AAPG Bulletin, 2007, 91(4): 475499.
+Jia C Z, Li J Z, Chang Y W, et al. The large oil and gas fields and coal bed
+gas exploration and exploitation technology development strategy of
+China (2008ZX05043). Beijing: CNPC Science and Technology Research Institute, 2011a.
+
+121
+
+C.Jia et al./Petroleum Research (2016) 2,113-122
+
+Jia C Z, Li J Z, Zheng M, et al. China’s oil and gas exploration and development theory achievement and the new generation of integrated theory
+(2008ZX05043-002). Beijing: CNPC Science and Technology Research
+Institute, 2011b.
+Jia C Z, Zou C N, Li J Z, et al. Evaluation criteria,major types,characteristics,
+and resource prospects of tight oil in China. Acta Petrolei Sinica, 2012,
+33(3): 343-350 (in Chinese with English abstract).
+Jia C Z. Several important issues about current oil and gas exploration in
+China. Acta Petrolei Sinica, 2012, 33(S1): 6-13 (in Chinese with English
+abstract).
+Jiang Z X, Liang C, Wu J, et al. Several issues in sedimentological studies
+on hydrocarbon bearing fine grained sedimentary rocks. Acta Petrolei
+Sinica, 2013, 34(6): 1031-1039 (in Chinese with English abstract).
+Lemons D R, Chan M A. Facies architecture and sequence stratigraphy of
+fine grained lacustrine deltas along the eastern margin of Late Pleistocene Lake Bonneville, northern Utah and southern Idaho. AAPG Bulletin, 1999, 83(4): 635-665.
+Li J Z, Zheng M, Zhang G S, et al. Potential and prospects of conventional
+and unconventional natural gas resource in China. Acta Petrolei Sinica,
+2012, 33(S1): 89-98 (in Chinese with English abstract).
+Liu H, Peng J, Li L J, et al. Characteristics and controlling factors of calcarenaceous sandstone reservoir in the middle part of western Sichuan Basin. Lithologic Reservoirs, 2012, 24(2): 77-82 (in Chinese with English
+abstract).
+Liu Z, Shao X J, Jin B, et al. Coeffect of depth and burial time on the evolution of porosity for classic rocks during the stage of compaction. Geoscience, 2007, 21(1): 125-132 (in Chinese with English abstract).
+Mahlstedt N, Horsfield B. Metagenetic methane generation in gas shales
+I:screening protocols using immature samples. Marine and Petroleum
+Geology, 2012, 31(1): 27-42.
+Passey Q R, Bohacs K M, Esch W L, et al. From oil prone source rock to gas
+producing shale reservoir: geologic and petrophysical characterization
+
+122
+
+of unconventional shale gas reservoirs.SPE 131350, 2010.
+Schmoker J W. U.S.geological survey assessment model for continuous
+(unconventional) oil and gas accumulations: the “FORSPAN” model.
+U.S.Geological Survey Bulletin, 1999, 2168: 1-9.
+U. S. Energy Information Administration (EIA). International energy outlook 2016. Washington: U. S. Energy Information Administration, 2016.
+Zhao W Z, He D F, Fan S Z. The study on terminology,technological process and kernel content for petroleum system. Petroleum Exploration
+and Development, 2012, 29(2): 1-7 (in Chinese with English abstract).
+Zhao W Z. The features of petroleum systems in superimposed sedimentary
+basins of China and their evaluation methodology. Beijing: Science
+Press, 2003: 1-117 (in Chinese).
+Zou C N, Tao S Z, Yang Z, et al. New advance in unconventional petroleum
+exploration and research in China. Bulletin of Mineralogy,Petrology and
+Geochemistry, 2012a, 31(4): 313-322 (in Chinese with English abstract).
+Zou C N, Tao S Z, Yuan X J, et al. Global importance of “continuous” petroleum reservoirs: accumulation, distribution and evaluation. Petroleum
+Exploration and Development, 2009a, 36(6): 669-682 (in Chinese with
+English abstract).
+Zou C N, Tao S Z, Yuan X J, et al. The formation conditions and distribution
+characteristics of continuous petroleum accumulations. Acta Petrolei
+Sinica, 2009b, 30(3): 324-331 (in Chinese with English abstract).
+Zou C N, Zhai G M, Zhang G Y, et al. Formation, distribution , potential
+and prediction of global conventional and unconventional hydrocarbon
+resoures. Petroleum Exploration and Development, 2015, 42(13): 13-25
+(in Chinese with English abstract).
+Zou C N, Zhu R K, Wu S T, et al. Types,characteristics,genesis and prospects
+of conventional and unconventional hydrocarbon accumulations:taking
+tight oil and tight gas in China as an instance. Acta Petrolei Sinica,
+2012b, 33(2): 173-187 (in Chinese with English abstract).
+Zou C N. Unconventional oil and gas geology. Beijing: Geological
+Publishing House, 2013, 1-91 (in Chinese).
+
+

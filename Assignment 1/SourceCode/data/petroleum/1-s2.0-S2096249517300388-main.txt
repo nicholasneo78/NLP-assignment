@@ -1,0 +1,2045 @@
+Petroleum Research (2016) 2,135-148
+
+Connotation analysis, source-reservoir assemblage
+types and development potential of unconventional
+hydrocarbons in China
+Jianzhong Li*, Min Zhen, Xiaoming Chen, Denghua Li, Shaoyong Wang and Tao Song
+PetroChina Research Institute of Petroleum Exploration and Development, Beijing 100083, China
+Received June 10, 2016; Accepted September 28, 2016
+
+Abstract: Through analysis of the connotation of unconventional hydrocarbons, the source-reservoir
+assemblages of unconventional hydrocarbons are divided into three types, i.e., source-reservoir
+neighboring type, source-reservoir integration type, and source-reservoir separation type. The
+source-reservoir neighboring type resources mainly include tight oil and tight gas with the following
+formation conditions and characteristics: (1) efficient near-source accumulation close to high-quality
+source rocks with the pressure difference between source and reservoir as the dynamic force; (2)
+large-area tight reservoirs with certain porosity, dominated by micro-nanopores of inorganic origin; (3)
+distributed in depressions and slopes with large hydrocarbon-bearing area and great resource quantity,
+low abundance and local development of “sweet spots”; (4) weak tectonism. The source-reservoir
+integration type resources mainly include coalbed methane, shale gas, shale oil and oil shale. The
+formation conditions and characteristics are: (1) high abundance of organic matter, different types
+of organic matter and thermal evolution grades leading to formation of different resources types;
+(2) organic-rich sections are distributed continuously in the reservoiring space which is dominated
+by nanometer organic pores, interparticle pores and microfissures; (3) hydrocarbons mainly occur
+in free or adsorbed state, varying much with resource type; (4) the resources are self-conserved,
+and enriched in depressions and slopes, the conservation conditions are controlled by tectonics,
+temperature and pressure; (5) the production per well can be enhanced by volume fracturing, which
+increases the permeability of the reservoirs. The source-reservoir separation type resources are
+more special, mainly including (1) transformed conventional resources such as oil sand and heavy
+oil; (2) unsteady resources formed under special conditions of temperature and pressure, among
+which natural gas hydrate is a representative. These three types of resources in China are different in
+both development prospect and current situation: (1) the source-reservoir neighboring type is most
+practical and will develop fast in the next 5 years; (2) the source-reservoir integration type needs
+continuous exploration and technical breakthrough, and is expected to develop rapidly in the coming
+decade; (3) in the source-reservoir separation type resources, natural gas hydrates have the greatest
+development potential, on which technical tests are being conducted.
+
+Key words: Unconventional hydrocarbons; connotation; source-reservoir
+assemblage; source-reservoir neighboring type; source-reservoir integration
+type; source-reservoir separation type; development potential
+
+* Corresponding author. Email: lijizh@petrochina.com.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+135
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+1 Introduction
+At present, “unconventional hydrocarbons” have become the
+buzzword of the oil and gas industry and even the energy sector
+in China. The huge success that the United States has achieved
+in unconventional oil and gas sets an excellent example for
+China to replicate. In 2013, the production of unconventional
+natural gas and tight oil in the U.S. reached 500.8×109 m3 and
+0.14×109 t, respectively, dramatically decreasing its dependency
+on foreign oil and gas. On the contrary, the supply and demand
+gap of oil and gas in China is increasing. In 2013, the foreign
+dependency of oil and gas reached 59% and 28%, respectively.
+Undoubtedly, the large-scale development of unconventional
+hydrocarbons in China would be of great strategic significance
+to improve the energy-demand situation. However, there
+have long been controversies on the prospect of China’s
+unconventional hydrocarbons, as following.
+(1) The evaluation results of unconventional resource potential
+in China are greatly different, some of which are excessively
+optimistic while many experts are skeptical, because firstly,
+the unconventional resources in China are very special due to
+the multiphase tectonic movements, the high-evolution marine
+sequences, and the continental sediments of great lateral variation
+and strong heterogeneity; secondly, knowledge and exploration
+of unconventional hydrocarbon resources are generally limited;
+thirdly, evaluation methods and standards are not unified, many
+evaluation results are actually estimates.
+(2) There are different opinions about the stage of China’s
+current hydrocarbon exploration. Some people hold the view that
+conventional oil and gas resources still have great exploration
+potential, especially for the less well explored natural gas, which
+are still the focus of future exploration; others think that China
+has been ushered into a full-scale development of unconventional
+hydrocarbons because the exploration degree of some basins is so
+high that there is faint possibility to find big conventional oil and
+gas fields; the third notion holds that China has already entered
+a stage where conventional and unconventional hydrocarbons go
+hand in hand. Many hydrocarbon reservoirs with low or ultralow permeability discovered in the past are actually tight oil
+and gas resources, which have taken up considerable proportion
+in the reserves and production of China’s oil and gas. Hence,
+unconventional resources alone cannot bring massive increase to
+the oil and gas production.
+(3) T h e d evelo p m e nt fo cu s a n d p r o sp e c t of C h i n a’s
+unconventional hydrocarbon are not unified, especially the
+development prospect of shale gas and coalbed methane are
+much debated, which is objectively detrimental to the long- and
+medium-term planning and strategic decisions.
+(4) Perceptions a re different about the ter m inology of
+unconventional hydrocarbon, such as tight oil, shale gas, etc.
+
+136
+
+One of the important reasons behind the above controversies is
+that the understanding of “unconventional” is not unified, either
+biased or broad. Therefore, it is necessary to decompose the
+conception of “unconventional” and understand its geological
+characteristics and distribution pattern from the point of genesis.
+According to the results of related researches in recent years, we
+expound on the understanding of unconventional hydrocarbons
+and classify source-reservoir assemblages of unconventional
+resources. Then on this basis, we discuss the formation conditions,
+geological characteristics and the resources potential, and predict
+the prospect of future development, in a bid to help the long-term
+development of China’s unconventional oil and gas.
+
+2 The connotation analysis of some important
+terms of unconventional hydrocarbon
+2.1 The whole-process simulation of the hydrocarbon
+destination
+After being discharged from the source rocks, the hydrocarbons
+need to undergo a certain distance of migration before the
+oil and gas can be trapped (Zhang et al., 1999). However,
+as a complex dynamic process in geological history, the
+hydrocarbon migration and accumulation is hard to observe
+directly (Luo et al., 2012). Fortunately through indirect means,
+such as geochemical tracing, fluid dynamics, displacement
+simulation experiment and numerical simulation of migration
+and accumulation, it is feasible to qualitatively determine the
+favorable migration path and the accumulation zone, and then
+enable a tracking-down comprehensive evaluation from the
+source rocks to traps, so as to guide oil and gas exploration (Zhao
+et al., 2002). In recent years, breakthroughs in both tight oil
+and gas and shale oil and gas reservoirs have further enriched
+and developed the knowledge of oil and gas resources from
+generation to accumulation (Jia et al, 2014; Zou et al., 2014).
+In summary, there are five destinations for the hydrocarbons
+after being generated in source rocks (Fig. 1): (1) once being
+discharged, oil and gas migrated along effective migration
+pathways and accumulated in various traps. Oil, gas, and water
+can be differentiated under the effect of buoyancy, resulting in the
+conventional oil and gas resources in traditional sense; (2) there
+was no migration after generation, oil and gas accumulate near
+the source rocks with low enrichment degree but large area and
+scale, resulting in the so-called continuous accumulation; (3) after
+generation, some of the hydrocarbons were not expulsed but retained
+in the source rocks, such as coalbed methane, shale gas, oil shale,
+i.e., the residual oil and gas in source rocks; (4) the formed reservoirs
+underwent physical and chemical processes, causing changes in
+the original occurrence and fluid properties, such as heavy oil,
+oil sands, oil cracking gas, namely transformed oil and gas; (5)
+oil and gas dissipated during migration or the formed reservoir
+was thoroughly destructed, resulting in ineffective resources.
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+Sea level
+
+Top of oil
+generation
+window
+Top of gas
+generation
+window
+
+Conventional
+hydrocarbon
+
+Source-reservoir integration type
+
+Conventional Conventional
+oil
+gas
+
+Fig. 1
+
+Shale oil
+
+Shale gas Coalbed methane
+
+Normal
+fault
+
+Reverse Unconformity
+fault
+
+Source-reservoir neighboring type
+Tight oil
+
+Tight sandstone gas
+
+Source-reservoir separation type
+Natural gas hydrate Heavy oil/oil sands
+
+Types of source-reservoir assemblage and the distribution patterns of hydrocarbon resources
+
+2.2 Conventional and unconventional hydrocarbon
+Conventional hydrocarbon resources in a traditional sense
+mainly refer to the first destination mentioned above, which
+have generally experienced obvious migration. Conventional
+resou rces have h igh deg re e of en r ich ment due to t he
+accumulation effect of the trap, and can be economically
+exploited with conventional techniques. Of course, if conditions
+for forming reservoirs and traps near the source rocks are
+favorable, conventional oil and gas resources can also come into
+being. Currently, unconventional hydrocarbons generally refers
+to all the oil and gas resources which cannot be economically
+exploited by conventional techniques under existing economic
+and technological conditions, mainly including tight gas,
+coalbed methane, shale gas, tight oil, oil shale, oil sand, and
+natural gas hydrate, etc. However, from the point of genesis,
+unconventional hydrocarbons mainly refer to the second and
+third destinations which mentioned above, and have generally
+five common characteristics.
+(1) There is a paucity of migration or significant migration. The
+source rock is close to or integrated with the reservoir; (2) all
+reservoirs are very tight and used to be deemed as ineffective
+reservoirs, for instance, mudstone-shale has long been seen as
+impermeable zone; (3) large area of continuous accumulation
+is a basic characteristic, with large scope and quantity of
+hydrocarbon resource; (4) only by taking measures including
+massive fracturing, can a commercial production be achievable,
+primarily because reservoir permeability is very poor, the
+hydrocarbons cannot flow to the well bore depending on
+formation pressure (Wu et al., 2014); (5) exploration cost is high,
+so an effective resource necessitates three basic conditions: the
+production per well can be greatly improved, the overall cost
+can be reduced after mass production, and the prices of oil and
+gas maintain reasonably high. Of course, there are exceptions,
+for example, although the reservoir conditions of oil sands are
+generally good, conventional exploration techniques cannot be
+adopted because the fluid property of oil sands is different from
+
+that of conventional resources. The physical reservoir conditions
+are also quite favorable for natural gas hydrate (NGH), but the
+conditions for reservoir formation are very special. Therefore,
+oil sands and NGH are special types of unconventional
+hydrocarbons.
+In conclusion, the differences between conventional and
+unconventional hydrocarbon resources are seemingly caused by
+technical and economic conditions but actually determined by
+different formation conditions and genetic mechanisms.
+
+2.3 Shale gas and tight gas
+Overseas, shale gas is defined as natural gas occurring in organicrich shale formation (Curtis, 2002; EIA, 2014). In October
+2013, China National Energy Administration (NEA) issued the
+National Shale Gas Industry Polices, pointing out that “shale gas
+refers to the unconventional natural gas occurring in organicrich shales and their interlayer mainly in the adsorbed or free
+state” (NEA, 2013). At present, there are still disputes on whether
+the natural gas in the shale interlayer can be regarded as shale
+gas, especially when considering the thickness of the interlayer.
+There is a general consensus that tight gas mainly refers to tight
+sandstone gas, the natural gas accumulating in the high-quality
+tight sandstone neighboring or sandwiched in high-quality source
+rock without large-scale and long-distance migration, and the
+underground permeability generally lower than 0.1 mD (SCPGE,
+2011; Li et al., 2012). In fact, the natural gas resources found in
+other tight reservoirs which are close to the source rocks, such as
+volcanic rocks, should also be regarded as tight gas.
+The understanding of shale gas should not deviate from our
+original intention to find natural gas in the source rocks since shale
+gas is the most popular unconventional hydrocarbon resources
+at present. If the connotation of shale gas is expanded, especially
+when defining all of the natural gas in the interlayers as shale gas,
+it is easy to confuse it with tight gas. This would thus obscure the
+boundary between minerals and shale gas management even more
+difficult. Through analyzing the commercially developed shale
+
+137
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+gas area in North America and China, we concluded that there are
+generally four essential conditions for discovering shale gas with
+large-scale development potential.
+(1) Abundance of organic matter is high. The TOC is generally
+more than 2% or 3%. In other words, the high-quality source
+rocks are the premise of shale gas generation. (2) Fine-grained
+sediments are predominant. In general, the particle size is
+less than 0.0039 mm, although the rocks can be composed of
+fine grained clastic rock, clay, organic matter and many other
+constituents. (3) Enrichment sections with high content of
+organic matter are present, which are usually greater than 2030 m. Besides, the thin sand layers or isolated sand lenticular
+bodies within those sections are not large. (4) The reservoirs are
+mainly distributed in synclines and slopes and normally have
+overpressure and good conservation conditions. In China, besides
+shale gas of marine facies, there are shale gas of continental and
+transitional facies, and the shale sedimentary characteristics and
+resource endowment vary dramatically. Therefore, evaluation
+criteria need to be separately established on the basis of
+exploration practice.
+
+2.4 Tight oil, shale oil and oil shale
+After a prolonged discussion, there is a general consensus on
+the connotation of tight oil and shale oil. Tight oil refers to the
+oil accumulating in tight clastic or carbonate reservoirs that
+are close to or sandwiched in high-quality source rocks (Jia et
+al., 2012; Zhao et al., 2012), which was mostly called “shale
+oil” in earlier literatures but now called “tight oil” (NPC, 2011;
+Nelder, 2012). The connotation of shale oil is similar to that
+of shale gas, only different in fluid type and phase behavior.
+Shale oil refers to the in-situ retained oil resources occurring in
+organic-rich mudstone-shale formations without being expelled
+from the oil source rock, with matrix pores, organic pores and
+fractures as the main reservoiring space (Zou et al., 2013).
+Because the mobility of oil is much lower than that of natural
+gas, there is a great uncertainty on producing shale oil flow of
+commercial level from source rocks that are barely permeable.
+So far, industrial breakthroughs have not been made except for
+production in fractured mudstone.
+Oil shale refers to the immature organic-rich mudstone-shale,
+from which liquid hydrocarbons can be extracted through
+destructive distillation and pyrolysis. Oil shale is also called
+“artificial oil” and generally managed as solid mineral. The
+future technological development will be subsurface in-situ
+distillation and extraction (Wang et al., 2013). It should be noted
+that the so-called “oil shale” often used in China’s oil field
+exploration and production, such as the oil shale in the Member
+2 of the Kongdian Formation in the Bohai Bay Basin, the oil
+shale in the Member 7 of the Yanchang Formation in the Ordos
+Basin, etc., are actually mature organic-rich oil source rocks
+
+138
+
+with foliation, and not oil shale in a strict sense.
+
+3 Types and characteristics of the sourcereservoir assemblage of unconventional
+hydrocarbons
+3.1 Classification of source-reservoir assemblage
+and its significance
+There are many descriptions about the characteristics of
+unconventional hydrocarbons (Guan et al., 1995; Sun et al., 2011;
+Zou et al., 2013), which can be summarized as follows: (1) largearea distribution and continuous accumulation; (2) no conspicuous
+caps or traps; (3) accumulation without being affected by
+hydrodynamics; (4) low porosity and very low permeability;
+and (5) large-scale stimulation measures and a “factory”
+production mode. However, these descriptions are generally
+and thus uunable to reflect the essential differences among the
+unconventional hydrocarbon resources. Therefore, it is necessary
+to further discuss the major controlling factors on the formation
+of unconventional hydrocarbons, to analyze and summarize the
+basic geological characteristics and distribution patterns.
+We think that the spatial assemblage of source rocks and
+reservoirs plays a critical controlling role in the formation of
+unconventional oil and gas. Geologists have conducted systematic
+researches on the source-reservoir assemblages of conventional
+hydrocarbons using traditional petroleum geological theory, it
+is concluded that there are mainly three types of assemblages,
+including self-generation and self-reservoiring, lower-generation
+and upper-reservoiring, and the upper-generation and lowerreservoiring. However, it has been proved by oil and gas
+exploration practice that the source-reservoir assemblage
+relationship is not decisive to the formation of conventional
+reservoirs. All three types of assemblages mentioned above
+are able to form big oil and gas fields, but there are still many
+cases in which big fields cannot be found even if the conditions
+of hydrocarbon generation and conservation are very favorable.
+Therefore, the formation of conventional reservoirs requires
+stricter conditions for spatial-temporal configuration of various
+petroleum system elements. Under certain source-reservoir
+conditions, the formation of big oil and gas fields depends more
+on good migration pathways, trapping conditions and capping
+conditions. Conversely, unconventional hydrocarbons primarily
+characterized by retention or short-distance migration are
+less demanding for trapping and capping conditions. Thus the
+assemblage of source rock and reservoir becomes a decisive factor
+for unconventional hydrocarbon accumulations.
+Here we divided the source-reservoir assemblages controlling
+the formation of unconventional reservoirs into three types:
+source-reservoir neighboring type, source-reservoir integration
+type, and source-reservoir separation type (Table 1). The
+
+Sourcereservoir
+separation
+type
+
+Sourcereservoir
+neighboring
+type
+
+Sourcereservoir
+integration
+type
+
+Coal pore, cleat,
+fracture
+
+—
+
+Mature
+
+Sandstone,
+carbonate
+
+Natural
+gas
+hydrate
+
+Oil sand
+
+—
+
+—
+
+MudstoneContinental facies
+shale
+
+Secondary
+Mainly
+Mainly primary pores
+migration
+sandstone
+
+Key
+technology
+
+Increasing
+permeability
+
+Oil-generating
+P, T, J,
+depression and
+K, E
+slope
+
+Horizontal
+well, volume
+fracturing
+Solid minerals, Extraction,
+Hydrodynamic
+Basin margin,
+heating, physical
+In-situ
+force,
+J, K, E
+bulge
+separation
+mining
+Buoyance
+
+Increasing
+permeability
+
+Destructive
+distillation,
+in-situ
+mining
+
+Solid minerals,
+destructive
+distillation,
+artificial oil
+P, T, J, Basin-margin
+K, E
+slope
+
+Horizontal
+well, volume
+fracturing
+
+—
+
+Horizontal
+well, volume
+fracturing
+
+—
+
+Increasing
+permeability
+
+Pressure-reducing Pinnate
+desorption,
+horizontal
+increasing
+well,
+permeability
+fractuing
+
+Principles of
+technology
+
+Exploration technology
+
+P, T, J, Oil-generating
+K, E
+depression
+
+Primary or Pressure
+Interparticle
+secondary difference
+C, P, T, Depression,
+pore, intraparticle
+shortbetween
+J, K, E
+slope
+dissolution pore,
+distance source and
+fracture
+migration
+reservoir
+
+Primary or Pressure
+Interparticle
+secondary difference
+pore, intraparticle
+shortbetween
+dissolution pore,
+distance source and
+fracture
+migration
+reservoir
+
+Syncline
+
+Favorable
+area
+
+∈ , S,
+Depression,
+C, P, T,
+slope
+J, K, E
+
+C-P, J,
+E
+
+Major
+layer
+
+Distribution features
+
+Submarine
+Methane released
+Marine
+sediments which
+Microbial
+Pyrolysis,
+Hydrodynamic
+bottom
+from solid hydrate，
+water depth
+Interparticle pore, Secondary
+gas,
+reducing
+force,
+—
+sediment,
+reducing pressure
+greater than
+fracture
+migration
+thermogenic
+pressure, CO2
+Buoyance
+onshore
+or increasing
+300m or onshore
+gas
+displacement
+permafrost
+temperature
+permafrost zone
+
+Mature
+
+CoalMarinemeasure
+continental
+High-over
+Sandstone
+Tight gas
+source rocks transition facies,
+mature
+mainly continental facies
+
+MudstoneContinental facies
+Tight oil
+shale
+
+—
+
+No
+migration
+
+MudstoneMudstoneContinental facies Low mature
+shale
+shale
+
+—
+
+Oil shale
+
+Mature
+
+MudstoneContinental facies
+shale
+
+Shale oil
+
+Interparticle
+pore, intraparticle
+Mudstone- dissolution pore,
+No
+shale
+lamellar schistosity migration
+plane, organic pore,
+fracture
+
+—
+
+Organic pore,
+Marine facies，
+interparticle
+Mudstone- marine-continental High-over Mudstone- pore, intraparticle
+No
+Shale gas
+shale
+transition facies,
+mature
+shale
+dissolution pore, clay migration
+continental facies
+mineral interlayer
+pore, fracture
+
+Migration
+dynamic
+force
+—
+
+Migration
+mode
+
+Characteristics
+of migration and
+accumulation
+
+No
+migration
+
+Sedimentary
+environment
+
+Marinecontinental
+Low-high
+Coalbed
+Coal seam
+Coal seam
+transition facies, rank coal
+methane
+continental facies
+
+Thermal
+evolution
+degree
+
+Reservoir layer
+Reservoiring
+space
+
+Source rocks
+Lithology
+
+Type of
+sourceType of
+reservoir resource
+assemblage
+Lithology
+
+Table 1 Classification and characteristics of the source-reservoir assemblages of the unconventional hydrocarbons in China
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+139
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+significance of the source-reservoir assemblage classification
+lies in that, (1) it refines the classification of the unconventional
+hydrocarbon resources to facilitate further study of their genetic
+mechanisms, microscopic characteristics and distribution
+patterns, as well as to enrich and develop the geological theory
+for unconventional hydrocarbons; (2) it allows the study of
+geological and resource evaluation methods and standards to
+help developing comprehensive geological evaluation techniques
+for unconventional hydrocarbons; (3) it can formulate scientific
+and reasonable strategies of development that can effectively
+guide the exploration and development of unconventional oil and
+gas.
+
+3.2 Source-reservoir neighboring type
+T he sou r c e -r es e r voi r neig hb or i ng t y p e r efe r s t o t he
+unconventional hydrocarbon resources accumulating in tight
+reservoirs in close contact with high-quality source rocks, which
+is also known as “tight oil and gas”. The tight reservoir can be
+sandwiched in the source rocks to form a “sandwich” structure
+or located on top or bottom of the source rocks to form an
+alternating structure (Fig. 2 and Fig. 3). The fluid phase behavior
+in tight reservoirs depends on the thermal evolution degree of
+source rocks. Source rocks within the oil-generation window
+produce tight oil, while source rocks in gas-generation window
+yield tight gas. Alternatively, tight oil and tight gas can coexist.
+In sedimentary basins, tight reservoirs in close contact with
+
+GR
+
+Sublayer 1
+
+GR
+
+2040
+
+2040
+
+2070
+
+2070
+
+GR
+
+RT
+
+RT
+
+RT
+
+4100
+
+2010
+
+2010
+
+2040
+
+2040
+
+2070
+
+2070
+
+Sublayer
+3
+
+Sublayer 2
+
+RT
+
+2010
+
+Well J36
+Depth/m
+
+Well W04
+Depth/m
+
+Well W03
+Depth/m
+
+0
+
+Upper member
+
+RT
+
+2010
+
+Although the source-reservoir neighboring resources are
+widely distributed, certain conditions need to be established
+to form large scale oil-gas commercial accumulation: (1)
+High-quality source rocks generally with TOC >2% are well
+
+Lucaogou Formation
+
+GR
+
+Well W02
+Depth/m
+
+Recent volcanic reservoir play exploration and researches in
+China indicate that there are two types of volcanic hydrocarbon
+resources developed in the Carboniferous-Permian period
+in the Yingcheng Formation of the Songliao Basin and
+Northern Xinjiang: (1) volcanic rock reservoirs with favorable
+petrophysical reservoir properties, which are controlled by local
+structures or unconformities, dominated by structural-lithological or lithological-formation reservoirs; (2) large-scale tight
+volcanic oil and gas, where tight volcanic rocks in close contact
+with high-quality source rocks generally contain oil and gas,
+and high yield can be obtained by artificial fracturing, showing
+a great exploration potential (Hou et al., 2012). Thus, distribution of tight oil and gas is widespread. Certainly, there is also
+a type of tight gas resource where reservoirs are far away from
+source rocks, such as the Silurian tight sand gas from the underlying Cambrian-Ordovician source rocks in the Tarim Basin. It
+belongs to the secondary tight gas which need good accumulation conditions, and can be regarded as a special type of tight
+gas resource.
+
+Lower member
+
+Well W01
+Depth/m
+
+source rocks come in various types: clastic rock, carbonate rock,
+or volcanic rock.
+
+SP RT
+
+SP RT
+
+SP RT
+
+-1850
+-2000
+-2150
+-2300
+-2450
+
+0
+
+4 km
+
+-3 600
+-3 800
+
+3550
+
+3150
+
+4100
+
+3600
+
+3200
+
+4150
+
+3650
+
+3250
+
+4200
+
+3700
+
+3300
+
+4250
+
+3750
+
+3350
+
+Oil layer
+
+Dry layer
+
+Fig. 2
+
+140
+
+Water layer
+
+3100
+
+3100
+
+3150
+
+3200
+
+0
+
+-4 200
+
+GR AC
+
+4 km
+
+GR AC
+
+0
+
+-4 400
+
+4 km
+
+Oil
+
+-4 600
+
+O il g
+
+-4 800
+-5 000
+
+grou
+
+pI
+
+roup
+
+II
+
+O il g
+
+-5 200
+-5 400
+
+(c)Fuyu tight oil in the southern Songliao Basin
+
+TOC
+
+3050
+
+3050
+
+-4 000
+Elevation/m
+
+Elevation/m
+
+-1700
+
+Well Q215 Well C45
+
+TOC RT
+
+TOC RT
+
+O il g
+
+roup
+
+III
+
+ro
+
+Member 3 of Shahejie Formation
+Lower part
+Middle-upper part
+
+SP RT
+
+RT
+
+Well J98x Well ST1
+
+SP RT
+
+Member 4 of
+Quantou
+Formation
+
+Well C27
+
+Well J174 Well J173 Well J28
+Depth/m Depth/m Depth/m
+
+3800
+
+Member 1 of
+Qingshakou
+Formation
+
+SP RT
+
+3500
+
+TOC
+
+(b)Tight oil in Lucaogou Formation, Jimusar sag, Junggar Basin
+
+Well Q227
+Well Q226
+
+Well J251
+Depth/m
+
+RT
+
+4100
+
+400 m
+
+(a)Tight oil in Member 7 of Yanchang Formation in Ordos Basin
+
+Well H52
+
+TOC
+
+up I
+V
+-5 600
+(d)Tight oil in Shahejie Formation, Shulu sag, Bohai Bay Basin
+
+Oil shale/ black mudstone
+
+Marlstone
+
+Conglomerate
+
+Profiles of typical source-reservoir assemblages of tight oil in China
+
+Fault
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+Well PL11
+
+Well G23
+GR AC
+
+Well S417
+Well Z17 GR AC
+GR AC
+
+Well L12
+
+Well S367
+
+Well PL9
+Well PL1
+SP RT
+-2 060 SP RT Well PL6
+
+Well L35
+GR AC
+Well S356
+
+GR AC
+
+GR AC
+
+SP RT
+
+Well PL3
+SP RT
+
+SP RT
+
+-2 140
+
+Well S334 GR AC
+
+Well PL2
+SP RT
+
+-2280
+
+Elevation/m
+
+Mem .
+8
+
+Xiashihezi
+Fm.
+
+0
+
+Mem .
+1
+
+-2260
+
+Shanxi
+Fm.
+
+-2240
+
+6 km
+
+Elevation/m
+
+-2000
+-2400
+
+-2800
+
+Sublaer
+5
+Sublaer
+4
+
+-2 380
+
+0
+
+Sublaer
+3
+
+3 km
+
+Sublaer
+2
+1
+Sublaer
+
+(b)Tight gas of Xujiahe Formation in the central Sichuan Basin
+
+0 1 km
+Xishanyao
+Fm.
+
+Well K191
+Well K192
+SP RT
+
+Sangonghe
+Fm.
+S
+B a da n d g r
+o
+Sa aowa up 1
+Bad nd gro n Fm.
+aow up 2
+an F
+m.
+
+Well LS3
+
+-3 000
+
+Well K21
+SP RT
+
+Mem. 1of
+Xujiahe Fm.
+
+Xishanyao
+Fm.
+
+SP RT
+
+Sangonghe
+Fm.
+
+Sangonghe
+S Fm.
+B a da n d g ro u
+aow p 1
+an F
+m.
+Sa nd
+B ad ao gr ou p 2
+w an Fm
+.
+
+Well K19-3
+SP RT
+
+GR RT
+
+Gas layer
+
+Den
+
+-3 900
+
+Fig. 3
+
+Water layer
+
+Source rock
+
+Coal seam
+
+glou
+
+ku F
+
+m.
+
+Me
+Yin g m b e r 2 o
+f
+chen
+g Fm
+.
+
+-3 600
+
+Dry layer
+
+0.4km
+
+GR RT
+
+-3 300
+
+-3200
+
+(c) Tight gas in Turpan-Hami Basin
+
+0
+
+Well LS301
+
+Elevation/m
+
+-1600
+
+SP RT
+
+-2 300
+
+(a)Sulige tight gas in Ordos Basin
+Well K24
+SP RT
+
+Well L18
+
+-2 460
+
+Mem .
+2
+
+-2220
+
+-2 220
+
+Mem. 2 of Xujiahe Fm.
+
+Elevation/m
+
+-2200
+
+Mem .
+7
+
+GR AC
+
+Member 1 of
+Yingcheng Fm.
+
+(d)Tight gas in Yingtai fault depression of Songliao Basin
+Mudstone
+
+Fault
+
+Profiles of typical source-reservoir assemblages of tight gas in China
+
+developed. Certainly the criterion for source rocks varies from
+basin to basin. High-quality source rocks provide sufficient
+hydrocarbon sources and produce great differential sourcereservoir pressure through hydrocarbon generation to overcome
+the high capillary resistance of the tight reservoir and complete
+hydrocarbon accumulation. (2) Although the reservoir is tight,
+certain porosity (generally > 8%) is required to ensure the
+minimal requirement for reservoiring space. (3) Tight reservoirs
+are stably distributed over a large area to ensure large resource
+scale. For example, for tight oil in Bakken and Eagle Ford in
+North America, the reservoir area can reach tens of thousands
+of square kilometers. In China, the magnitude of tight oil and
+gas ranges from hundreds to thousands of square kilometers. (4)
+Weak tectonism and the absence of large destructive fractures
+can prevent oil and gas from escape.
+The above-mentioned conditions determine the following basic
+characteristics of source-reservoir neighboring type resources:
+(1) the resource is dominated by primary migration or shortdistance secondary migration, with the differential pressure
+between source and reservoir being the main driver; (2) the
+reservoir lithologies include tight sandstone, carbonate rock
+and volcanic rock, etc. Micro-nanopores of inorganic origin are
+mainly developed, such as the interparticle pores, intraparticle
+pores, dissolution pores, blowholes, etc. Individual pores are
+poorly connected and have an subsurface permeability of
+generally less than 0.1 mD; (3) oil and gas saturation is high,
+generally greater than 70%, and the maximum can be over 90%;
+
+(4) dissipation during migration is minor and the efficiency
+of migration and accumulation is high; (5) the resources are
+mainly distributed in depressions and slopes with large oil
+and gas bearing areas but low resource abundance as well as
+locally developed sweet spots; (6) the main target of technical
+measures is to increase the production per well. Horizontal well
+and volume fracturing are the key technique to improve the
+production per well and realize effective exploitation.
+
+3.3 Source-reservoir integration type resource
+The source-reservoir integration type resource refers to the oil
+and gas resource accumulating in various hydrocarbon source
+rocks, which are essentially the hydrocarbons stranded in source
+rocks. Since the hydrocarbon source rock serves as both source
+and reservoir, the source-reservoir integration type resources
+can also be called “source rock hydrocarbons”, mainly including
+coalbed methane, shale gas, shale oil, oil shale, etc. The sourcereservoir integration type resources have drawn widespread and
+high attention worldwide mainly because of the breakthroughs
+and massive exploitation in coalbed methane and shale gas. The
+“shale gas revolution” in the United States, in particular, has
+overturned the traditional paradigm of hydrocarbon geology
+and exploitation techniques, enabling people to realize that
+oil and gas resources can be extracted directly from their
+generation source rocks previously considered as hydrocarbongenerating rocks and cap rocks only. The previous evaluation
+of hydrocarbon source rocks focus on the ability and quantity
+
+141
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+of hydrocarbon generation. It is now necessary to evaluate
+the retained hydrocarbon quantity, reservoiring capacity and
+productivity.
+The source-reservoir integration type resources mainly occur in
+the organic-rich mudstone-shale and coal seams. The organicrich mudstone-shale controls the formation and distribution of
+shale gas, shale oil and oil shale, while the coal seam controls
+the coalbed methane, which is quite different from the former in
+terms of formation mechanisms and controlling factors.
+3.3.1 Shale oil and shale gas
+Hydrocarbon retained in the mudstone-shale is the major type
+of source-reservoir integration resources, mainly distributed in
+various sedimentary basins. Mudstone-shale belongs to finegrained sediments with grain sizes smaller than 0.0039 mm
+which mainly formed in the sedimentary environment with
+weak to quiet hydrodynamic conditions. While the organicrich mudstone-shale is primarily deposited under anaerobic
+and reducing environment, such as marine deep-water shelf,
+bays, lakes, and continental deep to semi-deep lakes, etc. It is
+composed mainly of fine grained sediments, clay and organic
+matters of Type I and Type II (Zou et al., 2010). Whether the
+hydrocarbons retained in the organic-rich mudstone-shale has
+industrial exploitation value depends on the resource conditions,
+i.e., quantity of retained hydrocarbons and the hydrocarbon
+occur ring conditions, and the engineering exploitation
+conditions, such as suitability for drilling, frackability and
+regional stress state, etc.
+It has been testified by production practice that the following
+eight factors need to be taken into account in the evaluation of
+the oil and gas resources in mudstone-shale:
+(1) Abundance of organic matter
+
+commercially exploited so far is dominated by shales with Type
+I-II organic matters. Carbonaceous mudstone-shale dominated
+by Type III is quite special, and may be conducive to shale gas
+enrichment during the high evolution stage.
+(3) Thermal evolution degree
+A basic condition of shale gas enrichment is that the thermal
+maturity is in the primarily gas-generating stage. For example,
+Ro of the North American marine shale is generally 1.1%-2.5%;
+the marine shale in China, mainly the early Palaeozoic shale,
+has high thermal evolution degree with Ro around 2.5%-4.0%. A
+new understanding of the “secondary or relayed gas generation”
+from cracking of scattered liquid hydrocarbons not only explains
+the sources of the shale gas, but also provides important basis
+for finding big oil and gas fields in old marine sequences
+(Zhao et al., 2011). The continental mudstone-shale in China is
+primarily at the thermal maturity stage of oil window and the
+wet gas–condensate thermal evolution with Ro of 0.8%-1.4%. It
+is considered that favorable prospecting of shale gas is when Ro
+is 0.9%-1.4%, while shale oil would be more likely discovered
+from the residual liquid hydrocarbons in the mudstone-shale at
+the oil window. Oil shale refer to the immature oil source rock
+with Ro values generally less than 0.6%, which is considered as
+high quality oil shale if oil content is more than 6%.
+(4) Reservoiring space
+The matrix porosity of mudstone-shale is generally 1%-2%,
+no more than 4%-5%. With the increasing thermal evolution
+degree, organic pores can form, thus providing the necessary
+reservoiring space for hydrocarbon storage (Passey et al., 2010;
+Slatt and O’Brien, 2011).
+(5) Thickness of the organic-rich section
+
+Retained hydrocarbon quantity is positively correlated to TOC
+content (Lu et al., 2012), generally TOC > 2% is required.
+
+Generally the continuous thickness required is greater than 30
+m in order to meet the requirement for the resource scale of
+industrial exploitation (Fig. 4).
+
+(2) Type of organic matter
+
+(6) Content of brittle minerals and clay minerals
+
+In theory, Type I-II organic matters are more favorable due
+to their high hydrocarbon generation potential. Shale gas
+
+In order to meet the needs of massive fracturing reformation,
+the content of the brittle minerals, such as quartz and feldspar,
+
+Well Z104
+Longmaxi
+Fm.
+Wufeng
+Fm.
+
+Well CX1
+
+Well N201
+
+GR
+
+GR DTCO
+
+Well JY1
+
+TOC
+
+GR
+
+20
+
+RT
+
+2180
+
+80
+
+1850
+
+2200
+
+1900
+
+140
+
+GR DTCO
+
+1950
+2000
+
+2260
+
+2050
+
+2300
+
+2260
+2300
+
+2340
+2380
+2420
+
+2340
+
+Longmaxi
+Fm.
+
+0
+
+8 km
+
+2380
+2420
+
+Wufeng
+Fm.
+
+0
+
+2 km
+
+2460
+2500
+2540
+
+(a)Shale gas of Longmaxi Formation in Changning area, Sichuan Basin
+
+(b)Shale gas of Longmaxi Formation in Fuling area, Sichuan Basin
+
+Gas-bearing layer Black shale
+
+Fig. 4
+
+142
+
+Fault
+
+Profiles of the source-reservoir assemblages of shale gas in the Sichuan Basin
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+is generally required to be more than 40%, while the content of
+clay minerals should be less than 30%.
+(7) Formation pressure
+Overpressure is conducive to the preservation of retained
+hydrocarbons as pressure would increase both the adsorbed and
+free hydrocarbons in the pore spaces, and is more favorable for
+higher yields.
+(8) Preservation conditions
+Although mudstone-shale itself has good sealing capability,
+strong tectonic uplift and fracture development can cause the
+dissipation of oil and gas. Therefore depressions and gentle
+slopes are favorable exploration areas for hydrocarbons in
+mudstone-shale (Guo and Liu, 2013). The key to exploiting
+hydrocarbon in mudstone-shale is to improve the permeability
+of reservoirs. Horizontal drilling and volume fracturing can
+dramatically improve the production per well.
+3.3.2 Coalbed methane (CBM)
+Coalbed methane (CBM), or coal seam gas, is the hydrocarbon
+gas formed in the process of coalification and dominated by
+methane. CBM mainly occurs in adsorbed state on the surface
+of coal or inside the microfissures (Zhang, 2002). The initial
+goal of exploiting CBM is to prevent gas explosion in coal
+mines. In the beginning, the CBM is mainly extracted by mine
+pump drainage, and nowadays it has developed into an emerging
+industry dominated by subsurface drilling.
+The controlling factors of CBM enrichment mainly include:
+(1) gas generating potential, which is mainly related to the coal
+type and thermal evolution degree. According to numerous
+experimental analyses and production testing data, the amount
+of the gas generated in coal seam is much larger than that has
+been retained, generally greater than 50 m3/t. In the main coal
+seams, the gas generation can reach as high as about 300 m3/
+t. The content of gas in coal seam varies greatly from 1 to 30
+m 3/t. Coals in the stage of high thermal evolution degree are
+still quite capable of generating gas, which provides theoretical
+support for the evaluation of high rank coal CBM resources
+in China. (2) Adsorption capacity, which is affected by R o,
+maceral and burial depth and other factors. Adsorbed gas
+accounts for more than 70% of CBM and is the main component
+of CBM. The adsorption capability is positively correlated to
+the content of vitrinite component. With increasing R o, the
+adsorption amount increases; while as the depth increases, the
+coal seam adsorption amount increases first and then decreases,
+showing an adsorption turning point, which is controlled by the
+combined effect of temperature and pressure (Sun et al., 2014).
+(3) Sealing conditions, which is necessary for the enrichment of
+CBM, controlled by temperature-pressure field, tectonic setting
+
+and other factors, and characterized by synclinical enrichment.
+(4) CBM exploitation and development, which is primarily via
+pressure-reducing desorption and fracturing to improve the
+permeability of coal seams so as to increase production per well
+(Su et al., 2008; Song et al., 2012; Song et al., 2013). Currently
+the main techniques are pinnate horizontal well and fracturing.
+Note that there are certain transitional types between the
+source-reservoir integration resources and the source-reservoir
+neighboring resources, some of which are very difficult to
+distinguish from each other. For example, tight marl oil was
+found in the lower part of Member 3 of the Shahejie Formation
+in the Shulu sag, which belongs to the Jizhong Depression of the
+Bohai Bay Basin (Liang et al., 2007; Zhao et al., 2014), but the
+source rocks and reservoirs are mostly mixed, making it difficult
+to discriminate them strictly.
+
+3.4 Source-reservoir separation type resources
+According to the traditional hydrocarbon accumulation model,
+in the case of source-reservoir separation, oil and gas generally
+need to undergo migration, mainly forming conventional
+resources. If such resources were subject to degradation, they
+would turn into a special kind of unconventional resources,
+such as heavy oil, oil sands, etc. Since heavy oil resources can
+be exploited by conventional vertical drilling, here we only
+focus oil sands. Natural gas hydrate is another special type
+of unconventional source-reservoir separation resources. In
+some areas, tight gas can be formed even in the case of sourcereservoir separation, such as the Silurian tight sandstone gas
+in the Tarim Basin (Wang et al., 2013). However, this is not a
+common case because the separation of source and reservoir
+makes it difficult to form large-scale tight gas.
+3.4.1 Oil sands
+Oil sands, sometimes called bituminous ore, refer to the
+sedimentary sands rich in natural asphalt, which are the product
+of the crude oil after losing light components in the process of
+migration or in situ biodegradation. The underground viscosity
+of oil sands is generally greater than 1×10 4 mPa·s. Oil sands
+are formed from hydrocarbons (palaeo-reservoirs) subjected
+to hydrodynamic, biodegradation and oxidation processes, and
+mainly distributed in the margin of basins or the uplift zones
+(Cao et al., 2012). Due to the poor mobility, oil sands are usually
+exploited through solid mineral mining. Oil will be extracted
+through hot-water washing, solvent extraction, and hot dry
+distillation, etc. Oil sands are widely distributed worldwide with
+variable enrichment degrees. The main indicators for evaluating
+the industry production value of oil sands include: (1) High oil
+content, which is required to be more than 10% for rich ore. Oil
+content is related to oil source condition, reservoir properties
+and oil degradation level. (2) Relatively large scale of resources,
+for example, the amount of recoverable oil sands in the Alberta
+
+143
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+Basin, Canada is as high as 28.3×109 t. (3) Favorable exploitation
+conditions, such as shallow burial depth and flat terrain, which are
+advantageous to exploitation of oil sands. In China, recoverable
+oil sands amount to 2.258×109 t (MLR, 2009), which can be
+found in almost all of the major hydrocarbon-bearing basins.
+Unfortunately, this type of resource is generally considered low
+development prospect in China due to its scattered distribution,
+complex types, and relatively low oil content.
+3.4.2 Natural gas hydrate
+Natural gas hydrate (NGH), also called combustible ice, is a
+caged crystalline solid complex composed of water and natural
+gas (methane) under appropriate temperature and pressure, and
+mainly forms in the submarine sediment or onshore permafrost
+(Jin, 2000). Among all types of oil and gas resources, NGH is
+the least studied type. The mechanism of NGH remains to be
+further studied, and the future of NGH development is quite
+remote. Currently, there are three basic requirements for the
+formation of NGH (Jin et al., 2006; Li et al., 2011): (1) Proper
+gas hydrates stability zone, which is mainly controlled by
+temperature, pressure, gas composition, etc. The stability zone
+is equivalent to the trap and cap rocks for the conventional oil
+and gas accumulations, with unsteady state characteristics. The
+equilibrium will be damaged once the conditions change and
+can cause the dissipation of NGH. (2) Reservoir layers, which
+are capable of reservoiring a large amount of NGH. NGH
+comprises solid crystals rich in water and methane molecules,
+thus requiring reservoirs with high porosity and permeability.
+Apparently, the Cenozoic coarse-grained clastic sediment is the
+most ideal reservoir (Yu et al., 2014). (3) Gas sources for NGH
+include both biogenic type and thermogenic type. No matter
+what type is, the generated natural gas has to be migrated into
+a stability zone before forming NGH. In this case, the source
+rocks and reservoirs are generally separated. Therefore the
+resources are categorized to the source-reservoir separation
+resources. At present, NGH is commonly regarded as a kind
+of prospective unconventional natural gas resources with
+huge potential. A significant amount of fundamental research
+on NGH is being undertaken worldwide aiming to making
+technical breakthroughs in NGH development.
+
+4. Development potential of China’s
+unconventional hydrocarbons
+Source-reservoir neighboring resources can be seen as the
+natural extension of conventional oil and gas resources because
+of their superimposition in resource distribution. Besides, due
+to the mature exploitation technique and its strong commonality
+relative to that for conventional hydrocarbon resources, such
+resources can be developed rapidly after the economic barrier
+is broken through. However, source-reservoir integration
+resources are quite different. Essential differences in reservoir
+
+144
+
+and occurrence conditions between the source-reservoir
+integration resource and conventional resource determine
+that, a more purposely build technical system is needed to
+realize cost-effective exploitation. What is more, one needs to
+appreciate that a regional breakthrough does not represent an
+overall breakthrough for this type of resources and the solution
+to all problems. Further researches are still required to make
+substantial progress. Source-reservoir separation resources are
+quite special. For example, the difference of heavy oil and oil
+sand resources lies in the decisive factor of reservoir formation.
+NGH development in the global scope is still at the early
+exploring stage, major technical breakthrough has to be made for
+NGH recovery before industrialization. Therefore, it is of great
+importance for a healthy development of China’s unconventional
+oil and gas to take a rational look at the development prospect
+of different types of source-reservoir assemblages and make
+scientific ranking.
+
+4.1 Source-reservoir neighboring type resources
+Tight gas is the earliest explored type of unconventional oil and
+gas resources discovered with many breakthroughs. As early
+as in the 1960s, the Zhongba tight gas field was discovered
+in the western Sichuan Basin. However, limited knowledge
+and technology at that time made it impossible to produce
+economically. Therefore, massive exploration and development
+of tight gas was restricted. At the beginning of the 21st century,
+a few years after the discovery of the Sulige Gasfield in the
+Ordos Basin, exploration and development work was ever
+stagnated for quite a while due to the low production per well
+and relatively high development cost.
+Since 2005, technological breakthrough and large-scale
+industrialisation have promoted the effective development
+of the Sulige tight gas field. By 2013, the output has reached
+21.2×109 m3, making it the largest onshore gas field in China.
+At present, two major tight gas areas in China have come into
+large-scale production, i.e., the upper Palaeozoic reservoirs
+in the Ordos Basin and the Xujiahe Formation in the Sichuan
+Basin (Li et al., 2013). New discoveries of tight gas have also
+been made in the Tarim, Tuha, Songliao, and Bohai Bay basins.
+By the end of 2013, the cumulative proven geological reserves
+of tight gas in China had reached 3.8×1012 m3, and the annual
+output was about 34×109 m3, accounting for approximately 28%
+of the total gas production in China. The tight gas resources
+in China are mainly distributed in three major systems, i.e.,
+the Carboniferous-Permian, the Jurassic-Cretaceous, and the
+Palaeogene intervals, and are primarily dominated by coal
+measures. According to the latest resource evaluation results (Qiu
+et al., 2012), the favorable exploration area of tight gas in China
+is about 600×103 km2, the geological resources are (17-24)×1012
+m3, and recoverable resources are (8-11)×1012 m3. Considering
+all kinds of conditions, tight gas is predicted to enter a stage of
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+rapid development and the production scale is expected to reach
+(60-80)×109 m3. Thus tight gas is a realistic resource to maintain
+the sustainable growth of China’s natural gas production.
+
+decade and significantly increase the production of CBM with
+an expected annual output of about 30×109 m3 (Qing et al., 2012;
+Qing et al., 2013).
+
+Tight oil is another type of source-reservoir neighboring
+resources. Despite of a late start, it has become one of the
+highlights of recent oil exploration in China. All major
+Mesozoic-Cenozoic continental basins in China are qualified
+for the accumulation of tight oil resources and the reservoir
+types include mainly tight sandstone and lacustrine carbonate
+rocks (Zou et al., 2012). According to the results of current
+preliminary evaluation, the favorable exploration area of tight
+oil is about (410-540)×103 km 2 , the geological resources are
+(11.3-13.5)×109 t. Tight oil is mainly distributed in the Member
+7 of Yanchang Formation in Ordos Basin, the Permian reservoir
+in the Junggar Basin, and the Fuyang reservoir interval in the
+Songliao Basin (Wang et al., 2014). Important advances have
+been made in the exploitation test on the tight oil of the Member
+7 of the Yanchang Formation in the Ordos Basin; through
+horizontal drilling and volume fracturing, the initial output per
+well can reach over one hundred tons, with daily production
+per well in production reaching 15-18 t, demonstrating a good
+development prospect (Yang et al., 2013). At present, in all
+exploration areas, effective methods of exploiting tight oil are
+being actively applied. Great breakthroughs will be made in
+the next five years. The production scale of China’s tight oil is
+estimated to be (30-40)×106 t, which is of important strategic
+significance to the stable growth of China’s crude oil production.
+
+In China, shale gas is now the buzzword of unconventional
+hydrocarbon resources with great potential and challenges.
+Considering the resource conditions, the marine shale resources of
+the Silurian Longmaxi Formation in the southern China are more
+realistic. High-production gas flows have been obtained in three
+areas in Sichuan Basin, including Weiyuan-Changning, FushunYongchuan, and Jiaoshiba of Fuling areas. It was preliminarily
+confirmed that the favorable area is (50-60)×103 km 2 , and
+recoverable resources is (4-5)×1012 m3. The concentrated drilling
+and pilot production also succeeded, especially in Jiaoshiba of
+Fuling areas, where the daily gas production per well averaged
+at 140×103m3. The capability of industrial production in this area
+indicates that the exploitation of shale gas in Longmaxi Formation
+is likely to speed up.
+
+4.2 Requirement of technical innovation and
+industrialization exploration in source-reservoir
+integration type resources
+CBM is an unconventional natural gas resource to which
+China gave priority and strongly promoted a few decades ago.
+The recoverable resources amount to about 11×1012 m3. After
+nearly 20 years of development, breakthroughs in high-rank
+coal CBM have been made. Pilot industrialized production
+has been achieved in some areas such as the Qinshui Basin in
+Shanxi Province and Hancheng area in Shaanxi Province. In
+2013, China’s subsurface CBM production was about 3.0×109
+m 3. Compared with the anticipation and massive investment,
+however, the development of China’s CBM is still barely
+satisfactory and comparatively in significant. The coordination
+mechanism of the CBM industry has to be further improved and
+the resource conditions and key technologies have to be further
+identified and studied. The core is to increase the production
+per well and increase the rate of production. The low-rank coal
+CBM, medium-high rank soft coal and deeply buried CBM
+resources account for about 70% of total resources. Technically
+there has been no effective development on this type of CBM
+in China. It is estimated that a period of technical preparation
+will further accelerate the pace of CBM development in the next
+
+The development of shale gas in China also faces some
+challenges: (1) Due to limited exploration and assessment of
+the resources potential of the marine-continent transitional
+facies and lacustrine shale gas in the Cambrian Qiongzhusi
+Formation, further evaluation is still needed. (2) Strong tectonic
+movement and deep burial make it difficult to prospect the
+economical enrichment areas of shale gas. (3) The complex
+ter rain in southern China, mostly mountains and hills,
+brings great difficulty and high cost to carry out engineering
+construction. (4) China has a shortage of water resources and
+needs the new technology such as anhydrous fracturing (Li et
+al., 2012; Qiu et al., 2012; Zhao et al., 2012). According to the
+comprehensive evaluation, the marine shale gas in China is
+realistic, the development of which is likely to speed up in some
+areas. However, we cannot expect a full-scale breakthrough
+within a short time. The future scientific development includes
+emphasising on technical innovation and exploitation testing as
+well as establishing theoretical models for shale gas development
+that suit for China’s specific geological characteristics through
+progressive exploration. It is expected to achieve an industrial
+output of 20×109 m3 in the next decade.
+The basic research on the formation mechanisms of shale oil in
+China has just started. Shale oil previously found in mudstoneshale is mainly fracture-type shale oil, which was discovered
+in the Songliao, Bohai Bay, and Jianghan basins, although they
+were all of small scale. In recent years, exploration of oil in
+the pores of mudstone-shale has begun. Low-production oil
+flows were found in some continental oil source rocks, such as
+Member 3 of the Shahejie Formation in the Bohai Bay Basin,
+and Member 3 of the Hetaoyuan Formation in the Biyang
+Depression, demonstrating the presence of continental shale oil
+(Wu et al., 2013). However, the outlook of the resource potential
+and the economical development stays uncertain.
+
+145
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+High production of oil had been obtained from oil shale through
+dry distillation during 1950-1960s, reaching up to 790×103 t. At
+present, there is still production in some areas such as Fushun
+area in Liaoning Province and Huadian area in Jilin Province,
+with an annual production of about 550×103 t. However, due
+to the inherent limitations of environment and cost in the
+traditional dry distillation process, it is difficult to achieve largescale development of the oil shale resources before significant
+breakthroughs are made in technology of in-situ exploitation of
+oil shale.
+
+4.3 Natural gas hydrates, a promising sourcereservoir separation resource in the future
+Natural gas hydrates (NGH) are mainly distributed in the
+northern continental margin of the South China Sea, the
+continental slope of the East China Sea, and the permafrost
+zones in Tibetan Plateau and northeastern China. According to
+the NGH samples obtained in the northern continental slope of
+South China Sea, 10 favorable areas of gas hydrate resources
+have been preliminarily selected, including the Dongsha,
+Shenhu, Xisha, Southeast Hainan, South Zhongjian, North
+Wan’an, North Beikang, Central Nansha, and East Liyue areas.
+NGH samples were also obtained in the permafrost zone of the
+Qilian Mountain. According to the preliminary evaluation, the
+permafrost zones in the Qiangtang Basin, Qinghai-Tibet Plateau
+and Qilian Mountain are likely to have good prospects of NGH
+resources, followed by the northeast China permafrost zone.
+Recently, China has further strengthened the basic research and
+resource investigation of NGH, which is likely to accelerate the
+development (Zhang et al., 2013; Cai et al., 2014).
+Although oil sands are widely distributed in China, the quality
+and the total amount are far inferior to the Canadian oil sand
+resources. The oil sands in China practically belong to “dry
+asphalt”, which are generally of low grade. For the oil sands
+with the oil content of over 10%, the recoverable resources
+only account for 2%, which is not qualified for large-scale
+exploitation.
+
+5 Conclusions
+(1) The source-reservoir assemblages play a key controlling
+role in the formation of unconventional oil and gas, which can
+be divided into three types, i.e., source-reservoir neighboring
+type, source–reservoir integration type, and source-reservoir
+separation type. They differ in formation mechanisms,
+geological characteristics and distribution patterns, and are
+much different in resource potential and development prospects.
+(2) The source-reservoir neighboring resources are essentially
+“tight hydrocarbons”, mainly including tight oil and tight
+gas. The key controlling factor is the large-area of the tight
+reservoir in close contact with high-quality source rocks. The
+
+146
+
+resources are widely distributed in the Mesozoic-Cenozoic
+continental deposits and the Late Palaeozoic marine-continent
+transitional coal measures. They are often co-genetic with and
+superimposed over conventional hydrocarbons, and have great
+resource potential. If major technical breakthrough can be
+made, then this type resource can serve as a natural extension
+of conventional oil and gas exploration and exploitation.
+Breakthroughs have already been made in several basins in
+China and the resources are expected to be developed rapidly in
+the next few years, making it the most realistic unconventional
+resources.
+(3) In essence, the source-reservoir integration resources are
+“source rock-derived hydrocarbons”, mainly including coalbed
+methane, shale gas, shale oil, oil shale, etc., which come in
+many forms with great differences among those types. Although
+this type of resource is more widely distributed around the
+world, resources of this type with real commercial value of
+industrial exploitation require not only favorable hydrocarbon
+source rock indicators, but also appropriate reservoir conditions
+for transformation by volume fracturing, and purposely made
+technology as well. Coalbed methane and shale gas are the
+major source-reservoir integration resources in China, and have
+geological resource conditions different from those in North
+America. Commercial production and/or local breakthroughs
+have been achieved in some areas. In the next 10 years, the
+source-reservoir integration resources shall act as an important
+strategic alternative resource. Technical innovation and
+industrial development test shall be strengthened in persistent
+exploration in a bid to achieve rapid development.
+(4) The source-reservoir separation resources are quite special.
+Oil sand resources in China are of poor quality, highly discrete
+distribution and are not ready for large-scale development.
+Several favorable areas of NGH in the South China Sea have
+been delineated after recent marine survey and evaluation. NGH
+exploration is likely to accelerate in the near future through
+basic research, resource investigation and production testing.
+Commercial development of NGH is of important strategic
+significance to China’s long-term energy supply.
+(5) With increasing degree of exploration in China’s major
+hydrocarbon-bearing basins, unconventional hydrocarbons
+have become important resources that cannot be ignored. At
+present, the Songliao, Bohai Bay and Ordos basins have partly
+entered the stage of developing tight oil and gas. Because the
+development of unconventional resources in China only started
+around a decade ago, our knowledge on the resource conditions,
+engineering conditions and industrialization routes is still quite
+limited or lacking. Therefore, we need to strengthen the research
+on source-reservoir assemblages to understand the formation
+conditions and geological characteristics of three types of
+resources, i.e., source-reservoir neighboring type, source-
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+reservoir integration type, and source-reservoir separation
+type. This is of significant importance for understanding
+the connotation of resources, evaluating enrichment zones,
+addressing technical challenges as well as formulating scientific
+and rational planning of development.
+
+Acknowledgments
+We would like to express our gratitude to all those who have
+participated in this research, including Yang Tao, Zhang
+Guosheng, Yan Weipeng, Wang Shejiao, Guo Bincheng, Wu
+Xiaozhi, Li Xin, Huang Fuxi, Liang Kun, Huang Jinliang,
+etc. Our sincere thanks should also go to Academicians Zhao
+Wenzhi and Jia Chengzao, and Professor Zou Caineng for their
+guidance during the writing of this paper. Finally we greatly
+appreciate relevant oil fields for supporting this research and
+sharing their data.
+This work was funded by National Science and Technology
+Major Project of China (Grant No. 2011ZX05043), and Major
+Science and Technology Special Project of China National
+Petroleum Corporation (Grant No: 2013E-0502)
+
+References
+Cai J J, Lu Z Q, He J X, et al. Geochemical behaviors of carbonates associated with gas hydrate in the Qilian Mountain permafrost. Natural Gas
+Industry, 2014, 34(2): 143-153(in Chinese with English abstract).
+Cao P, Zou W H, Dai C R, et al. A review of oil sands. Xinjiang Petroleum
+Geology, 2012, 33(6): 747-750(in Chinese with English abstract).
+Curtis J B. Fractured shale gas systems. AAPG Bulletin, 2002, 86(11):19211938.
+Guan D S, Niu J Y, Guo L N, et al. Unconventional petroleum geology in
+China. Beijing: Petroleum Industry Press, 1995(in Chinese).
+Guo T L, Liu R B. Implications from marine shale gas exploration breakthrough in complicated structural area at high thermal stage: taking
+Longmaxi Formation in Well JY1 as an example. Natural Gas Geoscience, 2013, 24(4):643-651(in Chinese with English abstract).
+Hou L H, Zhu R K, Zhao X, et al. The control factors and distribution laws
+of volcanic oil and gas reservoir in China. Engineering Science, 2012,
+14(6):77-86(in Chinese with English abstract).
+Jia C Z, Zheng M, Zhang Y F. Four important theoretical issues of unconventional petroleum geology. Acta Petrolei Sinica, 2014, 35(1):1-10(in
+Chinese with English abstract).
+Jia C Z, Zou C N, Li J Z, et al. Assessment criteria, main types, basic features and resource prospects of the tight oil in China. Acta Petrolei Sinica, 2012, 33(3):343-350(in Chinese with English abstract).
+Jin Q H, Zhang G X, Yang M Z, et al. Introduction of natural gas hydrate
+resources. Beijing: Science Press, 2006(in Chinese).
+Jin Q H. Gas hydrate:a new future energy. Engineering Science, 2000, 2(11):
+29-34(in Chinese with English abstract).
+Li J Z, Guo B C, Zheng M, et al. Main types, geological features and resource potential of tight sandstone gas in China. Natural Gas Geoscience, 2012, 23(4):607-615(in Chinese with English abstract).
+Li J Z, Li D H, Dong D Z, et al. Comparison and enlightenment on forma-
+
+tion condition and distribution characteristics of shale gas between
+China and U.S. Engineering Science, 2012, 14(6): 56-63(in Chinese
+with English abstract).
+Li J, Wei G Q, Xie Z Y, et al. Accumulation mechanism and main controlling factors of large tight sandstone gas fields in China: cases study on
+Ordos Basin and Sichuan Basin. Acta Petrolei Sinica, 2013, 34(S1): 1428(in Chinese with English abstract).
+Li Q P, Zhang X H, Lu X B. Advances in formation mechanism and dissociation kinetics of gas hydrate in sediments. Advances in Mechanics,
+2011, 41(1): 1-14(in Chinese with English abstract).
+Liang H B, Kuang H W, Liu J Q, et al. Discussion on origin for marls of the
+Member 3 of Shahejie Formation of Paleogene in Shulu sag of Central
+Hebei depression. Journal of Palaeogeography, 2007, 9(2): 167-174(in
+Chinese with English abstract).
+Lu S F, Huang W B, Chen F W, et al. Classification and evaluation criteria
+of shale oil and gas resources: discussion and application. Petroleum
+Exploration and Development, 2012, 39(2): 249-256(in Chinese with
+
+English abstract).
+Luo X R, Zhang L K, Lei Y H. Dynamic studies on hydrocarbon migration
+and accumulation: methodology and application. Chinese Journal of
+Geology, 2012, 47(4):1188-1210(in Chinese with English abstract).
+National Energy Administration(NEA). Shale gas industry policy. Beijing:
+NEA, 2013(in Chinese).
+National Petroleum Council(NPC). Potential of North American unconventional oil resource. Washington, D.C: National Petroleum Council,2011:8-11.
+Nelder C. Energy independence, or impending oil shocks? ZDNet, 2012.
+Oil and Gas Resources Strategic Research Center of the Ministry of Land
+and Resources(MLR). Oil sands resources evaluation in China. Beijing:
+China Land Press, 2009(in Chinese).
+Passey Q R, Bohacs K, Esch W L, et al. From oil prone source rock to gas
+producing shale reservoir-geologic and petrophysical characterization of
+unconventional shale gas reservoirs. SPE 131350, 2010.
+Qin Y, Yuan L, Cheng Y P, et al. Scenario predication for the mid term and
+long term coalbed methane production scale of surface drilling wells in
+China. Acta Petrolei Sinica, 2013, 34(3): 489-495(in Chinese with English abstract).
+Qin Y, Yuan L, Hu Q T, et al. Status and development orientation of coal
+bed methane exploration and development technology in China. Coal
+Science and Technology, 2012, 40(10): 1-6(in Chinese with English abstract).
+Qiu Z J, Zhao W Z, Deng S T. Development prospect and strategic significance of tight gas and shale gas in China. Engineering Science, 2012,
+14(6): 4-8(in Chinese with English abstract).
+Qiu Z J, Zhao W Z, Deng S T. Tight gas and shale gas development roadmap. China Petroleum and Petrochemical, 2012, (17): 18-21(in Chinese
+with English abstract).
+Slatt R M, O’Brien N R. Pore types in the Barnett and Woodford gas shales:
+contribution to understanding gas storage and migration pathways in
+fine grained rocks. AAPG Bulletin, 2011, 95(12): 2017-2030.
+Song Y, Liu S B, Hong F, et al. Geochemical characteristics and genesis of
+coalbed methane in China. Acta Petrolei Sinica, 2012, 33(S1): 99-106(in
+Chinese with English abstract).
+Song Y, Liu S B, Ju Y W, et al. Coupling between gas content and permeability controlling enrichment zones of high abundance coal bed methane. Acta Petrolei Sinica, 2013, 34(3): 417-426(in Chinese with English
+
+147
+
+J.Li et al./Petroleum Research (2016) 2,135-148
+
+abstract).
+Standardization Committee of Petroleum Geology Exploration(SCPGE).
+SYT 6832 2011 Geological evaluating methods for tight sandstone gas.
+Beijing: Petroleum Industry Press, 2011(in Chinese).
+Su X B, Chen R, Lin X Y, et al. Application of adsorption potential theory
+in the fractionation of coalbed gas during the process of adsorption/
+desorption. Acta Geologica Sinica, 2008, 82(10): 1382-1389(in Chinese
+with English abstract).
+Sun F J, Wang B, Li M X, et al. Major geological factors controlling the
+enrichment and high yield of coalbed methane in the southern Qinshui
+Basin. Acta Petrolei Sinica, 2014, 35(6): 1070-1079(in Chinese with
+English abstract).
+Sun Z D, Jia C Z, Li X F, et al. Unconventional petroleum exploration and
+exploitation. Beijing: Petroleum Industry Press, 2011(in Chinese).
+U.S.Energy Information Administration(EIA). Review of emerging resources: U.S.shale gas and shale oil plays. Washington, D.C: EIA, 2014.
+Wang B, Zhao Y Q, Wang S Y, et al. Characteristics and main controlling
+factors of tight sandstone reservoirs in Silurian of Kongquehe slope,
+Tarim Basin. Petroleum Geology & Experiment, 2013, 35(6): 615-620(in
+Chinese with English abstract).
+Wang S J, Yu Y J, Guo Q L, et al. New advance in resources evaluation of
+tight oil. Acta Petrolei Sinica, 2014, 35(6): 1095-1105(in Chinese with
+English abstract).
+Wang Y P, Wang Y W, Meng X L, et al. Enlightenment of American’s oil
+shale in-situ retorting technology. Oil Drilling & Production Technology, 2013, 35(6):55-59(in Chinese with English abstract).
+Wu Q, Xu Y, Zhang S L, et al. The core theories and key optimization designs of volume stimulation technology for unconventional reservoirs.
+Acta Petrolei Sinica, 2014, 35(4):706-714(in Chinese with English abstract).
+Wu X L, Gao B, Ye X, et al. Shale oil accumulation conditions and exploration potential of faulted basins in the east of China. Oil & Gas Geology,
+2013, 34(4): 455-462(in Chinese with English abstract).
+Yang H, Li S X, Liu X Y. Characteristics and resource prospects of tight oil
+and shale oil in Ordos Basin. Acta Petrolei Sinica, 2013, 34(1): 1-11(in
+Chinese with English abstract).
+Yu X H, Wang J Z, Liang J Q, et al. Depositional accumulation characteristics of gas hydrate in the northern continental slope of South China
+Sea. Acta Petrolei Sinica, 2014, 35(2): 253-264(in Chinese with English
+abstract).
+
+148
+
+Zhang H F, Fang C L, Gao X Z, et al. Petroleum geology. Beijing: Petroleum
+Industry Press, 1999(in Chinese).
+Zhang H Z, He Y Q, Sun N D, et al. Natural gas hydrate production technology and outlook of its prospect. Petroleum Technology Forum, 2013,
+32(6): 15-19(in Chinese with English abstract).
+Zhang X M. Coalbed methane geology and resource evaluation in China.
+Beijing: Science Press, 2002(in Chinese).
+Zhao W Z, Dong D Z, Li J Z, et al. The resource potential and future status
+in natural gas development of shale gas in China. Engineering Science,
+2012, 14(7): 46-52(in Chinese with English abstract).
+Zhao W Z, He D F, Fan T Z. The study on terminology, technological process and kernel content for petroleum system. Petroleum Exploration
+and Development, 2002, 29(2):1-7(in Chinese with English abstract).
+Zhao W Z,Wang Z Y, Wang H J, et al. Further discussion on the connotation and significance of the natural gas relaying generation model from
+organic materials. Petroleum Exploration and Development, 2011,
+38(2):129-135(in Chinese with English abstract).
+Zhao X Z, Zhu J Q, Zhang R F, et al. Characteristics and exploration potential of tight calcilutite rudstone reservoirs in Shulu sag,Jizhong
+depression,North China. Acta Petrolei Sinica, 2014, 35(4): 613-622(in
+Chinese with English abstract).
+Zhao Z Z, Du J H. Tight oil & gas. Beijing: Petroleum Industry Press,
+2012(in Chinese).
+Zou C N, Dong D Z, Wang S J, et al. Geological characteristics, formation
+mechanism and resource potential of shale gas in China. Petroleum
+Exploration and Development, 2010, 37(6):641-653(in Chinese with
+English abstract).
+Zou C N, Tao S Z, Hou L H, et al. Unconventional petroleum geology. Beijing: Geological Publishing House, 2014(in Chinese).
+Zou C N, Tao S Z, Hou L H, et al. Unconventional petroleum geology. 2nd
+ed. Beijing: Geological Publishing House, 2013(in Chinese).
+Zou C N, Yang Z, Cui J W, et al. Formation mechanism, geological characteristics and development strategy of nonmarine shale oil in China.
+Petroleum Exploration and Development, 2013, 40(1):14-26(in Chinese
+with English abstract).
+Zou C N, Zhu R K, Wu S T, et al. Types, characteristics, genesis and prospects of conventional and unconventional hydrocarbon accumulations:
+taking tight oil and tight gas in China as an instance. Acta Petrolei Sinica, 2012, 33(2): 173-187(in Chinese with English abstract).
+
+

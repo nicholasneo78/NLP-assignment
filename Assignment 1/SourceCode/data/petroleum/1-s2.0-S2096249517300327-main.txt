@@ -1,0 +1,1963 @@
+Petroleum Research (2016) 1,70-80
+
+An evaluation workflow for shale oil and gas in the
+Jiyang Depression, Bohai Bay Basin, China: A case
+study from the Luojia area in the Zhanhua Sag
+Yongshi Wang, Zheng Li, Jianqiang Gong, Jiajun Zhu, Yunqing Hao,
+Xuefeng Hao and Yong Wang
+Research Institute of Geoscience, SINOPEC Shengli Oilfield Company, Shandong 257015, China
+Received February 8, 2016; Accepted September 1, 2016
+
+Abstract: Shale oil and gas plays in continental rift basins are complicated and have not been
+reported elsewhere. In the Luojia area of the Jiyang Depression, an evaluation workflow for shale
+oil and gas in this continental rift basin is proposed. Based on analysis of oil- and gas-related
+geological conditions, a favorable area of shale oil and gas can be identified, and a high-frequency
+sequence stratigraphic framework of the target area can be established, therefore, the spatiotemporal
+distribution of shale has been elucidated in the Luojia area. According to the rock texture, structure,
+composition and color, petrographic classification criteria for shale are determined, and well log data
+are used to demarcate, track and predict high-quality lithofacies. Based on geochemical analyses
+and physical simulations of hydrocarbon generation, abundance, types and maturity of organic
+matter are analyzed, furthermore, geochemical parameters criteria of hydrocarbon generation and
+the characteristics of oil and gas occurrence in shales can be determined. Storage space types,
+assemblages and evolution characteristics of shale reservoirs are studied through core observation,
+thin-section analysis, electron microscopy examination and fluorescence spectrometry. Combined
+with analysis of reservoir physical properties, the reservoir performance is evaluated. A saturation
+model is established based on core analysis, well-log interpretation and well-test production data. The
+model is further used for evaluation of the movable hydrocarbon contents and integrated assessment
+of the oil potential. Finally, the shale oil and gas production capacity and exploration prospects in
+the Luojia area are forecasted based on the analyses of factors controlling production capacity and
+the rock fracability. Through an integrated analysis of multi-factors (including the lithofacies, source
+rocks, reservoir properties, oil saturation, and production capacity), the shales in the Luojia area
+can be divided into three categories, i. e., Class I (high porosity - high resistivity), Class II (medium
+porosity - medium resistivity), and Class III (low porosity - medium resistivity).
+
+Key words: evaluation workflow; shale oil; rift basins; lithofacies; oil
+potential; fracability
+
+1 Introduction
+Since the 1990s, commercial shale oil and gas exploration has
+commenced in a number of basins abroad upon development
+* Corresponding author. Email: wangysh623@sina.com
+
+of horizontal well and shale fracturing technologies (Curtis,
+2002; Bustin, 2005; Ronald et al., 2007). In addition to the
+United States and Canada, shale oil and gas research and
+exploration are presently active in a number of countries such
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+70
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+as Australia, Sweden, Poland, and China. According to the
+preliminary assessment results of the U.S. Energy Information
+Administration released in June 2013, the global technically
+recoverable shale gas resource is 220.73×1012 m3. According to
+the forecasts by different scholars or organizations, shale gas
+resources in China are (30–166)×1012 m3 with the technically
+recoverable resources of (7–45)×1012 m3 (Zou et al., 2011). Shale
+oil resources in China are estimated approximately 47.6×109 t
+with the recoverable resources of approximately 10×109 t, and
+shale oil and gas resources in China are mainly distributed
+in three marine depressions/basins (southern Yangtze region,
+North China, and Tarim Basin) and five continental basins
+(Junggar, Turpan-Hami, Ordos, Songliao, and Bohai Bay) (Li
+et al., 2009; Nie et al., 2009; Chen et al., 2010; Xu et al., 2011),
+showing broad exploration prospects.
+
+resources in the study area.
+
+2 Shale gas exploration prospects
+The Jiyang Depression is located in southeastern Bohai Bay
+Basin, which connects to the Chengning Uplift via large-scale
+bedrock faults to the northwest and is adjacent to the Tanlu Fault
+to the east and Luxi Uplift to the south. This depression covers
+an area of 25.51×103 km2. Being a Mesozoic and Cenozoic rift
+- depression superimposed basin developed on the basement of
+the North China Platform, the Jiyang Depression is separated
+by a few highs such as Qingcheng, Binxian, Chenjiazhuang, and
+Yihezhuang into four sags, i.e., Dongying, Huimin, Zhanhua,
+and Chezhen (Fig. 1). In the Early Eocene, the Jiyang rift
+lacustrine basin entered the peak rift - subsidence period and
+experienced relatively stable tectonic movement, the lacustrine
+basin continued to subside in a warm and humid climate, and
+terrigenous detritus entered into the lake and delivered a large
+amount of nutrients, therefore, massive growth of aquatic
+organisms occurred in the lake, leading hydrocarbon source
+rocks developed in the upper sub-member of the 4th member,
+lower and middle sub-members of the 3rd member, and the 1st
+member of the Shahejie Formation (Zhang et al., 2008; Zhang
+et al., 2009). Drilling data show that in the Jiyang Depression,
+shale formations are mainly distributed in the Paleogene strata
+of the upper sub-member of 4th member, lower sub-member
+of 3rd member, and the 1st member of the Shahejie Formation.
+These shale formations are characterized by large thickness,
+abundant organic matter dominated by the sapropelic - mixed
+type, and wide occurrence of organic maturity (Wang and Qian,
+
+The Jiyang Depression, which has undergone a 50-year period
+of exploration, is an oil and gas-rich depression in the Bohai Bay
+Basin. The well density of the Jiyang Depression is up to 0.2 per
+km2 and the overall water-cut reaches 91.0%. Since the depression
+has entered into a stratigraphic and lithological reservoir play
+exploration stage as a whole, there are increasing challenges in
+the conventional oil and gas exploration. Therefore, to ensure the
+sustainable development of the Shengli Oilfield, the exploration
+of unconventional shale oil and gas thus becomes quite urgent. In
+this study, a detailed analysis is performed on shale oil and gas
+resources in the Luojia area. We hope to explore the technologies,
+workflow and methodology for shale oil and gas exploration
+in continental rift basins and to provide supporting data and
+technological reserves for evaluation of unconventional oil and gas
+
+N
+
+e
+Ch
+
+20km
+
+ng
+
+n
+
+ing
+
+Wu d
+
+H
+Hua 7
+
+li
+Up
+
+i Hi
+
+i
+uim
+
+Ch
+
+Ch
+
+ft
+
+ez
+
+h
+
+g
+en
+
+zo
+
+S
+en
+
+lift
+
+u
+ko
+
+gh
+Hi
+
+ag
+
+Che
+Da 2
+
+Che 7
+
+Zha
+
+gh
+
+nhu
+
+a
+
+Sag
+
+Ch
+
+zhe
+
+Che
+
+eng
+
+n Sa
+
+ngn
+
+zik
+
+g
+
+ou
+
+Da 94 Guo 3
+Guo 7
+Da 93
+
+ing
+
+Hi
+
+Up
+
+gh
+
+lift
+
+nh
+Zha
+
+Yi 26
+
+Yi 30
+Yi 18
+Yi20
+Yi182
+Yi 21
+Luo 67 Xinyishen 9
+Luo 69
+Luo 19
+Luo 7
+Luo 20
+Luo 42
+Boyeping 1
+Luo 531
+Luo 58
+
+Boshen 8
+
+Gu
+
+ua
+
+dao
+
+Sag
+
+Hig
+
+h
+
+Chengjiazhuang High
+
+nS
+
+ag
+Binxian High
+Linfanjia High
+
+Lishen 101
+
+Dongfeng 1
+He 54
+He 88
+
+Shi 120
+Fan 120
+Gao 7 Fan 119
+
+Qingcheng High
+
+Do
+
+Luxi Uplift
+
+ngy
+
+Sag
+ing
+Jin 10
+
+Do
+
+in
+ngy
+
+Luxi
+Well
+
+Wang 76
+
+ag
+g S
+
+Upli
+Fault
+
+Qingtuozi High
+
+0
+
+C
+
+hen
+
+Up
+
+ng
+gni
+
+ft
+Pinch-out
+line
+
+Over-lap
+line
+
+Fig. 1 Major tectonic units in the Jiyang Depression, Bohai Bay Basin, China
+
+71
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+1992; Zhang et al., 2003; Zhou et al., 2006). The content of
+total organic carbon (TOC) is >2.0%, and the organic maturity
+(Ro) is >0.5%. The favorable distribution area of source rocks
+with the thickness >50 m is 5524 km 2. These conditions form
+the material basis for large-scale shale oil and gas generation in
+Jiyang Depression.
+During the early stage of conventional oil and gas exploration,
+abnormal mud (logging) gas with oil and gas shows were
+frequently observed in shales of the Paleogene Shahejie
+Formation. In 1973, Well He 54 was drilled in the central uplift
+in the Dongying Sag. Drill stem test of the shale formation at
+2928–2964.4 m of the lower 3rd member of Shahejie Formation
+with 5-mm discharge nozzle obtained a gas production of 2740
+m 3/d. Thus, Well He 54 became the first commercial oil and
+gas flow well of shale in the Jiyang Depression. Thereafter,
+
+high-yield oil and gas flow was successively obtained in wells
+Luo 42 in the Zhanhua Sag, Xinguo 3 in the Chezhen Sag, and
+Lishen 101 in the Dongying Sag. By the end of 2011, oil and
+gas shows had been observed in shales of over 300 wells in the
+Jiyang Depression, of which 30 wells yielded industrial oil and
+gas flow (Table 1). The oil and gas flow wells feature multi-layer
+distribution in a number of sags, indicating great potential for
+shale exploration in the Jiyang Depression.
+
+3 Shale oil and gas evaluation
+The lower sub-member of 3rd member of Shahejie Formation
+in the Luojia area is preferentially chosen for shale oil and gas
+evaluation because of its large thickness of shale formation
+(100–300 m), large number of wells with oil and gas shows (all
+of the 24 wells in the Luojia area have oil and gas shows in the
+shale formations, with three wells producing industrial oil flow
+
+Table 1 Statistics of industrial oil and gas flow wells of shale reservoirs in the Jiyang Depression
+Sag
+
+Zhanhua
+
+Chezhen
+
+Huimin
+
+Dongying
+
+Well
+
+Formation
+
+Oil production/(t/d)
+
+Gas production/(m3/d)
+
+Depth (m)
+
+Yi 21
+
+Es1
+
+35
+
+0.168
+
+2676.0–2764.2
+
+Yi 30
+
+Es1
+
+5.2
+
+0
+
+2700.0–2772.4
+
+Yi 26
+
+Es1
+
+12.4
+
+0
+
+2739.2–2813.0
+
+Yi 18
+
+Es1
+
+62
+
+0.286
+
+2742.2–2757.0
+
+Luo 20
+
+Es3
+
+9.2
+
+0
+
+2869.8–2880.0
+
+Xinyishen 9
+
+Es3
+
+38.5
+
+0.087
+
+3355.1–3435.3
+
+Luo 19
+
+Es3
+
+43.5
+
+0
+
+2936.0–2962.0
+
+Luo 42
+
+Es3
+
+79.9
+
+0.775
+
+2828.1–2861.0
+
+Yi 182
+
+Es3
+
+140
+
+12549
+
+3442.0–3480.0
+
+Yi 20
+
+Es4
+
+22
+
+0
+
+2855.6–2928.8
+
+Boshen 8
+
+Es4
+
+0
+
+12248
+
+4664.1–4680.0
+
+Xinguo 3
+
+Es3
+
+35.6
+
+0.051
+
+2825.6–2837.6
+
+Guo 7
+
+Es3
+
+8.98
+
+0
+
+2940.8–2998.4
+
+Da 93
+
+Es3
+
+6.32
+
+0
+
+2381.0–2401.0
+
+Da 2
+
+Es3
+
+3.9
+
+0
+
+2354.6–2372.0
+
+Da 94
+
+Es4
+
+27.1
+
+0.147
+
+2353.2–2368.0
+
+Xia 941
+
+Es3
+
+6.67
+
+6.67
+
+3808.6–3879.0
+
+Fan 120
+
+Es3
+
+5.14
+
+0
+
+3088.0–3111.0
+
+He 88
+
+Es3
+
+5.89
+
+0
+
+3203.6–3214.9
+
+0.274
+
+2928.0–2964.4
+
+He 54
+
+Es3
+
+91.3
+
+Li 758
+
+Es3
+
+5.81
+
+Lishen 101
+
+Es4
+
+4.29
+
+46834
+
+4395.1–4448.0
+
+Fan 119
+
+Es4
+
+9.61
+
+0.52
+
+3290.7–3302.1
+
+Shi 13
+
+Es4
+
+12.1
+
+0
+
+3046.4–3276.5
+
+Gao 7
+
+Es4
+
+14.4
+
+0
+
+3312.0–3325.8
+
+3224.3–3250.0
+
+Fan 119
+
+Es4
+
+15.9
+
+0.148
+
+3238.7–3253.1
+
+Wang 76
+
+Es4
+
+21.5
+
+0
+
+3262.0–3340.0
+
+Dongfeng 1
+
+Es4
+
+24
+
+Niu 52
+
+Es4
+
+12.6
+
+3104.0–3250.0
+
+3145.0–3240.5
+
+Es1 represent the 1st member of Shahejie Formation; Es3 represent the 3rd member of Shahejie Formation; Es4 represent the 4th member of Shahejie Formation.
+
+72
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+In the conventional oil and gas exploration, shale formations
+are generally considered to be homogeneous layers. However,
+the shale oil and gas exploration requires investigating
+differences and variations in shale layers regarding reservoir
+property, organic enrichment, oil and gas saturation, and oil
+and gas accumulation patterns, in order to identify favorable
+development formations of shale oil and gas. Therefore, the
+existing conventional oil and gas division scheme can no longer
+meet needs of shale oil and gas exploration, and in-depth study
+is needed for detailed research.
+Because shale deposition differs from sand and conglomerate
+depositional cycles, use of conventional logging data for fine
+layer comparison of shale formations has low accuracy. Based
+on previously established three-tier stratigraphic sequence
+framework, this study carries out high-frequency sequence
+correlation and division of the lower sub-member of 3rd member
+of Shahejie Formation in the Luojia area using ratios of between
+thorium and potassium (Th/K) to reflect changes in relative lake
+Well
+
+Well
+
+sp Lou 531 R25
+
+sp Luo 42 R25
+
+Well
+
+sp Luo 7
+
+The terrestrial lacustrine basin features complex lithofacies, with
+industrial oil and gas flow obtained from over 10 types of shale
+formations in terms of lithology. The basin is characterized by
+rapid lithofacies changes and strong heterogeneity. Different
+lithofacies show substantial variations in the reservoir properties
+and hydrocarbon generation capability. Therefore, detailed
+petrographic studies are needed for identifying types and
+distribution of favorable lithofacies of shale oil and gas, further
+providing supporting data for sweet-spot forecasting in this area.
+Extensive core and thin-section observations indicate that shale
+formations in Well Luo 69 contain common horizontal bedding, as
+reflected by changes in mineral compositions, color, and bedding
+Well
+
+sp Luo 69 R25
+
+R25
+
+2750
+
+Sequence 10
+2850
+2900
+
+4th-order Th/K Th/K
+7 -7 -6
+
+3250
+
+2800
+
+Sequence 12
+
+0
+
+Oil shale
+
+oil
+Oil mudstone Calcareous
+mudstone
+
+1km
+
+Mudstone
+
+Calcareous
+mudstone
+
+3350
+
+3050
+
+3150
+
+3000
+
+2700
+
+2900
+
+Sequence 13
+
+3100
+
+2650
+
+2550
+
+2850
+
+3300
+
+3050
+
+2600
+
+2500
+
+Well
+
+sp Luo 67 R25 sequence 6
+
+Sequence 11
+3000
+
+2450
+
+2550
+
+2400
+
+R25
+
+3.2 Lithofacies characteristics
+
+2500
+
+Well
+
+sp Luo 58
+
+Comparison of the high-frequency sequence sections of Well
+Luo 58 to Well Luo 67 shows that the lower 3rd member of
+Shahejie Formation can be further divided into four 4th-order
+sequences, designated Sequence 10, 11, 12, and 13 from top to
+bottom. Core observation and logging data analysis indicate that
+formations with oil and gas shows are mainly concentrated in
+the lower part of Sequence 12 and upper part of Sequence 13 (Fig.
+2). Considering that shale formations that yield shale oil and
+gas flow in the early exploration stage are concentrated in these
+sequences, the lower Sequence 12 and upper Sequence 13 are
+chosen as the target formations for research on shale oil and gas
+in the area.
+
+3200
+
+3.1 Pay interval selection
+
+level with aid of core and conventional logging data. The results
+are used to establish a high-frequency sequence framework
+of the target area and to identify preliminarily distribution
+characteristics of shales in the target formations.
+
+2950
+
+and five wells producing low-yield oil flow), moderate burial
+depth (2500–3500 m), and sufficient data. For example, in the
+shale oil and gas well, Well Luo 69, a core of 221.36 m long was
+obtained by systematic coring of the shale units, and about 8750
+samples were analyzed. In addition to the conventional logging,
+another six logging tools were run, including three-dimensional
+resistivity, imaging, nuclear magnetism, gamma spectroscopy,
+multi-pole sonic logging, and stratigraphic element. The shale
+oil and gas evaluation is carried out with respects to pay
+interval selection, lithofacies, source rock, reservoir, oil and gas
+saturation, and production capacity.
+
+Argillaceous
+limestone
+
+Limestone
+
+Sandstone
+
+Calcareous
+sandstone
+
+Sandy
+mudstone
+
+Argillaceous
+gypsum rock
+
+Oil and gas
+show
+
+Shale oil and
+gas layer
+
+Fig. 2 Stratigraphic sub-division and correlation of sequences from Well Luo 58 to Well Luo 67 in the Luojia area, Jiyang
+Depression
+
+73
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+thickness. The results of thin-section analysis show that major
+rock components are argillaceous rocks with a scale structure and
+calcites with primary cryptocrystalline structures and secondary
+microscopic crystal - cryptocrystalline and cryptocrystalline
+- microscopic crystal structures. From core observation and
+microscopic analysis, the lithofacies subdivision of shales in the
+lower sub-member of 3rd member in the Luojia area is carried out
+based on combination of rock texture, structure characteristics, and
+compositions. The major lithofacies are laminated argillaceous
+limestone lithofacies, bedded argillaceous limestone lithofacies,
+(a)
+
+and bedded calcareous mudstone lithofacies (Fig. 3) with a few
+transitional lithofacies.
+Because different lithofacies have various compositions,
+structures, and oil and gas potential, their corresponding
+logging responses are different as well. This leads to substantial
+difficulties in establishing conventional logging facies model.
+In this study, a conventional logging facies model is firstly
+established by logging via core scale image and calibration of
+conventional log by image log. Finally, three curves of density
+
+(b)
+
+5cm
+5cm
+
+5cm
+
+5cm
+(d)
+
+(c)
+
+(f)
+
+(e)
+
+3mm
+
+2mm
+
+1mm
+
+Fig. 3 Major lithofacies types of shales in the Luojia area. (a) lithofaces type of laminated argillaceous
+limestone from Well Luo 69 of 3041.15m; (b) lithofaces type of bedded argillaceous limestone from Well
+Luo 69 of 3127.1m; (c) lithofaces type of bedded calcareous mudstone from Well Luo 67 of 3316.7m; (d)
+lithofaces type of laminated argillaceous limestone from Well Luo 67 of 3041.1m; (e) lithofaces type of bedded
+argillaceous limestone from Well Luo 69 of 3060.35m; (f) lithofaces type of bedded calcareous mudstone
+from Well Luo 69 of 3022.65m.
+
+(DEN), acoustic time-difference (AC), and resistivity (RT) are
+preferentially chosen for lithofacies subdivision (Fig. 4). Of
+the three major lithofacies, laminated argillaceous limestone
+lithofacies has the largest values of AC and RT, indicating
+high extents of reservoir space development as well as oil and
+gas accumulation. Additionally, this lithofacies has relatively
+high density, suggesting high content of brittle carbonate
+minerals that can easily be fractured. Therefore, the laminated
+argillaceous limestone lithofacies is a possible sweet-spot
+lithofacies.
+Using the conventional logging facies model and according
+to modern lacustrine depositional characteristics, the crosssectional and planar facies analyses are conducted to identify
+vertical distribution patterns of different lithofacies. Results
+show that the laminated argillaceous limestone lithofacies is
+mainly distributed in the lower part of Sequence 12 and the
+upper part of Sequence 13; the laminated - bedded argillaceous
+limestone lithofacies is mainly distributed in the middle part
+of Sequence 12 and 13; the bedded argillaceous limestone
+
+74
+
+lithofacies and the bedded calcareous mudstone lithofacies are
+mainly distributed in Sequence 10 and 11 as well as the lower
+part of Sequence 13.
+
+3.3 Source rock characteristics
+The source rock evaluation parameters for the commercial
+exploitation area of shale oil and gas in North America
+include TOC, Ro, and dark shale thickness (Martineau, 2007).
+Accordingly, based on geochemical analyses and hydrocarbon
+generation simulations, the abundance, types, and maturity of
+organic matter in the Luojia area are demarcated, and criteria of
+geochemical parameters for shale oil and gas exploration in the
+Jiyang Depression are established, to further identify favorable
+source rocks in the study area.
+3.3.1 Abundance of organic matter
+The adsorbed hydrocarbons (S1) and relative content of TOC are
+two parameters commonly used for assessing liquid hydrocarbon
+content. With ratios S1/TOC of 100 mg/g as critical point, those
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+500
+
+DEN (cm /g)
+
+2.50
+
+2.45
+
+2.40
+
+DEN (cm /g)
+
+2.35
+
+120
+110
+100
+90
+80
+70
+60
+)
+
+)
+
+0
+
+s/m
+
+2.55
+
+3
+
+(a)
+
+100
+
+(μ
+
+2.60
+
+200
+
+2.60
+
+2.56
+
+AC
+
+s/m
+
+(μ
+
+0
+
+AC
+
+0
+
+120
+110
+100
+90
+80
+70
+60
+
+s/m
+
+100
+
+2.52
+
+(μ
+
+120
+110
+100
+90
+80
+2.60
+2.55
+70
+2.50
+2.45
+2.40
+60
+2.35
+3
+
+RT (Ω ·m )
+
+300
+
+200
+
+)
+
+100
+
+400
+
+300
+
+300
+200
+
+RT (Ω ·m )
+
+RT (Ω ·m )
+
+500
+
+400
+
+400
+
+2.48
+
+2.44
+
+AC
+
+500
+
+RT(Ω·m)
+0
+100
+200
+300
+400
+500
+
+DEN (cm /g)
+3
+
+(b)
+
+(c)
+
+Fig. 4 Wireline log response models for different types of lithofacies of shales. (a) the laminated argillaceous
+limestone lithofacies; (b) the bedded argillaceous limestone lithofacies; (c) the laminated calcareous
+mudstone lithofacies. RT represent resistivity; DEN represent density; AC represent acoustic timedifference.
+
+with ratios <100 mg/g are adsorbed liquid hydrocarbons and those
+with ratios >100 mg/g are free-state hydrocarbons (Dong et al.,
+2009). Examination of relationship between S1/TOC and TOC
+content of source rocks in the lower sub-member of 3rd member
+in Jiyang Depression shows that when S1/TOC is >100 mg/g, the
+TOC content is generally >2% (Fig. 5a). The TOC content of most
+samples from hydrocarbon source rocks in the lower sub-member
+of 3rd member in Well Luo 69 meets above standard. Of these,
+laminated argillaceous limestones corresponding to the lower
+Sequence 12 (3023–3055 m) and the upper Sequence 13 (3055–
+300
+
+3.3.2 Major types of organic matter
+The major production areas of shale oil and gas overseas are
+marine strata dominated by the Type-I and/or Type-II1 organic
+matter (Jarvie et al., 2004; Ross and Bustin, 2009). In the lower
+sub-member of 3rd member in the Luojia area, hydrocarbon source
+2900
+
+R o <0.5%
+R o =0.5 %-0 .8 %
+R o =0.8%-1.1%
+
+250
+
+2950
+
+200
+
+Depth (m)
+
+S 1 /TOC (mg/g)
+
+3062 m) have the highest abundance of organic matter (generally
+2–6%), whereas the calcareous mudstones corresponding the lower
+Sequence 13 (3076–3127 m) have the lowest abundance of organic
+matter (mostly <2%) (Fig. 5b).
+
+150
+100
+50
+0
+
+3000
+3050
+3100
+3150
+
+0
+
+2
+
+4
+
+6
+
+8
+10
+TOC (%)
+(a)
+
+12
+
+14
+
+16
+
+3200
+
+0
+
+2
+
+4
+
+6
+TOC (%)
+(b)
+
+8
+
+10
+
+Fig. 5 (a) relationship between ratios of S1/TOC and TOC; (b) relationship between depth and TOC
+
+rocks are dominated by Type-I and Type-II1 organic matter and rich
+in algae fossils, reflecting high quality of the source rocks.
+3.3.3 Extent of organic matter evolution
+Previously, Huang (1996) studied hydrocarbon generation and
+its relations with source of parent materials as well as properties
+and distribution of oil and gas, further proposing thresholds Ro of
+substantial oil generation and gas generation in hydrocarbon source
+rocks in Jiyang Depression to be 0.5% and 1.3%, respectively. The
+lower sub-member of 3rd member in the Luojia area (Ro of 0.70%–
+0.93%, burial depth of 2500–3500 m) is experiencing a massive
+oil generation stage. This is different from the situation of shale oil
+
+and gas exploration areas in North America that mainly produce
+gas or condensate oil, and further study is needed to investigate
+the underlying mechanisms for such a difference. Because of
+large variations in molecular diameter, density, and viscosity of oil
+and gas, there may exist different occurrence and accumulation
+mechanisms. Taking into account that the mature oil flows easily,
+the threshold Ro for shale oil and gas in Jiyang Depression that
+should be >0.5% is proposed
+3.3.4 Effective shale thickness
+In the North American shale gas evaluation, the thickness of
+shale formations is required to be >30 m. This threshold value
+
+75
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+3.4 Reservoir characteristics
+In view of the low porosity and low permeability of shale
+reservoirs, electron microscopy, cathodoluminescence microscopy,
+and X-ray three-dimensional diffraction imaging technologies are
+used for investigating space types, assemblages, and development
+characteristics of shale reservoirs. Combined with analysis of
+physical properties, performance of reservoirs is evaluated and the
+high-quality reservoirs are preferentially selected.
+
+(a)
+
+80
+60
+40
+20
+0
+
+0
+
+100
+Thickness (m)
+
+50
+
+Core observations demonstrate presence of a large number
+of diagenetic bedding fractures, abnormally-high-pressure
+fractures, oblique structural fractures (filled or unfilled),
+differential compaction fractures, and dissolution fractures
+(Figs. 7a–c). The development of these fractures imposes great
+influences on shale oil and gas accumulation. The development
+of fractures is conducive to accumulation and permeation of
+free-state oil and gas, which can improve natural production
+capacity. Electron microscopy images show that there are
+a number of intergranular pores (1–15 μm in diameter) and
+interlayer micro-fractures (1–2 μm in width) in clay minerals
+and carbonate minerals (Figs. 7d–e). Fluorescence observations
+(c)
+
+2cm
+
+(f)
+
+0.5μm
+
+Fig. 7 Space types of shale reservoirs in the lower 3rd member of Shahejie Formation in the Luojia area, Jiyang
+Depression. (a) the bedding fractres from Well Luo 69 of 3095.16 m; (b) the abnormally-high-pressure fractures
+from Well Luo 69 of 3101.76 m; (c) the structural fractures filled with calcites from Well Luo 69 of 3077.35 m; (d) the
+intergranular pores in clay minerals from Well Luo 69 of 3039.60 m; (e) the intergranular dissolution pores in calcites
+from Well Luo 69 of 2912.57 m; (f) the micro-pores in organic matter from Well Luo 69 of 3394 m.
+
+76
+
+200
+
+3.4.1 Space types
+
+5cm
+
+(e)
+
+150
+
+Fig. 6 Relationship between shale thickness and production
+capacity of shale oil and gas flow wells in Jiyang Depression
+
+(b)
+
+2cm
+
+(d)
+
+100
+
+Production (t)
+
+should be ≥15 m for source rocks with highly abundant organic
+matter (Bowker, 2003; Li et al., 2007), as specific to marine
+strata with relatively stable distribution. In order to determine
+effective thickness of shale oil and gas-generating layers in
+Jiyang Depression, statistics is performed on related parameters
+of shale oil and gas-generating segments in a total of 35 wells.
+Results show that the thickness of shale formations with oil and
+gas show mostly varies in the range of 50–150 m, while that
+of mudstones in few wells is limited in the range of 45–50 m
+(Fig. 6). Accordingly, the minimum threshold of the effective
+thickness of shale formations in Jiyang Depression can be 50
+m. In the lower sub-member of 3rd member in the Luojia area,
+the thickness of the lower Sequence 12 and the upper Sequence
+13 with concentrated high-quality shales (54 m) is greater than
+the threshold value (50 m), indicating that these shales meet
+requirement of the minimum thickness.
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+show that some of fractures and calcites have green fluorescence
+while intergranular asphaltenes do not emit fluorescence light.
+Additionally, organic micro-pores are detected by using argon
+ion polishing technology (Fig. 7f). Overall, shale formations
+in the study area have developed 2 types of reservoir spaces,
+i.e., fracture and micro-pore. The former type is dominated
+by bedding micro-fractures, followed by oblique structural
+fractures; the latter type is dominated by calcites (dolomites).
+These reservoirs spaces are primarily developed in laminated
+argillaceous limestones associated with laminae development
+and high levels of carbonate rocks, possibly due to the layered
+distribution of organic matter, high capability of hydrocarbon
+generation (pressurization), and high content of brittleness
+carbonate minerals in these rocks.
+3.4.2 Physical properties
+Statistics of porosity data of 364 samples and permeability data of
+496 samples from Well Luo 69 are shown in Table 2. The porosity
+of shale reservoirs in the lower sub-member of the 3rd member
+ranges from 1.3% to 13.6%, mainly in the range of 2–8% (average
+5%); the corresponding permeability varies greatly (maximum
+493 mD, possibly related to development of fractures), generally
+in the range of 1–10 mD followed by 0.1–1 mD (average 7.72 mD).
+
+Of the different types of lithofacies, the laminated argillaceous
+limestone lithofacies that mainly distributed in the lower Sequence
+12 and upper Sequence 13 has the best physical properties (average
+porosity 5.9%, average permeability 17.1 mD), thus are considered
+to be the most favorable reservoirs. The laminated - bedded
+argillaceous limestone lithofacies is the medium-quality reservoirs
+(average porosity 5.1%, average permeability 3.4 mD) and is
+mainly distributed in the middle Sequence 12 and 13. The bedded
+calcareous mudstone lithofacies and the argillaceous limestone
+lithofacies have poor physical properties (average porosity 4.3%,
+average permeability 2.4 mD) and are mainly distributed in the
+Sequence 10 and 11 and the lower Sequence 13.
+
+3.5 Oil and gas potential
+Based on the core data, a saturation model is established by
+well-log interpretation and then verified with the well-test and
+production-test data. The model is further used for assessing
+content of movable hydrocarbons and comprehensive evaluation
+of oil and gas potential.
+In the shale formations, changes in porosity are negatively
+correlated to those in water saturation. The higher porosity,
+the higher degree of oil and gas fullness, and the lower water
+
+Table 2 Porosity and permeability of shale reservoirs in the lower 3rd member of the Shahejie Formation in Well Luo 69, Jiyang
+Depression
+Porosity (%)
+
+Permeability (mD)
+
+Depth (m)
+
+4th-order
+sequence
+
+Sample
+number
+
+Maximum
+
+Minimum
+
+Mean value
+
+Sample
+number
+
+Maximum
+
+Minimum
+
+Mean value
+
+2930.0–2979.0
+
+Sequence 10
+
+89
+
+10.1
+
+1.4
+
+4.10
+
+90
+
+146
+
+0.161
+
+7.91
+
+2979.0–2988. 5
+
+Sequence 11
+
+19
+
+10.2
+
+1.3
+
+5.04
+
+19
+
+182
+
+0.351
+
+10.81
+
+2988.5–3023.0
+
+Sequence 12
+
+69
+
+13.6
+
+1.7
+
+5.32
+
+83
+
+73
+
+0.084
+
+3.68
+
+3023.0–3055.0
+
+Sequence 12
+
+12
+
+10.4
+
+3.7
+
+6.92
+
+89
+
+493
+
+0.048
+
+11.23
+
+3055.0–3076.0
+
+Sequence 13
+
+46
+
+10.2
+
+2.6
+
+5.13
+
+80
+
+413
+
+0.016
+
+12.74
+
+3076.0–3128.0
+
+Sequence 13
+
+128
+
+12.4
+
+2.0
+
+5.24
+
+134
+
+149
+
+0.0067
+
+4.13
+
+saturation. Then, a calculation model of water saturation
+is obtained through multivariate regression of laboratory
+measurements of water saturation and clay content, porosity, and
+resistivity of shale rocks:
+
+lg S w = 0.0964φ + 0.0039Vsh − 0.1478lg(RT ) + 1.9616
+2
+
+R = 0.6883
+
+where Sw is water saturation, %; φ is the porosity, %; Vsh is the
+clay content, %; and RT is the resistivity, Ω·m.
+The regression water saturation fits well with the measured
+saturation (R2=0.6683)(Fig. 8), indicating good practicability of
+the interpretation model in the Luojia area.
+As shown by product of the measured porosity and oil saturation
+
+(So) in Well Luo 69, free-state oil and gas are present in the whole
+shale formation. The high product of porosity and oil saturation
+correspond to laminated argillaceous limestone lithofacies in the
+lower Sequence 12 (3023–3055 m) and the upper Sequence 13
+(3055–3062 m) (Fig. 9), suggesting good reservoir property and
+shale oil and gas accumulation in this formation.
+
+3.6 Production capacity
+Based on analysis of pre-drilled well production in combination
+with rock compressibility, this study analyzes influencing factors
+of production capacity in order to provide supporting data for
+favorable target forecasting. The shale formations primarily
+produce oil (density of 0.89–0.94 t/m 3, viscosity of 16.1–208
+mPa·s) accompanied with shale gases (mainly methane, ethane
+
+77
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+the evolution of source rocks determines state of oil and gas
+occurrence. Source rocks in the sub-member of 3rd member of
+Shahejie Formation of Well Luo 69 have burial depths of 2500–
+3500 m, Type-I organic matter, and Ro of 0.7%–0.93%, thus are
+in a massive liquid hydrocarbon generation stage and mainly
+producing oil. The lithofacies development determines extent
+of shale oil and gas accumulation. Laminated argillaceous
+limestone consists of calcite interbedded with organic mudstone,
+and thus has high organic matter content and well-developed
+reservoir spaces, both conducive to oil and gas accumulation.
+Abnormally high pressure and fracture activities influence
+shale oil and gas production capacity as well. It has been found
+that wells close to the fault zones have developed secondary
+fractures and show relatively high production capacity.
+
+100
+
+Measured water saturation (%)
+
+Argillaceous facies model
+Calcareous facies model
+80
+
+60
+
+40
+
+20
+
+0
+
+0
+
+80
+40
+60
+20
+100
+Calculated water saturation (%)
+Fig. 8 Relationship between measured water saturation and
+calculated water saturation
+4th-order
+sequence
+
+0
+
+SP( mV)
+
+50
+
+110
+
+AC(μs/m)
+
+60 0
+
+R4( Ω·m) Depth
+300
+
+( m)
+
+0
+
+Φ×S o
+
+20
+
+2940
+
+10
+
+11
+
+2960
+2980
+3000
+
+12
+
+3020
+
+3.7 Comprehensive evaluation
+
+3080
+
+Through integrated analysis of factors, such as lithofacies,
+source rocks, reservoir properties, shales in the lower submember of the 3rd member of Shahejie Formation in the Luojia
+area are comprehensively evaluated and divided into 3 classes
+(Table 3).
+
+3100
+
+3.7.1 High-porosity and high-resistivity shales (Class I)
+
+3040
+3060
+
+13
+
+3120
+
+Fig. 9 Oil saturation profile of shale reservoirs in Well Luo
+69 in the Luojia area, Jiyang Depression. SP represengt
+spontaneous potential; AC represent acoustic time-difference;
+R4 represent 4 m gradient resistivity; φ is porosity; S o is oil
+saturation.
+
+and carbon dioxide, relative density of 0.87–0.97), showing
+characteristics of initially high production, low water content,
+and rapid decline of the production. The evolution extent of
+source rocks, lithofacies, abnormal pressure, and development
+degree of fractures are the major factors that influence shale
+oil and gas production capacity in the study area. Of these,
+
+78
+
+It is worthy noting that different from conventional resource
+exploration, shale oil and gas resources are primarily exploited
+using the horizontal well - long well segment fracturing
+technology, in which fracturing capacity is mainly controlled
+by type, structure and content of brittle formation minerals.
+In the Luojia area, brittle minerals in shale formations mainly
+consist of carbonate minerals, unlike those dominated by quartz
+in shale oil- and gas-generating formations in North America
+(Ross and Bustin, 2008). Therefore, influence of high carbonate
+content on shale reservoir space and appropriate measures for
+well completion need to be further investigated. Content of
+carbonate minerals in shale formations has a positive correlation
+with rock compressibility.
+
+High-porosity and high-resistivity shales have following
+characteristics: (1) the porosity is 4 –13.6% and the true
+formation resistivity (RT) is 64–186 Ω·m; (2) the spontaneous
+potential (SP) shows significant amplitude of anomalies; (3) the
+acoustic (AC) and neutron log (CNL) are large while the density
+(DEN) is low, indicating good physical properties of shale
+reservoirs; (4) the resistivity, as well as the chloroform bitumen
+“A” content and the oil and gas saturation are high, indicating
+good quality of the oil; (5) the longitudinal and transversal
+wave velocities show an increase, reflecting well development
+of texture; and (6) the abnormal formation pressure is high,
+favoring oil and gas accumulation and production. The highporosity and high-resistivity of shales, designated as Class
+I, are considered to be most favorable reservoir, and mainly
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+Table 3 Classification and evaluation of shales in the lower sub-member of 3rd member of Shahejie Formation in the Luojia area,
+Jiyang Depression
+Shales
+Lithofacies
+category
+
+Distribution
+
+Class I
+
+Laminated Lower Sequence
+argillaceous
+12, upper
+limestone
+Sequence 13
+
+Class II
+
+Laminatedbedded
+argillaceous
+limestone
+
+Class III
+
+Bedded
+argillaceous Upper Sequence
+limestone
+10,11and 12;
+and
+lower Sequence
+calcareous
+13
+mudstone
+
+Middle
+Sequence 12,
+middle
+Sequence 13
+
+Chloroform
+Laminated
+bitumen “A”
+sample ratio
+(%)
+
+Measured data
+
+Log interpretation
+
+Porosity Permeability Porosity
+(%)
+(mD)
+(%)
+
+Resistivity
+(Ω·m)
+
+Oil and gas
+saturation
+(%)
+
+Formation
+pressure
+coefficient
+
+Log
+characteristic
+
+1.82
+
+High RT, AC,
+and CNL; low
+DEN; large SP
+amplitude
+difference
+
+91
+
+1.14
+
+5.9
+
+17.1
+
+4-13.6
+
+64-186
+
+83.5
+
+42
+
+1.07
+
+5.1
+
+3.4
+
+4.2-8.7
+
+34-108
+
+76.3
+
+Medium RT,
+AC, CNL, and
+DEN; no SP
+amplitude
+
+75.2
+
+High CNL and
+GR; medium to
+low RT; low
+DEN; no SP
+amplitude
+
+5
+
+0.49
+
+4.3
+
+distributed in the laminated argillaceous limestone lithofacies in
+the lower Sequence 12 and the upper Sequence 13 of the lower
+sub-member of the 3rd member..
+3.7.2 Medium-porosity and medium-resistivity shales (Class II)
+Medium-porosity and medium-resistivity shales, designated as
+Class II, have the following characteristics: (1) the porosity is
+4.2%–8.7% and the RT is 34–108 Ω·m; (2) the AC, CNL, and DEN
+values are medium while the SP curve has no obvious amplitude,
+suggesting relatively poor physical properties as compared to those
+of Class I shale reservoirs; (3) oil saturation is slightly lower than
+that of Class I shale reservoirs; and (4) the chloroform bitumen
+“A” content is relatively high. The Class II shale reservoirs are
+mainly distributed in the laminated-bedded argillaceous limestone
+lithofacies in the middle Sequence 13 and 12 of the lower submember of the 3rd member in the study area.
+3.7.3 Low-porosity and medium-resistivity shales (Class III)
+Low-porosity and medium-resistivity shales have following
+characteristics: (1) the porosity is 2.2%–10% and the RT is
+13–54 Ω·m; (2) the CNL and GR values are high while the DEN
+values are low, indicating high content of argillaceous materials;
+(3) the SP curve has amplitude difference, indicating poor
+physical properties of shale reservoirs; and (4) the chloroform
+bitumen “A” content is low; and the oil and gas saturation is low.
+The Class III shale reservoirs are mainly distributed in bedded
+argillaceous limestone lithofacies and calcareous mudstone
+lithofacies in the upper Sequence 10, 11, and 12 and the lower
+Sequence 13.
+
+4 Conclusions
+An integrated evaluation is conducted on the lithofacies,
+
+2.4
+
+2.2-10
+
+13-54
+
+source rocks, reservoir properties, oil and gas potentials, and
+production capacity of shale reservoirs in the Luojia area. The
+shale reservoirs in the area are classified into the following three
+categories: high-porosity-high-resistivity (Class I), mediumporosity-medium-resistivity (Class II), and low-porositymedium-resistivity (Class III). The Class-I shales are mainly
+developed in the laminated argillaceous limestone lithofacies
+that feature dense transverse laminae and show a laminar
+structures. The laminae are mainly composed of organic-rich
+clay laminae and calcsparite laminae. Other characteristics
+include high abundance of organic matter, good physical
+properties, and excellent oil saturation. This type shales is the
+major oil-generating lithofacies in the early exploration stage
+and serves as the most favorable exploration target. The Class II
+shales are mainly developed in laminated - bedded argillaceous
+limestone that feat ures hor izontal bedding with loca l
+enrichment of laminar structured formations. The laminae are
+mainly composed of dispersed organic clay laminae and calcite
+laminae (sparite and micritic). This type shale has relatively
+poor abundance of organic matter, slightly poorer physical
+properties and oil potential compared with that of Class I. It is
+mainly distributed in the middle of Sequence 13 and 12. The
+Class III shale, which has high content of argillaceous materials,
+poor physical properties, low chloroform bitumen “A” content
+as well as low oil and gas saturation, are mainly developed in
+the bedded argillaceous limestone lithofacies and calcareous
+mudstone lithofacies in the upper part of Sequence 10, 11, and
+12 and the lower part of Sequence 13.
+According to results from this study, three horizontal wells of
+shale oil well drilled in the Luojia area including Boyeping 1,
+2 and 3, to evaluate production capacities of shale oil and gas
+in the laminated argillaceous limestone lithofacies with natural
+fractures, bedded argillaceous limestone lithofacies without
+
+79
+
+Y.Wang et al./Petroleum Research (2016) 1,70-80
+
+natural fractures, and laminated - bedded argillaceous limestone
+lithofacies with natural fractures, respectively. Well Boyeping 1
+has good oil and gas shows in the shale formation with a daily
+production of oil equivalent of 7.8 t. Due to high concentration
+of hydrogen sulfide and formation over-pressure (pressure
+coefficient 1.82), the targeted favorable formation has collapsed
+in favourable interval of Well Boyeping1.
+The shale formations in different regions are influenced by
+multi-factors such as depositional environment, evolution degree,
+and tectonic activity. Such influences can lead to differences in
+shale reservoirs regarding accumulation strata, lithofacies and
+source rock characteristics, reservoir properties, oil and gas
+saturation, as well as production capacity. Therefore, evaluation
+criteria for shale oil and gas resources are region specific and
+cannot be generalized. But the proposed workflow has certain
+practicability in shale exploration in continental rift basins and
+may have a broad application for such basin type.
+
+Acknowledgements
+This work was funded by National Science and Technology
+Major Project of China (Grant No. 2011ZX05006-003).
+
+References
+Bowker K A. Recent developments of the Barnett Shale play, Fort Worth
+Basin. West Texas Geological Society Bulletin, 2003, 42(6):4-11.
+Bustin R M. Gas shale tapped for big pay. AAPG Explorer, 2005, 26(2):5-7.
+Chen S B, Zhu Y M, Wang H Y, et al. Research status and trends of shale
+gas in China. Acta Petrolei Sinica, 2010, 31(4):689-694 (in Chinese with
+English abstract).
+Curtis J B. Fractured shale-gas systems. AAPG Bulletin, 2002, 86(11):19211938.
+Dong D Z, Cheng K M, Wang S Q, et al. An evaluation method of shale gas
+resource and its application in Sichuan Basin. Natural Gas Industry,
+2009, 29(5):33-39 (in Chinese with English abstract).
+Huang D F. Advances in hydrocarbon generation theory. Advance in Earth
+Sciences, 1996, 11(4):327-335 (in Chinese with English abstract).
+Jarvie D M, Hill R J, Pollastro R M. Assessment of the gas potential and
+yields from shales ：
+the Barnett Shale model. Oklahoma: Oklahoma
+Geological Survey Circular, 2004, 34.
+Li J Z, Dong D Z, Chen G S, et al. Shale gas resource prospects and its
+
+80
+
+strategic position in China. Natura Gas Industry, 2009, 29(5):11-16 (in
+Chinese with English abstract).
+Li X J, Hu S Y, Cheng K M. Suggestions from the development of fractured
+shale gas in North America.Petroleum Exploration and Development,
+2007, 34(4):392-400 (in Chinese with English abstract).
+Martineau D F. History of the Newark east field and the Barnett shale as a
+gas reservoir. AAPG Bulletin, 2007, 91(4):399-403.
+Nie H K, Tang X, Bian R K. Controlling factors for shale gas accumulation
+and prediction of potential development area in shale gas reservoir of
+South China. Acta Petrolei Sinica, 2009, 30(4):484-491 (in Chinese with
+English abstract).
+Ronald J H, Daniel M J, Zumberge J, et al. Oil and gas geochemistry and
+petroleum systems of the Fort Worth Basin. AAPG Bulletin, 2007,
+91(4):445-473.
+Ross D J K and Bustin R M. Characterizing the shale gas resource potential
+of Devonian-Mississippian strata in the Western Canada sedimentary
+basin: Application of an integrated formation evaluation. AAPG Bulletin, 2008, 92(1):87-125.
+Ross D J K and Bustin R M. The importance of shale composition and pore
+structure upon gas storage potential of shale gas reservoirs. Marine and
+Petroleum Geology, 2009, 26(6):916-927.
+Wang B H and Qian K. Geology research and exploration experiences in
+Shengli Oilfield. Dongying ：
+China University of Petroleum Press, 1992,
+76-175 (in Chinese).
+Xu B, Li J H, Li X G, et al. Evaluation of hydrocarbon accumulation conditions for shale gas from the Eastern Sag of the Liaohe Oilfield and its
+gas-bearing properties. Acta Petrolei Sinica, 2011, 32(3):450-458 (in
+Chinese with English abstract).
+Zhang L Y, Kong X X, Zhang C R, et al. High-quality oil-prone source in
+Jiyang Depression. Geochimica, 2003, 32(1):35-42(in Chinese with
+English abstract).
+Zhang L Y, Li Z, Zhu R F, et al. Resource potential of shale gas in Paleogene
+in Jiyang Depression. Natural Gas Industry, 2008, 28(12):26-29 (in Chinese with English abstract).
+Zhang L Y, Li Z, Zhu R F. The formation and exploitation of shale gas.
+Natural Gas Industry, 2009, 29(1):124-128 (in Chinese with English abstract).
+Zhou J, Pang X Q, Li N. Characteristics of hydrocarbon expulsion for the
+Lower Tertiary resource rocks in the Jiyang Depression, the Bohaiwan
+Basin. Petroleum Geology & Experiment, 2006, 28(1):59-64 (in Chinese
+with English abstract).
+Zou C N, Dong D Z, Yang H, et al. Conditions of shale gas accumulation and
+exploration practices in China. Natural Gas Industry, 2011, 31(12):26-38
+(in Chinese with English abstract).
+
+

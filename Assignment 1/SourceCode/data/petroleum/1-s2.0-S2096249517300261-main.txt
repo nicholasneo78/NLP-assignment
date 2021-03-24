@@ -1,0 +1,1389 @@
+Petroleum Research (2016) 1,1-9
+
+Evaluation criteria, major types, characteristics
+and resource prospects of tight oil in China
+Chengzao Jia1*, Caineng Zou2, Jianzhong Li2, Denghua Li2 and Min Zheng2
+China National Petroleum Corporation, Beijing 100724, China
+­2Research Institute of Petroleum Exploration and Development, Beijing 100083, China
+Received February 4, 2016; Accepted August 1, 2016
+1
+
+Abstract: Tight oil refers to a petroleum play that occurs in a free or adsorbed state in source rocks
+or tight reservoir rocks (e.g., sandstone and carbonate rock) interbedded with or close to source
+rocks. Tight oil has generally not experienced large-scale, long-distance migration. According to
+such a definition and its characteristics, 10 key indices are proposed for tight oil resource evaluation
+in China. Tight oil reservoirs are divided into three groups in terms of porosity and permeability.
+Tight oil can be classified into three types according to the contact relationship between the tight oil
+reservoirs and source rocks, i.e., tight lacustrine carbonate oil, tight deep-lake gravity flow sandstones
+oil, and tight deep-lake deltaic sandstones oil. In China, tight oil resources are widely distributed and
+significant exploration discoveries have been achieved in the sixth member and seventh member of
+the Triassic Yanchang Formation in the Ordos Basin, the Permian Lucaogou Formation in the Junggar
+Basin, the Middle-Lower Jurassic strata of the Sichuan Basin, and the Cretaceous Qingshankou
+and Quantou Formations in the Songliao Basin. The total geological resources of tight oil in China
+assessed by using the “analog” method are estimated to be (10.67–11.15) ×109 tones. Taking into
+account of the future prospects of petroleum development, tight oil may become a realistic alternative
+to the conventional oil resources in China.
+
+Key words: tight oil; evaluation criteria; classification; reservoir
+characteristics; resource potential
+
+1 Introduction
+Tig ht oi l is a new fo ca l r esou rc e t y p e of t he g loba l
+unconventional oil and gas resources following shale gas (Sun
+et al., 2011; Zou et al., 2011). The United States has attached
+great importance to the exploration of tight oil (Daniel et al.,
+2009) and attempts to replicate the shale gas development model
+to achieve crude oil self-sufficiency. In 2006, a breakthrough
+of tight oil production (over 7950 m3/d) was made in the Elm
+Coulee Oilfield from the Bakken Formation in the Williston
+Basin, which significantly increased the confidence of tight
+oil exploration and attracted substantial investment. In 2008,
+large-scale tight oil development was achieved in the Bakken
+Formation. This progress was considered to be one of the global
+
+top 10 discoveries for the year(Zou et al., 2011). In 2009, the
+U.S. tight oil exploration and development investment reached at
+$ 51.4 billion(Lu, 2011). In the following year, the U.S. tight oil
+production exceeded 30×106 t, which for the first time reversed
+its decreasing trend in oil production that had lasted for 24
+years. In 2012 there were over 2000 tight oil wells in the U.S.
+with an average single well oil production of 12 t/d(Zou et al.,
+2011). Total tight oil production forecast of the U.S. is 150×106 t in 2010
+(Zou et al., 2011), which will increase the nation’s total crude
+oil production by 1/3 and thus greatly reduce its dependence
+on foreign oil resources and to some extent change the global
+energy structure.
+
+* Corresponding author. Email: jiacz@petrochina.com.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+In China, tight oil exploration was started relatively late and
+the concept of tight oil has now been widely accepted in
+recent years. Tight oil resources are widespread in China and
+particularly rich in the sixth member and seventh member of the
+Triassic Yanchang Formation in the Ordos Basin, the Permian
+Lucaogou Formation in the Junggar Basin, the Middle to
+Lower Jurassic strata in the Sichuan Basin, and the Cretaceous
+Qingshankou and Quantou Formations in the Songliao Basin.
+To date, great exploration discoveries have been achieved in
+the above tight-oil-rich formations that have the potential for
+large-scale accumulation and effective development. Through
+research and deployment of tight oil, the industrial capacity
+can be improved with the progress of exploitation technologies,
+enabling tight oil to be an important alternative for future
+replacement of oil resources in China.
+Presently, tight oil exploration and development in China as
+well as related research remain at an early preparation stage.
+Overall, the levels of exploration and geological understanding
+of tight oil are low, and a number of questions exist in the
+basic geological theory, evaluation criteria, controlling factors,
+resource potential, and exploration direction of tight oil plays.
+Based on the most recent progress of tight oil exploration in
+different tight-oil-rich formations in China, this study proposes
+evaluation criteria for tight oil classification in China. The
+key geological characteristics of tight oil are elucidated and
+the resource prospects of tight oil are preliminarily evaluated
+and forecasted. The work will provide supporting data for
+exploration and continuous in-depth geological research of tight
+oil in China.
+
+2 Concept and evaluation criteria for
+tight oil
+2.1 Concept of tight oil
+Tight oil is a petroleum that occurs in a free or adsorbed state
+in source rocks or tight reservoir rocks (e.g., sandstone and
+carbonate rock) interbedded with or close to source rocks, and
+has not experienced large-scale long-distance migration (Fig.
+1). In general, tight oil has the following characteristics: (1) a
+large area of tight reservoirs with porosity < 10%, in-situ matrix
+permeability > 0.l mD, and pore throat diameter <1μm (Zou
+et al., 2012); (2) widespread, overlapped, mature high-quality
+source beds (kerogen type I or II, average total organic carbon
+>1.0%, and Ro from 0.6% to 1.0%); (3) the coexisting relationship
+of continuously distributed tight reservoirs and source rocks
+that are in close contact, with no obvious trap boundary or oil
+reservoir(Zou et al., 2012); (4) the density of crude oil in tight
+reservoirs >40°API or <0.83 g/cm3, i.e., relatively light oil.
+
+2.2 Tight oil evaluation criteria
+Large-scale exploration and efficient development of tight oil
+mainly depend on following evaluation criteria: (1) Porosity
+and permeability are two physical parameters that respectively
+describe reserve and percolation capabilities of reservoir, in
+accordance with the existing reservoir classification standards
+and relevant exploration and development experiences, the
+porosity of tight oil reservoirs under normal circumstances is
+<10% and the in-situ matrix permeability is <0.1 mD. (2) Tight
+
+Structural reservoir
+Fine
+Siltstone
+Gravity Glutenite sandstone
+sandstone
+flow sandstone
+
+Limestone Marlstone Dolomitic Dolostone
+limestone
+
+Shelly Organic-rich Organic-poor
+shale
+shale
+limestone
+
+Litho
+
+Oil window
+
+Ti g h
+
+t sa
+nd
+
+ston
+
+logic
+
+reserv
+
+oir
+
+erv oir
+St rat igr ap hic res
+
+sands
+Ti g h t
+
+e oi
+l
+
+Gas window
+
+a
+Tig h t c
+
+Gas
+
+Oil
+
+Water
+
+Shae gas
+
+Fig. 1 Spatial distribution of tight oil in relation to source rocks and reservoirs
+
+2
+
+oil
+
+arbon
+Tig h t c
+o il
+r b o n a te
+
+Shale gas
+
+Fault
+
+tone
+
+a te o il
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+2.3 Tight oil reservoir classification
+Air permeability of 1 mD (in-situ matrix permeability is
+generally 0.1 mD) is taken as the upper limit of tight oil
+reservoir permeability for porosity statistics of major tight oil
+reservoirs in China. Results show that China’s tight oil reservoirs
+can be grouped into three categories according to porosity, i.e.,
+Type I (porosity from 7 to 10%), Type II (porosity from 4 to 7%)
+and Type III (porosity <4%) (Fig. 2).
+Bases for classification: (1) the porosity of 7% is the lower limit for
+percolation of water-free light oil in low-permeability rocks. When
+the porosity of tight reservoirs is >7%, light oil is relatively freeflowing in a Darcy flow state; when the porosity of tight reservoirs is
+<7%, light oil flow is dominated by non-Darcy flow and substantial
+limited by starting pressure
+gradient(Guo et al., 2009). (2) Tight
+Fig.2
+reservoirs with porosity
+<4% are dominated y nanopores(Loucks
+201��10��1����0��2�
+et al., 2009) and retains certain oil resources(Webster et al., 1984;
+Schmoker and Hester, 1983; Miller et al., 2008; Daniel et al., 2009;
+Loucks et a., 2009; Zeng and Jiang, 2009). However, quality of oil
+
+resources is poor due to high costs of development and significant
+difficulty in economic exploitation.
+1000
+
+100
+
+10
+
+Permiability / mD
+
+oil reservoir space consists primarily of organic pores, inorganic
+pores and fractures, organic pores are dominated by kerogen
+nanopores, while inorganic pores are dominated by dissolution
+pores and residual primary pores. (3) Tight oil reservoirs are
+generally distributed in sags or on slope zones and feature simple
+tectonic structures, which are conducive to large-scale tight
+oil accumulation. (4) Distribution area and reservoir thickness
+for a given porosity are two geological parameters that jointly
+determine reserve scale and economic development of tight
+oil. According to published data, the distribution area of tight
+oil is >10×103 km 2 in North America, and reservoir thickness
+vary from 5 to 60 m, in contrast, the favorable area of tight
+oil in the major basins in China is <2 ×103 km 2, and reservoir
+thickness vary from 10 to 80 m. (5) Organic carbon content and
+maturity, which determine generation conditions of tight oil,
+generally TOC should be >1% and Ro range from 0.6 to1.3%,
+respectively. Tight oil source rocks in North America contain
+abundant organic matter with high TOC (4–10%). (6) Tight
+oil reservoirs in North America generally have overpressure,
+whereas those in the basins in China mostly have abnormal
+overpressure (formation pressure coefficient >1.2) except for that
+in Ordos Basin with abnormal low (negative) pressure. (7) Tight
+oil is relatively light and mainly consists of light oil, the crude
+oil density of tight oil is >40°API or <0.83 g/cm 3, suggesting
+good mobility. (8) The burial depth of tight oil reservoirs is
+generally 1000–3500 m (median), which is suitable for reservoir
+development. (9) Tight oil reservoirs generally contain >35%
+brittle minerals with well-developed natural fractures, these
+conditions are favorable for the use of horizontal well fracturing
+technology in improving single-well oil production. (10) Ground
+conditions determines the extent of difficulty in engineering
+construction and significantly affects the development cost.
+
+Type Ⅲ TypeⅡ
+
+Co
+
+TypeⅠ
+
+e
+nv
+
+nti
+
+on
+
+a
+
+il
+lo
+
+an
+
+dg
+
+as
+
+1
+0.5
+Lucaogou Formation in Junggar Basin, China
+
+0.1
+
+The seventh member of Yanchang
+Formation in Ordos Baisn, China
+Bakken Formation, United States
+
+0.01
+
+Jurassic strata in Sichuan Basin,China
+
+0.001
+
+0
+
+4
+
+7
+
+10
+
+Porosity / %
+
+20
+
+25
+
+Fig. 2 Physical parameters of major tight oil reservoirs and
+classification of tight oil in China
+
+3 Major types and characteristics of tight
+oil in China
+3.1 Overall characteristics and classification of
+tight oil in China
+Generally, characteristics of tight oil are as following: (1) source
+rocks are presently in the oil window; (2) source and reservoir
+rocks are interbedded or in close contact; (3) reservoirs are of tight
+formations; (4) oil had not experienced large-scale long-distance
+migration. Through analyses of oil-gas generation and evolution
+characteristics of China’s major oil-gas-bearing basins, tight oil is
+mainly distributed in Mesozoic and Cenozoic continental lacustrine
+depositional system. Overall, China’s tight oil has the following
+features: (1) there are three types of the continental basins in China,
+i.e., fault depression basin, depression basin and foreland basin,
+which developed multiple oil-generating sags and thus provide
+favorable conditions for formation of tight oil (Fig. 3); (2) multiple
+sets of high-quality source rocks are developed and evolved into oil
+generation stage, source rocks that are most favorable for tight oil
+formation generally have TOC >1% and Ro of 0.9–1.3%, gas-to-oil
+ratios are relatively high, which contribute to the high oil mobility;
+(3) tight oil reservoirs can be divided into two types, i.e., carbonate
+rock and sandstone, lithologically, the reservoirs are quite diverse,
+showing significant lateral variations in sandstones with some thin
+interbeds and relatively large thickness of carbonate rocks; (4)
+distribution area and size of tight oil reservoirs are relatively small,
+generally are less than 2000 km2; (5) late-stage tectonic activities
+are complex, and impact on preservation of tight oil.
+With regard to lacustrine basin types and depositional
+
+3
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+Junggar Basin
+
+rpa
+
+n-H
+
+am
+
+Songliao Basin
+
+Haita Basin
+
+i B
+a
+
+Qaidam Basin
+
+Shenyang
+Beijing
+
+sin
+Ordos Basin
+
+Bohai Bay Basin
+
+Qiangtang Basin
+
+in
+
+Tu
+Tarim Basin
+
+Haerbin
+
+Santanghu Basin
+
+Urumchi
+
+Sea
+
+Bas
+
+Zhengzhou
+Wuhan Shanghai
+
+ina
+
+Lhasa
+
+Eas
+
+t C
+h
+
+Sichuan Basin
+
+Kunming
+Nanning
+
+g
+Yi n
+ge
+
+Basin
+
+Sea
+Ba
+
+Favorable area for tight oil
+exploration in China
+
+Guangzhou
+
+r
+ve
+Ri sin
+arl Ba
+Pe uth
+o
+M
+
+sin
+
+Qiongdongnan Basin
+
+Fig. 3 Tight oil distribution in China
+
+environments, tight oil reservoirs that are in close contact with
+major source rocks mainly have three genetic environments: (1)
+salinized lacustrine carbonate depositional environment associated
+with lake salinization, in which high-quality source rocks are
+interbedded with carbonate-rich or salt layers, and salinized
+lacustrine carbonate rocks are developed in dark shale of semideep to deep lacustrine facies, these conditions are excellent for
+tight oil accumulation; (2) deep-lacustrine prodelta depositional
+environment, which not only meets requirements of high-quality
+argillaceous source rock deposits but also receives delta-frontdelivered thin-bedded slit-fine sandstone deposits, these conditions
+allow development of tight formations with high-quality source
+rocks interbedded with or close to thin-bedded silt-fine sandstones
+as well as close contact between source and reservoir; (3) Gravity
+flow depositional environment associated with disturbance of
+deep-lake sags or slope areas, which are located in the center of
+hydrocarbon-generating sags where gravity flow deposits are in
+direct contact with source rocks.
+
+5�23
+
+According to tight reservoirs and tight oil systems mentioned
+above, tight oil in China can be classified into three types:
+(1) tight oil in lacustrine carbonate reservoirs that are mainly
+composed of dolomite, dolomitized rocks, shell limestone, algal
+limestone, and argillaceous limestone; (2) tight oil in deep-lake
+delta sandstone reservoirs that are mainly thin-bedded sand-mud
+deposits from delta-front and prodelta; (3) tight oil in deep-lake
+gravity flow sandstone reservoirs that consist mainly of sanddominated hummocky mixed deposits formed by sandy debris
+flows and turbidity currents.
+
+3.2 Basic characteristics of tight oil in lacustrine
+carbonate rocks
+Carbonate deposits are mainly developed in shallow waters
+of lacustrine basins, exclusive to depositional environment of
+continental debris but closely related to that of evaporites. The
+carbonate deposits were clearly controlled by changes in palaeo-
+
+4
+
+climate, palaeo-hydrodynamics, and palaeo-water chemistry. Major
+types of rocks developed in carbonate depositional system included
+biogenic limestone, algal limestone, argillaceous limestone,
+dolomite, and dolomitized rocks. In China, lacustrine carbonates
+were mainly developed in the Permian, Jurassic, Cretaceous, and
+Paleogene. The Permian lacustrine carbonate rocks are mainly
+distributed in the Junggar and Santanghu basins and dominated
+by salinized lacustrine basin deposits of dolomite and dolomitized
+rocks. The Jurassic lacustrine carbonate rocks are mainly developed
+in the Sichuan and Ordos basins. The Cretaceous lacustrine
+carbonate rocks are mainly distributed in the Songliao and Jiuxi
+basins. Lacustrine carbonate rocks that were widespread in the
+Paleogene, were developed in several other basins in southern
+China, e.g., the Hengyang Basin, Sanshui Basin, and Baise Basin.
+Formation of continental high-quality hydrocarbon source rocks
+was closely related to salinization of relevant lacustrine basins(Zhao,
+1992). In the Mesozoic and Cenozoic continental basins such as
+Songliao, Bohai Bay, Ordos, Qaidam, Jianghan, Subei, and Pearl
+River Mouth basins, high-quality source rock deposition (except
+for coal measure deposition) was exclusively related to salinization
+in lacustrine basins(Jin et al., 2008). In these regions, organicrich source rocks (TOC>l%)
+co-exist with carbonate, sulfate, or
+100
+chloride minerals to different extents, and sometimes high-quality
+95
+source rocks are interbedded with carbonate-rich or gypsum-salt
+beds. These are favorable75 conditions for tight oil development in
+lacustrine carbonate rocks.
+25
+
+With respect to lithology of tight oil-bearing lacustrine carbonate
+5
+rocks, salinized lacustrine dolomite and dolomitized rocks within
+dark shale of semi-deep to0 deep lake facies and buried at moderate
+depths (generally <3500 m) are the most favorable tight oil
+reservoirs. The salinized lacustrine dolomite and dolomitized rocks
+are widely distributed in sags and slope areas. To date, this type of
+tight oil has been found in the Permian strata of the Junggar and
+Santanghu basins, the Cretaceous strata of the Jiuxi and Jianghan
+basins, and the Paleogene strata of the Qaidam and Bohai Bay
+basins, among these, the Permian Lucaogou Formation in the
+Junggar Basin is the most typical tight oil reservoir.
+Tight oil in the Lucaogou Formation was first discovered in
+the mid-1980s(Wang et al., 2002). The Lucaogou Formation
+are composed of gray mudstones, silt-fine sandstone, dolomite,
+dolomitized rocks and oil shale, and mainly distributed in the
+Bogda Piedmont and the Jimusaer sags on the southern margin
+of the Junggar Basin. The maximum thickness in the outcrop
+area is up to 985 m(Wang, 1998). The depositional environment
+of Lucaogou Formation is the continental margin offshore
+lacustrine, which generally developed salinization symbols such
+as gypsum crystals and palaeo-cod fish-scale fossils(Zhang et
+al., 2007). TOC range from 5.16 to 8.03%, chloroform bitumen
+“A” are from 0.44 to 0.73%, S1 + S2 vary from 3.50 to 20.98 mg/g,
+type of organic matter is sapropel-humics, and Ro are from 0.50
+to 1.63%, indicating high quality of source rocks (Table 1).
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+Table 1 Characteristics of source rocks in the Middle Permian Lucaogou Formation and
+Pingdiquan Formation of Junggar Basin, China
+Region
+
+Formation
+
+TOC /%
+
+Bogda Piedmont sag
+
+Lucaogou
+
+8.03
+
+Kelameili Pidmount sag
+
+Pingdiquan
+
+3.45
+
+Jimusaer sag
+
+Lucaogou
+
+Chloroform
+bitumen “A”/%
+
+5.16
+
+Lithologically, layer of major tight-oil production in the Lucaogou
+Formation consists of silty dolomite, dolomitic siltstone, and
+argillaceous dolomite in the lake center and between fans. This
+layer is within shale and oil shale, and individual layer and
+cumulative thicknesses are around 10–20 m and 80–120 m,
+respectively. The rock debris shows a large segment of continuous
+fluorescence. Crude oil leakage is commonly observed in the core.
+Mud logging gas increases substantially, showing integrity of source
+- reservoir and large area of oil-bearing formations (100–1000 km2)
+(Fig. 4). High dolomitic content contributes to improvement of
+porosity but poses no significant adverse influence on permeability.
+Reservoir storage spaces mainly include dissolution pores, interlayer fractures, residual intergranular pores, and nanopores.
+Porosity is 2.50–16.27%, permeability is mostly <0.1 mD, and pore
+throat diameter is generally 100–500 nm.
+Pingdiquan Formation on the northeastern margin, Lower Urho
+Formation on the northwestern margin, and Lucaogou Formation
+on the southern margin of the Junggar Basin are syndepositional
+(Table 1). Depositional environment of Lucaogou Formation
+was lacustrine with large area, deepwater and high salinity,
+and influenced by seawater. Pingdiquan Formation in the
+northeastern margin was less subjected to seawater influence.
+A freshwater environment was dominated when Lower Urho
+Formation was deposited (Jiao et al., 2007). Four tight oil
+favorable blocks have been identified in the Lucaogou Formation
+Kel
+am
+
+0
+
+eili
+
+Cai46
+2
+40 00
+0
+
+10 00
+
+0
+
+Shaqian2
+
+30
+400
+
+20
+
+Huobei2
+
+Sha16
+Shadong1
+
+ain
+
+100
+0
+
+unt
+
+200
+
+Huobei1
+Huo14
+
+Ke la m ei li
+
+10
+
+Zhang2
+
+0
+
+0
+
+Huo11
+
+10
+
+30 0
+200
+
+Isopach of dolomite and
+dolomitized rocks /m
+
+Da4
+
+0
+Da6
+
+30
+
+0
+
+Da7
+
+Da2
+
+Huonan1
+
+0
+
+Shitong1
+
+40
+
+0
+
+100
+
+Pinch-out boundary of the
+Lucaogou Formation
+
+M ou nt ai n
+Da3
+
+0
+
+20
+0
+Huodong1
+
+100
+
+12 km
+
+Mo
+
+Dinan1
+
+Commercial oil flow well
+Commercial gas flow well
+
+Appraisal well
+
+Low-yield oil flow well
+
+Exploration well
+
+Reservoir well
+
+Oil & gas show well
+
+Da8
+
+Fig. 4 Spatial distribution of dolomite and dolomitized rocks in
+the lower part of the Middle Permian Lucaogou Formation in
+the Junggar Basin, China
+
+0.44
+0.73
+0.19
+
+(S1+S2) /
+(mg∙g -1)
+
+Organic matter
+types
+
+20.98
+
+II1
+
+3.50
+
+0.88-3.70
+
+Ro /%
+
+I-II1
+
+0.50-0.91
+
+II1
+
+0.54-1.21
+
+0.66-1.63
+
+and/or Pingdiquan Formation of the Junggar Basin, with total
+favorable exploration area of 1500 km2.
+
+3.3 Characteristics of tight oil in deep-lacustrine
+delta sandstones
+Deep-lacustrine delta sandstones tight oil is the most widely
+distributed in China and has been discovered in the Qingshankou
+and Quantou formations of the Songliao Basin, the Shahejie
+Formation of the Bohai Bay Basin, the Yanchang Formation of the
+Ordos Basin, and the Middle-Lower Jurassic of the Sichuan Basin.
+Tight oil of the Gaotaizi reservoir and Fuyu reservoir in the
+Songliao Basin, are the typical representatives in China, and
+has been discovered in the early 1980s. Main production layers
+of tight oil are mainly distributed in the central depression. The
+first member of the Qingshankou Formation is the major source
+rock with thickness from 60 to 80 meter, which is dominated by
+black shale, oil shale, and oil shale interbedded with thin-bedded
+argillaceous limestone and ostracoda layer. The distribution area
+is >40×103 km2, and burial depth is 1800–2500 m.The kerogen
+belong to sapropel type (Type 1). TOC is 0.9–3% (average 2.13%),
+and Ro value is 0.7–1.3%. The reservoirs are the prodelta thinbedded silt-fine sandstones of the Qingshankou Formation and
+shallow delta sandstone of the Quantou Formation. The fourth
+member of the Quantou Formation is mostly favorable strata for
+tight gas accumulation, and mainly is developed in the QijiaGulong and Changling sags in the central depression. The overlying
+Qingshankou Formation can be divided into the three members,
+respectively. The sedimentary environment of the first member
+of the Qingshankou Formation was deep to semi-deep lacustrine,
+and developed deep-lacustrine delta sandstones, whereas during
+the depositional periods of the second and third members of the
+Qingshankou Formation, the lacustrine shrank, leading to poor
+development of deep-lacustrine delta sandstones. Ratios between
+sandstone thickness and strata thickness of the Qingshankou
+Formation is generally 10–35%, major reservoir storage spaces
+are residual intergranular pores, dissolution pores, and nanopores.
+The distribution area of tight oil in the Qingshankou-Quantou
+Formations is approximately (15–20)×103 km2.
+
+3.4 Characteristics of tight oil in deep-lacustrine
+gravity flow sandstones
+Gravity flow sand bodies are widely developed in the Mesozoic
+
+5
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+and Cenozoic continental basins in China and can be divided
+into three types, i.e, sandy debris f low deposits, classic
+turbidites, and slump deposits. The sandy debris flow deposits
+are the most widely-distributed type of gravity flow sand
+bodies, and due to high density of fluid, it is often distributed
+in slope zones of basin with irregular tongue shape, the sand
+bodies are continuous. Classic turbidites constitute a relatively
+small proportion in the gravity flow deposits, due to low fluid
+density, it can extend to plain areas of the basin, fans with water
+channels on the plain are the main difference from sandy debris
+flow deposits, sand bodies occur as isolated lenticular or thinbedded sheet-like shapes(Zou et al., 2009). Slump deposits are
+deformable formations developed in the deep-water environment
+due to sliding and/or slumping, it is mixed with sand and
+mud, resulting in poor sorting. Extensive core observations
+demonstrate that hydrocarbon potential of the sandy debris flows
+deposits is best (oil-saturation) because of continuous and large
+thickness of sand bodies; only hydrocarbon potential of unit A
+of the Bouma sequence in the classic turbidites are better (oilrich or oil-immersed) because of sand-mud rhythmic; the slump
+rocks have poor oil potential (oil spots or traces) (Li et al., 2010).
+Deep-lacustrine sandy debris flow and turbidity current deposits
+are the major types of tight oil reservoirs, which are distributed
+in the central part of hydrocarbon-generating sags and are
+directly contact with source rocks, thus favoring formation of
+large-scale tight oil reserves.
+Tight oil in deep-lacustrine gravity flow sandstones has been
+identified in the Yanchang Formation in the Ordos Basin and
+the Shahejie Formation in the Bohai Bay Basin. The sixth and
+seventh members of the Yanchang Formation (T3c6 and T3c7) are
+
+the most representative examples for this reservoir type (Fig. 5).
+Tight oil in deep-lacustrine gravity flow sandstones of the T3c6
+and T3c7 was first discovered in the mid-1980s. The sandstones
+are generally 5–25 m thick, mainly characterized by fine and
+very fine sandstones. Pore throats are small, and major reservoir
+storage spaces are residual intergranular pore, dissolution pore,
+and intercrystalline pore. Porosity is 4–10%, and permeability
+is generally <0.3 mD. During deposition of T3c7, the lacustrine
+experienced the maximum flooding period and developed
+large areas of sandy debris flows deposits and turbidity fan
+sand bodies in the center and slope zones. During deposition
+of the T3c6, with a gradual shrink of the lacustrine, the erosion
+surface continued to fall and the denudation of sediment source
+provenance continuously increased, therefore, delta-front
+sand bodies commonly underwent gravity slumping (Li et al.,
+2011). In the late Triassic, tectonic activities of the surrounding
+areas, such as volcanism and earthquake, are intense, favoring
+development of gravity-f low deposits. Thin-bedded and
+laminated tuff can be found in the T3c6 and T3c7, the thickness
+of individual layers are 0.3–40 cm, and commonly are within
+sandy debris flows deposits or turbidite sand bodies (Qiu et al.,
+2009; Zhang et al., 2009; Qiu et al., 2011). Synsedimentary
+m icro-fractures associated with ea r thqua ke activities,
+earthquake fractures dominated by extensional fractures, and
+earthquake-induced breccia are observed in the cores (Li et al.,
+2008).
+Major source rock in the Ordos Basin is the seventh member
+of the Yanchang Formation, with TOC of 13.75%, mean
+hydrocarbon-generating potential of 43.58 mg/g, mean
+Well Zhuang65
+
+0
+
+Well Bai285
+
+5 km
+Well Bai117
+
+GR Depth/
+AC
+SP
+m
+
+Well Li149
+GR Depth/ AC
+m RILD
+SP
+
+Well93
+
+1760
+
+GR Depth/ AC
+SP
+m RILD
+
+1780
+
+2080
+
+2120
+
+2100
+
+2140
+
+2120
+
+2160
+
+2140
+
+2180
+
+2160
+
+2200
+
+2180
+
+2220
+
+2200
+
+2240
+
+2220
+
+2260
+
+2240
+
+2280
+
+2260
+
+2300
+
+2280
+
+2320
+
+1800
+1820
+1840
+1860
+1880
+1900
+1920
+
+GR Depth/ AC
+SP
+m RILD
+
+GR Depth/
+AC
+m
+SP
+
+1860
+
+1840
+
+1900
+
+1860
+
+1920
+
+1880
+
+1940
+
+1900
+
+1960
+
+1920
+
+1980
+
+1940
+
+2000
+
+1960
+
+2020
+
+1980
+
+2040
+
+1880
+
+T3 c 6 3
+
+T 3c 7
+
+T 3 c 81
+
+2000
+2020
+
+1940
+1960
+1980
+
+Oil reservior
+
+Gas reservoir
+
+source rock
+
+sandstone
+
+Fig. 5 Tight oil reservoir section from Well Li149 to Well Zhuang65 of the Yanchang Formation in Huaqing oilfield of Ordos Basin, China
+
+6
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+chloroform bitumen A content of 0.896%, hydrogen index (HI)
+of 200–400 mg/g, major kerogen of Type II1, and Ro values of
+0.7–1.6%. Oil generated from the seventh member undergowent
+short-distance migration and accumulated in the deep-lacustrine
+gravity flow sandstones of the T 3c6 and T3c7, and formed the
+most representative tight oil resources in China. Presently, a
+total tight-oil-bearing area in the T 3c6 and T 3c7 of the Ordos
+Basin is approximately 1.2×10 3 km 2 . Efficient large-scale
+development has been achieved in this area, and tight oil has
+become an important resource for crude oil production.
+
+4 Development potential and strategic
+significance of tight oil in China
+4.1 Resource potential forecast
+4.1.1 Assessment methods
+Assessment methods for unconventional oil resources such
+as tight oil mainly include analog method and statistical
+method which are established on the basis of exploration and
+development data. The most representative analog method is
+the USGS FORSPAN method, the statistical method includes
+volumetric estimation method, single-well reserve estimation
+method, stochastic simulation method, exploration simulation
+method, and oil-gas resource spatial distribution forecast method.
+At present, degree of tight oil exploration is very low in China,
+resource assessment mainly uses analogy of resource abundance.
+Based on some typical tight oil fields, key parameters such as
+reserves abundance and oil-bearing area should be evaluated, then
+analog method is used to calculate tight oil resources in major basins
+in combination with geological conditions of tight oil formation.
+
+4.1.2 Assessment results
+Preliminary assessment results show that total tight oil resources
+in the major basins in China are (10.67–11.15)×10 9 t (Table
+2). Tight oil resources are particularly abundant in the Ordos,
+Junggar, Songliao, Bohai Bay, and Sichuan basins. Therefore,
+these regions should be key targets for tight-oil exploration in the
+future.
+
+4.2 Development prospects
+4.2.1 Rrealistic alternative oil resource
+Since the 1960s, tight oil has been discovered in the Songliao,
+Bohai Bay, Qaidam, Turpan-Hami, Jiuxi, Jianghan, Nanxiang,
+Subei, and Sichuan basins in China (Lin et al., 2011). In
+the Songliao Basin, the Qingshankou Formation mudstone
+reservoirs of Well Da 4 in the Da’an structure yielded 2.66 t/
+d, the 10-year accumulative oil production from mudstone
+fractured reservoirs in the Xinbei oilfield in the southern area
+is >30×103 t. In the Bohai Bay Basin, more than 320 wells
+can be found oil and gas shows in mudstones, of which over
+30 wells yielded oil and gas flow during well tests, and the
+highest single-well production can reach 110 t/d. In the Jiuquan
+Basin, low-production oil flow or extensive oil and gas shows
+are obtained from shale/mudstone of the Lower Cretaceous in
+Huahai sag, and total oil reserves of mudstones in Qingxi sag is
+>0.1×109 t. Tight oil in the Triassic Yanchang Formation of the
+Ordos Basin, the Permian Lucaogou Formation of the Junggar
+Basin, the Cretaceous Qingshankou-Quantou formations of
+the Songliao Basin, the Middle-Lower Jurassic of the Sichuan
+Basin, and the Shahejie Formation of the Bohai Bay Basin have
+been developed in the industrialized production. Tight oil has
+
+Table 2 Distribution and resources of tight oil resources in major basins in China
+Basin
+
+Region
+
+Songliao
+
+Qijianan
+
+Gulong
+
+Jimusaer sag
+
+1st member of Qingshankou Formation
+3rd and 4th members of Gaotaizi
+Formation
+Fuyang oil reservoir
+3rd and 4th members of Shahezi
+Formation
+1st member of Shahejie Formation
+Lucaogou Formation
+
+Mahuxi slope
+
+Fengcheng Formation
+
+Central depression
+Bohai Bay
+
+Junggar
+
+Formation
+
+Zhangbei-Shishugou
+Bogda piedmont
+
+Pingdiquan Formation
+
+Ordos
+
+Lake basin center
+
+Tarim
+
+Manxi
+
+Lucaogou Formation
+7th and 6th members of Yanchang
+Formation
+Silurian
+
+Santanghu
+
+Malang sag, Tiaohu sag
+
+Lucaogou Formation
+
+Sichuan
+
+Chuanzhong
+
+Jurassic
+
+Reservoir type
+
+Resources /10 6 t
+
+Tight sandstone
+
+400
+
+Tight sandstone
+
+>1000
+
+Tight sandstone
+
+600–750
+
+Lacustrine dolomite
+Dolomitized rocks
+
+380–450
+702
+
+Dolomitized rocks
+
+835
+
+Mudstone fracture
+
+Dolomitized rocks
+
+Dolomitized rocks
+
+180–440
+
+748
+615
+
+Tight sandstone
+
+1990
+
+Tight sandstone
+
+1590
+
+Shelly limestone, tight sandstone
+Argillaceous limestone, gray
+dolomite, tuffaceous mudstone
+
+1070
+560
+
+7
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+now become the most realistic unconventional oil resources in
+China.
+4.2.2 Technological progress and development direction
+Technological advances play a decisive role in the efficient
+development of tight oil. The most critical technologies
+are horizontal well technology and fracturing technology.
+Based on tight oil accumulation patterns in the Ordos Basin,
+PetroChina Changqing Oilfield Company has focused on key
+exploration technologies and successfully achieved largescale exploitation of ultralow-permeability oil reservoirs
+(0.3–1 mD) through three-dimensional exploration model
+and cluster well group drilling technology. Additionally, the
+company has continued to strengthen research on new fields
+of tight oil and advance in trials of tight oil exploration and
+development technology. Field tests are presently ongoing
+in tight oil reservoirs and new progress are achieved in
+laboratory research as well as field experiments of tight oil
+in the 7th member of Yanchang Formation with very low
+permeability (<0.1 mD). The successful exploration of tight
+oil in the Ordos Basin provides valuable experiences for
+developing direction of tight oil exploration technologies in
+other basins in China.
+4.2.3 Significance for oil production in the future in China
+After over half a century of exploration, with increasing
+exploration extent of conventional oil resources in China,
+exploration will become more and more difficultly. Some
+oilfields are now experiencing period of high water content and
+high recovery degree, leading to large difficulties in stabilized
+production or increasing production of crude oil. Efficient,
+large-scale development of tight oil resources in the Ordos
+Basin indicate that tight oil is a very realistic alternative oil
+resource, and will play an essential role in China’s crude oil
+production through further exploration and development as well
+as technological application.
+
+5 Conclusions
+(1)In China, tight oil can be defined using following parameter
+standards: porosity <10%, permeability <1 mD (in-situ matrix
+permeability <0.1 mD), TOC >1%, Ro from 0.6–1.3%, crude oil
+density >40°API or <0.8251 g/cm3. Tight oil can be divided into
+3 types in terms of porosity, i.e., Type I (porosity 7–10%), Type
+II (porosity 4–7%), and Type III (porosity <4%).
+(2) In China, tight oil is mainly distributed in the Mesozoic and
+Cenozoic continental lacustrine depositional systems and can be
+divided into 3 types according to depositional environment and
+reservoir lithology, i.e., tight oil in lacustrine carbonate rocks,
+tight oil in deep-lake gravity flow sandstones, and tight oil in
+deep-lake gravity flow sandstones.
+
+8
+
+(3) Tight oil has broad exploration prospects in China.
+Progressive industrial findings have been achieved in the
+Ordos, Junggar, Songliao, Bohai Bay, and Sichuan basins. Total
+resources of tight oil in the major basins of China are forecasted
+to be (10.6–11.15)×109 t by using analog method for resource
+assessment.
+(4) The Triassic Yanchang Formation in the Ordos Basin,
+the Permian Lucaogou Formation in the Junggar Basin, the
+Cretaceous Qingshankou - Quantou Formations in the Songliao
+Basin, the Paleogene Shahejie Formation in the Bohai Bay
+Basin, and the Middle-Lower Jurassic of the Sichuan Basin are
+realistic tight oil exploration areas of tight oil in China.
+(5) Tight oil is a highly realistic alternative oil resource, and will
+play an essential role in China’s crude oil production through
+further exploration and development as well as technological
+application.
+
+Acknowledgements
+The authors would like to thank Tao Yang, Shejiao Wang, and
+Xiaozhi Wu for research assistance, Zhongjian Qiu, Xiaoguang
+Tong, and Dakang Han for critical comments on the manuscript,
+and some oil companies for data acquisition and surveys. This
+work was supported by National Science and Technology Major
+Project of China (Grant No. 2011ZX05043)
+
+References
+Daniel A, Brain B, Bobbi J C, et al. Evaluatin implication of hydraulic
+fracturing in shale gas reservoirs. SPE 121038, 2009.
+
+Guo P, Zhang M L, Huang Q H, et al. Low permeability tight sandstone gas
+
+reservoir development mechanism. Beijing: Petroleum Industry Press,
+2009, 1-253 (in Chinese with English abstract).
+
+Jiao Y Q, Wu L Q, He M C, et al. Occurrence, thermal evolution and
+primary migration processes derived from studies of organic matter in
+the Lucaogou source rock at the southern margin of the Junggar Basin,
+NW China. Science in China: Earth Sciences, 2007, 50: 114-123.
+
+Jin Q, Zhu G Y, Wang J. Deposition and distribution of high-potential source
+rocks in saline lacustrine environments. Journal of China University of
+Petroleum: Edition of Natural Science, 2008, 32(4):19-23 (in Chinese
+with English abstract).
+
+Li X B, Chen Q L, Liu H Q, et al. Three types of sediment gravity flows
+and their petroliferous features of Yanchang Formation in Ordos Basin.
+
+Lithologic Reservoirs, 2010, 22(3):16-21 (in Chinese with English
+abstract).
+
+Li X B, Fu J H, Chen Q L, et al. The concept of sandy debris flow and its
+application in the Yanchang Formation deep water sedimentation of
+
+the Ordos Basin. Advances in Earth Science, 2011, 26(3):286-294 (in
+Chinese with English abstract).
+
+Li Y H, Liu C Y, Wang X J. Discovery and significance of seismites in Late
+Triassic Yanchang Formation of Ordos Basin. Acta Sedimentologica
+
+C. Jia et al./Petroleum Research (2016) 1,1-9
+
+Sinica, 2008, 26(5):772-779 (in Chinese with English abstract).
+
+Lin S H, Zou C N, Yuan X J, et al. Status quo of tight oil exploitation in the
+
+United States and its implication. Lithologic Reservoirs, 2011, 23(4):2530 (in Chinese with English abstract).
+
+Loucks R G, Reed R M, Ruppel S C, et al. Morphology, genesis, and
+
+Petroleum Geology, 2002, 23(6):449-455 (in Chinese with English
+abstract).
+
+Wang Y T. Hydrocarbon-generation simulation test of major source rock and
+
+its significance in Junggar Basin. Xinjiang Petroleum Geology, 1998,
+19(5):377-382 (in Chinese with English abstract).
+
+distribution of nanometer-scale pores in siliceous mudstones of the
+
+Webster R L. Petroleum source rocks and stratigraphy of Bakken Formation
+
+79: 848-861.
+
+Zeng Z W and Jiang A N. Geomechanical study of Bakken Formation
+
+Mississippian Barnett shale. Journal of Sedimentary Research, 2009,
+Lu X M. Tight oil became the new hot spot of petroleum development in
+USA. China Petrochemical News, 2011(in Chinese).
+
+in North Dakota. AAPG Bulletin, 1984, 68(7): 953.
+
+for improved oil recovery. Hong Kong: Proceedings of International
+Symposium on Rock Mechanics, 2009.
+
+M iller B, Pa neitz J, Mul len M. T he successf ul appl ication of a
+
+Zhang W Z, Yang H, Peng P A, et al. The influence of Late Triassic
+
+fracture treatments in horizontal Bakken shale wells in North Dakota.
+
+source rock in Ordos Basin. Geochimica, 2009, 38(6):573-582 (in
+
+compartmental completion technique used to isolate multiple hydraulicSPE 116469, 2008.
+
+Qiu X W, Liu C Y, Li Y H, et al. Distribution characteristics and geological
+
+significances of tuff interlayers in Yanchang Formation of Ordos Basin.
+Acta Sedimentologica Sinica, 2009, 27(6):1138-1146 (in Chinese with
+
+volcanism on the development of Chang 7 high grade hydrocarbon
+Chinese with English abstract).
+
+Zhang Y J, Qi X F, Cheng X S, et al. Approach to sedimentary environment
+
+of Late Carboniferous- Permian in Junggar Basin. Xinjiang Petroleum
+Geology, 2007, 28(6):673-675 (in Chinese with English abstract).
+
+English abstract).
+
+Zhao Y H. Lacustrine carbonate hydrocarbon reservoir in China. Continental
+
+of volcanic ash sediments in Yanchang Formation in Ordos Basin. Earth
+
+Zou C N, Tao S Z, Hou L H, et al. Unconventional petroleum geology.
+
+150 (in Chinese with English abstract).
+
+Zou C N, Yang Z, Tao S Z, et al. Nano-hydrocarbon and the accumulation
+
+Qiu X W, Liu C Y, Mao G Z, et al. Petrological - geochemical characteristics
+Science: Journal of China University of Geosciences, 2011, 36(1):139Schmoker J W and Hester T C. Organic carbon in Bakken Formation,
+United States portion of Williston Basin. AAPG Bulletin, 1983, 67(12):
+2165-2174.
+
+Sun Z D, Jia C Z, Li X F, et al. Unconventional oil & gas exploration and
+development (upper volumes). Beijing: Petroleum Industry Press, 2011,1150 (in Chinese).
+
+Wang Y L, Zhang Y J, Wang G H, et al. Achievments and prospect for
+
+petroleum exploration and development in Junggar Basin. Xinjiang
+
+Petroleum Geology, 1992, 3(6):25-37 (in Chinese with English abstract).
+Beijing: Geological Publishing House, 2011, 1-310 (in Chinese).
+
+in coexisting source and reservoir. Petroleum Exploration and
+Development, 2012, 39(1):13-26 (in Chinese with English abstract).
+
+Zou C N, Zhao Z Z, Yang H, et al. Genetic mechanism and distribution of
+
+sandy debris flows in terrestrial lacustrine basin. Acta Sedimentologica
+Sinica, 2009, 27(6):1065-1075 (in Chinese with English abstract).
+
+Zou C, Zhu R, Liu K, et al. Tight gas sandstone reservoirs in China:
+
+characteristics and recognition criteria. Journal of Petroleum Science
+and Engineering, 2012, 88-89:82-91.
+
+9
+
+

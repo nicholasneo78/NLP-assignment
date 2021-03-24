@@ -1,0 +1,2693 @@
+Petroleum Research (2016) 1,39-52
+
+Hydrocarbon accumulation in the deep waters
+of South China Sea controlled by the tectonic
+cycles of marginal sea basins
+Gongcheng Zhang1*, Hongjun Qu2, Shixiang Liu1, Xiaojun Xie1,
+Zhao Zhao1 and Huailei Shen1
+CNOOC Research Institute, Beijing 100028, China
+Department of Geology, Northwest University, Xi’an 710069, China
+Received February 4, 2016; Accepted September 1, 2016
+1
+2
+
+Abstract: The tectonic cycle of the marginal sea basins in South China Sea (SCS) includes two cycles,
+i.e., the formation and contraction of Palaeo-SCS and Neo-SCS. The northern part of SCS is a rift basin
+on a passive continental margin, while the the Nansha Block is a drifting rift basin. The southern part is a
+compound compressional basin on an active continental margin; the western part is a shear-extensional
+basin on a transform continental margin; the eastern part is an accretionary wedge basin on a subduction
+continental margin. The deep-water basins are mainly distributed on the continental slope and the the
+Nansha Block. There are three sets of source rocks in the deep-water areas of the northern continental
+margin in SCS, i.e., Eocene terrestrial facies, early Oligocene transitional facies and late Oligocene marine
+facies. A set of Late Cretaceous-Early Oligocene terrestrial marine facies source rocks are developed in
+the drift-rift basin of SCS. Three sets of Oligocene, early Miocene and Mid-Miocene marine-terrestrial
+transitional facies source rocks are developed in the deep-water areas of both the southern and western
+continental margins of SCS. Four sets of reservoirs developed in the northern deep waters of SCS are
+dominated by deep sea fans. Two sets of reservoirs developed in the the Nansha Block are dominated
+by delta and biogenic reef. The southern part of SCS is dominated by deep sea fan and biogenic reef.
+Reservoirs of large channels and other clastic facies were developed in front of the estuaries, while
+biogenic reef bank was formed in the uplift zone. The hydrocarbon accumulation assemblages are mainly
+presented as Oligocene-Pliocene in the deep waters on the northern continental margin of SCS, EoceneLower Oligocene in the the Nansha Block, Oligocene-Pliocene and Oligocene-Miocene in the deep waters
+on the southern and western continental margin of SCS, respectively. The major hydrocarbon reservoir
+types in the deep waters of SCS are related to structural traps, deep water fans and biogenic reefs. The
+formation of basin, hydrocarbon and reservoir in the deep waters of SCS are controlled by the tectonic
+cycles of the marginal sea basins, revealing a great potential for hydrocarbon exploration.
+
+Key words: tectonic cycles, marginal sea basins; deep water area;
+reservoir assemblages; South China Sea
+
+1 Introduction
+Marginal sea basins, also called epi-continental sea basins, are
+located in the transitional zone between the land and ocean. The
+* Corresponding author. Email: zhanggch@cnooc.com.cn
+
+South China Sea (SCS) is one of the most important marginal
+sea basins in the Western Pacific, where the geomorphic types
+include continental shelf (or island shelf), continental slope (or
+island slope), central deep-sea plain and etc.
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+39
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+Large-scale oil and gas exploration of the SCS began in the
+1960s, and so far, more than 400 oil and gas fields have been
+discovered, mainly distributed in the shallow water areas with
+water depth less than 300 m (Zhang et al., 2010). The remaining
+oil and gas resources are rich in SCS which is the largest
+potential hydrocarbon-bearing province in China with remaining
+reserves mainly distributed in the deep-water areas. Through
+preliminary exploration, several commercial oil and gas fields
+have been discovered in the deep water areas on the southern
+continental margin of SCS (mainly in the Brunei-Sabah Basin),
+the eastern continental margin (Northwest Palawan Basin)
+and the northern continental margin (Pearl River Mouth Basin
+and Qiongdongnan Basin). Hydrocarbon-bearing structures
+have also been found in the deep water areas on the western
+continental margin and the the Nansha Block (Jing, 2006; Zhang
+et al., 2013; Shen et al., 2013). The deep water areas of SCS
+have great oil and gas potential, it may be comparable to the
+large deep-water oil and gas enrichment regions of the eastern
+continental margin of Brazil, the western passive continental
+margin of Africa, the Gulf of Mexico, the northwest shelf of
+Australia, the transform continental margin of East Africa, the
+passive continental margin of North Atlantic and Mediterranean
+deep waters (Zhang et al., 2011). Understanding on the main
+controlling geological factors of basin evolution, hydrocarbon
+and reservoir formation in the deep waters of SCS is of great
+guiding significance to the oil and gas exploration in the region.
+
+2 Tectonic cycles of marginal sea basins
+in SCS
+Since Cenozoic, SCS has experienced two cycles of formation
+and contraction, i.e., the tectonic cycles of two major marginal sea
+basins including the Palaeo-SCS and the Neo-SCS (Fig. 1), which
+display different tectonic characteristics in different stages.
+
+2.1 Palaeo-SCS tectonic cycle
+Palaeo-SCS experienced three tectonic stages including seafloor
+pre-spreading, seafloor spreading and seafloor destruction. During
+the seafloor pre-spreading stage of Palaeo-SCS, the South China
+Block, Indosinian Block and Borneo Block belonged to the same
+large block (South China Sea Platform). Seafloor spreading lasted
+from the Cretaceous to the Eocene, during which the Eocene flysch
+sediments were developed in the Zengmu Basin and Brunei-Sabah
+Basin, indicating the existence of typical deep-water sedimentary
+systems on the slope of the passive continental margin. In the
+formation stage of the Palaeo-SCS, the Palaeo-tectonic framework
+was shown as the central oceanic basin sandwiched between the
+southern and northern continental margins (Fig. 1). The northern
+continental margin of the Palaeo-SCS presented a pattern of
+continental margin-Palaeo-uplift- intracontinental rift from south
+to north (Figs 1 and 2). The palaeogeographic patterns of the
+palaeo-uplift and the tectonics on both sides were shown as the
+
+40
+
+northern continental faulted depression (e.g., Pearl River Mouth
+Basin), central uplift denudation (mid-uplift) and southern marine
+facies faulted depression (such as Liyue Basin) (Fig. 1). The Liyue
+Basin was always dominated by marine facies sediment from the
+Cretaceous to the early Oligocene. Eocene lacustrine facies strata
+were found in the Baiyun sag and the Kaiping sag in the Pearl
+River Mouth Basin to the north of the palaeo-uplift, revealing that
+terrestrial depositional environments existed in the north wing of
+the northern continental margin of the Palaeo-SCS. The consuming
+of the Palaeo-SCS started from the Oligocene, and the ophiolite
+belt formed during that period can be seen on the west side of the
+Kalimantan Island. In the Zengmu Basin and the Brunei-Sabah
+Basin, some Oligocene molasse sediments were found, proving
+the inversion and the consuming of the Palaeo-SCS. Since the
+Miocene, the Palaeo-SCS continued to the consuming and subduct
+toward the Kalimantan Block. At present, the dissemination of the
+Palaeo-SCS is almost completed.
+N
+Late Miocene-today
+Pearl River Mouth
+
+S
+Neo-South
+China Sea
+
+Liyue
+
+Kalimantan-Java Island
+
+Late Oligocene-Middle Miocen
+Neo-South
+Palaeo-South
+Pearl River Mouth China Sea Liyue China Sea
+
+Early Oligocene
+Pearl River Mouth Liyue
+Marine
+Continental Mid-uplift
+south depression
+north depression
+
+Palaeocene–Eocene
+Liyue
+
+Palaeo-South
+China Sea
+
+Palaeo-South
+China Sea
+
+Marine
+Continental Mid-uplift
+south depression
+north depression
+
+End of Late Cretaceous
+Pearl River Mouth
+
+Liyue
+
+Palaeo-South
+China Sea
+
+Mid-uplift Marine
+Continental
+south depression
+north depression
+
+Oceanic crust of
+Oceanic crust of
+Palaeo-South China Sea Neo-South China Sea
+
+Australian Plate
+
+Australian Plate
+
+Seawater
+
+Fig. 1 Cenozoic tectonic cycles of the marginal sea basins in
+the South China Sea
+
+2.2 Tectonic cycles of the Neo-SCS
+The Neo-SCS experienced three stages of seaf loor prespreading, seafloor spreading and seafloor destruction (Figs
+1 and 2). The seaf loor pre-spreading stage was from the
+Cretaceous to the early Oligocene, when the Nansha Block and
+South China Block formed a united block and jointly constituted
+the northern continental margin of SCS (Figs 1 and 2). Mesozoic
+radiolarian fossils indicated that the Nansha Block was cracked
+from South China Block, and radiolarians were found in the
+Mesozoic strata of the Busuanga Island and northern Palawan
+Island in the Calamian Islands of the Palawan Sea, the Nansha
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+Block, where radiolarian species emerged at the north latitude of
+22°, i.e., the lateral side of the South China continental margin
+(Cheng, 1992; Kennett, 1982; Sano et al., 1992; Matsuoka,
+1992; Vishnevskaya, 1992). In Well LF35-1-1 of the Chaoshan
+Depression, the radiolarian fossil stage was from the Late
+Jurassic to the Early Cretaceous, including the Late Jurassic
+Pentanellium philip pinense Cheng and Pantanellium corenense
+Cheng, consistent with the fossils in the Calamian Islands (Wu
+et al., 2007). The Mesozoic rocks in the Nansha Block and South
+China Block consist of similar volcanic rocks and sedimentary
+rocks. The palaeo-magnetism data indicate that the South China
+and the Borneo blocks were a unified block during that period.
+The late Yanshanian intrusive rocks were widely distributed in
+the northern continental margin of SCS, the Nansha Block and
+the Wan’an Basin, mostly presenting NE trending and showing
+that there was a unified block during that period.
+
+oceanic crust, the oceanic crust of Neo-SCS was divided into three
+parts, including the eastern sub-basin, northwestern sub-basin and
+southwestern sub-basin. The body of Neo-SCS was located in the
+eastern sub-basin, also known as the central oceanic crust. The
+eastern sub-basin presented EW-trending magnetic anomaly belt,
+where the south and north ends are the oldest in ages of about 3229 Ma (Barckhausen et al., 2013), whereas the middle section is
+the youngest in age of about 16.5 Ma. The fact that the age of the
+oceanic crust ages gradually from the center to both south and
+north sides with sporadic development indicates that the formation
+of oceanic crust began in 32 Ma and lasted for 16 Ma, followed
+by SN spreading stagnation of the Neo-SCS (Franke et al., 2014;
+Taylor and Hayes., 1983). The significant change happened in this
+stage, with the formation of intercontinental rift and oceanic basins,
+the cracking and subsidence of mid-uplift (Fig. 1, Paleo-SCS
+Platform), and the accretion of the oceanic crust by mantle plume.
+
+During the seafloor spreading stage, i.e., the formation stage of the
+
+The seafloor consuming stage started from 16.5 Ma till now.
+a in
+i n rg
+5
+Ch ma
+t
+l
+h
+el 6
+ut ta
+3 b-b
+2
+So inen
+su
+nt
+1 4 rth
+co
+o
+
+O
+ro
+(N gen
+-SC an ic
+S
+sh be
+a) lt
+
+S
+
+lt
+
+SC
+
+be
+
+o-
+
+rc
+
+lae
+
+isl
+
+an
+
+da
+
+Pa
+
+ine
+
+lt
+be
+rc
+da
+isl
+
+ine
+pp
+ili
+
+t
+
+pp
+
+bel
+
+ili
+
+arc
+
+f Pa
+laeo ental
+-S
+Kali
+man CS
+tan
+
+Su
+m
+
+Ph
+
+nd
+
+elt
+
+at
+ra
+
+Ja va Is la
+
+an
+
+isla
+
+rc b
+
+nP
+
+ali
+
+ine
+
+da
+
+lia
+
+str
+
+lipp
+
+lan
+
+ra
+
+tra
+
+Au
+
+S
+SC
+oNe ansha
+N
+
+N
+
+9 10
+12
+CS
+eo-S
+Pala
+13 7
+Sou
+16
+m a r t h e14
+r 8
+g i n n c o n t15
+in
+o
+
+e is
+
+at
+
+us
+
+la
+te
+Oceanic
+crust
+
+n of
+t
+Pa inent
+Kali laeo-S al
+C
+man
+tan S
+
+m
+
+atra
+A
+
+Continental
+crust
+
+9 10
+12
+CS
+eo-S
+Pala
+13 7
+S o u 14 8 16
+m a r t h e r n c 15
+gi
+on
+Su
+
+Sum
+
+S
+m a o u14
+t
+16
+rg h e r n
+in
+o f c o n 15
+Pa tin
+lae en
+o- tal
+SC
+S
+Jav
+aI
+sla
+nd
+
+11
+
+pin
+
+11
+
+Late Miocene-today
+a in
+tal
+i n rg
+en
+tin -SCS
+Ch ma
+n
+h l
+co eo 6
+ut ta
+2 thern of N
+So inen
+r in 3
+o
+18
+1 N m a rg 17
+nt
+co
+4
+
+ilip
+
+8
+
+S
+oNe
+sha
+Nan
+
+N
+
+Phi
+
+Middle Miocene
+a in
+tal
+i n rg
+en
+Ch ma
+tin -SCS
+n
+l
+h
+o
+o 6
+c
+ut ta
+rn Ne
+So inen
+2 rthe n of
+o rg i 3
+t
+N
+n
+1 m a 17 18
+co
+4
+CS
+
+Ph
+
+13
+
+Ph
+
+te
+la
+cP
+ifi
+ac
+-P
+
+te
+la
+cP
+ifi
+ac
+-P
+
+eo
+la
+Pa
+
+te
+
+te
+
+te
+
+la
+
+la
+
+la
+
+12
+
+So
+ut
+m a14
+rg h e r n
+in
+o f c o n 16
+P a t15
+i
+lae nen
+Ka
+o- tal
+lim
+SC
+an
+S
+tan
+Jav
+aI
+sla
+nd
+
+nP
+
+nP
+
+nP
+
+lia
+
+lia
+
+tra
+
+eo
+
+us
+
+tra
+
+la
+
+atra
+A
+
+us
+
+lia
+
+Pa
+
+Sum
+
+A
+
+tra
+
+N
+
+10
+
+an
+
+13
+
+atra
+
+atra
+us
+
+Late Oligocene-Early Miocene n t a l
+e
+a in
+in CS
+i n rg
+nt -S 5
+co eo
+Ch ma
+n
+N
+6
+h l
+er f
+ut ta
+S
+2 orth in o 3
+g
+So inen
+SC
+r
+N
+a
+o a
+1 4m
+nt
+Ne nsh
+o
+c
+a
+N
+9 10
+11 7
+
+N
+
+aeo
+
+S
+
+N
+l 9
+nta
+ine SCS
+t
+n
+c o a e o -7
+l
+ern
+r t h o f P a11
+n
+N o g i12
+r
+8
+ma
+
+-SC
+
+aeo
+Pal
+
+Early Oligocene
+
+Sum
+
+Sum
+A
+
+al
+11
+ent CS
+tin
+con aeo-S
+n
+r
+l
+e
+rth
+f Pa
+N o g i n o 13
+r12
+ma
+S
+ma outh
+14rg e r n
+in
+of con
+P t
+K a 15 a l a i n e n
+eo ta
+lim
+-S l
+an
+CS
+tan
+Jav
+aI
+sla
+nd
+
+N
+
+aeo
+
+-SC
+
+S
+
+O
+ro
+(N gen
+an ic
+sh be
+a) lt
+
+or
+th
+su
+O
+bro
+be
+g
+(N en
+lt
+an ic
+sh be
+a) lt
+
+N
+
+l
+nta S
+ine
+ont eo-SC
+c
+ern Pala
+rth
+f
+No gin o
+r
+a
+m
+S
+ma outh
+rg e r n
+in
+of con
+Pa tin
+lae en
+Ka
+o- tal
+lim
+SC
+S
+an
+tan
+Jav
+aI
+sla
+nd
+
+ic
+en
+og
+Or belt
+
+t
+
+el
+a in
+- b5
+i n rg
+ub 6
+Ch a
+s
+h al m
+3
+t
+th
+u t
+2
+or 9
+So inen
+N
+10
+1
+7
+4
+nt
+o
+8
+c
+
+Pal
+
+Palaeocene-Eocene
+
+ic
+en N
+og
+Or belt
+
+a in
+i n rg
+Ch a
+h al m
+t
+u t
+So inen
+nt
+o
+c
+
+Pal
+
+Later period of Late Cretaceous
+
+Pl
+
+Au
+
+nd
+
+ate
+
+Sea-land
+Start position
+Indo-Australian Plate subduction
+of Neo-SCS expansion transitional zone
+zone
+Plate
+
+Basin
+
+str
+
+Ja va Is la
+
+ali
+
+Philippine island
+arc belt
+
+an
+
+Pl
+
+nd
+
+ate
+
+Spreading ridge
+of oceanic basin
+
+Location of
+Mid-ocean ridge
+
+Fig. 2 Tectonic cycle plane of marginal sea in South China Sea. 1 Yinggehai Basin, 2 Beibu Gulf Basin, 3 Pearl River Mouth
+Basin, 4 Qiongdongnan Basin, 5 Taixi Basin, 6 Taixinan Basin, 7 Nanweixi Basin, 8 Beikang Basin, 9 Liyue Basin, 10 Palawan
+Basin, 11 Zhongjiannan Basin, 12 Mekong Basin, 13 Wan’an Basin, 14 Zengmu Basin, 15 Brunei-Sabah Basin, 16 Nansha Trough
+Basin, 17 Shuangfeng Basin, 18 Bijianan Basin
+
+41
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+Different from the SN expansion of the Neo-SCS, the shrinkage
+of the Neo-SCS caused the development of the EW trending
+structures (Fig. 2). The formation of the Philippine island arc
+belt and the westward obduction led to the eastward subduction
+and consuming of the new oceanic basin in SCS (Yao et al.,
+2004;Yao et al., 2006). The SCS tectonic cycle controlled
+the current tectonic framework of SCS and the formation of
+continental margins of different properties.
+
+3 Basin formation in the deep waters
+of SCS controlled by tectonic cycle of
+marginal sea
+In the tectonic cycle evolution of marginal seas, different
+tectonic responses occurred in different areas of SCS, thus
+forming basins of different properties. Controlled by the tectonic
+cycle of marginal seas, the dynamics of SCS are characterized
+by “extension in north and compression in south, cracking
+and separating of Nansha block, extrusion in east and strikeslip in west”. Specifically, the northern continental margin of
+SCS became a passive continental margin, while the southern
+continental margin was an active, multiphase superimposed
+continental margin. The Nansha Block was a drift block; the
+eastern continental margin was a subductive continental margin,
+while the western continental margin was transformed to a
+passive continental margin. Under such controlling effect, five
+types of basin were developed in the South China Sea, i.e., the
+passive continental margin rift basin in the northern SCS, the
+compressional continental margin basin in the western SCS, the
+drift-rift basin in the Nansha Block, the hyperplasia wedge basin
+in the eastern SCS and the shear-tensional basin in the western
+SCS (Fig. 3).
+
+3.1 Passive continental margin basin in the
+northern deep waters of SCS
+The current northern continental margin of SCS was significantly
+controlled by the tectonic cycles of SCS. Influenced by the PalaeoSCS cycles, multi-episodic non-marine rift occurred in the current
+northern SCS, thus forming the Palaeocene-Eocene continental rift
+and Early Oligocene land-sea transitional rift. Faulted depressions
+occurred in the early expansion of the Neo-SCS, thus forming
+the late Oligocene marine rift, faulted depression or depression.
+Regional thermal subsidence occurred during the late expansion
+of the Neo-SCS, thus forming the early and middle Miocene
+marine depression. Regional subsidence also occurred during the
+contraction stage of the Neo-SCS with significant tectonic activities
+(Fig. 4), thus forming the current shelf-slope system since the Late
+Oligocene with water depths increasing from north to south.
+Before the expansion of the Neo-SCS and during the early
+expansion stage, three episodes of Palaeogene rift occurred on
+the northern continental margin of SCS, and the pre-Cenozoic
+
+42
+
+basement fault block was bursted and stretched along the NEnearly EW crustal fracture zone, thus forming faulted rift or
+faulted depression. Three hydrocarbon-bearing basin belts were
+developed on the northern continental margin of SCS from north
+to south. The formation of main faults in Palaeogene showed the
+characteristics of early in the north while late in the south.
+The northern basins were located in the shallow waters,
+among which Palaeogene rifts occurred in the depression
+belts of the Beibu Gulf Basin and the northern Pearl River
+Mouth Basin, where continental sedimentary strata were
+mainly distributed in the faulted depression and to a less extent
+developed on the uplift. During the Neogene-Quaternary
+depression phase, regional subsidence occurred with a wide
+stratigraphic distribution, dominated by marine sedimentation
+but with a smaller thickness. The Beibu Gulf Basin is generally
+characterized by thick strata during the rift period and thin
+strata during depression period, characterized by “much-stuffed
+and thin-skinned”. Fault activities were quite strong during the
+faulted depression phase, while from the depression period to
+the Quaternary, faults and folds were not active except for some
+thrust faults and reversal anticlines. The northern Pearl River
+Mouth Basin experienced multiple transforms during the rift
+period, and mainly developed the residual depressions; from the
+Neogene to the late Quaternary, the fault activities were intense
+along the NW direction, and the deep lake facies were well
+developed in the Eocene.
+The main part of central basin belt was located in the deep water
+area, including the Qiongdongnan Basin, the Zhu II Depression
+of the Pearl River Mouth Basin and the Taixinan Basin. In the
+Eocene, initial rifts occurred, which were dominated by continental
+sediment with regional mid-deep lacustrine facies and the Neo-SCS
+had not been expanded. Regional faulted depression occurred in the
+Oligocene and formed large faulted depressions, such as the central
+depression of the Qiongdongnan Basin, the Baiyun sag in the Pearl
+River Mouth Basin and the south depression in the Taixinan Basin,
+which were dominated by marine and land-sea transitional facies
+sediments. Rapid regional subsidence occurred after the Miocene
+and formed under-compensated continental slope depressions,
+which were mainly filled by deep-water sediments. The main part
+of this belt was located in the deep water area, where the major
+deep depressions included the Baiyun-Liwan sag, the LedongLingshui sag, the Huaguang sag and Songnan-Baodao sag. The
+Oligocene was dominated by the deposition of coal-measure strata
+and bay facies mudstones with a maximum Cenozoic sedimentary
+thickness of 10,000 m (Zhang et al., 2007; Zhang, 2010; Zhang et
+al., 2013).
+The main body of the southern basin belt was situated in
+the ultra-deep waters. Late Palaeogene rifts occurred in the
+Zhongsha Trough Basin, the Shuangfeng Basin and the Bijia’nan
+Basin, but the strata were not quite developed during the rift
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+N
+0
+
+200 km
+
+A
+
+A′
+
+South China Sea
+
+B
+B′
+
+C
+C′
+
+100
+
+The northern passive
+The southern
+The western shear-tensional The eastern hyperplasia
+continental margin rift basin
+wedge basin of Neo-SCS
+compressional
+basin of Neo-SCS
+of Palaeo-SCS and Neo-SCS basin of Palaeo-SCS
+
+95
+Drift rift basin Water-depth line of 300 m
+
+75
+
+Fig. 3 Tectonic types of sedimentary basins in South China Sea
+
+period, showing a depression structure in the Neogene.
+
+3.2 Nansha drift-rift basin
+Controlled by the tectonic cycle of the Palaeo-SCS and NeoSCS, the Nansha Block underwent three stages of tectonic
+evolution of pre-drift, drift and post-drift, forming a typical
+sandwich basin structure (Fig. 5).
+
+The Liyue Basin is the major basin in the Nansha Block and has
+experienced three phases of tectonic evolution in the Cenozoic.
+11�2�������1�
+During the pre-drift stage (Late Cretaceous-Early Oligocene),
+the Liyue Basin was located on the south side of the Pearl River
+Mouth Basin in the northern SCS near the Chaoshan Depression,
+
+belonging to a passive continental margin basin. During the drift
+stage (Late Oligocene- Mid-Miocene), the central ocean basin
+of SCS came into being in the Late Oligocene. Consequently,
+the Liyue-Northeast Palawan Block was separated from the
+northern continental margin and drifted southwards. The Liyue
+Basin was located on the northern side of the Palaeo-SCS and
+the southern side of Neo-SCS, entering into the stage of regional
+subsidence, forming a continental block crack-split basin. During
+the post-drift stage (Late Miocene-today), the Liyue-Northeast
+Palawan Block collided with Kalimantan and stopped drifting at
+the end of the Middle Miocene. With the consuming of tectonic
+cycles of the marginal sea basin in the Palaeo-SCS and the
+
+43
+
+25
+5
+0
+
+A
+
+A′
+SW
+
+Fault
+
+Middle Miocene-today
+(after expandingperiod)
+
+T40
+T60
+
+Up per Ol igo cen e-L
+ow er
+(du rin g exp and ing Mi oce ne
+per iod )
+
+T70
+
+T80
+
+Eocene-Upper Oligocene
+(before expanding period)
+
+T100
+
+500ms
+
+5000m
+Fig. 4 Seismic section of the Baiyun sag in the Pearl River Mouth Basin (The profile location see Fig. 3)
+
+B
+
+NE
+
+B′
+
+Fault
+Upper Miocene-today
+(after drifting period)
+Upper OligoceneMiddle Miocene
+(during drifting period)
+
+100
+
+T40
+
+95
+
+T70
+T80
+
+Middle EoceneLower Oligocene
+(before drifting period)
+
+75
+
+T81
+25
+
+T100
+
+5
+
+500ms
+
+1�����2�
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+5000m
+Fig. 5 Regional seismic section of the Liyue Basin (The profile location see Fig. 3)
+
+formation of the Neo-SCS, the blocks collided and formed a
+foreland basin. The Liyue Basin was then stopped drifting and
+became stagnated at current position. The Nanweixi Basin and
+Beikang Basin underwent similar geological evolution.
+The sedimentary caprocks of the Northwest Palawan Basin
+consisted of the Upper Jurassic -Cretaceous marine facies clastic
+rocks, tuffaceous shale, Upper Eocene-Quaternary marine clastic
+rocks and carbonate rocks. The basin was divided into the North
+Palawan Basin and South Palawan Basin. Before the spreading of
+the Neo-SCS, the Palawan Basin was located on the lateral side of
+SCS northern margin. Under the tensile stress, the fault blocks in
+the pre-Cenozoic basement were broken to form a series of basket
+
+44
+
+or graben-shaped faulted basins. The NS spreading of the NeoSCS made the Palawan Basin gradually drift southwards. Around
+the late Middle Miocene, the Palawan micro-block, where Palawan
+Basin was located, collided with the Philippines Block and stopped
+ever since, forming a foreland basin.
+
+3.3 Compressional basin in the southern SCS
+The southern continental margin basement of SCS was formed
+during the early shrinking stage of the Palaeo-SCS. The basement
+of the eastern Brunei-Sabah Basin (Brunei area) was the folded
+and deformed delta plain-deep shale formations of Late OligoceneEarly Miocene. The basement of the western basin (Sabah area)
+
+0
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+was the folded Late Eocene-Early Miocene abyssal flysch (Ma et
+al., 2012). The basement of the southern Zengmu Bain was the Late
+Cretaceous-Eocene shallow metamorphic deep-sea turbidite, which
+is an extension of the western Borneo Sibut belt offshore. The
+western and southwestern basement of the basin was the MesozoicPalaeocene igneous rock, which might represent the magma
+tectonic belt formed during the pre-tension and the early tension
+stages of SCS. The eastern and northern basement of the basin are
+still unclear.
+The sedimentary caprocks of the southern continental margin of
+SCS was formed during the shrinking stage of the Palaeo-SCS, and
+hugely thick sediments were deposited in the basin. In the PlioceneQuaternary, the Zengmu Basin and SCS ocean basin subsided as a
+whole to develop large-scale cladded sediments.
+
+3.4 Shear-tensional basins in the western SCS
+The western continental margin of SCS was evidently controlled by
+the tectonic cycle of the Neo-SCS. Before the spreading of the NeoSCS (Eocene-Early Oligocene), the western SCS might be part of
+the western part of the central uplift, which was under denudation.
+During the Neo-SCS splitting stage in the Late OligoceneEarly Miocene, the current western edge of SCS (Wan’an BasinZhongjiannan Basin-Mekong Basin) was parallel to the spreading
+axis, thus forming a NE-trending basin under the NW-trending
+tension, characterized by NW-trending basin-ridge structures and
+recession of the WS-trending extension. During the shrinking
+stage of the Neo-SCS (Late Miocene-Quaternary), the extension
+stagnated and was replaced by regional subsidence to form the
+current continental shelf-slope system.
+Taking the Mekong Basin as an example, it shows an N-E trend,
+consistent with the southwest sub-basin of the Neo-SCS. The
+Mekong Basin was formed mainly during the Oligocene by the
+superimposition of the Oligocene-Early Miocene rift and the
+Middle-Miocene- Quaternary depression (Sun et al., 2010). The
+Mekong Basin was probably the product from the spreading
+
+of the Neo-SCS to the land, which is currently located at the
+shallow water area of continental shelf. The Zhongjiannan Basin
+was a shear-tensional basin, mainly distributed in the deep
+waters. The basin configuration was NS-trending, mainly with
+depression characteristics, controlled by differential thermal
+subsidence during the shrinking stage of the Neo-SCS. During
+the faulted depression stage, the tectonic framework of the basin
+was characterized by the NE-trending uplift-depression pattern,
+formed by the extension during the spreading of Neo-SCS (Gao
+et al., 2007). The northwest end of the Wan’an Basin was located
+in the deep water area. The extension during the spreading of
+Neo-SCS led to a series of NNE and NE-trending faults and
+formation of tilted fault blocks and graben depressions, thus
+constituting the lower tectonic framework of the Wan’an Basin.
+During the shrinking stage of the Neo-SCS, regional differential
+subsidence resulted in the development of the continental shelfslope system (Jing et al., 2004) (Fig. 6). In addition to the NeoSCS cycle, the western continental margin of SCS was also
+affected by the sliding of the Indosinian Block.
+
+3.5 Accretionary wedge basin in the western SCS
+The eastern continental margin of SCS was formed relatively late
+during the consuming stage of the Neo-SCS, jointly controlled by
+the westward obduction of the Philippine island arc belt and the
+eastward subduction of the Neo-SCS oceanic crust. The basin was
+formed on an accretionary wedge (Wan et al., 2002). Bathyal shale
+facies sediments were formed in the Oligocene-Early Miocene,
+and the subduction occurred from the Late Miocene till present,
+dominated by thrust nappes with some regional stretching.
+
+4 Hydrocarbon formation in the deep
+waters of SCS controlled by tectonic cycles
+of marginal sea basins
+In the northern margin basin of SCS, under the control of
+tectonic cycles of the marginal sea basins, three sets of source
+
+C
+
+C′
+SE
+
+T30
+T40
+
+Middle Miocene-today
+(after expanding period)
+
+T50
+
+T60
+
+Upper Oligocene-Lower Miocene
+(during expansion period)
+
+T100
+
+500ms
+
+5000m
+Northern uplift
+
+Central depression
+
+Fault
+
+Central uplift
+
+Fig. 6 Regional seismic section in the Wan’an Basin (The profile location see Fig. 3)
+
+45
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+rocks were developed during the Eocene and Oligocene. In
+the controlled southern rift basin, a set of source rocks were
+developed in the Eocene. In the southern foreland basin, three
+sets of source rocks were formed in the Oligocene and Miocene.
+In the basins of SCS, the sedimentary facies of main source
+rocks were distributed in a belted shape around the central
+ocean basin (Fig. 7).
+
+Eocene lacustrine source rocks, the Early Oligocene terrestrialmarine transitional facies coal-measure source rocks and the
+Late Oligocene marine source rocks (Huang, 1999; Huang et al.,
+2002; Zhang et al., 2009; Li et al., 2012).
+The Eocene source rocks were formed during the active stage
+of the Palaeo-SCS, located in the intracontinental rift on the
+northern passive continental margin of the Palaeo-SCS (to the
+north of the central uplift, Fig. 1). It is mainly consisted of middeep lacustrine mudstone, which have been encountered in the
+Baiyun sag and the Kaiping sag of the deep waters in the Pearl
+River Mouth Basin. It might also develop in the Shunde sag and
+the Qiongdongnan Basin.
+
+4.1 Eocene and Oligocene source rocks in the
+northern margin of SCS
+The tectonic cycle of the Palaeo-SCS and the Neo-SCS led to
+three phases of Eocene and Oligocene rifting in the northern
+continental margin of SCS. Consequently three sets of source
+rocks were developed in the northern deep waters, i.e., the
+
+200 km
+
+sin
+
+lif
+
+t
+
+N
+a
+Ba shi
+si na
+n
+Water-depth line Basin boundary
+of 300 m
+
+weix
+Nan
+
+rth
+Ba Pala
+sin wa
+n
+
+ut
+h
+Ba Pala
+sin wa N
+n o
+
+So
+
+in
+
+n
+
+Zhongye
+Liyue Basin
+Kangtai Basin
+Basin
+g
+Yongshu
+an
+ng
+Basin a i p i i n u z h i n
+ea
+T as Ji as sin
+uS
+B
+B
+a
+ul n
+B
+S
+g
+id o n
+ei
+th si
+Nanwe
+ub
+or Ba
+B a s in
+in
+N
+nd
+s
+A
+Ba
+in
+gh
+as
+ou
+B
+r
+g
+T
+n
+si
+an
+ha
+ik
+Ba
+ns
+e
+a
+h
+B
+N
+a
+ab
+i-S
+e
+un
+Br
+
+i Bas
+
+asi
+
+Basin
+
+gB
+
+Wa n 'a
+n
+
+Me
+
+n
+ko
+
+Yo n
+gd
+Bas eng
+in
+
+Zho
+
+ngji
+
+anna
+
+n Ba
+
+uth
+
+Up
+
+ng
+
+in
+
+in
+al le y B as
+C en tr al V
+h
+roug
+on T
+Luz Basin
+
+n
+
+So
+
+ern
+
+ua
+
+as
+
+asin
+
+asi
+
+o
+
+Sh
+
+gB
+
+yan B
+
+iB
+gd
+
+Ba
+
+fen
+
+Caga
+
+ha
+
+plift
+
+on
+
+an
+
+sin
+
+ina
+
+g
+an
+en
+on
+nf n
+Jia asi Beip asin
+B
+B
+
+h
+
+ge
+
+um U
+
+Qi
+
+n
+ng
+
+rl R
+
+th
+
+gs
+Ba ha T
+sin ro
+ug
+
+nU
+
+a
+Pe
+
+ou
+
+on
+
+ng
+
+ina
+
+t
+
+rM
+
+Zh
+
+Yi
+
+Kont
+
+Ha
+
+f
+pli
+
+ive
+
+ix
+Ta
+
+in
+
+N
+
+sin
+
+B
+
+Beibu Gulf Basin
+
+s
+Ba
+
+a
+nB
+
+iji
+N
+a’
+n
+Tr o r t h
+ou Lu an B
+gh zo
+as
+in
+Ba n
+sin
+
+0
+
+The ea rly Oligocene source rocks were for med in the
+
+Zengmu Basin
+
+Land
+
+Major distribution area of Major distribution area of marine-terrestrial Major distribution area
+terrigenous marine source rocks transitional coal-measure source rocks of lacustrine source rocks
+
+Fig. 7 Distribution of major source rocks in the ocean basins of South China Sea
+
+46
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+intracontinental lmarine-terrestrial transitional faulted depression
+stage before the spreading of the Neo-SCS, equivalent to the early
+period of the intercontinental rift, when the Palaeo-geographic
+pattern of the Neo-SCS was an EW-trending narrow bay (Fig. 2).
+The east end of the gulf might be connected to the PalaeoPacific, as the gulf-marine facies distributed in the west. Some
+multiple faulted depressions were formed on the north side
+of the gulf (e.g. Pearl River Mouth Basin and Qiongdongnan
+Basin), in which deltaic-coal system and marine source rocks
+were developed. Oil and gas source correlation analysis shows
+that such source rocks are the major source rocks in the deep
+waters of the Pearl River Mouth Basin and Qiongdongnan Basin.
+At the end of the Oligocene, the Neo-SCS was largely formed,
+and the gulf was significantly widened towards the south and
+north sides. The northern margin of SCS belonged to a passive
+continental margin with a broad marginal sea, where the
+depression was located in a marine environment and source
+rocks were of neritic facies with well-developed regional gulf
+marine mudstones. For example, during the deposition of the
+Zhuhai Formation, the Baiyun sag was dominated by a neritic
+facies-gulf environment, where source rocks comprise marine
+facies mudstones with high abundant sapropel-humic organic
+matters. Oil and gas source analysis shows that the Zhuhai
+Formation in the Baiyun sag of the Zhu II Depression, in
+the Pearl River Mouth Basin contributed to the hydrocarbon
+accumulation. During the deposition of the Late Oligocene
+Lingshui Formation in the Qiongdongnan Basin, the depression
+structure was faulted with neritic-bathyal facies, the organic
+matter type and abundance were similar to that of the Baiyun
+sag.
+
+4.2 Eocene source rocks in the Nansha rift basin
+The Eocene-Early Oligocene faulted depression in the basins
+within the Nansha Block were mainly controlled by the
+Palaeo-SCS, when the basin group was located in the northern
+continental margin of the Palaeo-SCS and developed a set of
+marine-terrestrial transitional source rocks. The thickness of
+strata was thin during the drift phase and became thick during
+the shrinking period. According to the geothermal field and
+burial history, only the Eocene-Early Oligocene potential source
+rocks could be recognized as the effective source rocks (Xu
+et al., 2003; Zhang et al., 2004). For example, the main source
+rocks of the Liyue Basin were developed in the Eocene, and
+were distributed mainly in the deltaic as well as shallow marine
+facies and controlled by the deltaic deposition. TOC of the wells
+near the delta was obviously higher than that of the wells far
+away from the delta. The source rocks of the Palawan Basin
+were mainly distributed in the Nido Formation (OligoceneMiocene) and the Thian-Rift Formation (beneath the Nido
+Formation).
+
+4.3 Oligocene and Miocene source rocks in the
+southern foreland basin
+The tectonic cycles of the marginal sea basins led to three
+phases of the Oligocene and Miocene extrusion in the southern
+foreland basin, forming three sets of source rocks. The main
+source rocks were delta coal series and neritic mudstones (Liu
+and Jing, 1997; Todd et al., 1997). The organic matters in the
+source rocks of the Brunei-Sabah Basin comprise the Middle
+Miocene-Pliocene terrestrial plants within the mudstone,
+carbonaceous mudstone and coal seam, and are dominated by
+Type-III kerogen. The source rocks near the basin margin were
+partially composed of coal and mudstone, with TOC < 2.0%,
+and the kerogen type is mainly Typ III mixed with a minor
+Type II2. Three sets of coal measure-marine source rocks of the
+Oligocene, Early Miocene and Middle Miocene were developed
+in the Zengmu Basin.
+
+4.4 Source rocks in the western deep waters
+Controlled by the tectonic cycle of the Neo-SCS, three sets of
+source rocks were developed on the western continental margin
+of SCS during the pre-spreading, spreading and shrinking
+periods (Liu and Wu, 1997; Gao et al., 2007). In this area, three
+sets of the Palaeocene-Eocene source rocks were distributed in
+the Zhongjiannan Basin, characterized by neritic-swamp and
+neritic-bathyal lacustrine mudstones with TOC of 1.75%-0.85%
+and TypeII-III kerogen. The Upper Eocene-Oligocene source
+rocks were dominated by lacustrine facies and littoral-neritic
+facies mudstone, which TOC of mudstone was 0.49%-1.56%
+and that of coal and carbonaceous mudstone range from 13.26%
+to 21.43% with predominantly Type II-III kerogen. The Lower
+Miocene-Middle Miocene source rocks were dominated by
+neritic-bathyal mudstone with TOC of 0.69%-0.93% and Type
+II-III kerogen.
+In the Wan’an Basin, two sets of source rocks were developed
+in the Oligocene nearshore limnetic-delta and shallow marine
+mudstone and the Lower-Middle Miocene neritic mudstone. The
+Oligocene source rocks were the main source rocks with TOC
+of 0.50%-2.26% and Type II-III kerogen. The Lower Miocene
+source rocks are characterized by low TOC of 0.69% -0.93%
+and Type II-III kerogen.
+Therefore, the distribution of source rocks in the deep waters
+was controlled by the tectonic cycles of marginal sea basins.
+The hydrocarbon generation depressions in the deep waters
+were mainly distributed on the continental slope, belonging
+to thermal depressions or ultra-thermal depressions under
+anomalously high geothermal field conditions (Li and Huang,
+1990; He et al., 1998; Mi et al., 2009). The source-geothermal
+dominated depressions in the deep waters are favourable for gas
+generation with auxiliary oil generation.
+
+47
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+5 Reservoir formation in the deep waters of
+SCS controlled by tectonic cycles of marginal
+sea basins
+
+as the primary regional caprocks. The reservoir-caprock
+assemblage is characterized by “lower sources-upper reservoirs”
+or “self-generated and self-reservoired” which are also present
+within the Oligocene stratigraphic interval.
+
+5.1 Hydrocarbon accumulation assemblage
+
+In the Nansha Block, various basins were dominated by the
+assemblage of “self-generated, self-reservoired and selftrapped”. Source rocks were formed before the drift of the
+Neo-SCS, consisting mainly of the Palaeocene-Eocene delta
+source rocks and the Upper Eocene-Lower Oligocene source
+rocks. The reservoirs were also formed before the drift, and the
+regional cap rocks were formed during the drift and post-drift
+periods. Due to the large thickness of the Eocene and the less
+development of faults in the late period, the Eocene might be the
+major reservoir-cap assemblage.
+
+16
+18
+
+Early
+Miocene
+
+20
+22
+
+Shore
+shallow sea
+
+24
+
+Late
+26
+Oligocene
+28
+
+Delta
+semi-closed
+shallow sea
+Coastal marshes
+land-sea
+transition zone
+
+Shallow sea
+bathyal
+Coastal plain
+
+30
+
+34
+
+Delta-lake
+Coastal plain
+
+36
+
+Eocene
+54
+
+Palaeocene
+PrePalaeogene
+
+Coastal marshes
+land-sea
+transition zone
+
+3000-5000m
+
+Early
+Oligocene
+
+32
+
+Abyssal
+flysch
+metamorphic
+rock
+
+Delta-lake
+Fan delta-lake
+
+Wanshan
+Fm
+Yuehai
+Fm
+Hanjiang
+Fm
+
+Source
+rock
+Resevoir
+
+1184
+
+698
+
+370
+
+1175
+
+Zhujiang
+Fm
+
+1383.5
+1181.5
+
+23.3
+
+Shore
+
+Sandstone and
+mudstone
+interbed,
+sandstone
+
+Delta
+
+30
+
+32
+
+1800
+
+65
+
+River
+Swamp
+Shallow
+lake
+2400 2400
+
+Light gray
+sandstone and
+siltstone with
+mudstone in the
+upper part;
+grayish black
+-dark grey
+mud shale in
+the middle part;
+the sandstonemudstone
+interbed at t
+he lower part
+
+3000
+
+70.6
+18.9
+
++++
++ +++
+
+1154
+
+Dark greygrayish black
+mudstone with
+coal seam,
+sandstone,
+siltstone,
+mudstone,
+mud shale
+developed
+in the lower
+section
+
+39.5
+
+Alluvial fan
+river
+
+?
+
+541
+
+Marine sandstone
+and mudstone
+interbed, carbonate
+platform developed
+in the east
+
+56.5
+
+65
+
+654
+
+Shawllow sea
+
+Age
+/Ma
+
+Formation
+
+Caprock
+
+Production
+layer
+
+Reservoir
+
+Source
+rock
+
+Delta
+shallow sea
+
+Shallow sea
+bathyal
+
+284.5 444
+
+16.3
+
+Shore
+shallow sea
+Bathyal
+carbonate
+platform
+
+Coastal plain
+Shallow sea
+bathyal
+
+Grey mudstone
+with sandstone
+and limestone
+
+Zhuhai
+Fm
+
+14
+
+Shallow sea
+bathyal
+
+3000-8500m
+
+12
+
+10.4
+
+Grey mudstone
+with sandstone
+and limestone
+
+Enping
+Fm
+
+10
+
+Middle
+Miocene
+
+Lithology
+
+Caprock
+
+Production
+layer
+
+Reservoir
+
+Thickness
+Source
+rock
+
+Shallow sea
+bathyal
+Bathyal
+carbonate
+platform
+
+Shallow sea
+bathyal
+
+Grey mudstone
+and sandstone
+interbed
+
+Wenchang
+Fm
+
+8
+
+Lithology Thickness Sedimentary
+facies
+/m
+East West East West
+
+Gray clay and
+loose sand layer
+
+Shenhu
+Fm
+
+6
+
+5.40
+
+Delta and land-sea interaction sedimentary system
+
+4
+
+Pearl River Mouth Basin
+Description
+
+2.48
+
+Shallow sea
+bathyal
+
+Shallow sea
+shore
+
+3000-5000m
+
+Late
+Miocene
+
+2
+
+3000-5000m
+
+Late
+Pliocene
+Early
+Pliocene
+
+0
+
+Sedimentary
+system
+
+Lake sedimentary system
+
+Pleistocene
+
+Lithology
+
+Sedimentary
+system
+
+Age/Ma
+
+Thickness
+
+Wan’an Basin
+
+Zengmu Basin
+
+Caprock
+
+Source-reservoir-caprock assemblage in the southern SCS
+was controlled by the shrinking semi-cycle of the PalaeoSCS. The source rocks were of marine-terrestrial transitional
+facies formed during the Oligocene-Early Miocene period.
+
+2600
+
+Mid-deep lake to shallow lake
+
+The reservoir forming combination of the northern and western
+SCS was characterized by “lower sources, middle reservoirs
+and upper caprocks” (Fig. 8). Source rocks were developed
+before the spreading of the Neo-SCS, consisting of the Eocene
+lacustrine source rocks and Early Oligocene marine-terrestrial
+transitional source rocks (the Zhu I Depression continental
+limnetic facies, the marine-terrestrial transitional source rocks
+of the Zhu II Depression and the Qiongdongnan Basin and the
+Late Oligocene marine source rocks). During the spreading
+period, reservoir rocks were formed during the Oligocene
+Miocene period (the Upper Oligocene and Middle-Miocene
+sandstone and biogenic reefs). During the shrinking phase after
+the spreading, the Pliocene-Quaternary mudstone was developed
+
+Shallow
+lake
+Alluvial
+fan
+237.2 958.5
+
+Glutenite and
+volcanic lava
+in the east;
+glutenite with
+mud shale
+in the west
+
++
++ + +
++ + + ++ +
+
+++ +
+Conglomerate Mudstone
+
+Phyllite
+
+Oil
+
+Sandstone
+
+Source rock
+Silty
+mudstone
+
+Regional
+cap rock
+
+Glutenite
+
+Sandy
+mudstone
+
+Granite
+
+Gas
+
+Muddy
+sandstone
+
+Reef limestone
+
+Reservoir
+
+Fig. 8 Source-reservoir-caprock accumulation assemblages in the deep water areas of South China Sea
+
+48
+
+Local caprock
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+The reservoirs were formed during the Early-Middle Miocene
+period, while the regional cap rocks were formed during the
+Late Miocene-Pliocene period. The main target layers are the
+Miocen-Pliocene reservoirs.
+
+5.2 Reserving body distribution in the deep waters
+of SCS
+5.2.1 Reservoiring bodies developed in the northern deep
+waters of SCS
+The northern deep water area of SCS, experienced four-stages of
+evolution, formed four sequential sets of reservoirs: (Fig. 9), i.e.,
+the river-delta to fan-delta sandstone reservoir developed during
+the Eocene intracontinental rift period, the marine-terrestrial
+transitional facies developed during the Early Oligocene semiclosed gulf period, the neritic facies-delta-deep water gravity
+flow sandstone reservoir developed during the Late Oligocene
+open gulf period and the deep-water fan developed during the
+Miocene-Pliocene open sea period, respectively (He et al.,
+2007; Shi et al., 2010; Wang, 2012). Among them, the Pearl
+River deep-water fan system was a deep-water fan composite
+
+sedimentary system formed by a large river, on a wide shelf,
+forming a sand-rich delta of the Palaeo-Pearl River. The system
+as controlled by the cycles of marginal sea basins to constantly
+develop terrace-shaped tectonic subsidence, sourced from
+periodic marginal delta and multi-canyon channels.
+On both sides of the Zhu II Depression as a large depression
+belt in the Central Depression-Pearl River Mouth Basin,
+Qiongdongnan Basin, two major biogenic reef belts were
+developed. The north belt was mainly developed in the Dongsha
+Uplift-Shenhu Uplift of the Pearl River Mouth Basin, while the
+south belt was located in the Yongle Uplift on the south side of
+the Qiongdongnan Basin.
+5.2.2 Reservoiring bodies developed in the Nansha Block
+Prior to the drift of the Nansha Block, reservoirs in the area were
+dominated by clastic rocks; during the drift and post drift stage,
+reservoirs were mainly the biogenic reefs. Taking the Liyue
+Basin as an example, the major reservoirs of the PalaeoceneMiddle Eocene included delta, fan delta, underwater fan and
+littoral-neritic sandstones. Within the Upper Eocene sequence,
+Lower Oligocene sedimentary facies
+
+80 km
+
+lR
+
+ive
+
+r
+
+t
+
+0
+
+sin
+
+P
+
+l
+ear
+
+Ri
+
+ve
+
+r
+
+u
+Mo
+
+th
+
+Ba
+
+sin
+
+30
+
+0m
+
+Hainan Island
+
+n
+na
+
+g
+on
+gd sin
+n
+a
+o
+Qi B
+
+gn
+on
+gd sin
+n
+a
+o
+Qi B
+
+N
+
+Upper Oligocene sedimentary facies
+0
+
+arl
+
+Shuangfeng Basin
+N
+
+Pliocene sedimentary facies
+
+80 km
+
+Pe
+
+an
+
+ve
+Ri
+
+rM
+
+ou
+
+t
+
+a
+hB
+
+0
+
+sin
+
+80 km
+
+30
+
+30
+
+0m
+
+Hainan Island
+
+Water depth
+line of 300 m
+
+Pe
+
+Hainan Island
+
+gn
+on
+gd sin
+n
+a
+o
+Qi B
+
+N
+Q
+
+Fan
+delta
+
+Turbidite
+fan
+
+arl
+
+Ri
+
+ve
+
+r
+
+Shua
+
+Shuangfeng Basin
+
+an
+
+Basin
+boundary
+
+0m
+
+Delta Shore-shallow Semi-deep lake
+lake
+-deep lake
+
+River
+
+Shore
+
+na
+ng
+do in
+g
+s
+n
+io Ba
+
+u
+Mo
+
+th
+
+ngfen
+
+Ba
+
+sin
+
+g Bas
+
+Deep sea facies
+
+Hainan Island
+
+Shuangfeng Basin
+
+Shallow-sea facies
+
+80 km
+
+0m
+
+ar
+Pe
+
+u
+Mo
+
+a
+hB
+
+30
+
+Terrestrial facies
+
+0
+
+Marine-terrestrial transitional facies
+
+Eocene sedimentary facies
+
+in
+
+n
+
+Deep-water
+fan
+
+N
+
+Channel
+
+Tidal flat
+
+Lagoon
+
+Shallow sea
+
+Deep sea
+
+Fig. 9 Reservoiring body distribution in the northern deep water area of SCS
+
+49
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+fan delta, underwater fan, littoral and inner-neritic sedimentary
+systems were mainly developed, primarily dominated by
+sandstone and siltstone. At the edges of the uplift surrounding
+the basin, large fan delta and underwater fan were developed.
+Within the basin, littoral-neritic sandstone reservoirs were
+widely distributed. In the Lower Oligocene sequence, fan
+delta, underwater fan, littoral and inner-neritic sedimentary
+systems were mainly developed, in which large-scale fan delta,
+underwater fan and littoral sandstone were the main reservoirs.
+In addition, some Oligocene-Lower Miocene limestone
+reservoirs were well developed.
+5.2.3 Reservoiring bodies developed in the southern SCS
+The southern SCS was formed on the obduction continental
+margin of Borneo Block, leading to the formation of nearshore clastic rocks, off-shore biogenic reef reservoirs and deepwater fan reservoirs. For example, eight sedimentary cycles
+were deposited in the Brunei-Sabah Basin since the Oligocene.
+Cycle I was deposited in the early Oligocene on a passive
+continental margin, while Cycle II-VIII were deposited on an
+active continental margin. Cycle V-VI contain the mostly welldeveloped reservoirs, which are of the coastal plain, coast and
+transitional environment, composed of fine grained to medium
+grained sandstone with a permeability as high as 1200 mD and
+a porosity as high as 30%. In the Zengmu Basin, the deep water
+reservoirs were dominated by deep-water fan and biogenic reef.
+
+5.3 Traps and hydrocarbon reservoirs in the deep
+waters of SCS
+In the deep water area on the northern continental margin of
+SCS, the Late Cretaceous- Quaternary reservoirs experienced
+a geological process from intracontinental rift to continental
+margin slope of marginal sea., developed the extension
+structures earlier and the gravity structures later. Under the
+control of normal faulting, faulted anticline, faulted block,
+faulted nose and anticlinal structure are the main traps. Deepwater canyons and channels, deep-water fan and biogenic reefs
+were also favorable stratigraphic and lithological reservoirs for
+hydrocarbon accumulation (Gong et al., 2013). In the proven
+hydrocarbon-rich and hydrocarbon-generating depressions
+(e.g. the Lingshui sag), the development of central channel,
+effective migration channels (diapir/fault) and trap formation
+jointly facilitated hydrocarbon accumulations. At present,
+a number of hydrocarbon reservoirs have been successively
+found in the deep-water areas of the Pearl River Mouth Basin
+and the Qiongdongnan Basin, including biogenic-reef anticline
+reservoirs of the Dongsha Uplift (e.g. Liuhua 11-1), faulted block
+structure-deep-water fan sandstone gas reservoirs formed in
+the Early Miocene (e.g. Liwan 3-1), as well as the compaction
+anticline-semi-anticline reservoirs with central channel
+difference in the Qiongdongnan Basin (e.g. Lingshui 22-1).
+
+50
+
+The Nansha Block was located on the northern continental
+margin of SCS during the early period, when extensional
+structure was the main tectonic type. During the middle drift
+phase, biogenic reefs were developed. During the late period,
+the Nansha Block collided with the Borneo Block, leading
+to the development of extrusion structure and the continuous
+development of biogenic reefs on the Palaeo-uplift. The main
+traps of the Nansha Block included faulted anticline, faulted
+nose, faulted block and biogenic reefs under an extension
+background. The structural traps were mainly developed in the
+depressions, while the biogenic reefs were mainly developed in
+the Reed Bank. The major reservoir spaces of the hydrocarbon
+reef reservoirs include both primary pores and secondary
+pores. According to the drilling results, it was confirmed that
+biogenic reefs had experienced certain dissolution and strong
+dolomitization, forming good reservoir pores. In the meantime,
+the evolution of regional biogenic reefs experienced multiple
+flooding events, resulting in development of cap rocks locally.
+Based on the comprehensive analysis of the Nansha Block
+evolutionary stages, it can be concluded that the biogenic-reef
+hydrocarbon reservoirs had a favorable source-reservoir-caprock
+configuration and thus favorable conditions for oil-gas migration
+and accumulation. Structural movement was weakened since
+the Late Miocene, leading to the preservation of the Nansha
+biogenic-reef facies reservoirs.
+The southern basins in SCS are fore-arc basins and foreland
+basins under an active continental margin setting. The BruneiShabab Basin was a fore-arc basin with a delta sedimentary
+system. The sedimentary thickness attained thousands of
+meters, consisting mainly of the sand shale strata under deltaic
+progradation. Regional compressive stress was superimposed by
+the gravity driving during the delta development process, with
+trap types being orderly distributed. In the southernmost end,
+the tectonic traps related to extrusion were developed within the
+thrust nappe structure zone. The central part was a normal fault
+zone with gravitational decollement, extending from the outer
+continental shelf to the shelf edge. Under the action of tensile
+stress, a series of growth faults and rolling anticlines controlled
+by the growth faults were formed, dominated by fault traps
+and rolling anticline traps. The northernmost end was in an
+extrusive tectonic belt with the main sedimentary body in deep
+waters. Under the action of extrusion stress, a series of thrust
+nappe anticline traps and fault block traps were formed. In the
+northern end of the thrust belt, deep-water fan lithologic traps
+were developed. In the Balinjian sag of the southern Zengmu
+Basin, the structural traps were developed, and biogenic reefs
+were also the major trap type.
+The western continental margin of SCS was characterized by an
+early faulted depression and a slope on the late passive continental
+margin. The early development of faulted anticlines, faulted block
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+and faulted nose traps were controlled by normal faults. Drape
+anticline and biogenic reefs were developed on the uplift.
+
+6 Conclusions
+South China Sea underwent two cycles of marginal sea basins,
+i.e., a Palaeo-SCS and a Neo-SCS. The tectonic cycles of
+the marginal sea basins not only controlled the formation
+characteristics of the basin, hydrocarbon reservoirs, but also
+controlled the oil-gas exploration potential and reservoir
+configuration in deep waters of SCS.
+(1) The northern continental margin of SCS, controlled by the
+tectonic cycles of the Palaeo-SCS and Neo-SCS, developed
+a basin superimposed by the Palaeocene-Eocene continental
+rift, the Early Oligocene marine-terrestrial transitional
+faulted depression and the marine depression formed since the
+Late Oligocene. Three kinds of source rocks were generated
+including continental facies, marine-terrestrial transitional
+facies and terrigenous marine facies. The heat flow value was
+relatively high in deep waters. The deep depressions were
+dominated by gas generation, while the depression edges and
+shallow depressions were dominated by oil generation. Due to
+regional transgression, two types of major clastic reservoiring
+bodies were formed with shallow marine facies and deep sea
+facies, as well as the regional reservoir-caprock assemblage
+characterized by “lower source, middle reservoir and upper
+caprock”, indicating a superior exploration prospect.
+(2) During the Late Cretaceous-Early Oligocene, the Nansha
+Block entered the basin formation stage on the northern
+passive continental margin of the Palaeo-SCS, which was
+located between the Palaeo-SCS and the Neo-SCS in the
+Late Oligocene-Middle Miocene period and collided with the
+northern margin of the Borneo Block since the Late Miocene.
+Source rocks were formed on the northern margin of the
+Palaeo-SCS, while the regional reservoir-caprock was formed
+during the drift and collision stages. During the period of NeoSCS, due to the NS extrusion effect, large anticlines and faulted
+anticline structures were developed, while during the drift stage,
+biogenic reefs were developed due to a lack of river inflow.
+During the subsidence stage, the regional marine mudstones
+were developed, indicating a superior source-reservoir-caprock
+configuration and a huge exploration potential.
+(3) The southern continental margin of SCS was a passive
+continental margin before and during the Eocene. The major
+basin formation stage started from the Oligocene under an
+active continental margin setting. Due to regional extrusion, a
+sedimentary basin characterized by large area, deep subsidence
+and big accommodation space was formed. During this period,
+the Borneo Block continued to be uplifted in a tropical rain
+forest environment, where rivers, terrestrial plants and animals
+
+were well developed, supplying huge amount of sediments for
+the basin. Moreover, with the high geothermal gradient, rich
+oil and gas were generated under the joint control of heat and
+source. In this area, the reservoirs were better developed in the
+deep waters, dominated by deep-water turbidite and biogenic
+reefs. In the late period, regional cap rocks were developed to
+form a highly efficient source-reservoir-caprock assemblage
+characterized by “lower source, middle reservoir and upper
+caprock”. Moreover, tectonic traps were also developed by
+gravity nappe-extrusion in the deep waters in rows and lines,
+and the traps related to biogenic reefs were developed in groups,
+indicating superior oil and gas accumulation conditions.
+(4) The western continental margin of SCS was formed during
+the active period of the Neo-SCS, but located in the extension
+line during the spreading of Neo-SCS. During the OligoceneEarly Miocene, the faulted depressions were developed.
+Since the Middle Miocene, the narrow passive continental
+margin was formed in the depressions. The basin belonged
+to a superimposed basin, of which the lower part consisted of
+marine-terrestrial transitional facies, and the upper part was
+dominated by the passive continental margin sequence. Source
+rocks were dominated by deltaic coal measure-marine facies
+mudstone. Coupled with high geothermal gradient, the area is
+favourable for oil and gas generation. Biogenic reefs and faulted
+block structures were the main trap types in this region.
+In conclusion, controlled by the tectonic cycles of marginal sea
+basins, multiple basins with superior accumulation conditions
+were formed in SCS, indicating rich oil and gas resources.
+At present, a number of important oil and gas exploration
+breakthroughs have been made in the deep waters, but the
+overall degree of prospecting is still relatively low, indicating a
+considerable exploration potential.
+
+References
+Barckhausen U, Engels M, Franke D. Evolution of the South China
+Sea: Revised ages for breakup and seafloor spreading. Marine and
+Petroleum Geology, 2013, 20(11):1-17.
+Cheng Y N. Upper Jurassic Pantanellidae from the Busuanga Islands,
+Philippines. Bull. National Museum of Natural Science, 1992, 3:1-49.
+Franke D, Savva D, Pubellier M, et al. The final rifting evolution in the
+South China Sea. Marine and Petroleum Geology, 2014, 22(2):1-13.
+Gao H F, Wang Y T, Guo L H. Petroleum geological condition and prospects
+in the Zhongjiannan Basin in the western South China Sea. Geology in
+China, 2007, 34(4):592-598(in Chinese with English abstract).
+Gao H F, Wang Y T,Guo L H. Petroleum geological conditions and
+prospects in the Zhongjiannan Basin in the western South China Sea.
+Geology in China, 2007,34(4):592-597.
+Gong C L, Wang Y M, Zhu W L, et al. Upper Miocene to Quaternary
+unidirectionally migrating deep-water channels in the Pearl River
+Mouth Basin, northern South China Sea. AAPG Bulletin, 2013,
+97(2):285–308.
+
+51
+
+G.Zhang et al./Petroleum Research (2016) 1,39-52
+
+Hua ng B J. Gas potentia l a nd its favorable exploration a reas in
+Qiongdongnan Basin. Natural Gas Industry, 1999, 19(1):34-38(in
+Chinese with English abstract).
+Huang B J, Xiao X M, Dong L W, et al. Source rocks and generation
+& evolution model of natural gas in Yinggehai Basin. Natural Gas
+Industry, 2002, 22(1):26-30(in Chinese with English abstract).
+He L J, Xiong L P, Wang J Y. The geothermal characterisitics in South
+China Sea. China Offshore Oil and Gas(Geology), 1998, 12(2):87-90(in
+Chinese with English abstract).
+He S B, Zhang G C, Mi L J, et al. Reservoir type and sedimentary evolution in
+the continental margin deepwater area of the northern South China Sea.
+Acta Petrolei Sinica, 2007, 28(5):51-56(in Chinese with English abstract).
+Jin Q H. Oil and gas in the deepwater area is the hotspot in marine exploration.
+Scientific Chinses, 2006(11):18-20(in Chinese with English abstract).
+Jin Q H, Liu Z H, Chen Q. The central depression of the Wan’an Basin,
+South China Sea: a giang abundant hydrocarbon generating depression.
+Earth Science Journal of China University of Geosciences, 2004, 29(5):
+525-530(in Chinese with English abstract).
+Kennett J P. Marine Geology. New York: Prentice-Hall, 1982, 1-318.
+Li Y C, Den Y H, Zhang G C. Zoned distribution of source rocks and
+hydrocarbon Offshore China. China Offshore Oil and gas, 2012,
+24(1):6-12(in Chinese with English abstract).
+Liu Z H and Wu J M. Petroleum geology of Wan’an Basin, South China
+Sea. China Offshore Oil and Gas(Geology), 1997, 11(3):153-160(in
+Chinese with English abstract).
+Li Y L and Huang Z M. Thermal history of western continental shelf in
+northern South China Sea. China Offshore Oil and Gas(Geology),
+1990, 4(6): 31-39(in Chinese with English abstract).
+Liu B M and Jin Q H. Hydrocarbon geological conditions and distribution,
+characteristics of Zengmu Basin in southern South China Sea.
+Trophongn Jiannaic Oceanology, 1997, 16(4):18-25(in Chinese with
+English abstract).
+Matsuoka A. Jurassic-Early Cretaceous tectonic evolution of the
+Southern Chichibu Terrane, southern Japan. Palaeogeography,
+Palaeochimatology, Palaeoecology, 1992, 96:71-88.
+Ma L T, Wang C X, Niu J Y, et al. Hydrocarbon geology in NW Sabah
+Basin and controlling factors on hydrocarbon accumulation. Marine
+Geology Frontiers, 2012, 28(7):36-43(in Chinese with English abstract).
+Mi L J, Yuan Y S, Zhang G C, et al. Characteristics and genesis of geothermal
+field in deep water area of the northern South China Sea. Acta Petrolei
+Sinica, 2009, 30(1): 27-33(in Chinese with English abstract).
+Shen H L, Zhang G C, Sun Z P, et al. Formation control factor analysis
+and exploration practice in gas-rich sag in deepwater areas of
+Qiongdongnan basin: a case study of Lingshui sag. Acta Petrolei Sinica,
+2013, 34(s.2):83-90(in Chinese with English abstract).
+Sano H, Yamagata T, Horibo K. Tcetonostratigraphy of Mino terrane:
+Jurassic accretionary complex of southwest Japan. Palaeogeography,
+Palaeochimatology, Palaeoecology, 1992, 96:41-57.
+Sun G H, Gao H F, Peng X C, et al. Geologic and tectonic characteristics
+of the Mekong Basin South Vienam. Marine Geology & Quaternary
+Geology, 2010, 30(6):25-33(in Chinese with English abstract).
+Shi H S, Liu B J, Yan C Z, et al. Hydrocarbon accumulation conditions and
+exploration potential in Baiyun-Liwan deepwater area, Pearl River
+River Mouth Basin. China Offshore Oil and Gas, 2010, 22(6):369374(in Chinese with English abstract).
+
+52
+
+Taylor B and Hayes D E. The tectonic evolution of the South China Sea
+basin. In:Hayes,D.E.,ed.,The tectonic and geologic evolution of
+Southeast Asia seas and islands geophysical monography series 23,
+American Geophysical Union, 89-104.
+Todd S P, Dunn M E, Barwise A J G. Characterizing petroleum charge
+systems in the Tertiary of SE Asia. In: Fraser A J, Matthews S J and
+Murphy RW ( eds. ). Petroleum geology of Southeast Asia. Geological
+Society Special Publication, 1997, 126, 25- 47.
+Vishnevskaya V. Significance of Mesozoic radiolarians for tectonostratigraphy
+in Pacific rim terranes of the former USSR. Palaeogeography,
+Palaeochimatology, Palaeoecology, 1992, 96:23-39.
+Wu G X, Wang R J, Hao H J, et al. Microfossil evidence for development of
+marine Mesozoic in the north of South China Sea. Marine Geology &
+Quaternary Geology, 2007,27(1):79-85(in Chinese with English abstract).
+Wan L. Geological and tectonic characteristics of the South China Sea and
+adjacent areas. In:Synthetic report on the special economic zone and
+contiental shelf survey. Beijing: Oceanic Press, 2004, 246-253(in Chinese).
+Wang Z F. Important deepwater hydrocarbon reservoirs: the central canyon
+system in the Qiongdongnan Basin. Acta Sedimentologica Sinica, 2012,
+30(4) :646-653(in Chinese with English abstract).
+Xu X, Yao Y J, Wang L F. Cenozoic sedimentation of Nanweixi Basin,
+the southern South China Sea. China Offshore Oil and Gas(Geology),
+2003, 17(3):170-175(in Chinese with English abstract).
+Yao B C,Wan L, Wu N Y, et al. Cenozoic plate tectonic activities in the
+Great South China Sea area. Geology in China, 2004, 31(2):113-122(in
+Chinese with English abstract).
+Yao B C,Wan L, Zeng W J, et al. 3-D lithosphere structures and evolution of the
+South China Sea. Beijing: Geological Publishing House, 2006(in Chinese).
+Zhang G C, Zhu W L, Mi L J,et al. Regular distribution of inside-oil fields
+and outside-gas fields controlled by source rocks and heat in China
+Offshore basins. Sedimentologica Sinica, 2010, 28(5):987-1005(in
+Chinese with English abstract).
+Zhang G C, Mi L J, Qu H J, et al. Petroleum geology of deepwater areas in
+Offshore China.Acta Petrolei Sinica,2013,34(s.2):1-14(in Chinese with
+English abstract).
+Zhang G C, Mi L J, Qu H J, et al. A basic distributional framework of
+global deepwater basins and hydrocarbon characteristics. Acta Petrolei
+Sinica, 2011, 32(3):369-378(in Chinese with English abstract).
+Zhang G C, Xie X J, Wang W Y, et al. Tectonic types of petroliferous
+basins and its exploration potential in the South China Sea. Acta
+Petrolei Sinica, 2013, 34(4):611-627(in Chinese with English abstract).
+Zhang G C, Mi L J, Wu S G, et al. Deepwater area-the new prospecting
+targets of northern continental margin of South China Sea. Acta
+Petrolei Sinica, 2007, 28(2):15-21(in Chinese with English abstract).
+Zhang G C. Tectonic evolution of deepwater area of northern continental
+margin in South China Sea. Acta Petrolei Sinica, 2010, 31(4):528-533(in
+Chinese with English abstract).
+Zhang G C, Liu Z, Mi L J, et al. Sedimentary evolution of Paleogene Series
+in deep water area of Zhujiangkou and Qiongdongnan Basins. Acta
+Sedimentologica Sinica, 2009, 27(4):632-641(in Chinese with English
+abstract).
+Zhang L, Li W C, Li G Y, et al. Hydrocarbon generation system
+characteristics of Lile Basin. Nature Gas Industry, 2004, 24(6):22-24(in
+Chinese with English abstract).
+
+

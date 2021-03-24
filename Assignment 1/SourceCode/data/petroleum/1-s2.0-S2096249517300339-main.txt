@@ -1,0 +1,2227 @@
+Petroleum Research  
+
+Sedimentary evolution of the Central Canyon
+System in the Qiongdongnan Basin, northern
+South China Sea
+Ming Su1,2,3*, Xinong Xie4, Zhenfen Wang5, Tao Jiang4, Cheng Zhang4 and Yunlong He4
+1
+
+School of Marine Sciences, Sun Yat-sen University, Guangzhou 510275, China
+Key Laboratory of Offshore Oil Exploration and Development of Guangdong Higher Education Institutes, Guangzhou 510006, China
+3
+Key Laboratory of Gas Hydrate, Chinese Academy of Sciences, Guangzhou 510640, China
+4
+Key Laboratory of Tectonics & Petroleum Resources, of Chinese Ministry of Education, China University of Geosciences, Wuhan
+430074, China
+5
+Department of Technology, of Zhanjiang Branch, China National Offshore Oil Co., Ltd, Zhanjiang 524057, China
+2
+
+Abstract: This study elucidates sedimentary evolution history of the Central Canyon System (CCS),
+a large axial submarine canyon in the Qiongdongnan Basin (QDNB), northern South China Sea. The
+JHRPRUSKRORJLFDO FKDUDFWHULVWLFV DQG LQÀOO DUFKLWHFWXUHV RI WKH &&6 DUH VXPPDUL]HG EDVHG RQ WKH
+analysis of two- and three-dimensional seismic data. Based on a comparative analysis of the CCS in
+different segments and evolutionary stages and in consideration of the tectono-sedimentary conditions
+of the QDNB four stages of the sedimentary evolution of the CCS can be divided, i.e., initial
+GHYHORSPHQWVWDJHLQWKH/DWH0LRFHQH ²0D HURVLRQLQÀOOLQJVWDJHLQWKH(DUO\3OLRFHQH
+²0D WUDQTXLOLQÀOOLQJVWDJHLQWKH/DWH3OLRFHQH ²0D DQGUHMXYHQDWLRQVWDJHVLQFH
+the Pleistocene (1.81 Ma to present). In the late Middle Miocene (~11.6 Ma), the rudiment of CCS
+was developed by a regional tectonic transformation in the eastern part of the basin. In the Early
+Pliocene, the CCS was further developed from west to east and restrained in the central depression
+belt of the basin due to abundant sediment supplies from the northwestern and northern provenances,
+the blocking effect of the southern uplift belt, and the restrictive geomorphological features of the
+eastern part of the basin. In the Late Pliocene, changes in the sedimentary environment resulted in the
+development of the CCS in the eastern part of the basin only. Since the Pleistocene, the joint action of
+climatic factors and geomorphological features of the eastern part of the basin led to the rejuvenation
+of the CCS.
+
+Key words: Central Canyon System; sedimentary evolution; Late Miocene;
+Qiongdongnan Basin; northern South China Sea
+
+1 Introduction
+Deep-water canyon system is an important transport conduit linking
+land and sea. It has received increasing attention with respect to
+WKHVRXUFHVLQNV\VWHPVHGLPHQWWUDQVSRUWVHDOHYHOÁXFWXDWLRQV
+
+climatic changes, and deep-water oil and gas exploration (Bouma,
+2001; Dailly et al., 2002; Laursen and Normark, 2002; Pettingill
+and Weimer, 2002; Gingele et al., 2004; Antobreh and Krastel,
+2006; Zhu et al., 2008; Zhai et al., 2012). In recent years, a number
+of oil and gas exploration projects have been launched in the
+Qiongdongnan Basin (QDNB), South China Sea, which delineated
+
+Corresponding author. Email: suming@ms.giec.ac.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+81
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+the Yinggehai Basin to the west, the Peal River Mouth Basin to the
+northeast, and the northwest sub-basin to the east (Fig. 1). From the
+north to the south, the QDNB tectonic belt can be divided into the
+following regional tectonic units, i.e., the northern depression belt,
+the central uplift belt, the central depression belt, and the southern
+uplift belt (Fig. 1). Of these, the central depression and southern
+uplift belts are located in the deep-water zone.
+
+the presence of the Central Canyon System (CCS) in the basin. The
+CCS is a large-scale axial canyon developed on an abyssal plain
+with its main body lying in the central depression belt of QDNB.
+Previous researches on the CCS has primarily focused on the
+description of its morphological characteristics and depiction of its
+LQÀOOLQJDUFKLWHFWXUHVORFDOO\ <XDQ6XHWDO*RQJ
+et al., 2011; Li et al., 2011; Su et al., 2014a, 2014b, 2014c, 2015).
+Presently, there remains substantial controversy over formation
+mechanism and controlling factors of the CCS. In particular, there
+is a lack of systematic research on sedimentary evolution of the
+CCS. In this study, we characterize geomorphology and describe
+the internal architectures of the CCS by interpreting large quantity
+two- and three-dimensional (2D - 3D) seismic data that cover the
+canyon area in QDNB, thus the changes from the west to the east
+in the CCS are well revealed systematically. In view of the tectonosedimentary characteristics of QDNB since the Late Miocene, the
+formation and development of the CCS from the Late Miocene
+are divided into four stages, further elucidating the sedimentary
+evolution history of the large-scale deep-water axial canyon system.
+
+The major infill sequences of QDNB are of Cenozoic strata,
+including the Eocene and Oligocene Yacheng and Lingshui
+formations, the Miocene Sanya, Meishan, and Huangliu
+formations, the Pliocene Yinggehai Formation, and the
+Quaternary strata (Fig. 2). The unconformity boundary S60
+(23.0 Ma) divides the Cenozoic strata into the upper and
+lower structural layers that respectively represent products of
+rifting and post-rift thermal subsidence (Gong et al., 1997).
+The post-rift infilling can further be divided into a thermal
+subsidence stage and an accelerated subsidence stage with the
+unconformity S40 (11.6 Ma) as the boundary (Su et al., 2011).
+Corresponding to the division of the three tectonic evolutionary
+stages, QDNB underwent two significant environmental
+changes in the Late Oligocene (23.0 Ma) and the Late Miocene
+(11.6 Ma), respectively. That is, the basin sequence changed
+from alluvial and lacustrine facies to littoral neritic facies and
+further to bathyal - abyssal facies (Xie et al., 2006). During
+the accelerate subsidence stage, tectonic movements in QDNB
+tended to stabilize and sediment supply from the northwestern
+
+2 Geological setting
+QDNB is located in northwestern part of the South China Sea. It
+is to the south of Hainan Island and to the north of Paracel Islands.
+The basin covers an area of approximately 45×103 km2. Being a
+large-scale Cenozoic rift continental margin basin developed on a
+Mesozoic basement (Gong et al., 1997), QDNB trends NE and joins
+
+%"
+
+ 
+
+&'
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+% "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+  
+
+
+
+
+
+
+
+ 
+
+
+(
+
+
+ 
+
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+#
+)  ) 
+   
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+!
+
+!!"#
+
+)LJ/RFDWLRQRIWKH4LRQJGRQJQDQ%DVLQLQWKHQRUWKHUQSDUWRI6RXWK&KLQD6HD5HGVROLG
+OLQH PDUNV WKH 5HG 5LYHU IDXOW ]RQH EOXH GRWWHG OLQH LQGLFDWHV 5HG 5LYHU ZKLWH GRWWHG OLQH
+GHOLQHDWHVEDVLQERXQGDU\\HOORZGRWWHGOLQHLQGLFDWHVUHJLRQDOWHFWRQLFXQLWERXQGDU\RIWKH
+4LRQJGRQJQDQ %DVLQ EOXH VROLG OLQH LQGLFDWHV WKH &HQWUDO &DQ\RQ 6\VWHP VTXDUH RI EODFN
+solid line indicates the study area.
+
+82
+
+11  6
+
+T41
+
+13  4
+
+S40
+S41
+
+Ċ1-ms1
+Ċ1-ms2
+
+T50
+T51
+T52
+
+16  0
+17  1
+18  3
+
+T60
+
+23  0
+
+T61
+
+25  3
+
+S50 Ċ1-syla
+Ċ1 S51
+Ċ1-sylb
+S52
+
+Basin
+
+Ċ1-sy2
+
+T62
+T70
+T71
+
+S60
+
+ĉ3-ls1
+ĉ3
+
+27  4
+28  4
+29  9
+
+T72
+
+31  5
+
+T80
+
+33  9
+
+S60
+
+S60
+
+S61
+ĉ3-ls2
+
+S62
+ĉ3-ls3
+S70
+ĉ2-yc1
+S71
+ĉ2-yc2
+ĉ2 S72
+ĉ
+ĉ2-yc3
+S80
+S80
+S70
+
+evolution
+
+Sequence
+
+Interface
+
+Interface
+
+Sequence
+set
+
+Tectonic
+sequence
+
+Ċ2-hl2
+
+Ċ S40
+
+Acceleated
+subsidence
+
+T40
+
+S20 Ċ2-ygh1
+S27 Ċ2-ygh2a
+S28
+S29 Ċ2-ygh2b
+Ċ2-ygh2c
+Ċ2 S30
+Ċ2-hl1
+S31
+
+Post-riftperiod
+
+82
+
+QiongdongnanSouthChina
+Global
+Basin
+fluctuation
+Sea
+100 0m
+100 0m
+100 0m
+
+Faulting
+depression Thermal subsidence
+
+Semi-deep to deep
+marine facies
+Shallow marine
+platform sub-facies
+
+4632435
+0-664
+0-1324
+
+T31
+
+Sealevel
+
+Faulting
+
+E 3 yc 3
+
+1  81
+2  72
+37
+42
+57
+
+3th-order
+
+Riftperiod
+
+E 3 ls 3
+E 3 yc 1
+E 3 yc 2
+
+Lacustrine Swampcoastal Littoral
+plainfacies neritic facies
+facies
+
+E 3 ls 1
+E 3 ls 2
+
+0-795
+
+N 1 sy 2
+
+0-1680
+
+N 1 sy 1
+
+N 1 ms 1
+
+0-910
+
+N 1 ms 2
+
+T20
+T27
+T28
+T29
+T30
+
+SequenceStratigraphy
+1st-order 2nd-order
+Interface
+
+Facies
+
+Thickness
+(m)
+
+Shorter
+form
+
+2nd
+Mb.
+1st
+Mb.
+2nd
+Mb.
+
+N 1 hl 2
+
+2nd 1st
+Mb. Mb.
+
+N 1 hl 1
+
+1st
+Mb.
+
+Sanya
+Fm 
+
+N 2 ygh 2
+
+No drilling
+
+1st
+Mb.
+
+Member
+
+Formations
+
+65
+
+2512
+
+2nd
+Mb.
+
+MiddleN 1
+
+EarlyN 1
+LateE 3
+
+Eocene
+
+35
+
+EarlyE 3
+
+30
+
+Paleogene
+
+25
+
+Oligocene
+
+20
+
+Cenozoic
+
+15
+
+Miocene
+
+Neogene
+
+10
+
+LateN 1
+
+5
+
+Q 1 ld 377N 2 ygh 1
+
+3th 2nd 1st 3th 2nd 1st
+Mb. Mb.Mb.Mb. Mb. Mb.
+
+Pliocene
+
+Meishan Huangliu Yinggehai
+Fm
+Fm 
+Fm 
+
+Pleistocene Ledong
+Fm.
+
+Yacheng Lingshui
+Fm 
+Fm 
+
+Q
+
+Epoch
+
+Period
+
+Geological Lithostratigraphy
+time
+Erothem
+
+Time
+Ma
+
+Seismic
+interface
+Interfaceage
+Ma
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+ĉ1
+T100
+
+65  0
+
+S100
+
+S100
+
+S100
+
+Pre  Cenozoic
+
+)iJ.  &eno]oic in¿ll seTuences oI the 4ionJdonJnan %asin northern Sart oI 6outh &hina 6ea
+
+and western basin was abundant, leading to the formation of
+the continental shelf - slope system with distinct characteristics
+(Wang et al., 2008; He et al., 2010).
+
+3 Geomorphological characteristics
+3.1 Planar distribution
+The CCS was developed in QDNB during the accelerated
+subsidence stage in the post-rift period. The canyon lies in the
+central depression belt of QDNB and extends along the Ledong
+- Lingshui sag, Songnan low-high, Songnan - Baodao sag, and
+Changchang sag from west to east (Fig. 3a). The canyon is
+about 425 km in length and 9–30 km in width. It parallels to
+the slope in an S shape and is nearly NE-trending (Fig. 3a) (Su
+et al., 2009, 2014a). There exists a turning point in the eastern
+part of the basin (i.e., seamount developed at the junction of
+the Songnan - Baodao and Changchang sags) in terms of the
+extending direction, width variation, and winding degree of the
+canyon. The geomorphological parameters of the canyon show
+VLJQLÀFDQWGLIIHUHQFHVEHWZHHQWKHHDVWDQGZHVWRIWKHWXUQLQJ
+point: to the west of the turning point, the canyon extends
+toward NE direction with a broad width of 16–30 km and a
+winding degree up to 1.098; to the east of the turning point, the
+canyon extends toward NEE direction with a narrow width of
+9–14 km and a winding degree of 1.010 (Table 1).
+$FFRUGLQJWRSUHVHQW4'1%VHDÁRRUEDWK\PHWU\WKHSUHVHQW&&6
+is belt-like and distributed on the abyssal plain of the Changchang
+sag in the eastern part of the basin (Fig. 3a). After projecting the
+
+planar distribution of the CCS at different periods onto the present
+VHDÁRRUWRSRJUDSK\WKHSUHYLRXVGHYHORSPHQWORFDWLRQVRIWKH&&6
+DSSHDUVDORQJWKHSUHVHQWVHDÁRRUWKDOZHJDQGWKH&&6ORFDWLRQV
+show no obvious swing or migration, indicating the good vertical
+inheritance (Su et al., 2009, 2014a, 2015, 2014a, 2015). In the
+western part of the basin, evidence of the present CCS development
+is absent along the seafloor thalweg in the geomorphologic map.
+Palaeogeomorphic restoration and canyon bottom boundary
+delineation indicate that in the western part of the basin, the CCS
+was developed in the Early Pliocene (5.7–3.7 Ma), corresponding
+WRWKHORFDWLRQRIWKHVHDÁRRUWKDOZHJDWWKDWVWDJH7KHGLIIHUHQWLDO
+distribution of the CCS further proves that the canyon in QDNB
+has experienced multi-stages evolution from the Late Miocene to
+present.
+
+3.2 Cross-section
+Similar to those of other abyssal canyon systems around the world
+(Popescu et al., 2004; Ridente et al., 2007; Tibor et al., 2010;
+Chiang et al., 2011), the cross-section of the CCS in QDNB shows
+U- and V-shaped patterns. In addition to the above two end-member
+morphological types, the CCS shows more geomorphological
+features (Figs. 3c - e). Based on seismic data interpretation, the CCS
+in QDNB is divided into three types and six patterns in terms of the
+cross-sectional geomorphology, i.e., U, V, and U-V composite. The
+composite type is further divided into the following four sub-types,
+lower V - upper W, lower U - upper U, lower U - upper V, and
+coexisting U-V (Su et al., 2009). Additionally, seismic interpretation
+reveals that the variations in geomorphologies of the CCS cross-
+
+83
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+0m
+
+80km
+
+0
+
+g
+Lin
+ng g
+a
+s
+
+Canyon
+Head
+29.3km
+
+g
+
+Lowhigh
+Basin
+boundary
+
+Tectonic
+boundary
+S27
+
+S28
+
+2200m
+
+1000
+
+m
+200
+
+m
+
+180 0m
+
+0m
+
+13.6km
+
+12.0km
+
+Eastpartofthebaisn
+
+CentralCanyon
+System
+
+Seamount
+
+Present water-table
+isohypse
+
+Seafloor
+
+S29
+
+Seamount
+
+a n g sa g
+Changch
+
+140
+
+Westpartofthebasin
+Sagand
+depocenter
+
+S20
+
+m
+1000
+18 00 m
+
+Be
+i
+sa jiao
+g 
+
+o
+Led
+
+Son
+
+an h
+n
+ng hig
+o
+S w
+i o
+shu l
+
+
+nan
+
+1400m
+
+19.2km
+
+20
+
+16.9km
+
+g
+s a
+d a o Seamount
+Bao
+
+Uplift
+
+600 m
+
+N
+
+10.1km
+Canyon Bottom
+boundary
+
+S30
+
+Uplift
+26.2km
+
+10.8km
+
+)iJ.  3lanar distriEution and reSresentatiYe crosssection oI the &entral &anyon 6ysteP in the 4ionJdonJnan %asin
+northern Sart oI 6outh &hina 6ea. /ocation oI )iJ.  a see in )iJ.  sTuare oI ElacN solid line  6 6 6 6 and
+6 reSresent the thorder seTuence stratiJraShic Eoundaries.
+
+7aEle  3lanar PorSholoJical SaraPeters oI the &entral &anyon 6ysteP in the 4inJdonJnan %asin northern Sart oI 6outh &hina 6ea
+Planar morphological parameters of the
+canyon
+
+&entral &anyon
+System
+
+West part of the
+Qingdongnan Basin
+
+(ast part of the
+Qingdongnan Basin
+
+Bottom canyon lengh (km)
+Whole canyon length (km)
+
+447
+
+247
+
+200
+
+425
+
+225
+
+198
+
+Canyon amplitude (km)
+
+52
+
+48
+
+30
+
+Canyon winding wave (km)
+
+274
+
+214
+
+Canyon winding radius (km)
+
+145
+
+60
+
+Mean canyon width (km)
+
+49
+
+43
+
+30
+
+Degree of canyon winding (degree)
+
+1.052
+
+1.098
+
+1.010
+
+section features from west to east (Fig. 3). In the initial development
+area, i.e., the most western the Ledong - Lingshui sag in the western
+part of the basin, the canyon is U-shape (Fig. 3b); in the the western
+part of the basin, the canyon commonly shows composite features
+(Figs. 3c - e); in the eastern part of the basin, the canyon is V-shape
+(Figs. 3f - i). The geomorphological turning point of the CCS in the
+cross-section corresponds to that observed in the planar distribution
+of the canyon.
+
+3.3 Segmentation
+Based on the above description of the CCS in QDNB regarding
+the extensional trend, width, winding degree, cross-sectional
+geomorphology and distribution, the CCS has apparent features of
+segmentation (Su et al., 2014a). From west to east, the CCS can be
+divided into three segments, i.e., canyon head - the initial region
+of canyon development, the western segment, and the eastern
+segment. The canyon head is situated at the western Ledong
+- Lingshui sag, and the boundary of the western - and eastern
+segments is the turning point, that is, the seamount at the junction
+of the Songnan - Baodao and Changchang sags (Fig. 3a). The CCS
+
+84
+
+shows different geomorphologies in various segments, possibly due
+to effect of a combination of factors such as tectonic movement,
+palaeogeomorphological feature, multi-source sediment supply, and
+susceptibility to post-depositional alteration.
+
+4 Internal architecture
+4.1 Characterization and interpretation of internal
+structural unit - seismic facies
+Through detailed interpretation of 2D - 3D seismic data, 12
+types of seismic facies are recognized in the CCS in terms of
+DPSOLWXGHFRQWLQXLW\DQGUHÁHFWLRQFRQÀJXUDWLRQ )LJ 7KH
+VWUXFWXUHDQGJHRORJLFDOVLJQLÀFDQFHRIWKHVHLVPLFIDFLHVDUH
+described and interpreted below.
+Seismic Facies A is a set of chaotic reflection events with low
+- medium amplitude and poor continuity that are generally
+distributed on the base boundary of the canyon and most
+commonly found in the canyon head. According to the
+comparative analysis with the internal architecture of deepwater turbidite channels (Mayall and Stewart, 2000), the Seismic
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+)DFLHV$LVDVHWRIGHEULVÁRZGHSRVLWVDWWKHERWWRPRIWXUELGLWH
+channels (Fig. 4a). Seismic Facies B is a set of small-scaled
+EHDQVKDSHGVHLVPLFUHÁHFWLRQHYHQWVDUUDQJHGXQLGLUHFWLRQDOO\
+presumably representing a set of small sand-poor lateral migration
+channels formed via overbank deposition (Fig. 4b). Seismic
+)DFLHV&LVDVHWRIOD\HUHGUHÁHFWLRQHYHQWVZLWKKLJKDPSOLWXGH
+and good continuity, presumably representing a set of vertically
+superimposed sand-rich turbidite channel sand bodies. This set
+of reflectors is widely developed in the canyon head, thus can
+be used as a mark for identification of turbidite channels (Fig.
+4c). Seismic Facies D shows sub-parallel reflection features
+with high amplitude and good continuity, which constituents
+WKHPDLQERG\RIWKHLQÀOODUFKLWHFWXUH$VHULHVRIVPDOOVFDOH
+unconformities (erosional discordances) are commonly observed
+in this seismic facies, reflecting the erosion and incision along
+with the channel migration and swing (Fig. 4d). Seismic Facies
+D and E have similar reflection configurations; the difference
+lies in the gull-wing-like external geomorphology of Seismic
+Facies E. Accordingly, the seismic facies E often was regarded
+as the natural levees or overbank deposits (Gong et al., 2011; Li
+et al., 2011). However, this set of deposits generally shows highamplitude seismic reflection that more similar to the reflection
+characteristics of Seismic Facies D. Thus, the Seismic Facies E
+LVLQWHUSUHWHGDVWKHDEDQGRQHGFKDQQHOVDQGERGLHVLQÁXHQFHG
+by the late erosion of sediments (Fig. 4e). Seismic Facies F shows
+VPDOOVFDOH8VKDSHJHRPRUSKRORJ\ZLWKWKHUHÁHFWLRQIHDWXUHV
+of high amplitude and good continuity, presumably representing
+a set of small turbidite channels. Such small-scale seismic facies
+is distributed locally (Fig. 4f). Seismic Facies G has parallel,
+layered reflection configuration with high amplitude and good
+continuity. This seismic facies is interpreted as sand sheets
+which generally coexist with small turbidite channels (Fig. 4g).
+6HLVPLF)DFLHV+LVDVHWRIVHLVPLFUHÁHFWLRQHYHQWVZLWKSDUDOOHO
+- sub-parallel reflection, moderate - high amplitude, and good
+continuity, presumably representing distal lobe structures in the
+FRQWH[WRIJUDYLW\ÁRZGHSRVLWV )LJK 6HLVPLF)DFLHV,VKRZV
+reflection characteristics of chaotic moderate amplitude. This
+set of sedimentary structures is widely developed in deep-water
+sediments in QDNB since the Neogene and have some erosion
+and scouring capabilities in certain areas (Fig. 4i). Additionally,
+this set of structures shows the typical characteristics of MTC
+(mass transport complex) (He et al., 2011). Seismic Facies J shows
+SDUDOOHOUHÁHFWLRQZLWKPRGHUDWHDPSOLWXGHDQGJRRGFRQWLQXLW\
+reflecting the characteristics of abyssal fine-grained deposits
+(Fig. 4j). Seismic Facies K is a set of chaotic to blank transparent
+reflection events that are generally located on the side-wall of
+V-shape canyon and is commonly found in the Changchang
+sag. This set of seismic facies is collapse deposits formed by
+gravity driven destabilization of sediments. Seismic Facies L is a
+FRPSOHWHVHWRIVSHFLDOVHLVPLFUHÁHFWLRQXQLWVWKDWDUHFRPPRQO\
+found in the CCS in the eastern Changchang sag. This set of
+seismic facies generally shows sub-parallel seismic reflections
+
+with moderate amplitude and good continuity (similar to G and
++ DQGFKDRWLFVHLVPLFUHÁHFWLRQVZLWKORZDPSOLWXGH VLPLODUWR
+I) in a cake-like multi-layer. Different from the internal scouring
+- erosion interface commonly found in the western segment,
+internal unconformity interfaces are generally not observed
+in Seismic Facies L, which is interpreted as sand sheet-MTC
+complex (Fig. 4a).
+
+4.2 Division of sedimentary cycles
+For deep-water canyons / channels, the minimum isochronous
+unit that can be used for horizontal contrast usually depends on
+TXDOLW\RIGDWD VHLVPLFZHOOFRUHDQGRXWFURS DQGDLPRIVSHFLÀF
+research. In QDNB, the CCS features multi-stage sedimentary
+evolution and shows variations in the geomorphology and
+internal architectures from west to east. Hence, that is to say the
+sedimentary cycles is required to identify the internal architectural
+units, describes the canyon characteristics, and compares different
+segments in a relative isochronous framework.
+In the study, a classification scheme of stratigraphic cycles /
+complex / sedimentary event / seismic structural unit is used for
+LGHQWLÀFDWLRQDQGGLYLVLRQRIWKHVHGLPHQWDU\F\FOHVLQWKH&&6
+In the canyon head, three channel events are recognized from
+ERWWRPWRWRSLQFOXGLQJDORZHUXQLWRIGHEULVÁRZGHSRVLWVD
+middle unit of sand-rich turbidite channel sand bodies vertically
+superimposed, and an upper unit of overbank deposits. The three
+channel events form a channel complex (Fig. 5a). In the western
+part of the basin, two turbidite channel complexes and two
+MTC complexes are recognized, which respectively constitute
+two fining-upward cycles, as two stratigraphic cycles (Fig.
+5b). According to the turbidite content of the two stratigraphic
+cycles, the turbidity energy is less in the upper cycle than in the
+lower cycle. In the eastern part of the basin, five stratigraphic
+cycles are recognized since the Late Miocene despite impact of
+the low data resolution (Fig. 5c). Considering different stages of
+the canyon from west to east, we selected different minimum
+isochronous units for three CCS segments, i.e., channel event
+for the canyon head, complex for the western segment, and
+stratigraphic cycle for the eastern segment.
+
+5 Sedimentary evolution
+Seven 3th-order sequence boundaries are identified in the
+stratigraphic sequences of QDNB since the Late Miocene, i.e., S40,
+S31, S30, S29, S28, S27, and S20. These boundaries divide the basin
+(11.6 Ma to present) into seven 3th-order sequences (Fig. 2). Further
+analysis of the internal architecture of the CCS demonstrates that
+YHUWLFDOLQÀOORIWKHFDQ\RQKDVIROORZLQJFKDUDFWHULVWLFV  7KH
+bottom boundary of the CCS in QDNB is S30, which is marked
+E\WXUELGLWHFKDQQHODQGVDQGVKHHWZLWKVWURQJUHÁHFWLRQHQHUJ\
+and evident scouring features (Figs. 4c–4h). The S30 interface
+was developed in the Early Pliocene (5.7–3.7 Ma); (2) MTC, which
+
+85
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+NE
+(a)
+
+NE
+(b)
+
+Top boundaryofcanyon
+
+SSE
+(c)
+
+Top boundary of canyon
+
+Top boundary of canyon
+Botto
+m
+SmallGlateralG o f b o u n d a r y
+canyo
+migrationGchannel
+n
+
+S30
+
+1000m
+
+SSE
+(d)
+
+sid
+s a n u a lGc
+dGb h a n
+od ne
+y
+lG
+
+Smal-scale turbidite channel
+500m
+
+SSE
+(h)
+
+Top boundary of canyon
+S28
+
+MTC
+
+SSE
+(i)
+
+MTC Top boundary of canyon
+Erosion
+
+S28
+S29
+
+L ob at e st
+
+MTC
+S29
+
+1000m
+
+et
+
+Bo
+
+S29
+Lobate
+structure
+
+MTC
+
+Lobate
+structure
+
+tto
+of m b
+ca oun
+ny d
+on ary
+
+S28
+
+MTC
+
+
+
+1000m
+SSE
+
+CollapseG
+deposit
+
+1000m
+
+200ms
+
+S30
+
+ary
+nd
+ou
+m b on
+tto any
+Bo of c
+
+1000m
+
+Erosion
+S30
+
+Seafloor
+CollapseG
+deposit
+
+MTC
+
+tto
+o f mb
+c o
+an un
+yo da
+n ry
+
+(l)
+
+500ms
+
+200ms
+
+S30
+
+Deep marine
+fine sediment
+
+(k)
+
+Lobate
+structure
+
+S29
+
+S30
+
+SSE
+
+B
+bo otto
+o fG u n d a mG
+can ry
+yo G
+n
+
+MTC
+Topboundaryofcanyon
+
+(j)
+
+MTC
+
+1000m
+
+SSE
+
+ru ct ur e
+
+Bo
+
+200ms
+
+MTC
+
+200ms
+
+200ms
+
+S30
+bott ombou nda ry
+San
+d sh
+ofcany on
+e
+
+S28
+
+of ca ny on
+
+S29
+
+S30
+
+100ms
+
+200ms
+
+200ms
+
+1000m
+
+2000m
+
+MTC
+
+ry
+da
+un n
+o
+b o
+mG n y
+tto ca
+1000m
+Bo of
+
+Re
+
+SSE
+(g)
+
+To p bo un da ry
+
+MTC
+
+S30
+
+Turbidite
+channel
+
+S30
+
+SSE
+(f)
+
+S29
+
+Internal erosion interface
+
+Bottom
+boundary
+of canyon
+
+om b
+of ca oundary
+nyon
+SandTrichGturbidite
+channel sand body
+
+SSE
+(e)
+
+S29
+
+250ms
+
+nd
+bou
+o m n y o n
+t
+t
+o
+a
+B
+1000m
+o fc
+
+200ms
+
+200ms
+
+DebrisGflowG
+deposit?
+
+a r y
+
+Bott
+S30
+
+Sand sheet-MTC complex
+1000m
+
+)ig.  &lassi¿cation and characteri]ation of typical seismic facies in the internal in¿ll seTuence of the &entral &anyon
+System of the Qiongdongnan Basin northern part of South &hina Sea. a is Seismic )acies $ E is Seismic )acies B
+c is Seismic )acies & d is Seismic )acies ' e is Seismic )acies ( f is Seismic )acies ) g is Seismic )acies *
+h is Seismic )acies + i is Seismic )acies , M is Seismic )acies - N is Seismic )acies . l is Seismic )acies /
+S S and S represent the thorder seTuence stratigraphic Eoundaries.
+
+IHDWXUHVPRGHUDWHUHÁHFWLRQDPSOLWXGHDQGSRRUFKDRWLFFRQWLQXLW\
+is widely distributed in the continental shelf-slope to deep-water
+zones and constitute an important part of the internal structure of
+WKH&&6,QSDUWLFXODUWKH/DWH3OLRFHQHLQÀOOVHTXHQFHV ²
+0D RIWKHFDQ\RQDUHGRPLQDWHGE\07&DQGQRUPDODE\VVDOÀQH
+grained sediments, with no development of turbidite deposits; (3)
+,QWKHHDVWHUQSDUWRIWKHEDVLQWKHLQÀOOVHTXHQFHVRIWKHLQWHUQDO
+architecture exhibit more features of sand sheet - MTC complex
+while the mutual scouring action is not evident (Fig. 5c); (4) Since
+the Pleistocene (1.81 Ma to present), the canyon infill sequences
+in the eastern part of the basin feature increasing thickness, with
+evident erosion and scouring at the bottom (Fig. 5c).
+Based on the above description of the canyon geomorphology internal architecture and combined with the changes of tectonosedimentary conditions in QDNB, the entire CCS can be divided
+
+86
+
+into four evolutionary stages, i.e., initial development stage, erosion
+LQÀOOLQJVWDJHWUDQTXLOLQÀOOLQJVWDJHDQGUHMXYHQDWLRQVWDJH
+
+5.1 Initial canyon development stage (11.6–5.7 Ma)
+The early period of the Late Miocene (11.6 Ma) marks boundary
+of thermal subsidence and accelerated subsidence stages in the
+post-rift period of the basin and the interface between the Meishan
+and Huangliu formations. This interface shows different features
+between the eastern and western parts of the basin. In the shallow
+water zone of the northwestern part of the basin, S40 generally
+appears as an angular unconformity and truncates underlying
+strata. Locally, the entire 1st member of the Meishan Formation has
+been completely eroded. In the bathyal - abyssal zone of the eastern
+part of the basin, there are distinct differences above and below
+S40. Above this unconformity, a set of good-continuity moderateamplitude seismic reflection events correspond to the bathyal -
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+NE
+
+Two T wayGreflectionGtimeGO s P
+
+(a)
+
+Channelaxis
+ChannelGeventG1
+Topboundary of canyon
+
+3.00
+SmallTscaleGleteralG
+migrationGchannel
+
+SandTrichGturbiditeG
+channel sand body Channel
+complex
+
+3.25
+
+ChannelGeventG2
+ChannelGeventG1G
+OdebrisGflowGdeposit?P
+Bottomboundary
+ofcanyon
+2km
+SSE
+
+(b)
+
+Channelaxis h
+Topboundary
+ofcanyon Complex4
+
+Deep marine fine sediment
+Stratigraphic cylce II
+
+Two T wayGreflectionGtimeGO s P
+
+S28
+
+Erosion
+
+3.25
+Sandsheet
+
+Complex3
+
+MTC
+
+Sandsheet
+
+S29
+MTC
+
+S30
+3.50
+3.25
+
+3th-order
+sequence boundary
+
+Erosion
+MTC
+
+Bo
+
+tto
+MTC
+m
+o f b o
+can und
+yo ary
+n
+
+Erosion
+
+3.75
+
+Residual channel
+Complex2 sand body
+Erosion
+
+2km
+
+Stratigraphiccycle I
+
+Complex1
+SSE
+
+(c)
+
+Channelaxis h
+
+3.25
+
+Two T wayGreflectionGtimeGO s P
+
+Collapse
+deposit
+
+Collapse
+deposit
+Seafloor
+(Top
+boundary
+of
+canyon)
+Stratigraphiccycle V
+
+S20
+3.50
+
+S28
+
+S27
+S29
+
+S30
+3.75
+Erosion
+
+Stratigraphic
+cycleIV
+
+Sand sheet-MTC
+complex
+
+Stratigraphic
+cycleIII
+
+4.00
+Stratigraphic
+cycleII
+4.25
+Retained
+deposit
+
+
+ry
+da
+n
+ou on
+b n y
+m
+a
+t t o fc
+o
+o
+B
+Stratigraphic
+cycleI
+
+2km
+
+4.50
+)ig.  'iYision scheme of sedimentary cycles in different segments of the &entral &anyon System Qiongdongnan
+Basin in the northern part of South &hina Sea. S S S S and S represent the thorder seTuence
+stratigraphic boundaries.
+
+87
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+abyssal sediment; below the unconformity, the seismic reflection
+events mostly feature high amplitude and moderate continuity
+ZLWKPRXQG\FRQÀJXUDWLRQV/RFDOO\WKHUHDSSHDUVSURJUDGDWLRQDO
+UHÁHFWLRQFRQÀJXUDWLRQW\SLFDORIWKHVKDOORZZDWHUVHGLPHQWDU\
+deposition. Previous researches have described or calculated
+the seismic reflection configurations, relative sea-level change,
+lithological properties, and tectonic subsidence rate, and proposed
+that eastern QDNB experienced a regional tectonic transformation
+event in 11. 6 Ma(Su et al., 2011). Further comparison of seismic
+sections between the eastern segment of the CCS and the Xisha
+Trough has demonstrated that both structures have following
+features: (1) deep in east - shallow in west, (2) narrow in east - wide
+in west, (3) steep trough wall, and (4) near WE-trending extension.
+7KHUHIRUHWHFWRQLFHYHQWLQWKHHDVWHUQ4'1%LVSRVVLEO\DVSHFLÀF
+indication of accelerated subsidence of the trough since the Late
+Miocene in the basin (Su et al., 2011).
+As a result of the regional tectonic event, QDNB underwent
+sudden subsidence in the early period of the Late Miocene,
+thereby suddenly turning from the shallow water environment
+to the bathyal - abyssal environment. Since the Late Miocene,
+the basin gradually stabilized and the geomorphological
+features were preserved to present, consistent with distribution
+pattern of the present bathymetry (Fig. 3a). The sudden
+change in the eastern part of the basin led to formation of the
+geomorphological framework consisting of three uplifts and one
+sag, i.e., the northern Shenhu uplift, and western seamount (the
+abovementioned turning point at the junction of the Songnan
+- Baodao sag and Changchang sag), and the southern Yongle
+uplift. A narrow semi-closed sub-basin was formed in the center
+of the eastern basin deepening eastward (Fig. 6). The Late
+Miocene semi-closed depression provided potential space for
+canyon formation since the Pliocene and continuously played a
+role in controlling evolution of the canyon in the eastern QDNB.
+During the same period, sudden change in the eastern QDNB
+and increasing water depth led to formation of the continental
+shelf - slope system since the Late Miocene (11.6 Ma). The shelf
+- slope system was initially developed in the eastern part of the
+basin only, showing a broad, gentle progressive slope type (He
+et al., 2010). Because of limited sediment supply capacity of the
+broad, gentle progressive continental slope, the entire eastern part
+of the basin lacked sufficient sediment supply and thus restricted
+sediment thickness (Su et al., 2014b). Thin-layer sediments from the
+continental slope did not have significant erosional ability. Thus,
+after entering the semi-closed sub-basin of the eastern part of the
+basin, the sediments might be vertically superimposed. In the Late
+Miocene (11.6–5.7 Ma), the eastern part of the basin had formed
+rudiment of the canyon (Fig. 6).
+
+&DQ\RQHURVLRQLQÀOOLQJVWDJH ²0D
+In the Pliocene, a large set of slumps was formed in the Yinggehai
+%DVLQLQÁXHQFHGE\WKHVXEVWDQWLDOVHGLPHQWVXSSOLHVIURPWKH5HG
+
+88
+
+River and Hainan Island (Zhu et al., 2007), which further moved
+to the junction of the Yinggehai Basin and QDNB (Fig. 7). Around
+5.7 Ma, the sinistral strike-slip movement of Red River Fault
+changed into dextral strike-slip movement (Leloup et al., 1995). The
+tectonic change induced further enhancement of the hydrodynamic
+conditions of the deposits. Along with long-distance transport of the
+VHGLPHQWVWKHUHZDVDWUHQGRIWXUELGLW\ÁRZWUDQVIRUPDWLRQZKLFK
+eroded underlying strata in the western QDNB and led to formation
+of turbidity channels. These turbidity channels, as shown on seismic
+sections of the junction of the Yinggehai Basin and QDNB with
+OD\HUHGFRQÀJXUDWLRQVKLJKDPSOLWXGHDQGJRRGFRQWLQXLW\DQGDUH
+widely developed in the canyon head (Figs. 4c and 5a). Presently,
+it remains unclear whether sediment components of the turbidity
+channels come from water system of the Red River or eastern
+Vietnam, or the Hainan Island. Thus, the sediment source of the
+set of turbidity channels are collectively called the northwestern
+SURYHQDQFHDQGDVLQJOHVRXUFHWXUELGLW\FKDQQHOLQÀOOLQJSDWWHUQ
+is formed in the canyon head. After entering the western QDNB,
+the turbidity channels would movement from west to east but its
+hydrodynamics experienced a weak - strong - weak evolution.
+It must be noted that in the Early Pliocene (5.7–3.7 Ma), the
+differences in the provenance supplying condition and continuous
+movements of the Red River fault zone caused certain changes
+in the northwestern provenance, leading to differences in the
+development location, hydrodynamic conditions, geomorphological
+features, and infilling characteristics of turbidite deposits at the
+junction of the Yinggehai Basin and QDNB during the periods of
+S30 - S29 (5.7–4.2 Ma) and S29 - S28 (4.2–3.7 Ma) (Fig. 7). Further
+analysis of seismic section shows that in the period of S30 - S29
+(5.7–4.2 Ma), the CCS in the western part of the basin had higher
+WXUELGLW\FXUUHQWHQHUJ\DQGLQWHUQDOLQÀOOVWUXFWXUHKDGIHDWXUHVRI
+sand-rich vertically superimposed turbidity channel (Seismic Facies
+C), frequently swinging turbidity channel (Seismic Facies D), and
+residual channel sand body (Seismic Facies E). During the period
+of S29 - S28 (4.2–3.7 Ma), turbidite deposits generally feature
+small-scale turbidity channel (Seismic Facies F), sand sheet (Seismic
+Facies G), and lobe structure (Seismic Facies H).
+During this stage, the continental shelf - slope system in the basin
+showed seaward progradation. In particular, prograding continental
+slope, slumping slope, and channelized slope in the western part
+of the basin could provide massive sediments dominated by MTC
+(He et al., 2010). Sediments originating from the continental shelf
+- slope system, called the northern provenance, infilled the CCS
+in QDNB from north to south. Because of important supplies
+of infill sediments, internal infill of the canyon featured multisources. Due to blocking effect of the southern uplift belt, the
+Early Pliocene MTC originating from the northern provenance
+was restrained within the canyon system and did not cross the
+southern boundary of the canyon. Because of variations in factors
+such as angle of MTC entering the canyon, the transport distance
+from the continental slope to the canyon, and blocking effect of the
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+N
+
+HainanIsland
+0
+
+Shenh
+
+ft
+u u p l i- 1 0 0
+
+Wide slow
+
+80km
+
+De
+
+d
+nu
+
+ed
+
+are
+
+0 progressive type
+-20
+300
+sediments 4 0 0 0
+-50
+-600
+0
+0
+0
+-7
+0
+-100
+-80 -900
+
+Few
+pe
+ag
+slo
+os
+lfa
+e
+sh e
+od
+tal in
+Ba
+Seamount
+en eak l
+ni
+t
+a
+n br
+gn
+Co
+
+a
+-1
+
+00
+-2
+
+n
+
+sh
+
+u
+
+g
+i s a600
+-
+
+-70
+
+0
+
+Chang
+
+n
+
+-50
+
+chang
+
+Centralcanyon
+rudiment
+
+Son gna n low high
+
+sag
+
+Semiclosed
+area
+
+0
+
+-90
+-1 0
+00
+0
+
+00
+
+do
+
+ng
+
+00
+-4 0
+0
+-5
+
+So
+
+-8
+
+Le
+
+i
+g-L
+
+-
+
+00
+
+0
+30
+
+-40
+
+0
+
+n
+Yo
+
+u
+gle
+
+pli
+
+ft a
+
+rea
+
+)ig.  7he initial deYelopment stage of the &entral &anyon System in the /ate 0iocene. 'ifferent colors
+and numeric Yalues represent different calculated tectonic subsidence rate m0a  red arroZs point to
+inferred supplying direction of sediment
+
+southern uplift, MTC possessed certain hydrodynamic potential in
+local areas of the CCS, thus could erode the previously deposited
+turbidite and lead to existence of residual channel sand body (e.g.,
+Seismic Facies E). This feature is especially evident in the eastern
+Ledong - Lingshui sag and Songnan - Baodao sag.
+Following tectonic transformation in the early period of the Late
+Miocene, a semi-closed sub-basin occurred in the central part
+of the eastern part of the basin. Thereafter, the basin gradually
+stabilized and experienced no significant tectonic movement,
+thus preserving unique geomorphology. After entering the
+CCS, sediments from northwestern and northern provenances
+would move along the canyon from west to east and approached
+the semi-closed environment in the eastern part of the basin
+(Fig. 7). However, hydrodynamic potential was quite weak and
+deposits captured by the eastern basin showed more features of
+infill rather than significant scouring or erosion. In the Early
+Pliocene, the broad, gentle progressive slope in the eastern part
+of the basin still provided limited sediments, unlike the MTCdominating deposits provide in the western part of the basin.
+Therefore, the internal infill of the CCS in the eastern basin
+was generally characterized by sand sheet - MTC complex with
+alternating features of good continuity- high amplitude and poor
+continuity - weak amplitude. No evident erosion or scouring
+structure was observed in the internal infill of the CCS in
+eastern basin (Seismic Facies L). As the turbidity current energy
+of the northwestern provenance declined in the western part of
+the basin, the turbidite deposits were characterized by sand sheet
+
+- lobate. After mixing with MTC from the northern provenance,
+low-energy deposits approached the eastern part of the basin
+and infilled the canyon in a cake-like layers under control of
+restrictive geomorphological features (Fig. 5c).
+
+7UDQTXLOFDQ\RQLQÀOOLQJVWDJH ²0D
+In the Late Pliocene, the northwestern provenance was weak. Thus,
+WKHUHZHUHQRVXIÀFLHQWVHGLPHQWVWUDQVSRUWHGIURPWKH<LQJJHKDL
+Basin to QDNB. During this period, the northern provenance was
+predominating with the MTCs originating from the continental
+shelf - slope system in the northern QDNB. The MTCs entered the
+central depression belt, filled the CCS that was previously in the
+ZHVWHUQSDUWRIWKHEDVLQDQGIXUWKHURYHUÁHZWKHFDQ\RQZDOOV,Q
+local areas of the southern uplift belt, remnant of the MTC deposits
+with distinct characteristics. These MTCs have strong energy, thus
+FDQFDXVHHURVLRQDQGVFRXULQJRIXQGHUO\LQJFDQ\RQLQÀOO,QWKH
+lobate structure shown in the Seismic Facies H, there exists an
+obvious bottom boundary of MTC erosion (Fig. 4h). In the Late
+Pliocene, the axial canyon or channels were not developed in the
+eastern QDNB due to lack of the northwestern provenance and
+intense supply from the northern provenance (Fig. 8).
+During this stage, the eastern part of the basin inherited negative
+topographic features and received the continental slope sediments
+from the western part of the basin as well as continental slope
+sediments from the eastern part of the basin. After entering the
+eastern part of the basin, sediments tranquilly infilled the basin
+from west to east and following geomorphological features of the
+
+89
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+N
+
+HainanIsland
+0
+
+80km
+
+-2
+
+MT
+
+-50 0
+Central canyon
+-70
+0of S29-S28
+
+Deep-water fan
+of S29-S28
+
+hu u
+
+plif
+
+t
+
+Few sediments
+
+-300
+-4 00
+
+-50 0
+-60 0
+
+Seamount
+
+e
+o ft h e l t
+k i n g
+B l o c nu p l i f tb
+-40 0 Semi-closed area
+er
+south
+h
+hig
+00
+ao
+-3
+iji
+e
+B
+rea
+ft a
+pli
+u
+le
+ng
+Yo
+
+-500
+
+0
+
+-500
+
+n
+She
+
+Central canyon w h
+o
+of S30-S29n a n l
+g
+n
+Li
+
+-40
+
+igh
+
+0
+
+-30
+
+-300
+
+e
+lop C
+f-s MT
+l
+e
+h
+al s line
+ent
+nti break
+o
+C
+C
+MT
+
+C
+
+00
+
+Huaguang sag
+
+)ig.  7he erosionin¿lling stage of the &entral &anyon System in the (arly Pliocene. 'ifferent
+colors and numeric Yalues represent different calculated tectonic subsidence rate m0a  red
+arrows and white dotted arrows respectively point to inferred supplying and transport directions of
+sediment.
+
+semi-closed sub-basin (Fig. 8).
+
+&DQ\RQUHMXYHQDWLRQVWDJH 0DWRSUHVHQW
+From the Pleistocene, the seaward progradation of the continental
+shelf - slope system in QDNB was more obvious and massive
+sediments entered lower continental slope - abyssal plain. During
+this stage, the axial deep-water canyon was not developed in the
+central depression belt in the western part of the basin. The present
+seafloor geomorphological map clearly shows distribution range
+of the present the CCS in the eastern part of the basin (Fig. 9).
+In particular, a set of deposits with large thickness and distinct
+features of turbidite channel are recognized on the seismic section
+close to the turning point (Su et al., 2014c, 2015). Based on
+interpretation and comparative analysis of periphery sections, a set
+of deposits are sedimentary units developed since the Pleistocene
+(1.81 Ma) to present, i.e., stratigraphic cycle 5 of the CCS in the
+eastern segment (Fig. 5c). This phenomenon can be interpreted as
+rejuvenation of the CCS since the Pleistocene primarily associated
+with sufficient sediment supply. The Late Pliocene - Quaternary
+period was associated with alternating glacial - interglacial periods,
+during which sediment supply was intense in QDNB. The vertical
+accumulation rate of continental slopes increased. In prograding
+continental slopes, the slope migration line turned steeper. A
+large number of continental slope canyons were developed in
+slumping and channelized continental slopes (He et al., 2010).
+A few small-scale continental slope gullies existed in the broad,
+gentle progressive continental slopes in the southern Shenhu uplift
+
+90
+
+(Fig. 9). These observations could be related to climatic changes
+since the Pleistocene, such as rapid climatic change called the MidPleistocene Revolution (MPR) (Pisias and Moore, 1981).
+$VLQÁXHQFHGE\FOLPDWHVLQFHWKH3OHLVWRFHQHDODUJHQXPEHU
+of continental slope canyons were developed in slumping
+and channelized continental slopes in QDNB, typically at
+the junction of Songnan - Baodao and Changcahng sags.
+The present seafloor geomorphological map shows presence
+of continental slope canyons (Fig. 9). These continental
+slope canyons transported sediments to the abyssal plain,
+allowing formation of abyssal fans at the lower continental
+slope. Seamount at the turning point played a role in dividing
+sediments and preventing them from directly entering the
+eastern part of the basin (Su et al., 2014c, 2015). The transport
+direction of the remaining sediments experienced nearly 40°
+anticlockwise changes and was captured by the present CCS (Fig.
+9). As confined by the semi-closed sub-basin, the sediments
+moved along the pre-existing canyon from west to east. The
+eastern segment had increasingly apparent negative terrains
+toward the east. The canyon walls were steep on both sides. The
+sediments could easily be destabilized to form slump deposits in
+the canyon (Seismic Facies K).
+
+6 Conclusions
+(1) The CCS in QDNB features distinct segmentation and can be
+divided into canyon head, eastern segment, and western segment
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+N
+N
+
+HainanIsland
+0 0
+
+n
+She
+
+80km
+80km
+
+hu u
+
+plif
+
+-10
+
+Fe w
+
+t
+
+0 Semi-closed
+
+-150
+se di me nt s
+-20 0
+-25 0
+-30 0
+-350
+
+pe TC
+slo M
+lfe
+a
+sh e
+sag
+are
+tal lin
+ao
+en eak
+Seamount Ch an gc ha ng sa g
+ed
+i
+d
+d
+t
+n br
+ao
+nu
+B
+Co
+De
+n
+na
+t h e l t
+ng
+TC
+igh
+o f
+M
+So nan low h
+n g l i f tb e
+i
+g
+k
+n
+c
+So
+0 150
+B l o e r nu p
+-10 0
+h
+30 s o u t
+0
+0
+C
+T 2
+ag
+0
+M 0is
+-25
+5
+hu
+-2
+s
+g
+n
+00
+-2
+Li
+gn
+do
+Le
+
+area
+
+-4
+
+0
+-40
+-500
+50
+
+)ig.  7he tranTuil infilling stage of the &entral &anyon System in the /ate Pliocene. 'ifferent
+colors and numeric values represent tectonic subsidence rate m0a  red arrows and white
+arrows respectively point to inferred supplying and transport directions of sediment.
+N
+
+Sh
+
+Diffusion
+effect
+
+en
+
+u
+hu
+
+pli
+
+tal
+nen on
+nti cany
+o
+C pe
+slo
+
+ft
+
+Continental
+Valley
+slope canyon
+Fewsediments
+Sea
+
+mo
+
+unt
+
+Fan body
+
+tc
+sen
+Pre
+Canyon head
+e
+ft h t
+go f tb e l
+n
+i
+Semi - closed
+li
+ck
+B l o e r nu p
+lt
+area
+t be
+th
+f
+i
+u
+l
+o
+p
+s
+rn u
+e
+h
+t
+Sou
+
+ra
+ent
+
+l ca
+
+nyo
+
+n
+
+Valley
+
+)ig.  7he reMuvenation stage of the &entral &anyon System since the Pleistocene. 7he base map of
+the present seaÀoor topographic map constructed from ' seismic lines red solid line  blue arrows
+and red dotted arrows respectively point to supplying and transport directions of sediment.
+
+from west to east. Three segments show distinct differences
+in planar distribution, sectional topography and internal infill
+structure.
+(2) The CCS experienced multi-stageds sedimentary evolution.
+Four evolutionary stages are recognized since the Late Miocene,
+
+including an initial development stage in the Late Miocene, a
+HURVLRQLQÀOOLQJVWDJHLQWKH(DUO\3OLRFHQHDWUDQTXLOLQÀOOLQJ
+stage in the Late Pliocene, and a rejuvenation stage since the
+Pleistocene.
+(3) The formation and evolution of the CCS was jointly controlled
+
+91
+
+M.Su et al./Petroleum Research (2016) 1,81-92
+
+by multi-factors including tectonic transformation, tectonic
+activities, sediment supply, geomorphological feature, and deepwater deposition. Different tectono-sedimentary environments of
+QDNB in various segments and geological evolutionary stages led
+to differential characteristics of the CCS in different locations. In
+the Late Miocene (11.6 Ma), regional tectonic transformation in
+the eastern part of the basin led to formation of a semi-closed subbasin, that is, rudiment of the canyon. In the Early Pliocene (5.7–3.7
+Ma), abundant sediment from the northwestern and northern
+provenances, blocking of the southern uplift belt, and restrictive
+geomorphological features of the eastern part of the basin,
+restrained development of the large-scale axial canyon system in
+the central depression belt of QDNB. In the Late Pliocene (3.7–1.81
+Ma), changes in the tectono-sedimentary environment resulted
+in the distribution of the CCS in the eastern part of the basin
+only. Since the Pleistocene (1.81 Ma to present), climatic changes
+enhanced sediment supplying capacity and altered the eastern part
+of the basin geomorphology, leading to a rejuvenation of the CCS.
+
+Acknowledgements
+This work was funded by the Key Laboratory of Marine
+Hydrocarbon Resources and Environmental Geology, Ministry
+of Land and Resources (MRE201305) and the Key Laboratory of
+Marine Geology and Environment, China Academy of Sciencess
+(MGE2013KG02).
+
+References
+Antobreh A A and Krastel S. Morphology seismic characteristics and development of Cap Timiris Canyon, offshore Mauritania: a newly discovered canyon preserved-off a major arid climatic region. Marine and
+Petroleum Geology, 2006, 23(1): 37-59.
+Bouma A H. Fine-grained submarine fans as possible recorders of long- and
+short-term climatic changes. Global and Planetary Change, 2001, 28: 85-91.
+Chiang C S and Yu H S. Sedimentary erosive processes and sediment dispersal in Kaoping submarine canyon. Science China: Earth Sciences,
+2011, 54(2):259-271.
+Dailly P, Lowry P, Goh K, et al. Exploration and development of Ceiba Field,
+Rio Muni Basin, Southern Equatorial Guinea. Leading Edge, 2002,
+21(11): 1140-1146.
+Gingele F X, Deckker P D, Hillenbrand C D. Late Quaternary terrigenous
+sediments from the Murray Canyons area, offshore South Australia and
+their implications for sea level change, palaeoclimate and palaeodrainage of the Murray–Darling Basin. Marine Geology, 2004, 212: 183-197.
+Gong C L, Wang Y M, Zhu W L, et al. The Central Submarine Canyon in
+the Qiongdongnan Basin, northwestern South China Sea: Architecture,
+sequence stratigraphy, and depositional processes. Marine and Petroleum Geology, 2011, 28(9), 1690-1702.
+Gong Z S, Li S T, Xie T J, et al. Basin analysis and oil-gas accumulation on
+the northern continental margin of South China Sea. Beijing: Science
+
+92
+
+Press, 1997, 1-510 (in Chinese with English abstract).
+He Y L, Xie X N, Li J L, et al. Depositional characteristics and controlling
+factors of continental slope system in the Qiongdongnan Basin. Geological Science and Technology Information, 2010, 29(2):118-122 (in
+Chinese with English abstract).
+He Y L, Xie X N, Lu Y C, et al. Architecture and characteristics of Mass
+Transport Deposits (MTDs) in Qiongdongnan Basin in Northern South
+China Sea. Earth Science: Journal of China University of Geosciences,
+2011, 36(5): 905-913 (in Chinese with English abstract).
+Laursen J and Normark W R. Late Quaternary evolution of the San Antonio
+submarine canyon in the central Chile forearc ( ̚ 33°S). Marine Geology, 2002, 188(3/4): 365-390.
+Leloup P H, Lacassin R, Tapponnier P, et al. The Ailao Shan-Red River
+shear zone (Yunnan, China), tertiary transform boundary of Indochina.
+Tectonophysics, 1995, 251: 3-10.
+Li D, Wang Y M, Wang Y F, et al. The sedimentary and foreground of prospect
+for levee-overbank in Central Canyon, Qiongdongnan Basin. Acta Sedimentologica Sinica, 2011, 29(4): 689-694 (in Chinese with English abstract).
+Mayall M and Stewart I. The architecture of turbidite slope channels. Tulsa:
+SEPM, 2000, 578-586.
+Pettingill H S and Weimer P. Worldwide deep water exploration and production: past, present, and future. The Leading Edge, 2002, 21(4): 371-376.
+Pisias N G and Moore T C Jr. The evolution of Pleistocene climate: a time series
+approach. Earth and Planetary Science Letters, 1981, 52(2): 450-458.
+Popescu I, Lericolais G., Paninc N, et al. The Danube submarine canyon
+(Black Sea): morphology and sedimentary processes. Marine geology,
+2004, 206:249-265.
+Ridente D, Foglini F, Minisini D, et al. Shelf-edge erosion, sediment failure
+and inception of Bari Canyon on the Southwestern Adriatic Margin
+(Central Mediterranean). Marine Geology, 2007, 246:193-207.
+Su M, Li J L, Jiang T, et al. Morphological features and formation mechanism of central canyon in the Qiongdongnan Basin, northern South
+China Sea. Marine Geology & Quaternary Geology, 2009, 29(4): 85-93
+(in Chinese with English abstract).
+Su M, Xie X N, Jiang T, et al. Characteristics of S40 boundary and its sigQLÀFDQFHLQ4LRQJGRQJQDQ%DVLQQRUWKHUQFRQWLQHQWDOPDUJLQRI6RXWK
+China Sea. Earth Science: Journal of China University of Geosciences,
+2011, 36(5): 886-894 (in Chinese with English abstract).
+6X0;LH;1;LH<+HWDO7KHVHJPHQWDWLRQVDQGWKHVLJQLÀFDQFHVRI
+the Central Canyon System in the Qiongdongnan Basin, northern South
+China Sea. Journal of Asian Earth Sciences. 2014a, 79: 552-563.
+Su M, Zhang C, Xie X N, et al. The controlling factors on the submarine
+canyon system: a case study of the Central Canyon System in the Qiongdongnan Basin, northern South China Sea. SCIENCE CHINA Earth
+Sciences, 2014b, 57(10): 2457-2468.
+6X0-LDQJ7=KDQJ&0HWDO&KDUDFWHULVWLFVRIPRUSKRORJ\DQGLQÀOOLQJVDQGWKHJHRORJLFDOVLJQLÀFDQFHVRIWKH&HQWUDO&DQ\RQ6\VWHPLQ
+eastern Qiongdongnan Basin. Journal of Jilin University: Earth Science
+Edition, 2014c, 44(6): 1805-1815. (in Chinese with English abstract)
+Su M, Hsiung K H, Zhang C M, et al. The linkage between longitudinal
+sediment routing systems and basin types in the northern South China
+Sea in perspective of source-to-sink. Journal of Asian Earth Sciences,
+2015, 111: 1-13.
+
+

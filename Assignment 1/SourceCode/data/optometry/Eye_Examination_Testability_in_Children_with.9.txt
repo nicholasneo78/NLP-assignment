@@ -1,0 +1,1537 @@
+1040-5488/15/9201-0031/0 VOL. 92, NO. 1, PP. 31Y43
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2014 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Eye Examination Testability in Children with
+Autism and in Typical Peers
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/31/2020
+
+Rachel Anastasia Coulter*, Annette Bade†, Yin Tea†, Gregory Fecho‡, Deborah Amster†, Erin Jenewein*,
+Jacqueline Rodena‡, Kara Kelley Lyons§, G. Lynn Mitchell||, Nicole Quint**, Sandra Dunbar††,
+Michele Ricamato‡‡, Jennie Trocchio§§, Bonnie Kabat||||, Chantel Garcia‡, and Irina Radik‡
+ABSTRACT
+Purpose. To compare testability of vision and eye tests in an examination protocol of 9- to 17-year-old patients with autism
+spectrum disorder (ASD) to typically developing (TD) peers.
+Methods. In a prospective pilot study, 61 children and adolescents (34 with ASD and 27 who were TD) aged 9 to 17 years
+completed an eye examination protocol including tests of visual acuity, refraction, convergence (eye teaming), stereoacuity
+(depth perception), ocular motility, and ocular health. Patients who required new refractive correction were retested after
+wearing their updated spectacle prescription for 1 month. The specialized protocol incorporated visual, sensory, and
+communication supports. A psychologist determined group status/eligibility using DSM-IV-TR (Diagnostic and Statistical
+Manual of Mental Disorders, Fourth Edition, Text Revision) criteria by review of previous evaluations and parent responses
+on the Social Communication Questionnaire. Before the examination, parents provided information regarding patients’ sex,
+race, ethnicity, and, for ASD patients, verbal communication level (nonverbal, uses short words, verbal). Parents indicated
+whether the patient wore a refractive correction, whether the patient had ever had an eye examination, and the age at the
+last examination. Chi-square tests compared testability results for TD and ASD groups.
+Results. Typically developing and ASD groups did not differ by age (p = 0.54), sex (p = 0.53), or ethnicity (p = 0.22).
+Testability was high on most tests (TD, 100%; ASD, 88 to 100%), except for intraocular pressure (IOP), which was reduced
+for both the ASD (71%) and the TD (89%) patients. Among ASD patients, IOP testability varied greatly with verbal communication level (p G 0.001). Although IOP measurements were completed on all verbal patients, only 37.5% of nonverbal
+and 44.4% of ASD patients who used short words were successful.
+Conclusions. Patients with ASD can complete most vision and eye tests within an examination protocol. Testability of IOPs
+is reduced, particularly for nonverbal patients and patients who use short words to communicate.
+(Optom Vis Sci 2015;92:31Y43)
+Key Words: autism, children, eye examinations, vision acuity, tonometry
+utism spectrum disorders (ASDs) are developmental
+disabilities that occur in 1 out of 68 children in the United
+States.1 Individuals with ASD have difficulties in reciprocal social interaction, verbal and nonverbal communication, and
+processing sensory stimuli. Because of these difficulties, patients
+with ASD may be unable to respond to subjective vision testing or
+
+A
+
+to complete medical procedures. For eye care providers seeking to
+examine patients with ASD, little information is available. Clinicians need information regarding how to select tests or modify
+procedures to facilitate patients’ ability to complete testing. Clinicians also need evidence on ASD patients’ ability to complete
+tests within an eye examination.
+
+*OD, MS, FAAO
+†
+OD, FAAO
+‡
+OD
+§
+PsyD
+||
+MAS, FAAO
+**DrOT, OTR/L
+††
+DPA, OTR/L
+‡‡
+MA, CCC-SLP
+§§
+PhD
+||||
+BA
+College of Optometry (RAC, AB, YT, GF, DA, EJ, JR, CG, IR), and College
+of Health Care Sciences (NQ, SD), Nova Southeastern University, Fort
+
+Lauderdale, Florida; Neurocognitive Consultants, North Miami, Florida
+(KKL); The Ohio State University College of Optometry, Columbus, Ohio
+(GLM); Soaring Eagle Academy, Burr Ridge, Illinois (MR); CasaBlanca
+Academy, Hollywood, Florida (JT); and Educational Specialist, Fort Lauderdale,
+Florida (BK).
+Supplemental digital content is available for this article. Direct URL citations
+appear in the printed text and are provided in the HTML and PDF versions of this
+article on the journal’s Web site (www.optvissci.com).
+This is an open-access article distributed under the terms of the Creative
+Commons Attribution-NonCommercial-NoDerivatives 3.0 License, where it is
+permissible to download and share the work provided it is properly cited. The
+work cannot be changed in any way or used commercially.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+32 Eye Testing of Children with AutismVCoulter et al.
+
+Testability is defined as the ability of a patient to complete a
+vision or eye test; clinically, it is determined as the proportion of
+patients within a defined population who are able to complete a
+test or procedure. For the typically developing (TD) preschool
+population, studies of vision testing have reported testability of
+visual acuity,2Y5 stereoacuity,2,5,6 and refraction tests.2,7 Few studies
+have reported testability results for patients with ASD. In 2009,
+Milne et al.8 investigated vision screening of 51 school-aged patients
+with ASD and 44 TD patients aged 8 to 18 years using a battery of
+vision acuity, stereoacuity, cover test, prism fusion range, near point
+of convergence (NPC), and optokinetic response. Patients with
+ASD were categorized as high functioning (HF) or low functioning
+(LF) based on full-scale IQ score on the Weschler Abbreviated Scale
+of Intelligence test; HF patients had scores greater than or equal to
+70, whereas LF patients had scores less than 70 or could not
+complete the initial test trials. Testability varied by functioning level
+and ranged from 86 to 100% for HF patients and 40 to 80% for LF
+patients. In 1992, Scharre and Creedon9 reported outcomes of a
+visual assessment performed in a school setting of 34 children with
+autism aged 2 to 11 years. Reported testability was high for most
+tests; 97% of patients completed Teller card binocular visual acuity,
+near retinoscopy, unilateral cover test, voluntary smooth pursuit,
+and optokinetic nystagmus response. Only 47% of patients, however, were able to complete Lang stereoacuity testing.9
+To date, no study has prospectively investigated the testability
+of vision tests and ocular health within a comprehensive eye examination protocol in the ASD population or has compared these
+results to those of TD peers. This information is needed for eye
+care providers to select vision tests, diagnose and manage vision
+problems, and establish a standard of care for ASD patients. The
+purpose of this study was to determine testability of school-aged
+patients with ASD on vision and eye tests within an examination
+protocol and to compare these results to those of TD peers. To
+promote the ability of patients with ASD to complete testing, an
+eye examination protocol was designed that incorporated visual,
+communication, and sensory supports and behavioral strategies.
+
+Creation of an Eye Examination Protocol
+Challenges associated with ASD include difficulties with communication, motor planning, sensory processing, transitioning from
+task to task, maintaining attention, and engagement. A specialized
+eye examination protocol that targeted these challenges and that
+could be easily incorporated into clinical practice was designed. This
+protocol incorporated visual, sensory, and communication supports; included behavioral strategies; and used tests and techniques
+that minimized tactile sensitivity issues. By minimizing undesirable
+stimuli, modifying instruction sets, and preparing the patient with
+ASD, the protocol aimed to maximize the ability of patients with
+ASD to respond, stay on task, remain calm and regulated, and
+complete testing procedures.
+
+Supports and Modifications for Patients with ASD
+Communication Supports
+To support ASD patients’ receptive and expressive communication, the eye examination protocol used several supports and
+modifications. A speech and language pathologist reviewed traditional instruction sets. Lengthy and complex statements were
+
+eliminated and rephrased to be short, simple, direct, and as exact
+as possible. Investigators adjusted the rate of their speech to allow
+the patient additional time to hear, interpret, and respond to
+directions. Subjects with ASD are more likely to complete a task
+when the task is presented as a choice of desired positive behaviors.10 In this protocol, this was applied to eye and vision testing;
+for example, when testing stereoacuity, the investigator asked the
+patient, ‘‘Do you want to put on the Polaroid glasses or do you
+want me to put them on you?’’
+For patients with ASD and minimal or limited ability to speak,
+patients were allowed to respond using augmentative and alternative
+communication devices.11 These include the patients’ habitual communication boards, electronic devices, speech-generating devices,
+and tablet computers.11,12 Investigators also used the Answers:
+YesNo Application (Simplified Touch), presented on a smartphone
+or tablet computer, to allow nonverbal patients to answer ‘‘yes’’ or
+‘‘no’’ to examination-related questions such as ‘‘Can you see the
+letters on the chart?’’13
+Visual Supports
+A variety of visual supports were used to enable patients with
+ASD to understand test instructions and the sequencing of tasks
+within the eye examination. With the guidance of a speech and
+language pathologist, visual representations of instruction sets
+were created. Verbal directions were paired with pictures and
+gestures so that patients with ASD could better understand what
+they were expected to do and what they needed to look for.14,15
+Other visual supports, identified from the special education literature including a social story and a visual schedule, were also used.
+Social Story
+A social story was provided to all families of patients with ASD
+to ease transitions and avoid behavioral meltdowns (see Fig. 1 and
+Supplemental Digital Content 1, a pdf file of the complete social
+story, available at http://links.lww.com/OPX/A189). Written as a
+short narrative illustrated by photographs, pictures, or symbols, a
+social story prepares the patient for potentially challenging experiences by concretely identifying strategies, showing positive
+behaviors, and demonstrating what other people will do to help
+the patient.16Y18 Social stories have been used to prepare patients
+with ASD for doctor visits, dental visits, allergy tests, blood draws,
+and electroencephalogram testing.19Y22 Social stories must meet
+specific guidelines for format and language.18,23 When created
+according to these specifications, social stories decrease tantrums
+and inappropriate behaviors and increase positive behaviors such
+as initiating social interactions and responding on task.23
+To prepare patients for the eye examination visit, a social story
+was created that described each step of the examination experience from arriving in the clinic, entering the examination room,
+meeting the doctor, and preparing for each procedure or test (see
+Supplemental Digital Content 1, a pdf file of the complete social story, available at http://links.lww.com/OPX/A189). Special
+education teachers with expertise in social stories for students
+with ASD wrote the social story according to Gray’s published
+guidelines. Two versions were createdVone at a fourth grade
+reading level and one at a first grade reading level. The social story
+was provided a few weeks in advance, so that the patient’s parents or
+caregivers could read it to the patient several times before the visit.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+33
+
+FIGURE 1.
+Social storyVthe ﬁrst page. For the complete ﬁrst grade version of social story, see Supplemental Digital Content 1, ‘‘A Day at the Eye Doctor!,’’ available at
+http://links.lww.com/OPX/A189.
+
+Visual Schedule
+A visual schedule was also used in the eye examination protocol.
+Visual schedules use photographs or pictures to represent the activities and procedures that will occur and their sequence (see Fig. 2
+or Supplemental Digital Content 2, which provides a pdf file of
+the visual schedule, available at http://links.lww.com/OPX/A190).
+By informing patients with ASD of what will happen next, visual
+schedules help patients to make transitions, remember how to respond, and reduce anxiety due to uncertainty.24 Visual schedules are
+more effective than language-based communication for patients
+with ASD. They target these patients’ relative strengths in simultaneous processing instead of relying on social or language reasoning abilities.25 Studies have shown that visual schedules enhance
+on-task behavior and independent functioning and increase the
+speed of completing transitions.25Y27
+A visual schedule of the activities and eye examination procedures of the eye examination visit was created using a series
+of photographs (see Fig. 2 or Supplemental Digital Content 2,
+which provides a pdf file of the visual schedule, available at
+
+http://links.lww.com/OPX/A190). The visual schedule displayed
+the name and a photograph of each procedure in the eye examination protocol and the sequence of the procedures. The
+visual schedule was available to the patient and the examiner
+in both a laminated card format and within an iPad/iPhone
+application called First/Then.28 The photographs used in the
+visual schedule matched those used in the social story.
+
+Supports and Modifications for Motor
+Planning Challenges
+Patients with ASD often experience motor planning difficulties,
+that is, the ability to connect the intention of making a motor
+movement to the execution of the movement itself. To enable
+nonverbal patients to respond when a response required a point
+or gesture, motor approximations were accepted. For example,
+patients responding to visual acuity testing on a picture on a response card were allowed to respond by touching the picture with
+their whole hand rather than required to point to the picture.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+34 Eye Testing of Children with AutismVCoulter et al.
+
+FIGURE 2.
+Section of visual schedule. For the entire visual schedule, see Supplemental Digital Content 2, ‘‘Visual Schedule!,’’ available at http://links.lww.com/OPX/A190.
+
+Supports for Sensory Processing Challenges
+Patients with ASD have difficulty modulating or processing
+visual, tactile, and auditory stimuli.29,30 In an eye examination,
+tests that are particularly problematic are tests that present bright
+lights such as binocular indirect ophthalmoscopy (BIO) and tests
+that involve touching the patient’s face and eye area such as the
+slit lamp examination and drop instillation. Research shows that
+patients with ASD are more tolerant to unpleasant stimuli when
+the stimulus presentation is more predictable and patients perceive
+they have some control.29,30 Strategies that may increase patient
+tolerance include distraction techniques such as having the examiner sing, count, or recite the alphabet with patients while
+performing the procedure and having sensory toys and items
+available for patients that match their sensory needs.29,30
+In creating the eye examination protocol, tests were selected
+that were less likely to elicit patients’ tactile defensiveness. For
+
+example, to obtain intraocular pressures (IOPs), an ICare rebound
+tonometer was used. This instrument was selected because it was
+small, did not require anesthetic drops to be administered before
+obtaining IOPs, and minimally obstructed the visual field. To
+maximize testability of patients with ASD, all the above supports
+were incorporated into the eye examination protocol.
+
+Behavioral Strategies
+To encourage patients to complete tasks that were particularly
+challenging, positive behaviors were encouraged through the techniques of shaping and high-probability request/low-probability request.
+In shaping, a new behavior such as tolerating a bright light is developed through successive reinforcement of attempts that are closer
+and closer to the desired behavior. For example, a patient tolerates a
+binocular indirect ophthalmoscope beam, first on his legs, then his
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+shoulders, then his face, and finally his eyes. In high-probability
+request/low-probability request, requests are first made to do a task
+that is likely to be done. This is followed by a request that is less likely
+to be done with the intention of creating momentum. An example
+would be to first ask a patient to tolerate the ICare tonometer being
+held by his or her arm before asking him or her to tolerate it against
+his or her forehead.
+
+METHODS
+All investigators followed the tenets of the Declaration of
+Helsinki throughout the study. The Nova Southeastern University
+(NSU) Institutional Review Board approved the protocol and informed consent forms. The parent or guardian (subsequently referred to as parent) of each study patient gave written informed
+consent. Each participating patient completed the assent process
+according to the protocol approved by the NSU Institutional Review Board. Special procedures, described below, were designed to
+obtain assent from ASD patients with limited communication skills.
+Health Insurance Portability and Accountability Act authorization
+was obtained from parents.
+
+Study Flow
+Patient Selection
+To participate in the study, patients had to be between 9 and
+17 years. A total of 61 patients, 34 with ASD and 27 who were
+TD, were enrolled. Recruitment fliers were distributed through
+several venues including the University of Miami-NSU Center for
+Autism and Related Disabilities e-newsletter, the Broward County
+Chapter of the Autism Society of America, NSU Health Profession Division Clinics, Denise’s List (a Yahoo listserv for parents of
+children with autism), Broward County public schools, private
+schools, local therapy centers, and community health fairs. Subjects were also recruited with the assistance of the Interactive
+Autism Network Research Database at the Kennedy Krieger Institute and Johns Hopkins Medicine-Baltimore, sponsored by
+the Autism Speaks Foundation. Parents responded to recruitment
+fliers by contacting the principal investigator or a coinvestigator
+who completed a prescreening. If the patient appeared to be eligible, an intake visit was scheduled with the parent only.
+
+Intake Visit
+Parents provided information regarding the patient’s sex, race,
+ethnicity, and medication usage. Parents indicated whether the
+patient wore a refractive correction, whether the patient had ever
+had an eye examination, and the age at the last eye examination.
+Parents of patients with ASD specified the patient’s verbal communication level from three options: (1) nonverbal or minimally
+verbal; (2) uses short words, can answer questions at least partially;
+or (3) verbal, speaks fluently, is able to answer questions completely. Parents also indicated how their child preferred to communicate: using an iPad/iPhone, the YesNo application, gestures,
+some words, or words fluently.
+For patients identified as ASD, parents provided documentation of the autism spectrum diagnosis. All parents completed the
+Social Communication Questionnaire, a standardized instrument
+
+35
+
+used to screen for ASDs. Parents were offered a social story to
+prepare their child for the eye examination visit.
+
+Confirmation of ASD and TD Group Eligibility
+A psychologist with expertise in ASD diagnosis determined
+eligibility and group status based on the presence or absence of an
+ASD diagnosis and symptoms consistent with autism spectrum
+conditions. Children were included in the ASD group if they held
+community diagnoses and their diagnoses were confirmed using
+DSM-IV-TR (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision) criteria based on review of
+previous evaluations combined with parent ratings of symptoms
+on the Social Communication Questionnaire.31 Children were
+included in the TD group if they had never received a diagnosis of
+ASD, and they did not show any research evidence of an ASDrelated disorder (i.e., did not exceed the cutoff score of nine on
+the Social Communication Questionnaire). Of the 64 patients
+who completed the prescreening and whose parents completed the
+intake visit, 61 met criteria for the TD or ASD groups.
+
+Eye Examination Visit
+All patients who met the criteria of the ASD or TD group were
+scheduled for an eye examination study visit. Study staff worked
+with families to schedule appointments for patients with ASD to
+maximize patient cooperation. The assent process with the child
+or adolescent was conducted at the time of the eye examination,
+before any procedures were initiated. The TD children and
+children with ASD who could read signed an assent form. If the
+parent or guardian indicated that the child diagnosed with ASD
+could not read the assent form, it was read to the child and the
+principal investigator documented the child’s response to the
+verbal assent process.
+
+Examination Procedures
+The following measurements were taken at the eye examination
+study visit (listed in order of administration): binocular distance
+visual acuity, monocular distance visual acuity (OD then OS),
+retinoscopy, cover/uncover (unilateral cover) test and alternate
+cover test with prism neutralization at distance and near, near
+point of convergence (NPC), ocular motility testing (fixation,
+saccades, pursuits), near fusional vergence (break and recovery),
+stereoacuity, monocular estimation method retinoscopy, binocular near visual acuity, and monocular near visual acuity (OD then
+OS). All testing at near was performed at 40 cm. Ocular health
+testing was sequenced as follows: extraocular muscle movement
+testing, pupils, anterior segment evaluation, tonometry, dilated
+posterior segment evaluation, and cycloplegic retinoscopy.
+Cycloplegic retinoscopy findings were analyzed according to
+study criteria for prescribing (Table 1). A refractive correction was
+prescribed for patients if it was determined that there was a significant difference between the patient’s habitual refractive correction and their measured refractive error. Patients requiring a
+new refractive correction wore their new correction for at least
+4 weeks and then returned and completed all vision testing, excluding ocular health tests that had been completed at their
+initial examination.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+36 Eye Testing of Children with AutismVCoulter et al.
+TABLE 1.
+
+Near Point of Convergence
+
+Refractive error prescribing criteria
+Identification of significant refractive error
+A significant refractive error or change was defined as:
+Q1.75 D of hyperopia
+Q0.50 D of myopia
+Q1.25 D of astigmatism
+Q1.00 D of anisometropia in spherical equivalent, or Q1.50 D
+of anisometropia in any meridian (based on cycloplegic
+refraction)
+Prescribing guidelines
+For hyperopes, the investigator could reduce the prescription
+by up to 1.25 D.
+For myopia, full correction was required.
+For anisometropia and astigmatism, full correction
+was required.
+
+Distance Visual Acuity
+Patients wore refractive correction for all vision testing except
+ocular health evaluation. Binocular visual acuity testing began by
+presenting the Snellen acuity chart to the patient. Patients responded
+verbally or by typing the letter on a communication device. If the
+patient was unable to respond to the Snellen acuity chart, visual
+acuity testing was attempted with the LEA Symbol Crowded
+Symbol Book (Good-Lite, Elgin, IL, 250700). Patients responded
+by verbally identifying the symbol or by matching the correct picture
+using the Response Key Card (Good-Lite, 251700).
+To obtain monocular visual acuity, the examiner occluded an
+eye using an occluder. If the patient showed resistance to the
+occluder that lasted more than 5 seconds, the patient’s eye was
+occluded using the palm of the examiner’s or parent’s hand. If the
+patient still showed resistance, monocular visual acuity was discontinued and only a binocular visual acuity was obtained.
+
+Retinoscopy
+The patient viewed a target of interest at 10 feet through +2.00diopter (D) fogging lenses. Targets used included a parent waving
+to the patient or a video shown on an iPad or portable DVD
+player. The examiner neutralized the refractive error for each eye
+using the Luneau Retinoscopy Rack (Lombart Instruments) supplemented by loose lenses. The examiner determined his or her
+working distance and recorded the net retinoscopy findings in each
+meridian for each eye.
+
+Cover Test at Distance and NearVUnilateral and
+Alternate Cover Test
+During the cover test, the patient was presented a fixation target
+of a 20/30 isolated letter or symbol. The unilateral cover test was
+administered to determine the presence of strabismus, and if so,
+whether it was intermittent or constant. To determine the magnitude of the strabismus or phoria, the alternate cover test with
+prism neutralization procedure was administered. A prism bar
+(Gulden B-16 horizontal prism bar with prismatic levels from
+1 prism diopter ($) to 45$; Gulden Ophthalmics, Elkins Park,
+PA) was used to neutralize the deviation using a bracketing method.
+
+The examiner held a ruler with the zero point of the ruler
+parallel and equal to the bridge of the patient’s nose. The examiner
+showed the patient a detailed fixation stick target of 20/30 (GoodLite, 542055), either with Sloan letters or Lea symbols, at the
+midline of the patient’s body. The patient was instructed to ‘‘Look
+here. Tell me when the letters/pictures break into two, but try to
+keep the target single/one as long as possible. When it breaks
+try to see one.’’ To visually show the patient what to look for,
+while giving the verbal instructions, the examiner also showed the
+patient the visual demonstration card showing double versus
+single images.
+The examiner moved the fixation target toward the subject at
+approximately 1 to 2 cm/s until the examiner observed a loss of
+fusion. This point was considered the NPC break. The distance
+from the NPC break to the bridge of the patient’s nose was
+measured to the nearest centimeter with the ruler. The target then
+was moved away from the subject until the examiner observed a
+recovery of fusion. Both the NPC break and recovery were
+measured to the nearest centimeter and the test was performed
+three times.
+
+Evaluation of Fixation
+For fixation assessment and NSUCO (Northeastern State
+University College of Optometry) oculomotor testing, testing was
+completed while the patient was standing. Using a nickel-plated
+ball target (Good-Lite, Wolff Wand kit, 660700), the patient
+was instructed to ‘‘Look here,’’ while pointing to the target. The
+examiner determined if the patient was able to maintain fixation
+for at least 10 seconds.
+
+NSUCO Oculomotor Test
+For all NSUCO oculomotor testing, the patient stood in front
+of the examiner. To determine if the patient understood the words
+used in the NSUCO saccades and pursuit tests, a pretest for
+NSUCO was performed. The patient was shown the nickel-plated
+(silver) and brass-plated (gold) ball targets (Good-Lite, Wolff
+Wand kit, 660700). The patient was directed to ‘‘Touch the gold
+ball.’’ The patient was then directed to ‘‘Touch the silver ball.’’ If
+the patient responded by touching the gold and silver ball after the
+corresponding instruction, the patient passed the pretest. The
+examiner then proceeded to administer the NSUCO oculomotor
+test for saccades and pursuits. If the patient could not pass the
+pretest, NSUCO saccades and NSUCO pursuit tests were not
+performed and the patient was recorded as untestable.
+
+NSUCO Oculomotor TestVSaccades
+The examiner held the nickel-plated (silver) and brass-plated
+(gold) ball targets (Good-Lite, Wolff Wand kit, 660700) at
+Harmon’s distance (the distance from the patient’s elbow to the
+middle knuckle) from the patient. Each target was held 10 cm
+from the midline of the patient. The instructions to the patient
+were ‘‘I have two balls. When I say silver, look at the silver ball.
+When I say gold, look at the gold ball. Remember, don’t look until
+I tell you.’’ The examiner then alternately said ‘‘gold’’ and ‘‘silver’’
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+and repeated these so that the patient had to make 10 saccades
+(5 to the gold target and 5 to the silver target). The examiner
+observed the saccadic eye movements and rated the patient’s
+performance in head movement and body movement, ability, and
+accuracy using standardized scoring criteria.
+
+37
+
+of the right eye at approximately 2$ per second, stopping when
+the patient lost fusion and failed to show a responsive convergence
+movement. This was recorded as the break point. The examiner
+then increased the base-out demand by 5 more prism diopters and
+then at a rate of about 2$ per second reduced the base-out prism
+until the patient regained single vision.
+
+NSUCO Oculomotor TestVPursuit
+The examiner held a nickel-plated (silver) ball target at Harmon’s
+distance (distance from the patient’s elbow to the middle knuckle)
+or no farther from 40 cm from the patient. The examiner instructed
+the patient, ‘‘Watch the silver ball go around. Don’t move your
+head. Keep watching the ball.’’ The examiner moved the fixation
+target in a path no more than 20 cm in diameter, performed at the
+midline of the patient.
+The examiner observed the pursuit eye movement and rated the
+performance in the categories of head movement and body movement, ability, and accuracy using standardized scoring criteria.
+
+Monocular Estimation Method Retinoscopy
+
+Negative Fusional Vergence at Near
+
+Testing for near visual acuity was performed with letters using
+the SLOAN ETDRS (Early Treatment Diabetic Retinopathy
+Study) Format Near Point Vision Test (Precision Vision, 2106). If
+the patient did not respond to letters, testing was done using the
+LEA Symbols Near Vision (Good-Lite, 250800) and matching
+response card (Good-Lite, 251700). The patient’s responses were
+considered correct if the patient either said the correct letter or
+picture symbol or matched the correct picture on the LEA
+Symbols response card.
+
+Negative fusional vergence was measured with a horizontal
+prism bar (Gulden B-16 horizontal prism bar with prismatic levels
+from 1$ to 45$; Gulden Ophthalmics, Elkins Park, PA) while the
+patient fixated a handheld fixation target. The patient looked at
+a single column of letters or Lea symbols (Good-Lite, 542055)
+of 20/30 equivalent at a distance of 40 cm. The patient was
+instructed to ‘‘Look here. Tell me when the letters/pictures become blurred or break into two, but try to keep the target single/
+one as long as possible. When it breaks, try to see one.’’
+To provide a visual support, while giving the verbal instructions,
+the examiner also showed the patient the visual demonstration card
+showing blur and diplopia. The examiner held the prism bar in
+a base-in direction in front of the right eye and increased the
+amount of base-in prism in front of the right eye at approximately
+2$ per second, stopping when the patient lost fusion and no longer
+made a divergence movement in response to increasing prism. This
+was recorded as the break point. The examiner then increased the
+base-in demand by 5 more prism diopters and then at a rate of
+about 2$ per second reduced the base-in prism until the patient
+regained fusion as indicated by a divergence movement or the
+patient stating that he or she saw one.
+
+The patient sat opposite to the examiner. The examiner held
+the retinoscope with a monocular estimation method reading or
+picture card attached. The examiner instructed the patient to
+‘‘Keep your eyes open. Read the words or look at the pictures
+here.’’ The examiner briefly (G1 second) held a loose lens in front
+of one eye at a time to neutralize the motion of the reflex in each
+eye. The lens that neutralized the reflex was recorded.
+
+Near Visual Acuity
+
+Stereoacuity
+Stereoacuity testing was first attempted with the Random Dot
+2 Stereotest (Good-Lite, 100750). If the patient did not respond
+to the Random Dot 2 Stereotest, testing was attempted with the
+Random Dot E (Precision Vision, 3700) using a forced-choice
+presentation. If the patient did not respond to either the Random
+Dot Stereotest or the Random Dot E test, testing was attempted
+with the Lang Stereotest 1 (Bernell, Mishawaka, IN). For the Lang
+Stereotest, the patient was allowed to match presented black and
+white pictures of the picture targets to the Lang testing plate.
+
+Extraocular Muscle Movements and Pupils
+
+Positive Fusional Vergence (Convergence Amplitudes)
+at Near
+
+The examiner tested extraocular muscle movements and pupils
+and recorded any abnormalities.
+
+Positive fusional vergence was measured three times with a
+horizontal prism bar (Gulden B-16 horizontal prism bar with
+prismatic levels from 1$ to 45$; Gulden Ophthalmics, Elkins
+Park, PA) while the patient fixated a handheld fixation target. The
+target used was a single column of letters or Lea symbols (GoodLite, 542055) of 20/30 equivalent at a distance of 40 cm. The
+patient was instructed to ‘‘Look here. Tell me when the letters/
+pictures become blurred or break into two. Try to keep the target
+single/one as long as possible. When it breaks try to see one.’’
+While giving the verbal instructions, the examiner also showed the
+patient the visual demonstration card showing blur and diplopia.
+The examiner held the prism bar in a base-out direction in front of
+the right eye and increased the amount of base-out prism in front
+
+Anterior Segment Evaluation and Tonometry
+The examiner examined the structures of the anterior segment
+using a slit lamp or an Eidolon Bluminator ophthalmic illuminator (Eidolon Optical, Natick, MA) and/or direct ophthalmoscopy. The examiner noted any disease present.
+For tonometry and BIO, the patient was seated watching a
+DVD video player placed at eye level. While the patient watched a
+DVD video, tonometry testing was attempted using the ICare
+Rebound tonometer. Up to three attempts were made to measure
+the IOP. If a readable finding was not obtained after three attempts, tonometry testing was discontinued and the patient was
+recorded as untestable.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+38 Eye Testing of Children with AutismVCoulter et al.
+
+Instillation of Mydriatic/Cycloplegic Spray
+A combination mydriatic/cycloplegic spray of 0.5% tropicamide, 0.5% cyclopentolate, and 2.5% phenylephrine was used.
+This commonly used combination achieves effective mydriasis
+and cycloplegia in the pediatric population, while minimizing
+risks associated with cyclopentolate.32,33 Of specific concern for
+the ASD population, instillation of cyclopentolate has been reported
+to elicit seizures in patients with neurological impairment.32
+While the patient watched a video, the examiner told the patient that the spray would be instilled and practiced singing and
+counting with them. The examiner administered a mydriatic,
+cycloplegic spray of 0.5% tropicamide, 0.5% cyclopentolate, and
+2.5% phenylephrine to both eyes simultaneously, a technique
+called the Fecho double spray instillation (Fig. 3).
+
+Posterior Segment Evaluation and
+Cycloplegic Retinoscopy
+Thirty minutes after instillation of the combination mydriatic/
+cycloplegic spray, posterior segment evaluation and cycloplegic
+retinoscopy were completed.
+
+flippers of +2.00. The examiner neutralized the refractive error
+for each eye using the Luneau Retinoscopy Rack (Lombart Instruments) and/or loose lenses. The examiner determined his or
+her working distance and recorded the net retinoscopy findings
+in each meridian for the OD and OS.
+
+Need for Refractive Correction
+The patient’s cycloplegic retinoscopy findings were compared
+with study guidelines for refractive correction to determine if a
+new refractive correction was indicated (Table 1). For patients
+whose findings showed a significant difference from their habitual
+correction and their cycloplegic retinoscopy findings, a new spectacle prescription was provided. The patient wore the appropriate
+spectacle correction for 4 weeks and returned to the clinic to repeat
+the following tests: binocular distance visual acuity, monocular
+distance visual acuity, retinoscopy, cover/uncover (unilateral cover)
+test and alternate cover test with prism neutralization at distance and
+near, NPC, ocular motility testing, near fusional vergence (break
+and recovery), stereoacuity, monocular estimation method retinoscopy, binocular near visual acuity, and monocular near visual
+acuity. The results from this second testing session were used in data
+analysis.
+
+Binocular Indirect Ophthalmoscopy
+To encourage the patient to tolerate the bright beam of the
+binocular indirect ophthalmoscope, a shaping technique was used.
+The light beam was presented to the patient in an incremental
+manner. The examiner presented the light beam to the patient first
+by shining the beam on the examiner’s hand first and then on the
+patient’s hand. The examiner then counted for 5 seconds holding
+the light beam on the patient’s leg and then backed away. This
+pattern was repeated as the beam was shown the patient’s hand,
+face, and eye. The examiner then put the BIO on his or her head
+and shined it into the patient’s eye and counted with the patient
+for 5 seconds. The examiner used a lighted toy to direct the patient’s
+direction of gaze during the examination of the peripheral fundus.
+
+Statistical Analysis
+All statistical testing was performed using SAS version 9.3. Chisquare tests were used to compare testability of patient groups (TD vs.
+ASD) and based on communication level reported by the parent
+(nonverbal, uses short words, verbal/able to speak fluently). Independent sample t tests were used to compare the mean age and
+time since last eye examination between TD and ASD patients.
+For comparisons of age and time since last examination between
+levels of communication, analysis of variance was used with the
+Tukey method used to control the overall error rate of any post hoc
+pairwise comparisons.
+
+Cycloplegic Retinoscopy
+
+RESULTS
+
+The patient viewed video playing on a DVD placed on a table
+or chair 3 feet away. The patient viewed the target through lens
+
+Between August 2010 and June 2012, 61 patients aged 9 to
+17 years were enrolled. The mean age for each group did not differ
+significantly (p = 0.54): ASD, mean age = 11.65 years; SD = 2.8;
+and TD, mean age = 11.22 years; SD = 2.5. Of note, given the
+typical sex distribution for the ASD population of four male
+subjects to each female subject, the sex distribution for both the
+ASD and TD groups was similar (p = 0.53): for the ASD group,
+59% were male, and for the TD group, 66% were male. Race was
+also similar: 96% of TD patients and 79% of ASD patients were
+white (p = 0.067). Among those identified as white, there were no
+significant differences between groups in the percentage of patients who were Hispanic (p = 0.22). Typically developing patients
+were more likely to be medication free (p = 0.056).
+Among the ASD patients, parental report of verbal communication indicated that 23% (n = 8) were nonverbal, 27% (n = 9) were
+verbal and able to use short words, and 50% (n = 17) were verbal/
+spoke fluently. There were no age differences between patients in the
+three communication levels (p = 0.20). The average age of verbal
+ASD patients was 11.71 years (SD = 2.7), whereas patients using
+
+FIGURE 3.
+Fecho double spray instillation.
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+short words were, on average, 10.44 years (SD = 2.6). Nonverbal
+ASD patients were, on average, 12.88 years (SD = 3.0).
+
+Parent Report of Prior Eye Examination
+Nearly two-thirds (65%) of the ASD patients had a previous eye
+examination compared with 85% of TD patients (p = 0.071).
+Among the ASD patients, the percentage who had attended a prior
+eye examination differed only slightly by the level of reported
+verbal communication: 50% of the nonverbal patients, 56% of the
+patients who used short words, and 77% of the verbal patients
+who spoke fluently (p = 0.35).
+
+39
+
+patients (mean = 1.00 years; SD = 0.9; p = 0.94). In contrast, the
+average time since an eye examination was significantly longer for
+both the patients using short words to communicate (mean =
+4.00 years; SD = 2.7; p G 0.001) and nonverbal patients (mean =
+4.75 years; SD = 3.1; p G 0.001).
+
+Testability of Vision and Eye Test Measures
+As shown in Table 2, the proportion of ASD patients able to
+complete testing was high for most vision and eye tests (TD, 100%;
+ASD, 88 to 100%), except for IOP measurement, which was reduced
+in both the ASD group (71%) and the TD group (89%; p = 0.083).
+For all measures except IOP (p G 0.001), there was no association
+between communication level of ASD patients and testability.
+
+Parent Report of Time since Last Eye Examination
+Information on the age of the patient at his or her last eye
+examination and current age was used to calculate the time since
+last examination for those with a previous examination. The time
+between the study visit and the last reported eye examination was
+greater for ASD patients (mean = 2.36 years; SD = 2.5) than TD
+patients (mean = 0.70 years; SD = 1.1; p = 0.007). Time since last
+eye examination for verbal patients was similar to that of TD
+
+Testability of Visual Acuity Measures
+Binocular distance visual acuity could be obtained for all TD
+and ASD patients (Table 2). Similarly, monocular distance visual
+acuity could be obtained for all TD and all but one ASD patient.
+For both patient groups, visual acuity at distance was primarily
+obtained using the Snellen letter chart: 100% of TD patients and
+71% of ASD patients. Further examination of the ASD patients,
+
+TABLE 2.
+
+Number (and percentage) of patients completing each clinical measure, by patient type and communication level
+TD
+(n = 27)
+
+ASD
+(n = 34)
+
+ASD: verbal
+(n = 17)
+
+Clinical measure
+
+ASD: use short
+words (n = 9)
+
+ASD: nonverbal
+(n = 8)
+
+n (%)
+
+Refraction and accommodative function measures
+Retinoscopy
+27 (100)
+Cycloplegic retinoscopy
+27 (100)
+Monocular estimated method retinoscopy
+27 (100)
+Ocular health measures
+Anterior segment evaluation
+27 (100)
+Posterior segment evaluation
+27 (100)
+Intraocular pressure
+24 (88)
+Visual acuity measures
+Distance visual acuity
+Binocular
+27 (100)
+Monocular OD, OS
+27 (100)
+Near visual acuity
+Binocular
+27 (100)
+Monocular OD, OS
+27 (100)
+Binocular vision measures
+Stereoacuity
+27 (100)
+Cover test distance and near
+27 (100)
+Near point of convergence
+Break
+27 (100)
+Recovery
+27 (100)
+Vergence at near
+Base-in to break
+27 (100)
+Base-in to recovery
+27 (100)
+Base-out to break
+27 (100)
+Base-out to recovery
+27 (100)
+Fixation and oculomotor function measures
+Fixation stability
+NSUCO saccades
+27 (100)
+NSUCO pursuits
+27 (100)
+
+33 (97)
+34 (100)
+31 (91)
+
+17 (100)
+17 (100)
+16 (94)
+
+9 (100)
+9 (100)
+9 (100)
+
+7 (88)
+8 (100)
+6 (75)
+
+34 (100)
+34 (100)
+24 (70)
+
+17 (100)
+17 (100)
+17 (100)
+
+9 (100)
+9 (100)
+4 (44)
+
+8 (100)
+8 (100)
+3 (38)
+
+34 (100)
+33 (97)
+
+17 (100)
+17 (100)
+
+9 (100)
+9 (100)
+
+8 (100)
+7 (88)
+
+32 (94)
+31 (91)
+
+17 (100)
+17 (100)
+
+9 (100)
+8 (89)
+
+6 (75)
+6 (75)
+
+33 (97)
+33 (97)
+
+17 (100)
+16 (94)
+
+9 (100)
+9 (100)
+
+7 (88)
+8 (100)
+
+33 (97)
+32 (94)
+
+16 (94)
+16 (94)
+
+9 (100)
+8 (89)
+
+8 (100)
+8 (100)
+
+32 (94)
+30 (88)
+33 (97)
+31 (91)
+
+16 (94)
+16 (94)
+16 (94)
+16 (94)
+
+9
+8
+9
+9
+
+(100)
+(89)
+(100)
+(100)
+
+7 (88)
+6 (75)
+8 (100)
+6 (75)
+
+33 (97)
+33 (97)
+33 (97)
+
+16 (94)
+17 (100)
+17 (100)
+
+9 (100)
+9 (100)
+9 (100)
+
+8 (100)
+7 (88)
+7 (88)
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+40 Eye Testing of Children with AutismVCoulter et al.
+TABLE 3.
+
+Number (and percentage) of patients tested with each speciﬁc
+clinical test for visual acuity at distance and near and
+stereoacuity, by ASD communication level
+Communication level, n (%)
+Clinical measure
+
+Verbal
+(n = 17)
+
+Visual acuity testVdistance
+Snellen
+16 (94)
+Lea crowded symbol
+1 (6)
+Could not complete
+0
+Visual acuity testVnear
+ETDRS
+13 (76)
+Lea
+4 (24)
+Could not complete
+0
+Stereoacuity
+Randot Stereotest
+11 (65)
+Random Dot E
+6 (35)
+Lang I
+0
+Could not complete
+0
+
+Uses short
+words (n = 9)
+
+Nonverbal
+(n = 8)
+
+4 (44)
+5 (56)
+0
+
+4 (50)
+4 (50)
+0
+
+2 (22)
+7 (78)
+0
+
+2 (25)
+4 (50)
+2 (25)
+
+9 (100)
+0
+0
+0
+
+3
+1
+3
+1
+
+(38)
+(12)
+(38)
+(12)
+
+however, showed that the specific test used to determine visual
+acuity at distance was dependent on communication level (p values =
+0.01; Table 3). Of the 17 patients with ASD described as verbal by
+their parents, 16 (94%) were able to complete distance visual acuity
+testing using the Snellen chart, whereas 1 patient (6%) needed the
+Lea Crowded Symbol Book and response card (Table 3). Of the 9
+patients with ASD described as using short words, distance visual
+acuity was determined using the Snellen chart for 4 patients (44%),
+whereas the Crowded Symbol Book and response card was necessary
+for 5 patients (56%). For the 8 patients with ASD described as
+nonverbal, 4 (50%) were tested using the Snellen chart and 4 (50%)
+were tested using the Crowded Symbol Book and response card.
+As with distance visual acuity, both binocular and monocular
+near visual acuity measurements were obtained from all TD patients while testability ranged from 91 to 94% among ASD patients. In addition, testability of binocular near visual acuity was
+associated with communication level in the group of ASD patients
+(p = 0.032). Although binocular visual acuity at near could be
+obtained from all ASD patients who were verbal or used short
+words, only 75% of the nonverbal patients could complete the
+test. Intraocular pressure was obtained on all ASD verbal patients,
+but it was obtained on only 44% of those who communicate using
+short words and on 38% of the nonverbal patients.
+Unlike distance visual acuity, the test required to obtain near
+visual acuity depended on patient type (p = 0.002). All TD patients were tested using the ETDRS chart, whereas only 24 of 34
+(70%) ASD patients were able to respond to that specific test. In
+addition, the test used for ASD patients was significantly associated with communication level (p = 0.004). Like TD patients,
+most verbal ASD patients (76%) were tested using the ETDRS
+compared with only 22% of ASD patients described as using short
+words and 25% of nonverbal ASD patients.
+
+Testability of Binocular Vision Measures
+Testability of both sensory and motor fusion tests was generally
+good to excellent for both ASD and TD groups. Stereoacuity
+
+measurements were obtained from all TD patients and 33 of 34
+(97%) ASD patients. The one ASD patient who could not be
+tested was described as nonverbal. Although testability of ASD
+patients was not related to communication level, the specific test
+required was related to method of communication (p = 0.002;
+Table 3). The Randot Stereotest was used to measure stereoacuity
+for all 9 patients described as using short words to communicate,
+11 of the 17 (65%) verbal ASD patients, and 3 of the 8 (38%)
+nonverbal ASD patients. The remaining 6 ASD patients described
+as verbal were tested using the Random Dot E stereotest. Testability for NPC and near fusional vergence again was excellent for
+TD patients and slightly reduced for ASD patients ranging from
+88 to 97%; however, these differences between the TD and ASD
+groups were not statistically significant (p values 9 0.06). In addition,
+testability for ASD patients for NPC and near fusional vergence
+was not related to verbal communication level (p values 9 0.15).
+
+Testability of Eye Movement Measures
+Fixation stability was obtained from all patients except for one
+ASD patient described as verbal (Table 2). Similarly, NSUCO
+saccades and NSUCO pursuits were obtained for all except one
+nonverbal ASD patient. As with tests of binocular vision, testability was not related to communication level.
+
+DISCUSSION
+The aim of this study was to design an eye examination protocol
+that would be successful for patients with ASD and to compare the
+testability of vision tests and eye tests using this protocol for patients with ASD to that of TD peers. Autism spectrum disorder
+patients have multiple challenges in social interaction, communication, making transitions, and sensory processing. When vision
+testing was integrated with communication and sensory processing supports and behavioral strategies, the proportion of ASD
+patients able to complete vision testing was generally high.
+The results of this study were compared with those reported in
+other prospective studies of vision assessment in ASD patients
+(Table 4). Using the enhanced protocol designed for this study,
+the proportion of ASD patients able to complete testing generally
+exceeded that reported by other investigators. This difference is
+particularly true for stereoacuity, oculomotor testing, and near
+fusional vergence testing. The testability of visual acuity testing in
+this study is also higher than Ikeda et al.’s report34 by retrospective
+record where only 40% of ASD patients completed recognition
+visual acuity. Testability is an important aspect of clinical and
+research data collection. Future clinical investigators may consider
+the supports and strategies used and the interdisciplinary collaboration of the study team in creating research protocols.
+Testing a patient’s vision and eye health cannot be performed
+without considering a patient’s development, abilities, and challenges in other areas. Understanding the patient’s ability to communicate, attend to, and respond to testing is important in selecting
+and administering tests in an eye examination. If the purpose of the
+vision testing is to gain information from patients with ASD, testing
+needs to be tailored to these patients’ differences and then evaluated
+for its usefulness. Testing that excludes significant numbers of patients of this population or subgroups within it, because they cannot
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+41
+
+TABLE 4.
+
+Comparison of testability in prospective studies of children and/or adolescents with ASD
+Study
+N
+Age of ASD patients, y
+ASD diagnostic criteria used
+Visual acuity and refractive error
+Visual acuity
+
+Refractive error
+Ocular motility
+Oculomotor
+
+OKN response
+
+Scharre and Creedon 19929
+
+Milne et al. 20098
+
+Coulter et al. 2014
+
+34
+2Y11
+DSM-III
+
+51
+8Y18
+DSM-IV
+
+34
+9Y17
+DSM-IV
+
+Binocular visual acuity by
+Teller cards Forced
+Preferential Looking-2
+trials 33/34 (97%)
+Near retinoscopy
+33/34 (97%)
+
+Distance monocular visual
+acuity crowded logMAR
+test then Kay picture or
+Ffooks 41/51 (80%)
+Not attempted
+
+Distance monocular visual
+acuity Snellen then Lea
+symbol 33/34 (97%)
+
+Pursuits5/34 (15%)
+
+Pursuits in eight fields
+of gaze 44/51 (86%)
+
+NSUCO fixation 33/34 (97%)
+
+OKN drum horizontal and
+vertical 34/34 (100%)
+Unilateral cover test
+34/34 (100%)
+
+Ocular alignment
+Binocular vision
+Stereotest
+
+Lang 16/34 (47%)
+
+Near point of convergence
+Fusional vergence at near
+
+Other near tests
+Binocular near visual acuity
+Accommodative response
+
+Not attempted
+Not attempted
+
+Not attempted
+Not attempted
+
+OKN drum horizontal
+and vertical 41/51 (80%)
+Unilateral cover test
+47/51 (92%)
+Frisby stereotest 37/51 (72%)
+
+Distance retinoscopy 33/34 (97)
+
+NSUCO pursuits33/34 (97%)
+NSUCO saccades31/34 (91%)
+Not attempted
+Unilateral and alternating
+cover test 33/34 (97%)
+
+NPC 44/51 (86%)
+Base-in 32/51 (72%)
+
+Random Dot 2, Random
+Dot E, Lang 33/34 (97%)
+NPC 332/34 (94%)
+Base-in 30/34 (88%)
+
+Base-out (tested once)
+32/51 (63%)
+
+Base-out (tested three times)
+31/34 (91%)
+
+Not attempted
+Not attempted
+
+ETDRS or Lea 30/34 (88%)
+Monocular estimated method
+retinoscopy 31/34 (91%)
+
+DSM-III, Diagnostic and Statistical Manual of Mental Disorders, Third Edition; DSM-IV, Diagnostic and Statistical Manual of Mental
+Disorders, Fourth Edition; logMAR, logarithm of the minimum angle of resolution; OKN, optokinetic nystagmus.
+
+complete the tests, yields data that are incomplete and skewed and
+may not accurately reflect the patient population’s visual status. Before
+investigators or clinicians can determine the frequency and nature of
+vision problems found in patients with ASD, they need to consider
+how these patients’ challenges in communication, sensory processing,
+and motor planning impact the testing being administered.
+Using strategies and protocols that target the developmental level
+of a specific population is not new to vision testing. Infant vision
+testing became more productive when Teller35 developed infant vision testing by forced-choice preferential looking and grating patterns
+using the observation that TD infants preferred to look at patterned
+stimuli over homogenous gray stimuli. Fulton et al.36 demonstrated
+that as testability of infants increased with the use of Forced Preferential Looking, the identification of patients who had decreased
+vision as a result of strabismus or cataracts improved. By considering
+ASD patients’ developmental level and abilities, investigators will be
+better able to select tests, design eye examination protocols, and diagnose and manage patients with vision and eye health problems.
+Good clinicians may intuitively use some of the strategies identified such as selecting tests to avoid tactile defensiveness, shaping
+a desired response, following a high probability request with a
+low one, presenting desired behaviors framed as choices, or using
+
+distraction techniques to increase tolerance to unpleasant stimuli.
+Other tools, such as the use of a visual schedule, social story, or the
+yes/no application, may be relatively unknown. In either case, working
+toward a more systematic approach to examining ASD patients may
+be helpful for those investigating aspects of vision or those who
+provide comprehensive vision and eye care. Understanding why
+certain approaches work may also be useful in the training of current
+and future eye care providers. Our results show that these strategies
+and tools are not difficult for clinicians to implement.
+Incorporation of these strategies and tools offers advantages
+to patients as well. By increasing patients’ understanding of the
+testing process and how they can participate in it, clinicians and
+investigators can decrease patient and parent anxiety and lay the
+groundwork for future visits. This may ultimately increase their
+access to quality vision and eye care.
+
+Which Test Worked and for Whom
+Testability for vision and eye tests varied greatly for ASD patients by the level of verbal communication reported by the
+parents. Although the parent-reported verbal communication
+level is not a standardized measure of language, it quickly provides
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+42 Eye Testing of Children with AutismVCoulter et al.
+
+needed information to the eye care provider. All the ASD and TD
+patients were able to do binocular distance visual acuity testing;
+however, the tests that the patients responded to differed by ASD
+subgroup (p = 0.0021). For ASD patients who were described as
+verbal, testability results were very similar to the TD population.
+In testing visual acuity, almost all patients who were fluent were
+able to complete the Snellen acuity chart. In comparison, only half
+of the patients who used short words or who were nonverbal were
+able complete the Snellen acuity chart. In testing stereoacuity,
+most patients who were fluent or had some words could complete
+the Random Dot 2 test. Nonverbal patients were generally able to
+complete a stereotest, if it was presented in a forced-choice presentation or did not require wearing Polaroid goggles. In this study,
+testability varied most for tonometry. Tonometry was particularly
+challenging for nonverbal patients. As these patients mature into
+adulthood and their risk for glaucoma increases, there will be a need
+for alternative ways to measure IOP or other types of testing and/or
+protocols that can detect early glaucomatous changes.
+Few studies have reported the findings of their ASD patients by
+functional subgroups. Milne et al.8 reported the vision screening
+results by subgroups based on IQ testing results. High-functioning
+subjects were defined as those who had IQ test results higher than
+or equal to 100, whereas LF patients were those with IQ lower than or
+equal to 100 or whose IQ was untestable. In this study, testability for
+HF subjects was generally high: visual acuity, 97%; stereoacuity, 86%;
+prism fusional vergence, 66%; and NPC, 100%. Testability for LF
+subjects was marked lower: visual acuity, 60%; stereoacuity, 40%;
+prism fusional vergence, 27%; and NPC, 80%.
+Our ASD patient subgroups were based on parent report of
+verbal communication levels and not measured IQ test results.
+This required the parent to make a judgment about his or her
+child’s ability. Although this determination is a practical and easy
+method for eye care providers, it is not based on a standardized
+questionnaire or clinical assessment.
+Our testability results, particularly those from less verbal patients, compare favorably with those reported by Milne et al.8 We
+suggest that consideration of test selection, examination strategies,
+and supports are particularly important for ASD patients who are
+less verbal or less able to respond to conventional testing techniques, as their findings may be most likely to be eliminated from
+scientific study otherwise.
+Eye care providers need to determine guidelines for eye examination testing for patients with ASD protocols. In future
+studies and investigations, testability of the vision and eye tests
+used needs to be considered. Vision testing, screening, and eye
+examination studies that eliminate up to 30 to 60% of the patients
+with ASD tested do not accurately reflect visual status or functional abilities of the ASD population.
+It is also important to acknowledge the diversity of the ASD
+population. The wide range of abilities found in this population
+may mean that multiple protocols are needed to accommodate
+patients of differing abilities. Current investigation of the ASD
+population aims to identify phenotypes of patients who are more
+similar. In the meantime, clinicians need clinical classifications
+that communicate a patient’s profile quickly and do not require
+access to additional testing or documentation. Parental report of
+verbal communication may be a reasonable starting point as long
+as clinicians understand the limitations of this designation.
+
+Limitations
+It is important to note the limitations of this study when considering its application to clinical practice. The study sample of
+patients with ASD reflected an atypical sex distribution. The ratio
+of male to female typically found in the ASD population is 4:1; in
+this study, it was 10:7. This may reflect a bias on the part of the
+parents who chose to enroll their child and to participate. Sex was
+not related to the testability of any of our eye examination procedures (p values 9 0.05; data not shown).
+Another study limitation is the older age range of patients who
+were 9 to 17 years at the time of testing. Patients with ASD whose
+parents reported their verbal communication level as verbal showed
+vision and eye test completion at rates similar to those of TD patients. Patients with ASD who are younger than 9 years and who
+have not yet completed years of early intervention, speech, and
+occupational therapy or educational programs may show lower
+testability rates on vision and eye tests. Finally, our study administered cycloplegic and mydriatic agents in a spray administration. It
+is possible that eye drop administration of these same agents to
+obtain a more controlled cycloplegia might negatively impact testability for ocular health examination and cycloplegic refraction.
+
+CONCLUSIONS
+In summary, the results of this study are as follows:
+1. Most patients with ASD including those who are nonverbal
+can complete most vision tests within an eye examination
+using a protocol that incorporates visual, communication,
+and sensory supports.
+2. It is not that difficult to incorporate the appropriate protocols
+to allow for successful testing of patients with ASD. Most can
+be implemented with relatively little additional time or resources by the examiner.
+3. Testability of near binocular visual acuity and IOPs varies for
+ASD patients by the level of verbal communication reported
+by the parent.
+4. Testability of IOPs is reduced, particularly for nonverbal
+patients and patients who used short words. Future research is
+needed to refine examination procedures and investigate treatment implementation in this patient population.
+
+ACKNOWLEDGMENTS
+We are grateful to all participants and their parents and caregivers. We thank
+Michael Alessandri, PhD, and the NSU-CARD staff, Broward County
+Public Schools, Westlake Academy, CasaBlanca Academy, and Tania DiazFernandez, MOT, for their assistance in patient recruitment. We thank
+Darryl M. Horn, PhD, for comments that greatly improved this article. This
+work was supported by a Nova Southeastern University Chancellor’s Faculty
+Research & Development Grant and a Nova Southeastern University Health
+Professions Division Grant. This work has been presented in part at the
+American Academy of Optometry (Phoenix, AZ, 2012) and the International
+Meeting for Autism Research (San Sebastian, Spain, 2013).
+Received February 28, 2014; accepted July 29, 2014.
+
+REFERENCES
+1. Autism Spectrum Disorders: Data and statistics. Atlanta: Division of
+Birth Defects, National Center on Birth Defects and Developmental
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Eye Testing of Children with AutismVCoulter et al.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+10.
+
+11.
+
+12.
+13.
+14.
+
+15.
+16.
+17.
+
+18.
+19.
+
+20.
+
+Disabilities, Centers for Disease Control and Prevention, 2014.
+Available at: http://www.cdc.gov/ncbddd/autism/data.html. Accessed
+March 27, 2014.
+Trager MJ, Dirani M, Fan Q, Gazzard G, Selvaraj P, Chia A, Wong
+TY, Young TL, Varma R, Saw SM. Testability of vision and refraction in preschoolers: the strabismus, amblyopia, and refractive
+error study in Singaporean children. Am J Ophthalmol 2009;148:
+235Y41 e6.
+Kulp MT, Dobson V, Peskin E, Quinn G, Schmidt P. The electronic
+visual acuity tester: testability in preschool children. The Vision in
+Preschoolers (VIP) Study Group. Optom Vis Sci 2004;81:238Y44.
+Cotter SA, Tarczy-Hornoch K, Wang Y, Azen SP, Dilauro A,
+Borchert M, Varma R. Visual acuity testability in African-American
+and Hispanic children: the Multi-Ethnic Pediatric Eye Disease
+Study. Am J Ophthalmol 2007;144:663Y7.
+Schmidt PP, Maguire MG, Moore B, Cyert L. Testability of preschoolers on stereotests used to screen vision disorders. Vision in
+Preschoolers Study Group. Optom Vis Sci 2003;80:753Y7.
+Tarczy-Hornoch K, Lin J, Deneen J, Cotter SA, Azen SP, Borchert
+MS, Wang Y, Varma R. Stereoacuity testability in African-American
+and Hispanic pre-school children. Optom Vis Sci 2008;85:158Y63.
+Pai AS, Rose KA, Samarawickrama C, Fotedar R, Burlutsky G,
+Varma R, Mitchell P. Testability of refraction, stereopsis, and other
+ocular measures in preschool children: the Sydney Paediatric Eye
+Disease Study. J AAPOS 2012;16:185Y92.
+Milne E, Griffiths H, Buckley D, Scope A. Vision in children and
+adolescents with autistic spectrum disorder: evidence for reduced
+convergence. J Autism Dev Disord 2009;39:965Y75.
+Scharre JE, Creedon MP. Assessment of visual function in autistic
+children. Optom Vis Sci 1992;69:433Y9.
+Sterling-Turner HE, Jordan SS. Interventions addressing transition
+difficulties for individuals with autism. Psychol Schools 2007;44:
+681Y90.
+Cafiero JM, Meyer A. Your child with autism: when is augmentative
+and alternative communication (AAC) an appropriate option? Except Parent 2008;38:28Y30.
+Sughrue K (Producer). Apps for Autism. 60 Minutes [television
+broadcast]. Washington, DC: CBS News; Oct. 23, 2011.
+Answers:YesNo [iOS app]. Simplified Touch; 2011.
+Cohen M, Sloan DL. Visual Supports for People with Autism: A
+Guide for Parents and Professionals. Bethesda, MD: Woodbine
+House; 2007.
+Ingersoll B, Dvortcsak A. Teaching Social Communication to
+Children with Autism. New York: The Guilford Press; 2010.
+Gray C. The New Social Story Book: Illustrated Edition, 2nd ed.
+Arlington, TX: Future Horizons Inc.; 2000.
+Test DW, Richter S, Knight V, Spooner F. A comprehensive review
+and meta-analysis of the social stories literature. Focus Autism Other
+Dev Disabl 2011;26:49Y62.
+Briody J, McGarry K. Using social stories to ease children’s transitions. Young Children 2005;60:38Y42.
+Backman B, Pilebro C. Augmentative communication in dental
+treatment of a nine-year-old boy with Asperger syndrome. ASDC J
+Dent Child 1999;66:419Y20.
+Daly DA, Gill JM, Cullinane CG, Hourihane JO. Using social
+stories to prepare children with autism for allergy testing. J Allergy
+Clin Immunol 2010;125:AB51.
+
+43
+
+21. Visiting Nate and Franc. Chapel Hill, NC: University of North
+Carolina School of Medicine, Division of Occupational Science and
+Occupational Therapy, 2014. Available at: http://www.med.unc.edu/
+ahs/ocsci/sep/sep-image-and-files/EEGSocialStory.pdf. Accessed May
+27, 2014.
+22. ATN/AIR-P Blood Draw Tool Kit. Nashville, TN: Autism Speaks
+Autism Treatment Network, 2011. Available at: http://www.autismspeaks.org/
+science/resources-programs/autism-treatment-network/tools-you-canuse/blood-draw-toolkits. Accessed May 27, 2014.
+23. Scattone D, Wilczynski SM, Edwards RP, Rabian B. Decreasing
+disruptive behaviors of children with autism using social stories.
+J Autism Dev Disord 2002;32:535Y43.
+24. Banda DR, Grimmett E, Hart SL. Activity schedules: helping students with autism spectrum disorders in general education classes
+manage transition issues. Teach Except Child 2009;41:16Y21.
+25. Quill KA. Instructional considerations for young children with autism: the rationale for visually cued instruction. J Autism Dev Disord
+1997;27:697Y714.
+26. Myles BS, Grossman BG, Aspy R, Henry SA, Coffin AB. Planning a
+comprehensive program for students with autism spectrum disorders
+using evidence-based practices. Educ Train Dev Disab 2007;42:
+398Y409.
+27. Schall CM, McDonough JT. Autism spectrum disorders in adolescence and early adulthood: characteristics and issues. J Vocat Rehab
+2010;32:81Y8.
+28. First Then Visual Schedule [app]. Good Karma Applications; 2011.
+29. Simmons DR, Robertson AE, McKay LS, Toal E, McAleer P, Pollick
+FE. Vision in autism spectrum disorders. Vision Res 2009;49:
+2705Y39.
+30. Robertson AE, Simmons DR. The relationship between sensory
+sensitivity and autistic traits in the general population. J Autism Dev
+Disord 2013;43:775Y84.
+31. Berument SK, Rutter M, Lord C, Pickles A, Bailey A. Autism
+screening questionnaire: diagnostic validity. Br J Psychiatry 1999;
+175:444Y51.
+32. Bartlett JD, Jaanus SD, (Eds). Clinical Ocular Pharmacology, 5th ed.
+St. Louis, MO: Butterworth-Heinemann Elsevier; 2008.
+33. Wong CY, Fan DS, Yu CB, Lam DS. Topical mydriatic and
+cycloplegic spray for Chinese children. J Pediatr Ophthalmol Strabismus 2003;40:349Y52.
+34. Ikeda J, Davitt BV, Ultmann M, Maxim R, Cruz OA. Brief report:
+incidence of ophthalmologic disorders in children with autism.
+J Autism Dev Disord 2013;43:1447Y51.
+35. Teller DY. The forced-choice preferential looking procedure: a
+psychophysical technique for use with human infants. Infant Behav
+Dev 1979;2:135Y53.
+36. Fulton AB, Manning KA, Dobson V. Infant vision testing by a
+behavioral method. Ophthalmology 1979;86:431Y9.
+
+Rachel Anastasia Coulter
+College of Optometry
+Nova Southeastern University
+3200 S University Dr
+Fort Lauderdale, FL 33328
+e-mail: staceyco@nova.edu
+
+Optometry and Vision Science, Vol. 92, No. 1, January 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+

@@ -1,0 +1,817 @@
+1040-5488/14/9108-0878/0 VOL. 91, NO. 8, PP. 878Y886
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2014 American Academy of Optometry
+
+REVIEW
+
+Studying Age-Related Macular Degeneration
+Using Animal Models
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8KKGKV0Ymy+78= on 10/31/2020
+
+Erica L. Fletcher*, Andrew I. Jobling†, Ursula Greferath†, Samuel A. Mills‡, Michelle Waugh*,
+Tracy Ho‡, Robb U. de Iongh†, Joanna A. Phipps§, and Kirstan A. Vessey†
+
+ABSTRACT
+Over the recent years, there have been tremendous advances in our understanding of the genetic and environmental factors
+associated with the development of age-related macular degeneration (AMD). Examination of retinal changes in various
+animals has aided our understanding of the pathogenesis of the disease. Notably, mouse strains, carrying genetic anomalies
+similar to those affecting humans, have provided a foundation for understanding how various genetic risk factors affect
+retinal integrity. However, to date, no single mouse strain that develops all the features of AMD in a progressive age-related
+manner has been identified. In addition, a mutation present in some background strains has clouded the interpretation
+of retinal phenotypes in many mouse strains. The aim of this perspective was to describe how animals can be used to
+understand the significance of each sign of AMD, as well as key genetic risk factors.
+(Optom Vis Sci 2014;91:878Y886)
+Key Words: retina, drusen, animal model, age-related macular degeneration
+
+A
+
+ge-related macular degeneration (AMD) is one of the
+leading causes of visual impairment, affecting 18.5% of
+people older than 85 years.1 There are two forms of advanced AMD. Dry AMD, or geographic atrophy (GA), which is
+characterized by loss of retinal pigment epithelium (RPE) cells and
+overlying photoreceptors in large patches across the central retina,
+whereas wet or neovascular AMD is characterized by growth of
+new blood vessels into the retina.2 Although recent developments
+using antiYvascular endothelial growth factor agents have led to
+effective treatments targeting ‘‘wet AMD,’’ there are few avenues
+for combating the progression of disease from early stages or
+treatments that target advanced atrophic disease.
+A hallmark sign of early AMD is the presence of deposits at the
+base of the RPE, called drusen.3 Other signs of early-stage disease
+include thickening of Bruch membrane and subsequent loss of
+photoreceptors. In addition, recently, there has been renewed
+
+*MScOptom, PhD
+†
+PhD
+‡
+BSc(Hons)
+§
+MOptom, PhD
+Department of Anatomy and Neuroscience, The University of Melbourne,
+Parkville, Victoria, Australia (all authors).
+This is an open-access article distributed under the terms of the Creative
+Commons Attribution-NonCommercial-NoDerivatives 3.0 License, where it is
+permissible to download and share thework providedit is properly cited. The work
+cannot be changed in any way or used commercially.
+
+interest in the role and significance of reticular pseudodrusen
+for the progression of AMD. Notably, reticular pseudodrusen
+are associated with an increased risk of progression to advanced
+disease and, although the source of some debate, may reflect accumulation of debris within the subretinal space. As mentioned
+above, advanced disease is characterized by atrophic changes to
+the RPE and overlying photoreceptors (GA), and/or choroidal
+neovascularization (CNV) within the macula.2 The etiology and
+pathogenesis of AMD remain a source of considerable debate. The
+role of both environmental and genetic factors has been firmly
+established.3 A number of studies have demonstrated an association between certain single nucleotide polymorphisms and
+AMD,4 notably, genes associated with AMD, include those
+affecting immune function (e.g., complement factor H), extracellular matrix turnover, and transport of lipids (e.g., ApoE).4
+Over the last decade, there has been considerable effort made to
+understand the underlying cell biology of AMD by modeling
+changes in the retina of animal models, especially rodents. A
+number of transgenic mice that express genetic mutations commonly associated with developing AMD in humans have been
+developed. However, several limitations in the use of rodents have
+been identified. Notably, rats and mice do not have a macula, nor
+do they have an area of high cone density analogous to the fovea.
+In addition, rodents do not develop deposits at the base of the
+RPE, which are of similar composition to drusen in humans,
+perhaps reflecting a difference in the manner in which lipids are
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Animal Models of AMDVFletcher et al.
+
+transported across the RPE in rodents.5 Finally, interpretation of
+retinal changes in some strains of mice has been clouded by the
+inheritance of a point mutation in Crb1 (called Crb1rd8) in the
+background strains of many mice.6 This mutation, which affects
+the localization and expression of the protein, Crb1, affects
+photoreceptor integrity but is of little relevance to the development of AMD. In view of the widespread prevalence of this
+mutation, there is a need to re-evaluate the available mouse models
+available to study AMD.
+The aim of this perspective was to provide an overview of how
+animal models can be used to understand the pathogenesis of
+AMD. We consider how animals can be used to study each of
+the signs of AMD and also how animal models have enhanced
+our understanding of the role of particular genetic risk factors
+and molecular mechanisms involved in the disease.4
+
+ANIMALS THAT DEVELOP DRUSEN OR
+DRUSEN-LIKE DEPOSITS
+Drusen are a cardinal feature of AMD, characterized as focal
+deposits of varying size, which form at the base between the RPE and
+the Bruch membrane. Their size has been used to provide clinical
+estimates of progression, with larger drusen (9125 Km) indicating a
+substantial risk of progression to advanced disease.7 Drusen consist
+of a large number of molecular components including fragments of
+immune complexes, amyloid protein, and a variety of lipids.8 Reticular pseudodrusen are a second type of lesion that is present in
+some patients with AMD. Some studies have suggested that reticular
+pseudodrusen may reflect accumulation of debris within the
+subretinal space. However, their composition and underlying etiology remain the source of some debate.
+Of mammals with a fovea, only simian primates offer an
+opportunity to study the role of drusen in AMD.9,10 Approximately 32% of a cohort of 278 aged female Macaque monkeys
+(Macaca fascicularis) showed drusen in varying number within the
+posterior pole, with 10.4% showing a severe phenotype of 20 or
+more lesions.11 Importantly, the composition of the drusen in
+these animals was similar to that reported in humans8 and included 60 different molecular species including amyloid protein,
+vitronectin, apolipoprotein E, and complement factor 5.11 Cases
+of drusen in Rhesus monkeys (Macaca mulatta) have also been
+reported,10 with more than half of all aged Rhesus monkey developing signs of drusen. Moreover, monkeys and humans have
+similar genetic polymorphisms in genes such as HTRA1 (hightemperature requirement factor A1) and ARMS2 (age-related
+maculopathy susceptibility 2), which have been associated
+with drusen formation, suggesting similar genetic risk factors.12
+Primates develop drusen at a comparatively earlier age (50% to
+70% were affected by the equivalent of 20 to 30 years of age)
+compared to humans (50% affected by 70 years of age).10
+However, no evidence of advanced disease, either GA or CNV, has
+been reported in nonhuman primates to date.10,11
+There are many mouse strains that develop discrete white
+lesions, often called ‘‘drusen-like deposits,’’ scattered across the
+retinal fundus that increase in number with age.13 In some early
+studies, the observation of drusen-like lesions was associated with
+other signs of early AMD such as an increase in A2E expression in
+the RPE, a marker of lipofuscin accumulation.13 The observation
+
+879
+
+of a number of discrete white lesions across the aging mouse retina,
+however, should be viewed with some caution. In contrast to
+drusen that develop in humans, these lesions do not exhibit the
+same composition as human drusen, nor are they located on the
+basal RPE. Rather, these ‘‘drusen-like deposits’’ may be collections
+of immune cells such as macrophages that have migrated into the
+subretinal space.14
+Alternatively, the presence of white lesions can be a sign that a
+mutation in Crb1rd8 is present in several mouse strains.6,15 A
+mutation in Crb1rd8 causes the development of discrete lesions
+across the retina that can vary in number (Fig. 1) and that are
+associated with regions of photoreceptor disruption, rather than
+lesions forming on the basal RPE.16 Mutations in CRB1 are associated with Leber congenital amaurosis17 and some forms of
+autosomal recessive retinitis pigementosa18 but have little relevance for the development of AMD. Nonetheless, many strains of
+mice carry this mutation.6,15
+It is not clear why mice and rats do not develop drusen of
+similar composition or location to those in humans. A possible
+explanation is that transport of lipid across the RPE is different
+between rodents and humans.5 Drusen in humans are thought to
+arise from the basal secretion of RPE phagosomes, leading to an
+accumulation of lysosomes in the basal part of the RPE. In
+contrast, accumulation of lysosomal bodies is predominantly
+observed in the apical part of the RPE in aged mice, suggesting
+that transport of cellular waste across the RPE may occur in an
+apical direction, rather than toward the basal RPE as in humans.5
+In summary, to date, simian primates are the only animals
+described that develop drusen with similar composition and
+location to humans. Although some mice develop white lesions
+with age, they are not an effective model for understanding
+drusenogenesis because of the different location and composition
+to humans and the possibility that this sign is associated with
+the Crb1rd8 mutation.
+
+THICKENING OF BRUCH MEMBRANE: GENETIC
+FACTORS AND ANOMALIES IN LIPID TRANSPORT
+Early AMD is associated with changes in the RPE and Bruch
+membrane. Bruch membrane is a five-layered structure containing
+alternating layers of collagen and elastin that thickens with age.19 In
+those with AMD, the Bruch membrane becomes fragmented, calcified, and also thickened with deposits of lipid and protein. In
+addition, localized loss of elastin in the Bruch membrane has
+been suggested to be a contributor to the development of CNV.20
+Basal deposits, either internal to the RPE called basal laminar deposit
+(BLamD) or beneath the RPE within the inner collagenous zone of
+the Bruch membrane called basal linear deposit (BLinD), have been
+described. The presence of BLinD is particularly important because
+of its association with progression of AMD in humans. In mice,
+thickening of the Bruch membrane and the development of subRPE deposits (analogous to BLamD) have been reported in some
+strains (reviewed in Ramkumar et al.13).
+There are many environmental factors that have been implicated in the accumulation of debris within the Bruch membrane.
+Several studies have reported an association between AMD and
+cardiovascular risk factors such as diet, atherosclerosis, body mass
+index, and truncal obesity. Dietary composition can affect the
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+880 Animal Models of AMDVFletcher et al.
+
+FIGURE 1.
+Fundus and morphological changes in Crb1rd8/rd8 (Rd8) mice. Retinal fundi were imaged using a Micron III fundus camera and images from 4-month-old (A)
+control C57blk6J and (B) Rd8 mice are presented. B, Rd8 mice display multiple discrete, white lesions in the inferior/temporal region of the retinal fundus. A,
+This is not apparent in age-matched, control mice. Eyecups were fixed, embedded in epon-resin, cut at 1 Km, and stained with toluidine blue to inspect the
+gross structural morphology of (C) control C57blk6J and (D) Rd8 retinae. D, The photoreceptor layer and retinal pigment epithelium of Rd8-retinae degenerates in the inferior/temporal region. Scale bar, 20 Km. GCL, ganglion cell layer; INL, inner nuclear layer; IPL, inner plexiform layer; IS, inner segments;
+ONL, outer nuclear layer; OPL, outer plexiform layer; OS, outer segments; RPE, retinal pigment epithelium. D is a modification of Vessey et al.48
+
+integrity of RPE/Bruch membrane in mice as well. The Bruch
+membrane is thicker in C57BL6 mice fed a high-fat diet for
+6 months compared to mice fed a conventional diet.21 In addition,
+the glycemic index of a diet influences the Bruch membrane
+thickness in mice, with a high-glycemic-index diet resulting in a
+thicker Bruch membrane in 16-month-old mice compared to
+similar-aged mice fed a low-glycemic-index diet.22
+Combined analysis of genetic risk factors in case-control studies
+in humans as well as careful analysis of the retinae of mice carrying mutations in specific genes has aided our understanding of
+the mechanisms involved in the development of early AMD.
+In humans, an SNP in the promoter of HTRA1 is associated with an
+increased risk of developing AMD.23 This SNP drives overexpression
+of HTRA, which likely regulates the Bruch membrane composition,
+specifically by altering the degradation of extracellular matrix proteoglycans. Notably, transgenic overexpression of Htra1 in murine
+
+RPE cells is associated with disruption and change in the composition
+of the Bruch membrane.24
+In humans, genetics studies have also linked several cholesterolrelated genes with AMD including APOE, LIPC, CETP, and
+ABCA1.4 ApoE is important for the transport of lipid across cell
+membranes and is highly expressed by the RPE Bruch membrane.
+There are two SNPs in APOE resulting in three different alleles
+(called ?2, ?3, and ?4). The ?4 allele has been shown to be protective, reducing the risk of developing AMD,25,26 whereas inheritance of the ?2 allele increased risk of developing the disease.27
+A variety of mice with genetically modified expression of ApoE
+have been developed, including ApoE-null mice and transgenic
+mice expressing the human ?2, ?3, or ?4 alleles.28Y30 ApoE-null
+mice exhibit raised serum triglycerides and cholesterol and develop thickened Bruch membrane, as well as accumulation of lipid
+deposits in the basal RPE and Bruch membrane (Fig. 2).28
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Animal Models of AMDVFletcher et al.
+
+881
+
+FIGURE 2.
+Fundus and morphological changes in aged mice lacking ApoE. Retinal fundi were imaged using a Micron III fundus camera and images from 13-month-old
+C57blk6J and ApoE-null mice are presented (A, B). In general, the retinal fundus appears healthy in these mice at this age (A) but occasionally some fundus
+lesions are apparent (B). Eyecups were ﬁxed, embedded in epon-resin, cut at 70 nm, and prepared for transmission electron microscopy to inspect the
+ultrastructural morphology of the Bruch membrane delineated by a black line within the micrographs in 13-month-old (C) control C57blk6J and (D) ApoEnull mice. The Bruch membrane is thicker and contains more debris in the aged ApoE-null mice than in the controls. BM, Bruch membrane; Ch, choroid;
+RPE, retinal pigment epithelium.
+
+ApoE3-Leiden mice, which express a dysfunctional form of human APOE3, develop similar changes in the Bruch membrane to
+ApoE-null mice when fed a high-fat diet.30 Knock-in mice that
+express the human APOE2, APOE3, or APOE4 proteins under
+the control of the endogenous mouse ApoE promoter develop
+thickening of the Bruch membrane and deposits in the basal RPE
+when fed a high-fat diet.29 In addition, a small number of mice
+show progressive disease involving both RPE loss and CNV.29 In
+contrast to human studies, however, the APOE4 mouse shows the
+most severe phenotype. Overall, these observations not only
+highlight the importance of lipid transport in the development
+of thickening of the Bruch membrane but also highlight the
+difficulty in transposing human phenomena in mice.
+The importance of lipid transport in the genesis of Bruch
+membrane thickening has been confirmed in low-density lipoprotein
+receptor knockout mice and also CD36 null mice.31,32 Low-density
+lipoprotein receptorYdeficient mice are not able to incorporate
+plasma cholesterol into cells resulting in raised triglyceride levels.
+These mice show increased thickness of the Bruch membrane
+when raised on a high-fat diet.31 CD36 is expressed on the basolateral surface of RPE cells and is important for binding of oxidized
+phospholipids and perhaps the removal of oxidized lipid from
+
+the RPE to the underlying vasculature. CD36-null mice develop
+thickening of the Bruch membrane and subretinal deposits.33
+
+IMMUNE DYSREGULATION AND AMD
+A role for immune system dysregulation in the genesis of
+AMD has been established by several genome-wide association
+studies, which show increased risks for developing advanced AMD
+with inheritance of a range of SNPs in genes encoding components of the immune system.4,34Y36 Consistent with this, numerous studies have identified various components of the immune
+system in drusen.8
+The first gene associated with an increased risk of developing
+AMD was complement factor H (CFH),34Y36 with mutations
+(e.g., Y402H) increasing the risk of advanced disease by up to
+7.2 times in some individuals. In addition, inheritance of this
+polymorphism has implications for treatment outcome, with
+Y403H conferring resistance to antiYvascular endothelial growth
+factor treatment in some individuals.37,38 Normally, CFH is an
+important regulator of the alternative complement pathway,39 and
+two mouse models have been generated to investigate the role of
+CFH in AMD. Cfh-null mice show a loss of retinal function,
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+882 Animal Models of AMDVFletcher et al.
+
+numerous autofluorescent lesions at the base of the RPE, and
+increased C3 deposition with age.40,41 However, they do not
+develop deposits below the RPE or thickening of the Bruch
+membrane.40 By contrast, knock-in mice (CfhY402H) that express
+the human Y402H variant of CFH in the RPE and liver, driven by
+the murine ApoE promoter,42 do show basal laminar deposits and
+accumulation of lipofuscin-like material in the RPE. These mice
+also show accumulation of macrophages and immune cells in
+the subretinal space.42 In view of the importance of CFH to
+human disease, it is perhaps surprising that Cfh-null and CfhY402H
+mice develop only signs consistent with early AMD and do
+not show progression to GA or CNV. It is possible that regulation
+of the immune system in mice is distinct to that in humans
+and that there is a different gene and protein that perform the
+role of CFH in mice compared to humans.
+Apart from CFH, genes affecting the expression and function
+of chemokines or their receptors have been associated with an
+increased risk of AMD. Monocyte chemoattractant protein 1, also
+referred to as CCL2, and its receptor CCR2 are implicated in the
+migration and recruitment of immune cells to sites of injury.
+Recently, CCL2 has been shown to be elevated in the retina,
+aqueous humor, and urine of patients with AMD43,44 and may
+play an important role in the migration of mononuclear phagocytes into the subretinal space during aging.44 One study examining Ccl2-null mice reported photoreceptor loss, increased
+Bruch membrane thickness and C3/C5 deposition, and an increase in drusen-like deposits in the RPE from 9 months of age.45
+These deposits were associated with A2E accumulation, indicating
+
+lipofuscin accumulation. Some mice also developed CNV after
+18 months of age.45 By contrast, a follow-up study14 described
+‘‘drusen-like’’ deposits in this mouse strain but failed to find
+any progression of disease. Moreover, a histological analysis of
+the ‘‘drusen-like’’ deposits showed no defects within the basal
+RPE, but rather accumulation of immune cells within the
+subretinal space (Fig. 3).14
+Fractalkine and its receptor CX3CR1 activates a chemokine
+signaling pathway that, like CCL2, has been implicated in
+monocyte and macrophage function. There are two known SNPs
+in the human gene encoding CX3CR1, resulting in protein variants T280M and V249I. A recent study implicated loss of
+CX3CR1 function due to the T280M mutation in the development of AMD.46 Homozygous inheritance of the T280M allele
+was associated with an odds ratio of between 1.97 and 2.695 for
+the development of AMD. In addition, monocytes isolated from
+patients carrying the T280M isoform showed reduced migration
+or chemotaxis. Intriguingly, Cx3cr1-null mice have large bloated
+microglia in the subretinal space, similar to those seen in patients
+with AMD.46 It was hypothesized that loss of Cx3cr1 function
+leads to failure of regression of subretinal microgia, leading
+to photoreceptor death and neovascularization. As a result, the
+microglia become overloaded as they phagocytose photoreceptor
+remnants and they also contribute to drusen formation.
+A significant limitation in studying AMD in rodents is the
+length of time needed to house animals, with many of the reported
+signs only developing in aged mice, often well over the age of
+
+FIGURE 3.
+Fundus and morphological changes in aged mice with immune dysregulation. Retinal fundi were imaged using a Micron III fundus camera and images from
+9-month-old (A) control C57blk6J and (C) Cx3cr1/Ccl2 double knockout mice are presented. C57blk6J- and Cx3cr1/Ccl2 double knockout mice fundi are
+qualitatively similar and apparently healthy. Eyecups were fixed, embedded in epon-resin, cut at 70 nm, and prepared for transmission electron microscopy
+to inspect the ultrastructural morphology of the Bruch membrane delineated by a black line within the micrographs in (B) C57blk6J and (D) Cx3cr1/Ccl2
+double knockout mice. The Bruch membrane is qualitatively similar between the two mouse strains at this age. Retinal fundi images from 15-month-old (E)
+control C57blk6J and (G) Ccl2-null mice are presented. G, Ccl2-null mice display multiple discrete, yellow lesions in the inferior/temporal and other regions
+of the retinal fundus. Eyecups were fixed, embedded in epon-resin, cut at 1 Km, and stained with toluidine blue to inspect the gross structural morphology of
+15-month-old (F) control C57blk6J and (H) Ccl2-null mice. Despite the appearance of fundus lesions in the aged Ccl2-null mice, gross retinal morphology is
+qualitatively similar to age-matched control mice. BM, Bruch membrane; Ch, choroid; GCL, ganglion cell layer; INL, inner nuclear layer; IPL, inner
+plexiform layer; IS, inner segments; ONL, outer nuclear layer; OPL, outer plexiform layer; OS, outer segments; RPE, retinal pigment epithelium.
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Animal Models of AMDVFletcher et al.
+
+883
+
+FIGURE 4.
+Schematic diagram of the mouse models available that target different signaling pathways in the distal retina. An electron micrograph of photoreceptor outer
+segments, retinal pigment epithelium, and Bruch membrane isolated from an 11-month-old ApoE-null mouse retina is shown at the center, together with a
+schematic of this region of the posterior retina. Each mouse strain described in this perspective is then listed in relation to the pathways contributing to early
+age-related macular degeneration, geographic atrophy, and choroidal neovascularization. The percentage of aged mice showing progression to choroidal
+neovascularization is shown in brackets.
+
+12 months. Tuo et al.47 reported an accelerated model of
+AMD created by crossing Cx3cr1-null and Ccl2-null mice. They
+observed thickening of the Bruch membrane, RPE changes,
+photoreceptor loss, and CNV from 6 to 12 weeks.47 However,
+more recent studies of Cx3cr1/Ccl2 double knockout mice showed
+no AMD-like phenotype (Fig. 3), only subtle amacrine cell dysfunction.48,49 The fact that, in the latter studies, the mice were
+rigorously confirmed to be free of the Crb1rd8 mutation raised the
+possibility that the phenotype in the earlier study may have been
+affected by this mutation,6 which, as noted above, is associated
+with localized changes in the outer retina (Fig. 1). Alternatively,
+environmental factors such as light or pathogen exposure may
+also be important factors in the development of a phenotype in these
+strains of mice. Recently, Chen et al.50 showed that, when Cx3cr1/
+Ccl2 double knockout mice were exposed to a moderate level of light
+(È800 lx) on a daily basis, they developed many of the hallmark
+signs of GA, including thickening of the Bruch membrane, RPE loss
+and dysfunction, and photoreceptor loss. By contrast, Cx3cr1/Ccl2
+double knockout mice housed under lower light levels displayed no
+changes in the retina. These data highlight the multifactorial nature
+of AMD and imply that genetic risk factors affecting chemokines
+and/or their receptors may predispose people (and mice) to signs of
+
+AMD only after an initiating event such as light exposure or some
+other environmental stimulus.
+
+OXIDATIVE STRESS AND AMD
+As noted above, dysregulation of the immune system and inflammation are important components of AMD. The mechanisms
+that initiate inflammation during early AMD are not well understood but may include oxidative stress and other causes of cellular
+damage. Oxidative stress refers to cellular damage caused by reactive
+oxygen species. The retina is susceptible to oxidative damage
+because of its high oxygen consumption and also because of the
+high concentration of polyunsaturated fatty acids such as
+docosahexaenoic acid (DHA) within the outer segments of photoreceptors. Other environmental factors such as light exposure and
+smoking can also induce damage via mechanisms involving oxidative stress.
+The main antioxidant system in the retina is the enzyme
+superoxide dismutase, of which there are three isoenzymes: SOD1
+or Zn-SOD is found in the cytosol, SOD2 or Mn-SOD is found in
+the mitochondrial matrix, and SOD3 is extracellular. Retinal
+changes in mice that lack SOD1 (Sod1-null mice) or have reduced
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+884 Animal Models of AMDVFletcher et al.
+
+SOD2 expression have been reported.51,52 Notably, Sod1-null mice
+develop an increasing number of drusen-like deposits from 7 months
+of age and also display thickening of the Bruch membrane, photoreceptor loss, and choroidal neovascular lesions in approximately
+8% of aged mice.51 Ribozyme-mediated knockdown of SOD2
+resulted in loss of photoreceptors, retinal dysfunction, as well as
+changes in RPE cells and thickening of the Bruch membrane.52
+Evidence that oxidative damage leading to inflammation is seen
+in mice that are immunized with carboxyethylpyrrole (CEP), an
+adduct that forms from the oxidation of DHA.53 Mice immunized with CEP gradually lose RPE cells, develop sub-RPE deposits, as well as thickening of Bruch membrane, together with
+deposition of complement factor 3 in the subretinal space and
+immune cells within the subretinal space. These data highlight
+that an immune reaction that targets oxidative damage to DHA
+in photoreceptor outer segments can lead to the development of
+some of the signs of AMD.
+
+ADVANCED AMD: DEVELOPMENT OF GA
+As mentioned earlier, AMD is a multifactorial disease that involves a range of different environmental and genetic risk factors. A
+unifying mechanism for the development of GA has been proposed
+recently, involving the enzyme, DICER1, oxidative stress, and the
+NLRP3 inflammasome.54,55 DICER1 is known to regulate gene
+expression by regulating microRNA production (È21 nucleotides
+single-stranded fragments). However, in the RPE, DICER1 has
+been implicated in the regulation of long noncoding doublestranded RNAs (È300 bp) that contain Alu sequences.54,55
+Initial studies showed reduced expression of DICER1 in the
+macular RPE of patients with GA and that loss of Dicer1 in
+murine RPE caused cell loss.54 Intriguingly, the effects were
+not mediated by the abnormal processing of microRNA but by
+the abnormal accumulation of noncoding, double-stranded Alucontaining RNA (ds-Alu RNA), which arise from numerous
+repeated transposable Alu elements in the genome.56 DICER1
+is thought to be down-regulated by oxidative stress, and a putative
+downstream mechanism of DICER1 has been proposed to involve
+activation of the NLRP3 inflammasome.55 By the use of numerous
+conditional knockout mice, Ambati et al. have demonstrated that
+ds-Alu RNAs induce mitochondrial accumulation of reactive oxygen species, which in turn induce expression of Nlrp3 and I18.
+Activation of caspase 1 by the NLRP3 inflammasome results in
+the activation of IL18, which in turn binds to IL18R1 receptors,
+activating MYD88 and IRAK1/4 to induce RPE cell death, presumably by the NFKB pathway or by activation of p38. Importantly, studies in patients with GA have confirmed the activation
+of the NLRP3 inflammasome and also activation of MYD88
+and IRAK1/4 in the macular RPE.
+
+ADVANCED AMD: DEVELOPMENT OF CNV
+A central question that remains to be answered is why only
+some patients with AMD develop CNV. There are very few mouse
+strains that show progression of disease from thickening of the
+Bruch membrane, photoreceptor, and/or RPE death to CNV.45,51
+Choroidal neovascularization can be classified into three types,
+depending on the anatomical position of the aberrant vessel
+growth relative to the RPE: type 1 refers to abnormal vessel growth
+
+below the RPE that results in a poorly defined pattern of fluorescein leakage corresponding to ‘‘occult’’ CNV; type 2 refers to
+abnormal vessel growth from the choroid into the retina that results
+in a well-defined lesion on fluorescein angiogram and is commonly
+referred to as the ‘‘classic’’ form of CNV; finally, type 3 refers to
+abnormal vessel growth that originates within the retina.57 Although
+type 1 CNV (occult) is the most common form,58 10% to 15% of
+patients with wet AMD exhibit type 3 CNV. Photocoagulation laser
+ablation of the Bruch membrane has been used in a range of animals
+to investigate the mechanisms of type 2 CNV.59Y61 After a break in
+the Bruch membrane, blood vessels extend from the choroid into the
+retina.62 The reproducibility of this response has led to this model
+being widely used to understand the mechanisms leading to CNV
+and also potential treatments.
+Type 3 disease, characterized by vessel growth from the retina
+to the choroid, has been linked recently with anomalies in cholesterol metabolism. Cytochrome P450 27A1 (CYP27A1) is the
+principal enzyme in the retina responsible for hydroxylation of
+cholesterol and its elimination. Cyp27a1-null mice develop
+cholesterol-rich deposits beneath the RPE and CNV that originates within the retina. These results highlight the potential influence of cholesterol metabolism in the development of one form
+of CNV. More work is needed, however, to ascertain the role of
+CYP27A1 in human disease.
+
+CONCLUSIONS
+Age-related macular degeneration is a multifactorial disease involving a range of complex genetic and environmental influences.
+Reflecting this complexity, there is currently no single animal model
+that develops all of the signs of AMD in a progressive manner.
+Nevertheless, animal models have aided in our understanding of
+how various signs or genes affect retinal integrity and may contribute
+to the etiology/pathogenesis (Fig. 4). Notably, mouse models carrying similar mutations to those with AMD have highlighted the
+importance of lipid metabolism, extracellular matrix turnover, and
+immune dysregulation in the development of AMD (Fig. 4). In
+addition, mouse models are effective tools for understanding the
+significance of specific signs of AMD including thickening of the
+Bruch membrane, RPE and photoreceptor loss, and CNV.
+
+ACKNOWLEDGMENTS
+This work was supported by the National Health and Medical Research
+Council of Australia (grant no. 1021918) and Retina Australia.
+Received December 12, 2013; accepted April 15, 2014.
+
+REFERENCES
+1. Mitchell P, Smith W, Attebo K, Wang JJ. Prevalence of age-related
+maculopathy in Australia. The Blue Mountains Eye Study. Ophthalmology 1995;102:1450Y60.
+2. Coleman HR, Chan CC, Ferris FL, 3rd, Chew EY. Age-related
+macular degeneration. Lancet 2008;372:1835Y45.
+3. Rattner A, Nathans J. Macular degeneration: recent advances and
+therapeutic opportunities. Nat Rev Neurosci 2006;7:860Y72.
+4. Priya RR, Chew EY, Swaroop A. Genetic studies of age-related
+macular degeneration: lessons, challenges, and opportunities for
+disease management. Ophthalmology 2012;119:2526Y36.
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Animal Models of AMDVFletcher et al.
+5. Mishima H, Kondo K. Extrusion of lysosomal bodies from apical
+mouse retinal pigment epithelium. Albrecht Von Graefes Arch Klin
+Exp Ophthalmol 1981;216:209Y17.
+6. Mattapallil MJ, Wawrousek EF, Chan CC, Zhao H, Roychoudhury
+J, Ferguson TA, Caspi RR. The Rd8 mutation of the Crb1 gene is
+present in vendor lines of C57BL/6N mice and embryonic stem cells,
+and confounds ocular induced mutant phenotypes. Invest Ophthalmol
+Vis Sci 2012;53:2921Y7.
+7. Ferris FL, 3rd, Wilkinson CP, Bird A, Chakravarthy U, Chew E,
+Csaky K, Sadda SR, Beckman Initiative for Macular Research
+Classification Committee. Clinical classification of age-related macular
+degeneration. Ophthalmology 2013;120:844Y51.
+8. Mullins RF, Russell SR, Anderson DH, Hageman GS. Drusen associated with aging and age-related macular degeneration contain
+proteins common to extracellular deposits associated with atherosclerosis, elastosis, amyloidosis, and dense deposit disease. FASEB J
+2000;14:835Y46.
+9. Ishibashi T, Sorgente N, Patterson R, Ryan SJ. Pathogenesis of
+drusen in the primate. Invest Ophthalmol Vis Sci 1986;27:184Y93.
+10. Gouras P, Ivert L, Landauer N, Mattison JA, Ingram DK, Neuringer
+M. Drusenoid maculopathy in rhesus monkeys (Macaca mulatta):
+effects of age and gender. Graefes Arch Clin Exp Ophthalmol
+2008;246:1395Y402.
+11. Umeda S, Suzuki MT, Okamoto H, Ono F, Mizota A, Terao K,
+Yoshikawa Y, Tanaka Y, Iwata T. Molecular composition of drusen
+and possible involvement of anti-retinal autoimmunity in two different forms of macular degeneration in cynomolgus monkey
+(Macaca fascicularis). FASEB J 2005;19:1683Y5.
+12. Francis PJ, Appukuttan B, Simmons E, Landauer N, Stoddard J,
+Hamon S, Ott J, Ferguson B, Klein M, Stout JT, Neuringer M.
+Rhesus monkeys and humans share common susceptibility genes for
+age-related macular disease. Hum Mol Genet 2008;17:2673Y80.
+13. Ramkumar HL, Zhang J, Chan CC. Retinal ultrastructure of murine
+models of dry age-related macular degeneration (AMD). Prog Retin
+Eye Res 2010;29:169Y90.
+14. Luhmann UF, Robbie S, Munro PM, Barker SE, Duran Y, Luong V,
+Fitzke FW, Bainbridge JW, Ali RR, MacLaren RE. The drusenlike
+phenotype in aging Ccl2-knockout mice is caused by an accelerated
+accumulation of swollen autofluorescent subretinal macrophages.
+Invest Ophthalmol Vis Sci 2009;50:5934Y43.
+15. Chang B, Hurd R, Wang J, Nishina P. Survey of common eye
+diseases in laboratory mouse strains. Invest Ophthalmol Vis Sci
+2013;54:4974Y81.
+16. Aleman TS, Cideciyan AV, Aguirre GK, Huang WC, Mullins CL,
+Roman AJ, Sumaroka A, Olivares MB, Tsai FF, Schwartz SB,
+Vandenberghe LH, Limberis MP, et al. Human CRB1-associated
+retinal degeneration: comparison with the rd8 Crb1-mutant mouse
+model. Invest Ophthalmol Vis Sci 2011;52:6898Y910.
+17. den Hollander AI, Roepman R, Koenekoop RK, Cremers FP. Leber
+congenital amaurosis: genes, proteins and disease mechanisms. Prog
+Retin Eye Res 2008;27:391Y419.
+18. Bujakowska K, Audo I, Mohand-Said S, Lancelot ME, Antonio A,
+Germain A, Leveillard T, Letexier M, Saraiva JP, Lonjou C,
+Carpentier W, Sahel JA, et al. CRB1 mutations in inherited retinal
+dystrophies. Hum Mutat 2012;33:306Y15.
+19. Guymer R, Luthert P, Bird A. Changes in Bruch’s membrane and
+related structures with age. Prog Retin Eye Res 1999;18:59Y90.
+20. Chong NH, Keonin J, Luthert PJ, Frennesson CI, Weingeist DM,
+Wolf RL, Mullins RF, Hageman GS. Decreased thickness and integrity of the macular elastic layer of Bruch’s membrane correspond
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+885
+
+to the distribution of lesions associated with age-related macular
+degeneration. Am J Pathol 2005;166:241Y51.
+Dithmar S, Sharara NA, Curcio CA, Le NA, Zhang Y, Brown S,
+Grossniklaus HE. Murine high-fat diet and laser photochemical
+model of basal deposits in Bruch membrane. Arch Ophthalmol
+2001;119:1643Y9.
+Weikel KA, Fitzgerald P, Shang F, Caceres MA, Bian Q, Handa JT,
+Stitt AW, Taylor A. Natural history of age-related retinal lesions that
+precede AMD in mice fed high or low glycemic index diets. Invest
+Ophthalmol Vis Sci 2012;53:622Y32.
+Yang Z, Camp NJ, Sun H, Tong Z, Gibbs D, Cameron DJ, Chen H,
+Zhao Y, Pearson E, Li X, Chien J, Dewan A, et al. A variant of the
+HTRA1 gene increases susceptibility to age-related macular degeneration. Science 2006;314:992Y3.
+Vierkotten S, Muether PS, Fauser S. Overexpression of HTRA1 leads
+to ultrastructural changes in the elastic layer of Bruch’s membrane via
+cleavage of extracellular matrix components. PLoS One 2011;6:
+e22959.
+Baird PN, Guida E, Chu DT, Vu HT, Guymer RH. The epsilon2
+and epsilon4 alleles of the apolipoprotein gene are associated
+with age-related macular degeneration. Invest Ophthalmol Vis Sci
+2004;45:1311Y5.
+Baird PN, Richardson AJ, Robman LD, Dimitrov PN, Tikellis G,
+McCarty CA, Guymer RH. Apolipoprotein (APOE) gene is associated with progression of age-related macular degeneration (AMD).
+Hum Mutat 2006;27:337Y42.
+Adams MK, Simpson JA, Richardson AJ, English DR, Aung KZ,
+Makeyeva GA, Guymer RH, Giles GG, Hopper J, Robman LD,
+Baird PN. Apolipoprotein E gene associations in age-related macular
+degeneration: the Melbourne Collaborative Cohort Study. Am J
+Epidemiol 2012;175:511Y8.
+Dithmar S, Curcio CA, Le NA, Brown S, Grossniklaus HE. Ultrastructural changes in Bruch’s membrane of apolipoprotein
+EYdeficient mice. Invest Ophthalmol Vis Sci 2000;41:2035Y42.
+Malek G, Johnson LV, Mace BE, Saloupis P, Schmechel DE,
+Rickman DW, Toth CA, Sullivan PM, Bowes Rickman C. Apolipoprotein E alleleYdependent pathogenesis: a model for age-related
+retinal degeneration. Proc Natl Acad Sci U S A 2005;102:11900Y5.
+Kliffen M, Lutgens E, Daemen MJ, de Muinck ED, Mooy CM,
+de Jong PT. The APO(*)E3-Leiden mouse as an animal model for
+basal laminar deposit. Br J Ophthalmol 2000;84:1415Y9.
+Rudolf M, Winkler B, Aherrahou Z, Doehring LC, Kaczmarek P,
+Schmidt-Erfurth U. Increased expression of vascular endothelial
+growth factor associated with accumulation of lipids in Bruch’s
+membrane of LDL receptor knockout mice. Br J Ophthalmol
+2005;89:1627Y30.
+Picard E, Houssier M, Bujold K, Sapieha P, Lubell W, Dorfman
+A, Racine J, Hardy P, Febbraio M, Lachapelle P, Ong H, Sennlaub F,
+et al.CD36 plays an important role in the clearance of oxLDL and
+associated age-dependent sub-retinal deposits. Aging (Albany N Y)
+2010;2:981Y9.
+Pinto LH, Vitaterna MH, Shimomura K, Siepka SM, Balannik V,
+McDearmon EL, Omura C, Lumayag S, Invergo BM, Glawe B,
+Cantrell DR, Inayat S, et al. Generation, identification and functional characterization of the nob4 mutation of Grm6 in the mouse.
+Vis Neurosci 2007;24:111Y23.
+Hageman GS, Anderson DH, Johnson LV, Hancox LS, Taiber AJ,
+Hardisty LI, Hageman JL, Stockman HA, Borchardt JD, Gehrs KM,
+Smith RJ, Silvestri G, et al. A common haplotype in the complement
+regulatory gene factor H (HF1/CFH) predisposes individuals to agerelated macular degeneration. Proc Natl Acad Sci U S A 2005;
+102:7227Y32.
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+886 Animal Models of AMDVFletcher et al.
+35. Edwards AO, Ritter R, 3rd, Abel KJ, Manning A, Panhuysen C,
+Farrer LA. Complement factor H polymorphism and age-related
+macular degeneration. Science 2005;308:421Y4.
+36. Klein RJ, Zeiss C, Chew EY, Tsai JY, Sackler RS, Haynes C,
+Henning AK, SanGiovanni JP, Mane SM, Mayne ST, Bracken MB,
+Ferris FL, et al. Complement factor H polymorphism in age-related
+macular degeneration. Science 2005;308:385Y9.
+37. Lee AY, Raya AK, Kymes SM, Shiels A, Brantley MA, Jr.
+Pharmacogenetics of complement factor H (Y402H) and treatment
+of exudative age-related macular degeneration with ranibizumab. Br J
+Ophthalmol 2009;93:610Y3.
+38. Chen H, Yu KD, Xu GZ. Association between variant Y402H in agerelated macular degeneration (AMD) susceptibility gene CFH and
+treatment response of AMD: a meta-analysis. PLoS One 2012;
+7:e42464.
+39. Anderson DH, Radeke MJ, Gallo NB, Chapin EA, Johnson PT,
+Curletti CR, Hancox LS, Hu J, Ebright JN, Malek G, Hauser MA,
+Rickman CB, et al. The pivotal role of the complement system in
+aging and age-related macular degeneration: hypothesis re-visited.
+Prog Retin Eye Res 2010;29:95Y112.
+40. Coffey PJ, Gias C, McDermott CJ, Lundh P, Pickering MC, Sethi C,
+Bird A, Fitzke FW, Maass A, Chen LL, Holder GE, Luthert PJ, et al.
+Complement factor H deficiency in aged mice causes retinal abnormalities and visual dysfunction. Proc Natl Acad Sci U S A
+2007;104:16651Y6.
+41. Williams JA, Greenwood J, Moss SE. Retinal changes precede visual
+dysfunction in the complement factor H knockout mouse. PLoS
+One 2013;8:e68616.
+42. Ufret-Vincenty RL, Aredo B, Liu X, McMahon A, Chen PW, Sun H,
+Niederkorn JY, Kedzierski W. Transgenic mice expressing variants of
+complement factor H develop AMD-like retinal findings. Invest
+Ophthalmol Vis Sci 2010;51:5878Y87.
+43. Guymer RH, Tao LW, Goh JK, Liew D, Ischenko O, Robman LD,
+Aung K, Cipriani T, Cain M, Richardson AJ, Baird PN, Langham R.
+Identification of urinary biomarkers for age-related macular degeneration. Invest Ophthalmol Vis Sci 2011;52:4639Y44.
+44. Sennlaub F, Auvynet C, Calippe B, Lavalette S, Poupel L, Hu SJ,
+Dominguez E, Camelo S, Levy O, Guyon E, Saederup N, Charo IF,
+et al. CCR2(+) monocytes infiltrate atrophic lesions in agerelated macular disease and mediate photoreceptor degeneration in
+experimental subretinal inflammation in Cx3cr1 deficient mice.
+EMBO Mol Med 2013;5:1775Y93.
+45. Ambati J, Anand A, Fernandez S, Sakurai E, Lynn BC, Kuziel WA,
+Rollins BJ, Ambati BK. An animal model of age-related macular
+degeneration in senescent Ccl-2- or Ccr-2-deficient mice. Nat Med
+2003;9:1390Y7.
+46. Combadiere C, Feumi C, Raoul W, Keller N, Rodero M, Pezard A,
+Lavalette S, Houssier M, Jonet L, Picard E, Debre P, Sirinyan M, et al.
+CX3CR1-dependent subretinal microglia cell accumulation is associated with cardinal features of age-related macular degeneration. J Clin
+Invest 2007;117:2920Y8.
+47. Tuo J, Bojanowski CM, Zhou M, Shen D, Ross RJ, Rosenberg KI,
+Cameron DJ, Yin C, Kowalak JA, Zhuang Z, Zhang K, Chan CC.
+Murine ccl2/cx3cr1 deficiency results in retinal lesions mimicking
+human age-related macular degeneration. Invest Ophthalmol Vis Sci
+2007;48:3827Y36.
+48. Vessey KA, Greferath U, Jobling AI, Phipps JA, Ho T, Waugh M,
+Fletcher EL. Ccl2/Cx3cr1 knockout mice have inner retinal dysfunction but are not an accelerated model of AMD. Invest
+Ophthalmol Vis Sci 2012;53:7833Y46.
+49. Luhmann UF, Lange CA, Robbie S, Munro PM, Cowing JA, Armer
+HE, Luong V, Carvalho LS, MacLaren RE, Fitzke FW, Bainbridge
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+62.
+
+JW, Ali RR. Differential modulation of retinal degeneration by Ccl2
+and Cx3cr1 chemokine signalling. PLoS One 2012;7:e35551.
+Chen M, Hombrebueno JR, Luo C, Penalva R, Zhao J, Colhoun L,
+Pandi SP, Forrester JV, Xu H. Age- and light-dependent development of localised retinal atrophy in CCL2(j/j)CX3CR1(GFP/GFP)
+mice. PLoS One 2013;8:e61381.
+Imamura Y, Noda S, Hashizume K, Shinoda K, Yamaguchi M,
+Uchiyama S, Shimizu T, Mizushima Y, Shirasawa T, Tsubota K.
+Drusen, choroidal neovascularization, and retinal pigment epithelium
+dysfunction in SOD1-deficient mice: a model of age-related
+macular degeneration. Proc Natl Acad Sci U S A 2006;103:
+11282Y7.
+Justilien V, Pang JJ, Renganathan K, Zhan X, Crabb JW, Kim SR,
+Sparrow JR, Hauswirth WW, Lewin AS. SOD2 knockdown
+mouse model of early AMD. Invest Ophthalmol Vis Sci 2007;
+48:4407Y20.
+Hollyfield JG, Bonilha VL, Rayborn ME, Yang X, Shadrach KG, Lu
+L, Ufret RL, Salomon RG, Perez VL. Oxidative damage-induced
+inflammation initiates age-related macular degeneration. Nat Med
+2008;14:194Y8.
+Kaneko H, Dridi S, Tarallo V, Gelfand BD, Fowler BJ, Cho WG,
+Kleinman ME, Ponicsan SL, Hauswirth WW, Chiodo VA, Kariko
+K, Yoo JW, et al. DICER1 deficit induces Alu RNA toxicity in agerelated macular degeneration. Nature 2011;471:325Y30.
+Tarallo V, Hirano Y, Gelfand BD, Dridi S, Kerur N, Kim Y, Cho
+WG, Kaneko H, Fowler BJ, Bogdanovich S, Albuquerque RJ,
+Hauswirth WW, et al. DICER1 loss and Alu RNA induce age-related
+macular degeneration via the NLRP3 inflammasome and MyD88.
+Cell 2012;149:847Y59.
+Capshew CR, Dusenbury KL, Hundley HA. Inverted Alu dsRNA
+structures do not affect localization but can alter translation efficiency
+of human mRNAs independent of RNA editing. Nucleic Acids Res
+2012;40:8637Y45.
+Yannuzzi LA, Freund KB, Takahashi BS. Review of retinal angiomatous proliferation or type 3 neovascularization. Retina 2008;28:
+375Y84.
+Maguire MG, Alexander J, Fine SL. Complications of age-related
+macular degeneration prevention trial research G. Characteristics
+of choroidal neovascularization in the complications of age-related
+macular degeneration prevention trial. Ophthalmology 2008;115:
+1468Y73.
+Ryan SJ. The development of an experimental model of subretinal
+neovascularization in disciform macular degeneration. Trans Am
+Ophthalmol Soc 1979;77:707Y45.
+Ryan SJ. Subretinal neovascularization after argon laser photocoagulation. Albrecht Von Graefes Arch Klin Exp Ophthalmol 1980;
+215:29Y42.
+Ryan SJ. Subretinal neovascularization. Natural history of an experimental model. Arch Ophthalmol 1982;100:1804Y9.
+Lambert V, Lecomte J, Hansen S, Blacher S, Gonzalez ML,
+Struman I, Sounni NE, Rozet E, de Tullio P, Foidart JM, Rakic JM,
+Noel A. Laser-induced choroidal neovascularization model to study
+age-related macular degeneration in mice. Nat Protoc 2013;
+8:2197Y211.
+
+Erica L. Fletcher
+Department of Anatomy and Neuroscience
+The University of Melbourne
+Grattan Street
+Parkville 3010, Victoria
+Australia
+e-mail: elf@unimelb.edu.au
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+

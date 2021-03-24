@@ -1,0 +1,1492 @@
+Petroleum Research (2016) 1,103-112
+
+Characteristics and origin of high-quality
+lacustrine carbonate reservoirs in the gentle
+slope area of the Qikou Sag, Bohai Bay Basin
+Youxing Yang1*, Zhenkui Jin2 and Baishui Gao2
+Oil & Gas Survey, China Geological Survey, Beijing 100029, China
+College of Geosciences, China University of Petroleum, Beijing 102249, China
+Received February 4, 2016; Accepted August 12, 2016
+
+1
+2
+
+Abstract: Lacustrine carbonate reservoirs in the gentle slope (ramp) area of Qikou Sag are highly
+heterogeneous. Some researches about characteristics and distribution of these high quality reservoirs
+are less. In this study, an integrated investigation was conducted on the high-quality lacustrine carbonate
+reservoirs in the ramp area of Qikou Sag based on data of thin section examination, lithological log
+response, testing results, and mercury-injection capillary pressure measurement. In the study area,
+grainstone reservoirs in the lower 1st member of the Shahejie Formation are high-quality reservoirs
+characterized by high - medium porosity, moderate permeability, low displacement pressure, and relative
+large pore throat. Lithologically, these reservoirs are mainly composed of bioclastic and oolitic sparite, and
+reservoir storage space consists of secondary intergranular dissolved pores and fractures. Hydrodynamic
+conditions generally control distribution of these reservoirs, as limestone grains filled intergranularly with
+sparry calcite cement are usually formed under strong hydrodynamic conditions. Sparry calcite cemented
+limestone is subject to late dissolution with abundant soluble substances, which is one of the direct causes
+for the well developed secondary dissolved pores. Oolitic bank and bioclastic bank are under high-energy
+hydrodynamic conditions with the best reservoir petrophysical properties. Rims of beach bars are usually
+in an intermittently-turbulent highly-hydrodynamic environment with medium reservoir petrophysical
+properties. Lake bays and supratidal zones are under low-energy tranquil hydrodynamic conditions, with
+poor reservoir petrophysical properties. During late diagenesis, large quantities of organic acid and slightly
+acidic water were released from surrounding shale and migrated along the top unconformity of the 3rd
+member of the Shahejie Formation, resulting in development of numerous secondary dissolved pores in
+carbonate reservoirs, which is the main cause of high-quality reservoir formation in the sag. Additionally,
+early charge of hydrocarbons restrained occurrence of authigenic minerals and metasomatism of calcite,
+and thus promoted excellent preservation of dissolved pores.
+
+Key words: lacustrine carbonate; reservoir space; pore structure;
+diagenetic mechanism; hydrocarbon filling; Qikou Sag
+
+1 Introduction
+Lacustrine carbonate rocks are previously thought to have a short
+deposition period in geological history and are associated with
+
+unstable distribution in confined areas and are rarely well developed
+in strata. As compared to marine carbonate rocks, lacustrine
+carbonate rocks have barely received any attention. Increasingly indepth and meticulous research on oil and gas resources has shown
+that continental lacustrine stratigraphic sequences were widely
+
+* Corresponding author. Email: yangyouxing22@163.com
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+103
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+of major controlling factors of high-quality carbonate reservoirs
+based on core, thin section, drilling, and testing data in combination
+with previous research findings. Finally, a depositional model is
+proposed for lacustrine carbonate reservoirs in the gentle slope
+(ramp) area of northern Qikou Sag.
+
+developed in China and lacustrine carbonate rocks are widely
+distributed and have become excellent exploitation prospects.
+Extensive studies in this field have made substantial progresses
+(Xia et al., 2003; Liao et al., 2008; Wang et al., 2008). Williamson
+et al (1980) established a sedimentary facies model for lacustrine
+carbonate rocks within the Green River Formation of Uintah Basin,
+the United States. Swirydezuk (1980) constructed a wave-built
+oolitic lacustrine terrace facies as a complex of a few approximately
+12-m-thick individual terraces. Bohacs et al (2000) elaborated type
+of lakes and associated source rock potential and characteristics
+with respect to sequence stratigraphy and geochemistry. Guan
+(1985) summarized three types of depositional models for lacustrine
+carbonate rocks in the middle Paleogene Guanzhuang Formation,
+Pingyi Basin (Shandong, China), i.e., endogenous - exogenous
+mixed deposition type, algal bank type, and shallow-water
+evaporitic platform type. Wang et al (1993) systematically described
+the distribution of lacustrine carbonate rocks in China. Wu et al (Wu
+et al., 2003) proposed that the Paleogene lacustrine carbonate rocks
+in the Qaidam Basin are mainly fractured reservoir. For the present
+study area, Jin et al (2002) investigated the types of Paleogene
+carbonate sedimentary facies in the Huanghua Depression. Pu et
+al (2011) described geological characteristics of carbonate rocks
+on the southwestern margin of the Qikou Sag. However, carbonate
+rocks in the above mentioned areas feature thin single layers, high
+heterogeneity, and substantially inconsistent reservoir properties.
+Descriptions on the accumulation characteristics of these highquality carbonate reservoirs are quite general and major controlling
+factors for the reservoir development still remain controversial.
+Therefore, this study focus on a high-yield area, and carry out a
+detailed description of reservoir characteristics and a assessment
+
+Well
+
+Zengfutai
+
+n
+Ca
+
+gx
+
+ia
+
+p
+nU
+
+lif
+
+Baishuitou
+
+0
+30
+
+Zeng 1
+
+Study area
+
+N
+
+0
+
+40
+
+0
+
+Thickness
+contours
+
+Qikou main sag
+
+0
+Binhai 1
+
+0
+
+City/County
+
+The lower part of the Paleogene 1st member of Shahejie
+Formation, can be divided into four oil groups from top
+to bottom, i.e., Bin-I, Ban-4, Ban-3, and Ban-2; each of the
+
+30
+
+Coastline
+
+The study area is located in the gentle slope area of the Qikou
+Sag, which extends northward to Gangxi High, southward to
+Chengning Uplift, and eastward to the Qikou main sag zone,
+covering an area of 1500 km2 (Fig. 1). The study area consists
+mainly of following tectonic units: the Qibei Ramp, Qinan Ramp,
+and Chengbei Fault-ramp; its development involved five stages,
+including an initial faulting - subsidence, rapid subsidence,
+stable development, attenuation and depression. The study area
+had experienced the weak - strong - weak faulting progress,
+partitioned into unified sag, and small-big-small change of water
+area. During the stable fault - subsidence stage of the 1st member
+of the Shahejie Formation, the lake basin initially formed a flat
+terrain. The sag gradually changed from an asymmetric dustpanlike shape to a symmetrical shape and reached its maximum size.
+With insufficient detrital sediment supply, lacustrine carbonate
+rocks were subsequently developed in the lake basin. The study
+area is one of the main areas for lacustrine carbonate deposition
+in the Bohai Bay Basin (Wang et al., 1999).
+
+Ban 65
+
+t
+
+200
+S hen 5
+
+Canggu 1
+
+10km
+
+Ga
+
+ng
+
+xi
+
+400
+
+Qishen 1
+
+gh
+Hi
+
+40
+
+0
+
+Mapengkou
+Gangshen 47
+
+p
+Zhangcan 1
+
+Qi 71
+
+Qi
+
+na
+
+nR
+
+p
+am
+Zhuang 48
+
+h
+
+Kong 44
+
+ia
+gd
+on
+
+Kou 2
+Huangye
+
+Kou 43
+
+100
+95
+75
+
+Zhuanghai 8
+
+Guanjiabao
+
+ig
+H
+n
+
+1
+gu
+
+K
+
+ng
+Ko
+
+Kongdian
+
+Ram
+
+Qi 129
+
+i Fau
+
+100
+
+xi
+ng
+
+p
+
+Ca
+
+0
+
+b
+
+am
+
+ngbe
+
+10
+
+300
+200
+
+Cang 8
+
+an
+
+Up
+
+lif
+
+Qi
+
+R
+ei
+
+Qidong 3-1
+
+200
+
+Che
+
+t
+
+Wang 18
+Qijiawu
+
+lted
+
+10
+
+Denudation
+line
+
+2 Regional geological setting
+
+Zhuang 6
+
+Ch
+
+en
+
+in
+gn
+
+gU
+
+pli
+
+ft
+
+Fig. 1 Location and thickness distribution of the lower 1st member of the Shahejie Formation in the
+Qikou Sag
+
+104
+
+25
+5
+0
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+oil groups overlies underlying strata layer by layer and has
+developed three regional extensive marker beds, i.e., small
+penholder, medium penholder, and oil shale cap (Fig. 2).
+
+Ban1
+
+30
+
+Depth
+(m)
+
+Resistivity
+(Ω·m)
+
+Lithology
+2
+
+4
+
+6
+
+Microfossil
+8
+
+2400
+
+The thrid
+marker bed
+
+The first
+marker bed
+
+Quercoiditer-rich assemblage
+
+2450
+
+Phacocypris huiminensisChinocythere quinquespinata
+
+Ban4
+
+The second
+marker bed
+
+3rd
+member
+
+Huabeinia
+chinensisHuabeinia
+huidongensis
+
+Bin1
+
+Shahejie Formation
+
+Lower sub member
+of 1 st member
+
+Ban3
+
+Ban2
+
+Middle sub member
+of 1 st member
+
+20
+
+Xiyingia luminosaGuangbeinia lijiaensis
+
+SP
+(mV)
+
+Formation
+
+Bioclastic limestone
+
+Dolomite
+
+Mudstone/shale
+
+Oil shale
+
+Fig. 2 Generalized geological column of the lower 1st member
+of the Shahejie Formation in Qikou Sag0
+
+3 Reservoir characteristics
+3.1 Lithological assemblages
+Lithologically, the lower 1st member of Shahejie Formation
+mainly consists of clastic and carbonate rocks. The carbonate
+rock includes limestone and dolomite, the dolomite with well
+developed bioclastic sparite, oolitic sparite, and fracture is the
+major oil-bearing formation. Bioclastic limestone, including
+sparite (Fig. 3a) and micrite, is formed by accumulation of
+bioclastic components such as biogenic shells and bones; the
+bioclastic content of bioclastic limestone is >50%, and the major
+bioclastic component is gastropod fossil. Core observation
+shows presence of a large number of complete snail fossils with
+diameter of 1–5 mm (average 3 mm) and occasionally up to
+1 cm; the snail fossils are easy to fall off; pits on the surface
+of cores are visible. In oolitic limestone, there are mainly
+superficial ooliths of small sizes (<0.5 mm); occasionally, the
+real ooliths are observed with less concentric circles, generally
+1–2 laps in round, oval, and irregular shapes; the core of
+oolith is bioclast or terrigenous clast as dominated by quartz,
+mainly oolitic sparite (Fig. 3b). Micritic limestone is mainly
+composed of grayish white-grayish brown micritic calcite with
+particle content <10% that commonly forms micro-horizontal
+bedding with organic-rich mudstone (Fig. 3c). The rock turns to
+argillaceous limestone with relatively high argillaceous content
+of the clast (Fig. 3d). Dolomicrite is mainly composed of grayor grayish brown-colored micritic dolomite as dominated by a
+xenomorphic texture with less hypidiomorphic texture (Figs.
+3e, f). The dolomicrite formation, with a monolayer thickness of
+1–5 cm, often forms thin interbeds with mudstone and co-occurs
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+Fig. 3 Lithology of carbonate in the Qikou Sag. (a) sparite with abundant biogenic shells and bones of
+gastropod, Well Qi 99 of 2708 m (-) ; (b) oolitic sparite with round, oval, and irregular shapes, Well Tai 6 of
+2503.6 m (-); (c) micrite, Well Bin 23×1 of 2763.5 m (-); (d) argillaceous limestone, Well Bin 23×1 of 2763.5
+m; (e), dolomicrite, Well Binshen 8 of 3758.6 m (-); (f) dolomicrite, Well Bin 22 of 2622.42 m (-).
+
+105
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+with dark mudstone, oil shale, calcareous shale, marlstone, and
+micritic limestone in the vertical profile. The above results of
+integrated analysis demonstrate that dolomite is mainly formed
+through burial dolomitization (Pu et al., 2011).
+Carbonate rocks of various types show different identification
+
+characteristics (Table 1). Grainstone generally has substantially
+smaller natural gamma (GR) value than sand-mudstone;
+micritic limestone and dolomicrite have the smallest GR
+values while shale has the largest GR value; the GR values
+of marlstone and argillaceous dolomite are in between and
+increase with argillaceous content. Relative to the tight micritic
+
+Table 1 Logging response characteristics of different types of carbonate rocks in the Qikou Sag
+Lithology
+
+SP
+
+Grainstone
+
+Significant
+abnormalities
+
+Micrite
+limestone
+
+Abnormalities,
+basic values
+
+GR (API) AC (μs/m) RT (Ω·m) DEN (g/cm3)
+
+Micro-resistivity
+
+Curve shape
+Box-, bell-, and
+finger-shape
+
+40–80
+
+170–280
+
+3. 2–10
+
+2. 3–2. 5
+
+High level, positive
+difference
+
+40–60
+
+200–290
+
+3. 5–14
+
+2. 4–2. 7
+
+High level, serrated
+
+Dolomicrite
+
+Abnormalities
+Basic values
+
+40–90
+
+220–300
+
+3. 3–15
+
+2. 5–2. 8
+
+High level, serrated
+
+Lime mudstone
+
+Basic values
+
+80–100
+
+300–400
+
+2. 5–7
+
+2. 3–2. 5
+
+Shale
+
+Basic values
+
+90–110
+
+330–430
+
+1.5–3
+
+2. 2–2. 3
+
+Low level, slightly
+dentate
+
+carbonate formation, carbonate reservoirs of high porosity and
+permeability show increases in the acoustic time difference (AC)
+and compensated density (DEN). Permeable carbonate rocks
+show significant abnormalities in self-potential (SP) curves
+while non-permeable argillaceous and micritic carbonate rocks
+have basic values but no abnormalities in SP curves.
+
+3.2 Types of reservoir pore space
+The pore spaces of carbonate reservoirs in the study area mainly
+are the secondary pore and fracture; the latter includes tectonic
+fractures and diagenetic fractures with less primary pores.
+3.2.1 Primary pore
+The primary pore of carbonate reservoirs are intergranular
+pore, biological cavity pore, and intercrystalline pore. Due to
+dolomitization, the porous grains shrink to a certain degree,
+leading to formation of certain intercrystalline pores and usually
+an increase in the rock porosity by 12–13%.
+3.2.2 Secondary pore
+The secondary pore of carbonate reservoirs are intergranular
+dissolved pore, intragranular dissolved pore, mold pore, and
+matrix dissolved pore. Of these, intergranular dissolved pore is
+most well developed, followed by intragranular dissolved pore
+and moldic pore.
+Intergranular pore refers to secondary pore formed by dissolution
+of intergranular matrix or cement, or dissolution enlargement of
+primary intergranular pore. Under microscope, embayed, curved
+cement is commonly observed (Figs. 4a, b). Intragranular dissolved
+pore is resulted from partial intragranular dissolution, including
+
+106
+
+Low level, flat shape
+
+Finger-shape and
+dentate
+
+Finger- and spikeshape
+Dentate
+Slight dentate
+
+intra-ollith and intra-shell dissolved pores (Fig. 4c). Development
+of intragranular dissolve pore is related to granular type, and the
+intragranular dissolve pore can connect to intergranular dissolve
+pore to form connected reservoir space. Moldic pore is mainly
+formed by dissolution of bioclast and biogenic shell, showing
+similar morphology and size as the granules (Fig. 4d). Matrix
+dissolved pore is formed by partial dissolution of the intergranular
+matrix, which commonly occurs in micritic granular limestone
+with poor development and uneven distribution.
+3.2.3 Fracture
+In dolomite reservoirs, dolomite features thin single layer, high
+brittleness, and multiple layers. Together with shale as the upper and
+lower surrounding rock, this type of reservoirs (dolomite) has welldeveloped fracture, mainly tectonic fractures with less diagenetic
+fractures. Dolomite formation is mainly distributed in mudstone
+and primarily forms tiny fractures in thin-bedded dolomite rather
+than high-angle fractures in thick-bedded dolomite.
+Tectonic fracture is formed under the tectonic stress that
+exceeds strength of the rock and thus leads to break of the rock.
+The fractures have flat straight edge, long extension, clustering
+occurrence, and certain direction; they are usually developed at
+the top and axial parts of anticline structure as well as places of
+near faults and fault disappearances; vertically, the fractures are
+near-equal interval, parallel micro-fractures with fracture width
+<1 mm (Figs. 4e, f). Statistics of the number of fractures show
+that tectonic fractures are most developed in dolomite, followed
+by limestone, and marlstone the least.
+Diagenetic fractures are formed by compression, dehydration,
+and shrinkage of sediments during diagenesis. This type of
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+Fig. 4 Major types of reservoir space in Qikou Sag. (a) intergranular dissolved pore, Well Fang 14 of
+2718.51 m (-); (b) intergranular dissolved pore, Well Qi 100 of 2901.5 m (-);(c) intra-ollith and intra-shell
+dissolved pores, Well Qi 100 of 2896.05 m (-); (d) biogenic moldic pore, Well Bin 22 of 2601 m (+); (e)
+tectonic fractures, Well Bin 22 of 2599.69 m (+); (f) tectonic fractures, Well Bin 22 of 2621.41 m (-).
+
+fractures generally features short extension, lack of certain
+direction, curved fracture surface, irregular shape, and late
+dissolution widening. Diagenetic fractures not only serves
+as good channel of oil and gas migration, but also improves
+reservoir permeability and can be used as reservoir space.
+
+are mainly developed in tectonically gentle areas with welldeveloped grainstone.
+(2) Pore-fracture type refers to that pores serve as the main
+reservoir space, and fractures are the main seepage channel.
+Large fractures have accumulation capacity as well. Thus, the
+pore-fracture type of the reservoir has better property than the
+pore type of the reservoir. For example, dolorudite with small
+porosity is associated with high permeability as well, suggesting
+that fractures play a role as seepage channel (Fig. 5b).
+
+3.2.4 Assemblage types of reservoir space
+In the study area, bioclastic limestone reservoirs are mainly of
+pore type and pore-fracture type, whereas dolomite reservoirs
+are mainly of fracture type.
+
+(3) Fracture type refers to that both reservoir space and seepage
+channel are fractures. This kind of reservoirs, which are
+mainly dolomite reservoir, have poor accumulation capacity
+but high permeability. In the study area, core and thin section
+observations of dolomicrite demonstrate that multiple fractures
+
+(1) Pore type refers to that pores serve as reservoir space and
+seepage channel. This type of reservoirs has large pores with
+high porosity and permeability; correlation between porosity
+and permeability is positive (Fig. 5a), reflecting direct influence
+of porosity on permeability of reservoir. Pore-type reservoirs
+
+10 3
+
+10 3
+
+10 2
+
+Permeability(mD)
+
+Permeability(mD)
+
+10 2
+
+10 1
+
+10 0
+
+10 - 1
+0
+
+10 1
+10 0
+10 - 1
+
+5
+
+10
+
+15
+20
+Porosity (%)
+(a)
+
+25
+
+30
+
+10 - 2
+0
+
+5
+
+10
+
+15
+20
+Porosity (%)
+(b)
+
+25
+
+30
+
+35
+
+Fig. 5 Relationship between porosity and permeability of Well Kou 131 (a) and Well Kou 17 (b) in
+Qikou Sag
+
+107
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+containing oil, rather than pores, are developed.
+
+for evaluating physical properties of reservoir. The porosity
+and permeability of carbonate reservoirs in the Qikou Sag
+are analyzed by statistics of petrophysical data (Fig. 7). The
+porosity mainly ranges from 10% to 25% (for 68% of the
+total samples) with an average value of 17.3%. The reservoir
+permeability is low with an average permeability value of
+55.4 mD. Approximately 60% of the total samples have
+permeability values of less than 1 mD;19.2% of the samples
+have permeability values of 1–10 mD; 11.4% of the samples have
+permeability values of 10–100 mD; and 9.6% of the samples
+have permeability values of 100–1000 mD.
+
+3.3 Pore structure
+Pore structure refers to throat size, distribution, and connectivity
+of pores in reservoir rocks, and is one of the key indicators
+for reservoir permeability. The pore structure of reservoirs
+in the Qikou Sag can be divided into two types: the first type
+of bioclastic limestone reservoirs has medium-coarse skewed
+intrusive mercury curve, good sorting, and medium porosityhigh permeability (Fig. 6a); the second type of bioclastic
+limestone reservoirs has medium-fine skewed intrusive mercury
+curve, good sorting, and low porosity-low permeability, with
+good pore-throat sorting (Fig. 6b). The first type of bioclastic
+limestone reservoirs is predominant in the study area.
+
+The porosity and permeability of reservoirs show substantial
+variations, reflecting lithologies of different carbonate rocks.
+Statistics of porosity and permeability data show that porosity
+of different types of carbonate reservoirs gradually increases
+from micritic limestone to bioclastic limestone (Fig. 8a). Oolitic
+limestone and bioclastic limestone form medium-high porosity
+
+Porosity and permeability are two important parameters
+
+100
+
+10
+
+0.0735
+
+1
+
+0.735
+
+0.1
+
+7.35
+
+0.01
+100 90 80 70 60 50 40 30 20 10
+Mercury saturation (%)
+(a)
+
+Capillary pressure (MPa)
+
+0.00735
+
+Pore radius (μm)
+
+Capillary pressure (MPa)
+
+100
+
+73.5
+
+0.00735
+
+10
+
+0.0735
+
+1
+
+0.735
+
+7.35
+
+0.1
+
+73.5
+
+0.01
+100 90 80 70 60 50 40 30 20 10
+Mercury saturation (%)
+(b)
+
+0
+
+Pore radius (μm)
+
+3.4 Petrophysical properties
+
+0
+
+Fig. 6 Characteristics of pore structure of Well Kou 131(a) and Well Kou 17 (b) in Qikou Sag
+
+12
+
+150
+
+137
+
+10
+8
+6
+4
+
+100
+66
+21
+
+2
+0
+
+5
+
+10 15 20 25 30 35 40
+Porosity (%)
+(a)
+
+50
+3
+
+0
+
+1
+
+0
+
+0
+45 50 55 60
+
+400
+
+379
+
+350
+
+30
+
+200
+
+179
+
+Sample number
+
+14 171
+
+35
+
+300
+
+25
+234
+
+20
+
+250
+
+218
+
+200
+
+15
+
+130
+
+10
+
+150
+
+109
+
+100
+
+70
+
+5
+0
+
+Sample number
+
+208
+
+16
+Frequency (%)
+
+250
+
+228 234
+
+18
+
+Frequency (%)
+
+20
+
+50
+10
+
+-2
+
+10
+10
+10
+Permeability (mD)
+(b)
+-1
+
+0
+
+1
+
+10
+
+2
+
+10
+
+0
+
+3
+
+Fig. 7 Frequency distribution of porosity (a) and permeability (b) of the lower 1st member of the
+Shahejie Formation in Qikou Sag
+
+reservoirs, whereas dolomicrite and micritic limestone primarily
+forms low porosity reservoirs. Of four types of carbonate
+rocks, bioclastic limestone has the highest permeability with an
+average of 60.67 mD, followed by oolitic limestone (Fig. 8b).
+
+108
+
+4 Diagenetic mechanisms
+In the Qikou Sag, diagenesis of carbonate rocks occurred mainly
+via dissolution, followed by metasomatism, recrystallization,
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+70
+
+Average porosity (%)
+
+20
+
+15
+10
+
+20.29
+
+19.77
+
+13.61
+9.82
+
+5
+0
+
+Micritic
+limestone
+
+Micritic
+dolomite
+
+(a)
+
+Oolitic
+limestone
+
+Bioclastic
+limestone
+
+Average permeability (mD)
+
+25
+
+60.67
+
+60
+50
+40
+30
+20
+12.56
+
+10
+0
+
+1.34
+
+2.09
+
+Micritic
+limestone
+
+Micritic
+dolomite
+
+(b)
+
+Oolitic
+limestone
+
+Bioclastic
+limestone
+
+Fig. 8 Distribution of average porosity (a) and average permeability (b) of different reservoir rocks
+in Qikou Sag
+
+and cementation.
+
+4.2 Cementation
+
+4.1 Compaction
+
+Cementation occurs mainly in grain-limestones such as bioclastic
+limestone and oolitic limestone in the oil groups Bin-I and Ban4, leading to formation of 3 generations of cements. The first
+generation is mainly dark needle-like microcrystalline calcite
+formed soon after sediment deposition, which is susceptible to late
+transformation and uneasy to be identified in morphology. The
+second generation consists of ctenoid and rim calcite grains that
+are distributed at grain boundaries; calcite, mostly hypidiomorphic,
+bright and clean, is formed in a hyporheic-mixed water diagenetic
+environment and reflects influence of atmospheric freshwater. The
+
+In the early diagenetic stage of carbonate rocks, the compaction is
+responsible for tight arrangement of grains, further compressing
+intergranular interstitial materials and reducing pores in size
+(Fig. 9a). This process is associated with superficial tearing and
+crumpling and internal structural deformation of grains, as well
+as breakdown of organic matter into irregular veinlets. Despite
+its destructing effect on the primary pores of reservoirs, the
+compaction is generally weak due to fast cementation.
+
+(a)
+
+(b)
+
+(c)
+100
+95
+75
+
+(d)
+
+(e)
+
+(f)
+
+25
+5
+0
+
+��������������������
+Fig. 9 Characteristics of
+
+different diagenetic types of carbonate rocks in Qikou Sag. (a) tight compacion
+of bioclastic grains in the early diagenetic stage,Well Qi 123 of 2881 m (-); (b) ctenoid cementation
+in the bioclastic limestone, Well Qi 100 of 2896.05 m (+); (c) partially dolomitization in the bioclastic
+limestone, Well Bin 22 of 2803.6 m (+); (d) dissolution of carbonate minerals, Well Bin 22 of 2586.66 m
+(+); (e) calcite recrystallization to large crystal-form minerals, Well Bin 22 of 2570 m (+); (f) dolomicrite
+recrystallization to form powder crystal dolomites, Well Bin 22 of 2623.55 m (+)
+
+201��10��1��10�20�00
+
+109
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+third generation consists of grainy mineral that are distributed
+in between pores with good crystal form, automorphic texture,
+transparent and clean structure; the mineral is mainly formed
+in an atmospheric-freshwater diagenetic environment (Fig. 9b).
+Cementation has a double-sided effect, that is, this process destructs
+pores as well as reduces impact of compaction.
+
+4.3 Metasomatism
+Metasomatism mainly occurs as replacement of calcite, anhydrite,
+and other minerals by dolomite, i.e., dolomitization (Fig. 9c).
+During replacement of calcite by dolomite, dissolution is greater
+than precipitation, resulting in formation of dissolution pores.
+Additionally, enlargement of crystal grains leads to increase in
+the intercrystalline pore diameter. All above changes contribute to
+increases in the porosity and permeability of dolomitized limestone,
+thereby improving rock’s physical properties.
+
+4.4 Dissolution
+When property of pore water contained in carbonate rock
+formations changes, carbonate minerals or other components
+will undergo dissolution (Fig. 9d). In the early diagenetic stage,
+dissolution is selective, for example, to dissolve oolith and part
+of oolitic core but not the other part of oolitic limestone, leading
+to formation of dissolved moldic pore of oolith. During the
+late diagenetic stage, because the unstable Mg-rich calcite has
+transferred to Mg-poor calcite, so non-selective dissolution is
+very common, and thus results in formation of dissolved pore,
+dissolved fracture, and dissolved karren.
+
+4.5 Recrystallization
+Recrystallization generally occurs in two pathways (Deng et al.,
+1990; Meng et al., 2010; Jin et al., 2011): (1) calcite recrystallizes
+after dissolution to form large crystal minerals (Fig. 9e); and
+(2) dolomicrite recrystallizes to form powder crystal dolomites
+(Fig. 9f). These rocks share the same mineral components but
+differ in size, shape, and orientation of mineral crystals. The
+recrystallization process changes tight fine-texture rocks to those
+with coarse, loose structure and more intergranular pores, thus
+is conducive to groundwater percolating and provid favorable
+
+conditions for development and occurrence of dissolved pores.
+
+5 Major controlling factors of reservoir
+properties
+The widespread bioclastic bank, oolitic bank, and migration of
+large amounts of organic acids and slightly acidic water from shale
+during the late diagenetic stage along the top unconformity of the
+3rd member of the Shahejie Formation, promot development of
+substantial secondary dissolved pores in carbonate reservoirs. This
+is the major factor that controls formation of high-quality reservoirs
+in the study area. Additionally, early hydrocarbon charging
+suppressed authigenic mineral formation and calcite metasomatism,
+thereby preserving dissolved pore structure.
+
+5.1 Sedimentary microfacies and rock types
+The widespread bioclastic bank and oolitic bank is the major
+controlling factors of high-quality reservoir formations in the
+study area. The sedimentary micro-facies mainly control rock
+types. Spaces between limestone grains formed under strong
+hydrodynamic conditions, is mainly filled with sparry calcite
+cement which easy to dissolve in the late dissolution process. The
+above process is a direct cause of development of secondary pores.
+The oolitic ban k and bioclastic ban k developed in the
+continuously unrest high-energy hydrodynamic conditions,
+lithologically, both mainly consist of bioclastic sparite and
+oolitic sparite, and have good physical properties characterized
+by high porosity (>20%) and high permeability (>10 mD). The
+bank-bar edge formed in the intermittent turbulent high-energy
+hydrodynamic conditions; lithologically, it mainly consists of
+marl bioclastic limestone, marl oolitic limestone, and oolitic
+dolomite, and the intergranular spaces are filled with marls; the
+porosity is 12–20% and the permeability is 1–10 mD, suggesting
+medium physical properties of reservoirs. Lake bay and
+supratidal zones developed in the low-energy hhydrodynamic
+condition, lithologically, both consist of micritic limestone,
+micritic dolomite, dolomitic limestone, and dolomite, and have
+poor physical properties, characterized by low porosity of
+2–12% and low permeability <1.0 mD (Table 2).
+
+Table 2 Physical properties of reservoirs in different sedimentary facies
+Hydrodynamic Porosity Permeability Discharging
+pressure
+condition
+(%)
+(mD)
+(MPa)
+
+Mean
+throat
+radius
+(μm)
+
+Reletive
+Pore throat
+physical
+sorting
+of
+coefficient properties
+reservoir
+
+Sedimentary
+microfacies
+
+Lithology
+
+Fine grain bank,
+main bioclastic
+bank
+
+Bioclastic sparite,
+oolitic sparite
+
+High energy
+(continuous unrestm)
+
+>20
+
+>10
+
+<0.5
+
+>3.0
+
+<0.6
+
+Good
+
+Bank-bar edge
+
+Marl bioclastic
+limestone, marl oolitic
+limestone/ dolomite
+
+High energy
+(intermittent
+turbulence)
+
+10–20
+
+1. 0–10
+
+0. 5–1. 5
+
+2. 0–3. 0
+
+0. 6–1. 0
+
+Medium
+
+Lake bay, supertidal
+zone
+
+Micrite, dolomcrite,
+dolomitic limestone
+
+Low energy
+
+5–10
+
+<1.0
+
+1. 5–3.0
+
+0. 2–1. 0
+
+1. 0–1. 5
+
+Poor
+
+110
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+Well Bin20×1
+
+1
+2
+3
+4
+1
+Bioclastic limestone
+Shale
+Oolitic limestone Mudstone
+
+Diamictite
+
+Unconformity Acidic water
+Mudstone
+migration direction
+Conglomerate
+
+Organic acid, slightly
+acidic water
+
+Slope-break zone
+Unconformity
+
+2
+3
+
+Foramtion
+
+Well Qi 403
+
+Shahejie Formation
+
+Well Bin23×1
+
+In dolomite reservoirs, fractures provide excellent reservoir
+space (Fig. 4e) and act as the preferential gas-oil seepage
+channel, which co-occur with pores to form the pore - fracture
+
+2nd member
+
+Well Qibei 11
+
+5.3 Fracture development
+
+Layer
+
+Large-scale dissolution promotes formation of high-quality
+reservoir. Carbonate bank bodies of the lower 1st member of
+Shahejie Formation were directly overlain on the 3rd member of
+Shahejie Formation. Huge thick argillaceous source rocks of the
+2nd member of the Shahejie Formation and the 3rd member of
+Shahejie Formation in the central sag area entered the medium
+maturity stage during deposition of the 1st member of Shahejie
+Formation and oil generation peak stage during late deposition
+of Dongying Formation. During thermal evolution, large
+amounts of organic acids and slightly acidic gases were released
+via organic matter decomposition, resulting in acidification of
+
+formation water and its migration along unconformity. These
+processes promoted large-scale non-selective dissolution of
+carbonate bank bodies above the unconformity associated with
+formation of numerous secondary pores, thus greatly improving
+physical properties of reservoirs. Therefore, diagenesis is one
+of the major factors that control formation of high-quality
+reservoirs in the study area (Fig. 10).
+
+Lower sub member
+of 1st member Member
+
+5.2 Diagenesis
+
+Fig. 10 Reservoir formation model of lacustrine carbonate rocks in the gentle slope area of Qikou Sag
+
+system. The dolomite formations feature thin single layer,
+multiple layers, and high brittleness. Together the upper and
+lower surrounding rocks (shale) allow well development of
+fractures. Due to effect of brittleness, fractures are developed
+most commonly in dolomite, followed by limestone, and
+marlstone. Pure coarse carbonate rocks such as sparite biolithite
+and oolitic limestone have great brittleness as well, in which
+fractures are easily developed. In Qikou Sag, there exist a
+number of low-angle faults, near which fractures are more
+developed (Dai et al., 1998; Pan et al., 2004; Zhang et al.,
+2005; Zhou et al., 2011). Therefore, fracture is one of the major
+structures that control the formation of high-quality dolomite
+reservoirs in the study area.
+
+5.4 Impact of early hydrocarbon filling
+During deposition of the 1st member of Shahejie Formation,
+huge thick mudstone formations of the 3rd and 2nd members of
+Shahejie Formation entered the medium maturity stage, and oil
+and gas from source rocks preferentially entered into carbonate
+reservoirs of the lower 1st member of Shahejie Formation.
+Oil and gas charge dispelled pore water and changed original
+water-lithofacies balance and chemical composition of pore
+fluids. These processes resulted in reduction of inorganic ion
+concentrations and impeded energy transfer between mineral
+and ions, further inhibiting formation of authigenic minerals
+and calcite metasomatism and thus preserving dissolved pore
+
+structures.
+
+6 Conclusions
+(1) High-quality carbonate reservoirs of the lower 1st member
+of Shahejie Formation mainly consist of bioclastic limestone
+and oolitic limestone. The reservoir storage space mainly
+includes secondary intergranular dissolved pores and fractures.
+The assemblages of storage space in the carbonate reservoirs
+are dominated by pore type and pore-fracture type. Tectonic
+fractures are developed in the dolomite reservoirs and serve as
+the good storage space as well as seepage channel.
+(2) Hydrodynamic conditions control quality and distribution
+of reservoirs. The intergranular interstitial materials of the
+limestone grains which formed under strong hydrodynamic
+conditions are the sparry calcite cements. These cements can be
+easily dissolved during the late dissolution, which is one of the
+direct causes for secondary pore development. Oolitic banks and
+bioclastic banks which formed in the strongest hydrodynamic
+conditions and have the best reservoir petrophysical properties.
+Bank-bar edge which formed under intermittently turbulent
+high-energy hydrodynamic conditions have medium reservoir
+petrophysical properties. Lake bay and supratidal zone which
+formed under low-energy tranquil hydrodynamic conditions
+generally have poor reservoir properties.
+(3) During the thermal evolution, huge thick organic-rich shale
+
+111
+
+Y.Yang et al./Petroleum Research (2016) 1,103-112
+
+formation of the 3rd and 2nd members of Shahejie Formation,
+released large amounts of organic acids and acidic water which
+migrated along the top unconformity of the 3rd member of
+Shahejie Formation, thus forming numerous secondary dissolved
+pores in the carbonate reservoirs. This is considered to be one
+of the major factors responsible for the development of highquality reservoirs. Additionally, early charge of hydrocarbons
+inhibited formation of authigenic mineral and metasomatism of
+calcite, thereby preserving dissolved pore structure.
+
+Acknowledgements
+This work was supported by National Science and Technology
+Major Project of China (Grant No. 2009ZX05009-002).
+
+References
+Bohacs K M, Carroll A R, Mankiewicz P J. Lake-basin type, source potential, and hydrocarbon character: an integrated sequence-stratigraphicgeochemiacal framework. AAPG Studies in Geology, 2000, 46:3-34.
+Dai J S, Lu K Z, Qi J F, et al. Structure style evolution in Paleogene Bohai
+Bay Basin. Acta Petrolei Sinica, 1998, 19(4):16-20 (in Chinese with
+English abstract).
+Deng Y H and Zhang F M. Epidiagenesis of carbonate rocks in the first subgroup of Shahejie Formation in Qikou depression. Acta Petrolei Sinica,
+1990, 11(4):33-37 (in Chinese with English abstract).
+Fan J L, Huang Z Q, Fan W H. Cenozoic tectonic evolution of Qikou sag
+and its relations to hydrocarbon traps in Bohai Bay Basin of east China.
+Journal of Jiling University: Earth Science Edition, 2004, 34(4):536-541
+(in Chinese with English abstract).
+Guan S R, Bai G Y, Di M X. Sedimentary characteristics and environment
+of carbonate rocks in the middle member of the Guanzhuang Formation
+of Lower Tertiary in the Pingyi basin of Shandong Province. Journal of
+China University of Petroleum, 1985(3):9-20 (in Chinese with English
+abstract).
+Jin Z K, Su K, Su N. Origin of Jurassic deep burial high-qualiity reservoirs
+in the central Junggar Basin. Acta Petrolei Sinica, 2011, 32(1):25-31 (in
+Chinese with English abstract).
+Jin Z K, Zou Y R, Zhang X X, et al. Lacustrine carbonate sedimentary facies of the Shahejie Formation of Paleogene in Huanghua Depression.
+Journal of Paleogeography, 2002, 14(13):11-18 (in Chinese with English
+
+112
+
+abstract).
+Liao J, Dong Z Q, Zhai G Y, et al. Feature of Oligocene Shahejie lower-1st
+member lacustrine dolostone in Qikou Depression, Bohaiwan Basin,
+and difference of it from marine dolostone. Marine Origin Petroleum
+Geology, 2008, 13(1):18-24 (in Chinese with English abstract).
+Meng Q A, Liu L, Qu X Y, et al. Reservoir characteristics and processes
+controlling porosity in Tongbomiao Nantun Formation from Beier depression, China and from Tanan depression, Mongolia. Journal of Jilin
+University: Earth Science Edition, 2010, 40(6):1233-1239 (in Chinese
+with English abstract).
+Pu X G, Zhou L H, Xiao D Q, et al. Lacustrine carbonates in the southwest
+margin of Qikou sag, Huanghua depression, Bohai Bay Basin. Petroleum Exploration and Development, 2011, 38(2):136-142 (in Chinese
+with English abstract).
+Swirydczuk R. The Pliocene Glenns Ferry ooliteⅡ:sedimentology of oolitic
+lacustrine terrace deposits. Journal of Sedimentary Petrology, 1980,
+50:1237-1247.
+Wang P, Li G F, Zhang L Q, et al. Thin-layer reservoir prediction in the
+lower Es1 of the western ramp of Qikou depression. Journal of China
+University of Petroleum: Edition of Natural Science, 2008, 32(2):28-33
+(in Chinese with English abstract).
+Wang Y H, Zhou S X, Zhang X L. China lacustrine carbonates. Xuzhou:
+China University of Mining and Technology Press, 1993, 1-7 (in Chinese).
+Wang Z, Meng R Q, Xie J M, et al. Huanghua depression geological tectonic
+evolution and hydrocarbon distribution. Beijing: Science Press, 1999,
+10-25 (in Chinese).
+Wilkinson B H, Pope B N, Owen R M. Nearshore ooid formation in a modern temperate region marl lake. Journal of Geology, 1980, 88:697-704.
+Wu Y Y, Jin J Q, Li Y T, et al. Transgressive system tracts and related reservoir bodies of Paleogene in western Qaidam Basin. Journal of Paleogeography, 2003, 15(2):232-242 (in Chinese with English abstract).
+Xia Q S, Tian J C, Ni X F. Lacustrine carbonate rocks in China: an overview. Sedimentary Geology and Tethyan Geology, 2003, 23(1):105-112
+(in Chinese with English abstract).
+Zhang J, Qiu N S, Wang X, et al. Thermal evolution and reservoiring history in Qikou sag, Huanghua depression. Oil & Gas Geology, 2005,
+26(4):506-510 (in Chinese with English abstract).
+Zhou L H, Lu Y, Xiao D Q, et al. Basinal texture structure of Qikou sag
+in Bohai Bay Basin and its evolution. Natural Gas Geoscience, 2011,
+22(3):373-382 (in Chinese with English abstract).
+
+

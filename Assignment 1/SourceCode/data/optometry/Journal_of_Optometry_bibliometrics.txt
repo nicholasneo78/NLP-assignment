@@ -1,0 +1,327 @@
+Journal of Optometry (2020) 13, 71---73
+
+www.journalofoptometry.org
+
+EDITORIAL
+
+Journal of Optometry bibliometrics
+Índices bibliométricos de Journal of Optometry
+José M. González-Méijome ∗
+Editor-in-Chief, Clinical and Experimental Optometry Research Lab (CEORLab), Center of Physics, University of Minho, Portugal
+
+Scientiﬁc bibliometrics or ‘‘Scientometrics’’ are increasingly used to evaluate the impact of scientiﬁc publication.
+Most of them rank the scientiﬁc work visibility for individuals, journals or institutions based on different algorithms
+that generally compute the number of citations received by
+the publications. They have a signiﬁcant effect on the public
+and peers perception of scientiﬁc merit for authors, journals
+and institutions.
+Not dismissing the limitations of those metrics, which
+have been object of previous publications1,2 they provide
+an objective methodology to evaluate the impact of the
+research published. Other applications of bibliometrics aim
+to identify the interaction between researchers in different
+ﬁelds highlighting the predominant authors or the countries
+where such research is conducted.3---7 One of the most traditionally used metrics is the Impact Factor (IF) published
+every year by Clarivate Analytics in the Web of Science.8 This
+index ranks the journals according to the number of citations
+received over the previous two years. So, the IF uses a simple algorithm resulting from a quotient between citations
+received (numerator) and articles published (denominator)
+over the 2 year period.
+Journal of Optometry has evolved signiﬁcantly in the
+number of manuscripts submitted for publication as well as
+in the number of citations collected from other publications.
+Figure 1 shows a picture of other rankings for Journal
+of Optometry as obtained on March 22nd , 2020. Notably, J
+Optom SJR has increased steadily over the last 4 years. Out
+of the 10 indexed journals in its category, J Optom ranks
+
+3rd along with the other two main journals Optometry and
+Vision Science (OVS) published by the American Academy of
+Optometry and Ophthalmic and Physiological Optics (OPO)
+published by the British College of Optometrists. J Optom
+is also the only one that provides Open Access to readers,
+being also free for authors publishing in the journal.
+Consequently, metrics calculated by different platforms
+has increased steadily over the past years. All the estimated
+metrics have increased consistently over the last years.
+(Figure 1). Clarivate IF metric is not available as J Optom is
+not indexed in that database. Lower absolute values of SJR
+and SNIP (see ﬁgure caption for deﬁnitions) should not surprise the reader as they result from the calculation method
+and this behavior is also common to other journals in the
+ﬁeld. A summarized view of relevant aspects and calculation
+
+∗ Corresponding author. José M. González-Méijome, PhD CEORLab
+--- Center of Physics University of Minho, Portugal.
+E-mail address: jgmeijome@ﬁsica.uminho.pt
+
+Figure 1 Evolution of Journal of Optometry metric values
+from 2011 to 2018 Scopus CiteScore (CiteScore), SCIMago Journal Ranking (SJR), and CWTS Source Normalized Impact per
+Paper (SNIP).
+
+https://doi.org/10.1016/j.optom.2020.03.005
+1888-4296/© 2020 Spanish General Council of Optometry. Published by Elsevier España, S.L.U. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+72
+
+J.M. González-Méijome
+
+methods of the different metrics introduced in this editorial
+is are summarized in Table 1.
+One of those important metrics adopted by several academic institutions around the world has been delivered
+by SCImago. According to Scimago ranking, the Journal of
+Optometry ended the year 2018 in the 1st quartile (3rd in the
+ranking) in the section of Health Professions (Optometry)
+along with other 9 publications.9 SCImago Journal Ranking
+(SJR) index is a metric based on the idea that not all citations
+are the same. SJR uses a similar algorithm as the Google page
+rank; it provides a quantitative and qualitative measure of
+the journal’s impact. In the words of SCImago ‘‘SJR is a measure of scientiﬁc inﬂuence of journals that accounts for both
+the number of citations received by a journal and the importance or prestige of the journals where such citations are
+originated. It measures the scientiﬁc inﬂuence of the average article in a journal, it expresses how central to the global
+scientiﬁc discussion an average article of the journal is’’.
+The H-index, after Argentinean-American Professor Jorge
+E. Hirsch is another metric that now has been extended to
+rank not only individuals but also institutions and journals.10
+H-index represents the number of publications by a given
+author, journal or institution being cited equal or superior
+number of times. Despite its merits in differentiating highly
+cited publications, this metric tends to favor the older publications compared to the new publications as well as older
+
+authors compared to youngest that had less time to accumulate citations. As an example, J Optom ranks 6th in the SJR
+instead of 3rd , when ordered by H-index which is perfectly
+understandable as the ﬁrst 4 ranked are covered from the
+1980’s for the calculation of this index compared to 2007
+for the 5th ranked journal and third semester of 2008 for J
+Optom.
+Another emerging index is the Scopus CiteScoreTM that
+measures average citations received per document published. In its 2018 metrics covering citations during 2015,
+2016 and 2017, J Optom ranks 3rd among the 14 journals
+indexed in the Optometry ﬁeld. As stated in CiteScore webpage, all types of documents (research articles, review
+articles, conference proceedings, editorials errata, letters,
+notes, and short surveys) are included in the CiteScore calculation. Although articles in press are included in Scopus
+they are not included in the CiteScore calculation.11
+No single metric is perfect and one of the ﬂaws pointed
+is that comparing journals or authors in different ﬁelds
+is difﬁcult because of the asymmetry between the scientiﬁc activity. For example, comparing Cancer research ﬁeld
+where thousands of articles are published covering a very
+large scope of biological, pharmaceutical, medical specialties among many others and being potentially cited by all of
+them, with other sub-specialties as Ophthalmology, Optometry, etc, is not possible. To avoid this, some metrics such
+
+Table 1 Different citation metrics and Journal of Optometry position in the ranking. Information collected between last
+trimester 2019 and ﬁrst trimester 2020.
+Impact Factor (IF)a
+
+SCImago Journal
+Ranking (SJR)b
+
+H-index*c
+
+CiteScored
+
+Source Normalized
+Impact per Paper
+(SNIP)e
+
+Owner/Developer
+
+Clarivate Analytics
+
+SCImago
+
+Database owner
+
+Scopus-Elsevier
+
+SourceDatabase
+Algorithm(i.e.
+year 2018)
+
+Web of Science
+Citations
+(2016+2017)
+Publications
+(2016+2017)
+
+Scopus
+Number of
+Publications with
+≥ Number of
+Citations Each
+
+Scopus
+Citations (2018)
+Publications
+(2015+2016+2017)
+
+Number of
+Journals analyzed
+Positive aspects
+
+≈12.000
+
+Scopus
+Not disclosed,
+‘‘claimed to be
+similar to the
+Google PageRank
+algorithm’’
+≈32.000
+
+CWTS at Leiden
+University
+Scopus
+Not disclosed,
+‘‘weights citations
+according to ﬁelds
+potential’’
+
+≈25.000
+
+≈25.000
+
+≈25.000
+
+Simple metric
+Available every
+year
+
+Free Access
+Considers wider
+scope of journals
+
+Positive
+discrimination of
+highly cited items
+
+Negative aspect
+
+Paid Access Only
+counts citations in
+journals with IF
+
+Algorithm not fully
+disclosed
+
+No timeframe,
+favors older
+publications
+
+Free Access Direct
+comparison of
+subﬁelds Considers
+wider scope of
+journals
+Algorithm not fully
+disclosed
+
+J Optom Ranking‡
+(2018)
+
+Not indexed
+
+3rd out of 10
+
+6th
+
+Free Access
+Considers a longer
+period (3years)
+Considers wider
+scope of journals
+Citations of one
+year, signiﬁcant
+short-term
+variations
+3rd out of 14
+
+*
+
+H-index as reported in the in SCImago Journal Ranking (SJR) using Scopus Database
+Subject Area and Category: Health Professions / Optometry
+Sources:
+a https://jcr.clarivate.com/JCRHomePageAction.action
+b,c https://www.scimagojr.com/journalrank.php
+d https://www.scopus.com/sources
+e https://www.journalindicators.com/indicators
+‡
+
+4th out of 8
+
+Journal of Optometry bibliometrics
+as the Source Normalized Impact per Paper (SNIP) developed by Centre for Science and Technology Studies (CWTS)
+of Leiden University weights citations based on the total
+number of citations in a subject ﬁeld.12 As stated elsewhere
+‘‘compares each journal’s citations per publication with the
+citation potential of its ﬁeld, deﬁned as the set of publications citing that journal’’. A synthesis of this and other
+citation metrics can be found elsewhere.13,14
+It has to be highlighted that all metrics have about 1 to 2
+years of delay as the metrics usually available have been calculated considering the citations in papers published 2 years
+before the yearly metric release. This is the only way to capture virtually all the citations obtained by a given article,
+author, journal or institution.
+As authors, reviewers, professionals and students recognize the value of Journal of Optometry in dissemination of
+the knowledge this has been followed by prestige databases
+as recognition of Pubmed, Scopus, SCIMago, SNIP, CiteScore,
+just to mention some of the most widely adopted. Noteworthy, the metrics achieved by J Optom are even more
+remarkable considering that its level of autocitation is
+among the lowest, under 10% of all the cites collected
+between 2015 and 2019. Journal of Optometry is certainly a
+fully consolidated and respected journal in the ﬁeld and it
+is our responsibility to keep this track record to strength the
+publication capability of the optometry and vision science
+ﬁeld to contribute to the advance of scientiﬁc knowledge
+and provide wider and better eyecare to populations Worldwide.
+
+References
+1. Grzybowski A. The journal impact factor: how to interpret its
+true value and importance. Med Sci Monit. 2009;15. SR1-4.
+2. Grzybowski A. Impact factor–strengths and weaknesses.
+Clin
+Dermatol.
+2010;28:455---457,
+http://dx.doi.org/
+10.1016/j.clindermatol.2010.01.002.
+
+73
+3. Cardona G, Sanz JP. Publication analysis of the
+contact lens ﬁeld: what are the current topics of
+interest? J Optom. 2015;8:33---39, http://dx.doi.org/
+10.1016/j.optom.2014.02.003.
+4. Ruiz-Pomeda A, et al. Bibliometric study of scientiﬁc research
+on optometric visual therapy. J Optom. 2020 (in press).
+5. Efron N, Brennan NA, Nichols JJ. Citation analysis of
+the contact lens ﬁeld. Optom Vis Sci. 2012;89:70---79,
+http://dx.doi.org/10.1097/OPX.0b013e318236dcca.
+6. Efron N, Brennan NA. Citation analysis of Australiatrained optometrists. Clin Exp Optom. 2011;94:600---605,
+http://dx.doi.org/10.1111/j.1444-0938.2011.00652.x.
+7. Villa-Collar C, Álvarez-Peregrina C, Hidalgo Santa Cruz
+F, Povedano-Montero FJ. Bibliometric Study of Scientiﬁc Research on Overnight Orthokeratology. Eye
+Contact
+Lens.
+2018;44:344---349,
+http://dx.doi.org/
+10.1097/ICL. 0000000000000545.
+8. Journal Citation Reports. Available at: https://jcr.clarivate.
+com/JCRHomePageAction.action. Accessed on March 22nd,
+2020.
+9. Scimago Journal Rankings. Available at: https://www.
+scimagojr.com/journalrank.php?category=3610. Accessed on
+March 22nd, 2020.
+10. Hirsch JE. An index to quantify an individual’s scientiﬁc research output. PNAS. 2005;102:16569---16572,
+http://dx.doi.org/10.1073/pnas.0507655102.
+11. CiteScore
+2018
+metrics.
+Available
+at:
+https://www.scopus.com/sources. Accessed on March
+22nd, 2020.
+12. CWTS. Available at: https://www.journalindicators.com/
+products. Accessed on March 22nd, 2020.
+13. Measuring a journal’s impact. Available at: https://www.
+elsevier.com/authors/journal-authors/measuring-a-journalsimpact. Accessed on March 2nd, 2020.
+14. University of Maryland Libraries. Available at: https://lib.
+guides.umd.edu/c.php?g=327388&p=2196059. Accessed on
+March 22nd, 2020.
+
+

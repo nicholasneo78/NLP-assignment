@@ -1,0 +1,710 @@
+1040-5488/15/9203-0252/0 VOL. 92, NO. 3, PP. 252Y257
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2015 American Academy of Optometry
+
+FEATURE ARTICLE ON LINE
+
+Orthokeratology for Myopia Control:
+A Meta-analysis
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/31/2020
+
+Jun-Kang Si*, Kai Tang*, Hong-Sheng Bi*, Da-Dong Guo†, Jun-Guo Guo*, and Xing-Rong Wang*
+
+ABSTRACT
+Purpose. To conduct a meta-analysis on the effects of orthokeratology in slowing myopia progression.
+Methods. A literature search was performed in PubMed, Embase, and the Cochrane Library. Methodological quality of the
+literature was evaluated according to the Jadad score. The statistical analysis was carried out using RevMan 5.2.6 software.
+Results. The present meta-analysis included seven studies (two randomized controlled trials and five nonrandomized
+controlled trials) with 435 subjects (orthokeratology group, 218; control group, 217) aged 6 to 16 years. The follow-up time
+was 2 years for the seven studies. The weighted mean difference was j0.26 mm (95% confidence interval, j0.31 to j0.21;
+p G 0.001) for axial length elongation based on data from seven studies and j0.18 mm (95% confidence interval, j0.33 to
+j0.03; p = 0.02) for vitreous chamber depth elongation based on data from two studies.
+Conclusions. Our results suggest that orthokeratology may slow myopia progression in children. Further large-scale studies
+are needed to substantiate the current result and to investigate the long-term effects of orthokeratology in myopia control.
+(Optom Vis Sci 2015;92:252Y257)
+Key Words: orthokeratology, myopia, myopia progression, myopia control, axial length, meta-analysis
+
+M
+
+yopia has become one of the most common ocular
+disorders worldwide. The prevalence of myopia is
+about 20 to 50% in Europe and the United States and
+is up to 70% or even higher than 80% for young adults in some
+parts of East Asia.1Y5 High myopia is a risk factor for cataract,
+glaucoma, myopic retinopathy, and retinal detachment.6Y9 Therefore, it is very important to slow or even stop the progression of
+myopia in children.
+Many researchers are investigating ways to control myopia
+progression. Several medical treatments have been considered to
+suppress myopia progression, including topical application of
+tropicamide,10 atropine,11 and pirenzepine.12 Nevertheless, there
+have been no ideal therapeutic modalities to effectively prevent
+myopic progression in light of efficacy, safety, economic feasibility, and ease of application.2,13 Orthokeratology, an optical
+correction mainly for correcting low-to-moderate myopia, is
+showing a potential to reduce the progression of myopia.14Y20 It is
+
+reversible and if the patient is unhappy with the treatment, he or
+she can simply discontinue wearing the lenses.
+Axial length (AL) elongation is the most important factor in
+myopia progression.21 A number of nonrandomized controlled
+trials (non-RCTs) have reported that AL elongation in subjects
+wearing orthokeratology lenses were 36 to 56% slower when
+compared with that of subjects wearing spectacles.14,16,17,20 Two
+recent randomized single-masked studies also reported the efficacy
+of orthokeratology for slowing axial growth in high and low
+myopic children.18,19 These studies suggest that orthokeratology
+may suppress myopia progression in children, but in general, the
+sample sizes of these studies were relatively small. Therefore, it
+would be valuable to conduct a quantitative and systematic summary of the evidence using rigorous methods. In the present study,
+a meta-analysis was conducted to assess the results from published
+studies on the efficacy of orthokeratology in myopia control.
+
+METHODS
+*MD
+†
+PhD
+Department of Ophthalmology, Shandong University of Traditional Chinese
+Medicine, Jinan, Shandong Province, China (J-KS, KT); Department of Ophthalmology, Affiliated Eye Hospital of Shandong University of Traditional Chinese
+Medicine, Jinan, Shandong Province, China (H-SB, X-RW); and Eye Institute of
+Shandong University of Traditional Chinese Medicine, Jinan, Shandong Province,
+China (D-DG, J-GG).
+
+Search Strategy
+To find the relevant literature, PubMed, Embase, and the
+Cochrane Library were searched. Reference lists of included trials
+were also searched. There were no language or data restrictions in
+searching trials. The date of searching databases ended November
+16, 2013. The search strategy was based on combinations of
+
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Orthokeratology for Myopia Control: A Meta-analysisVSi et al.
+
+medical subject headings and free text words and the search terms
+used were ‘‘orthokeratology,’’ ‘‘ortho-k,’’ ‘‘corneal reshaping contact
+lens,’’ and ‘‘myopia,’’ ‘‘nearsight,’’ and ‘‘shortsight’’ in various
+combinations. Retrieved articles were imported into EndNote X6
+(Thomson Reuters, New York, NY) where duplicate articles were
+manually removed.
+
+Inclusion and Exclusion Criteria
+Published studies, regardless of sample size, were included if
+they (1) were controlled clinical trials, including RCTs and nonRCTs; (2) included myopic patients aged 18 years and younger;
+(3) compared orthokeratology with control subjects (single-vision
+spectacles or soft contact lenses); and (4) reported AL elongation
+or more information relevant to myopia progression, for example,
+vitreous chamber depth (VCD) elongation. The major reasons for
+exclusion of studies were (1) review papers, (2) having no control
+groups, and (3) having no relevant data. We also excluded conference abstracts that had not been published. If duplicated data
+were presented in several studies, only the largest study was included. Article titles were screened for eligibility by two reviewers
+(SJK and TK) independently, and abstracts or full texts were
+reviewed as necessary.
+
+Data Extraction
+Two review authors (SJK and TK) independently extracted the
+data from articles that met this study’s inclusion criteria. Two
+authors resolved inconsistencies by discussion and consensus. The
+following data were extracted from articles that met this study’s
+
+253
+
+inclusion criteria: name of first author, the year of publication and
+location of the study, various intervention groups, number of
+subjects, patient age, sex, duration of follow-up, and the baseline
+refractive error. The outcome measures were AL elongation and
+VCD elongation.
+Missing SDs were derived from other statistics, such as p values
+or confidence intervals (CIs) if needed.22 When a p value was
+reported as, for example, p e 0.001, p = 0.001 was assumed.23 The
+missing SDs were able to be captured from figures using GetData
+Graph Digitizer 2.24 (available at http://getdata-graph-digitizer.com/
+index.php).
+The methodological quality of the articles was evaluated using
+the Jadad scale.24 This validated approach assesses randomization
+(0 to 2 points), blinding (0 to 2 points), and withdrawals (0 to 1
+point) on a five-point scale. This study followed the PRISMA
+(Preferred Reporting Items for Systematic Reviews and MetaAnalyses) statement.25
+
+Statistical Analysis
+Statistical analysis was performed with RevMan 5.2.6 software
+(Cochrane Collaboration, Oxford, UK). In the present metaanalysis, the effect sizes of each study were presented as weighted
+mean difference (WMD) with 95% CIs for continuous outcome
+measures (AL, VCD). The continuous outcome measures were
+calculated by the inverse variance statistical method of randomeffects model. In the inverse variance method, the weight given to
+each study is chosen to be the inverse of the variance of the effect
+estimate and is expressed as the percentage of every weight in the
+overall weight.23 The statistical heterogeneity was tested by using the
+
+FIGURE 1.
+Flowchart of studies included.
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+254 Orthokeratology for Myopia Control: A Meta-analysisVSi et al.
+
+I2 statistic. The statistical heterogeneity was considered significant
+when the I2 statistic was greater than or equal to 50%. Because
+patient characteristics, region, the baseline refraction error, and
+other confounding factors were not consistent between studies, we
+further performed sensitivity analysis to examine the influence of
+various exclusion criteria on the overall pooled estimate. We also
+investigated the influence of a single study on the overall pooled
+estimate by omitting each study in turn. The sensitivity analysis was
+only performed for changes in AL because of the small number of
+studies reporting changes in VCD. The pooled effect sizes were
+considered significant when the 95% CI of WMD did not cross
+zero. We did not analyze publication bias because of the limited
+number of studies.
+
+RESULTS
+Search Results
+A total of 461 studies were identified by the initial database
+search, of which 439 studies were excluded because they were duplicates or irrelevant to our subject. The remaining 22 full-text
+studies were carefully reviewed for more detailed evaluation, and
+15 of them were excluded. Thus, two RCTs18,19 and five nonRCTs14Y17,20 published from 2005 to 2013 were included in the
+final meta-analysis. Fig. 1 shows the process of filtering articles to
+determine their appropriate value for inclusion in the meta-analysis.
+
+Characteristics and Quality of Trials
+A total of 435 subjects (orthokeratology group, 218; control
+group, 217) aged 6 to 16 years were included in the present metaanalysis. The basic characteristics of the included studies are described in Table 1. Among these seven studies, five studies14,16,18Y20
+were performed in East Asia, one study was performed in Europe,17
+and one study was performed in America.15 All studies included
+reported the AL, and two studies also reported VCD. The
+follow-up time was 2 years for the seven studies. The quality
+assessment of studies included in this meta-analysis is presented
+in Table 1.
+
+Meta-analysis
+The gold standard for determining myopic progression is the
+elongation of AL26; hence, we selected the AL changes as the first
+outcome measure. As the SDs in the article by Walline et al.15 were
+missing, we derived the SDs from the p values using the method
+reported by Wiebe et al.22 We also captured missing SDs from the
+study by Santodomingo-Rubido et al.17 from published figures
+using GetData Graph Digitizer 2.24. The results showed that
+AL increased with time in both orthokeratology and control
+subjects. At 2 years follow-up, the AL elongation of the orthokeratology group was significantly slower than that of the control
+group (WMD, j0.26 mm; 95% CI, j0.31 to j0.21; p G 0.001)
+(Fig. 2). We performed sensitivity analysis to test the robustness of
+
+TABLE 1.
+
+Characteristics of studies included in the meta-analysis
+Study
+Charm 201319
+
+Region
+
+Design
+
+Hong Kong
+
+RCT
+
+Control
+group
+
+Single-vision
+spectacles
+Hong Kong Non-RCT Single-vision
+spectacles
+
+Chen et al. 201320
+
+Cho et al. 200514
+
+Hong Kong Non-RCT Single-vision
+spectacles
+
+Cho and Cheung 201218 Hong Kong
+
+Kakita et al. 201116
+
+Japan
+
+Santodomingo-Rubido
+et al. 201217
+
+Spain
+
+RCT
+
+Single-vision
+spectacles
+
+Non-RCT Spectacles
+
+Non-RCT Single-vision
+spectacles
+
+Walline et al. 200915 United States Non-RCT Soft contact
+lens
+
+No. eyes
+Age,
+(OK/control)
+y
+28 (12/16)
+58 (35/23)
+
+Sex (F/M)
+
+Refraction error, D
+
+SER: at least j5.75
+Myopia: 9j5.00
+6Y12 OK: 17/18 Myopia: j0.50
+to j5.00
+Control: 15/8 Astigmatism:
+j1.25 to j3.50
+8Y11
+
+NA
+
+70 (35/35)
+
+7Y12 OK: 19/16
+
+78 (37/41)
+
+Control:
+19/16
+6Y10 OK: 18/19
+
+92 (42/50)
+
+Control:
+19/22
+8Y16 OK: 21/21
+
+53 (29/24)
+
+Control:
+28/22
+6Y12
+NA
+
+56 (28/28)
+
+8Y11 OK: 13/15
+Control:
+11/17
+
+SER: j0.25
+to j4.50
+Astigmatism:
+Gj2.00
+Myopia: j0.50
+to j4.00
+Astigmatism:
+Gj1.25
+SER: j0.50
+to j10.00
+Astigmatism:
+Gj1.50
+Myopia: j0.75
+to j4.00
+Astigmatism:
+Gj1.00
+Myopia: j0.75
+to j4.00
+Astigmatism:
+Gj1.00
+
+OK, orthokeratology; SER, spherical equivalent refractive error; NA, data not available; M, male; F, female.
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Follow-up, Jadad
+y
+score
+2
+
+4
+
+2
+
+1
+
+2
+
+1
+
+2
+
+4
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+Orthokeratology for Myopia Control: A Meta-analysisVSi et al.
+
+255
+
+FIGURE 2.
+Forest plot of AL elongation in the orthokeratology group and the control group. A color version of this ﬁgure is available online at www.optvissci.com.
+
+the results. Table 2 shows the results of sensitivity analysis based
+on various exclusion criteria for AL. All groups in Table 2 showed
+insignificant heterogeneity: I2 e 50%, p Q 0.10. We also assessed
+the influence of individual studies on the combined risk estimate
+by sequentially excluding each study in turn to test the stability of
+the main results. The exclusion of any single study did not materially alter the overall combined WMD, which ranged from
+j0.25 mm (95% CI, j0.31 to j0.20; p G 0.001) to j0.27 mm
+(95% CI, j0.33 to j0.22; p G 0.001).
+Two studies reported VCD,14,15 which increased with time in
+both groups of subjects. The VCD changes in the orthokeratology
+group were significantly slower than those in the control group
+(WMD, j0.18 mm; 95% CI, j0.33 to j0.03; p = 0.02) (Fig. 3).
+
+DISCUSSION
+The major purpose of the present meta-analysis was to evaluate
+the efficacy of orthokeratology in myopia control. Our metaanalysis suggests that compared with control, orthokeratology
+may effectively reduce the elongation of AL to a certain extent,
+with mean differences of j0.26 mm in 2 years. Moreover, the
+difference between orthokeratology and control in VCD elongation was j0.18 mm in 2 years. Exclusion of any single study
+and sensitivity analysis based on various exclusion criteria did not
+materially alter the pooled results, which added robustness to our
+main result.
+Some early reports27Y29 described apparent effectiveness of
+overnight orthokeratology for arresting the progression of myopia.
+Subsequently, retrospective and prospective studies provided
+further evidence in support of the effectiveness of treatment. These
+results indicated that orthokeratology could suppress myopia
+progression with mean difference for AL elongation between
+orthokeratology and control ranging from j0.22 to j0.33 mm
+in 2 years.14Y20 In our study, the meta-analysis that combined
+seven studies with 435 subjects (orthokeratology group, 218;
+control group, 217) indicated a similar result and confirmed the
+efficacy of orthokeratology for myopia control.
+The mechanism by which orthokeratology might control myopic eye growth is still debatable. It has been proposed that relative
+peripheral hyperopic defocus in myopes may trigger axial elongation.30,31 Recent animal studies indicate that form deprivation
+that is limited to the peripheral retina can produce myopic eye
+growth in monkeys, despite ablation of the fovea with an argon
+
+laser.32 In human studies, myopic eyes experience more relative
+hyperopia in the periphery, on average, than hyperopic and
+emmetropic eyes.33 Furthermore, results from the CLEERE
+(Collaborative Longitudinal Evaluation of Ethnicity and Refractive Error) study indicated that children who become myopic have
+more relative hyperopic peripheral refractive error than emmetropic children 2 years before the onset of myopia.34 Therefore,
+peripheral hyperopia may act as a signal for increased eye growth.
+The correction of peripheral hyperopia may be the mechanism of
+orthokeratology in the suppressing of myopic eye growth. In
+orthokeratology, the central cornea is flattened, reducing the axial
+myopia, whereas the midperipheral cornea remains relatively
+steeper, leading to relative peripheral myopia in myopic eyes. The
+peripheral myopia created by orthokeratology reduces peripheral
+hyperopic defocus, and this may reduce the visual feedback for eye
+elongation, leading to slower myopic progression.35Y37 In contrast, the CLEERE group’s later study38 found that hyperopic
+relative peripheral refractive error was not a significant risk factor
+for the onset of myopia as a whole. However, the association
+between more hyperopic relative peripheral refractive error and
+TABLE 2.
+
+Results of sensitivity analysis
+No. No. No.
+WMD
+studies OK control (95% CI), mm
+
+p
+
+Total
+
+7
+
+218
+
+217
+
+j0.26 (j0.31 G0.001
+to j0.21)
+
+Study type
+RCT
+
+2
+
+49
+
+57
+
+5
+
+169
+
+160
+
+j0.28 (j0.38 G0.001
+to j0.19)
+j0.25 (j0.31 G0.001
+to j0.19)
+
+6
+
+206
+
+o50
+
+1
+
+12
+
+201 j0.26 (j0.31 G0.001
+to j0.20)
+16 j0.32 (j0.52 0.001
+to j0.12)
+
+Region
+Asia
+
+5
+
+161
+
+2
+
+57
+
+Non-RCT
+Total sample size
+Q50
+
+Europe and America
+
+165 j0.26 (j0.32 G0.001
+to j0.21)
+52 j0.25 (j0.37 G0.001
+to j0.13)
+
+OK, orthokeratology.
+
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+256 Orthokeratology for Myopia Control: A Meta-analysisVSi et al.
+
+FIGURE 3.
+Forest plot of VCD elongation in the orthokeratology group and the control group. A color version of this ﬁgure is available online at www.optvissci.com.
+
+the risk of the onset of myopia varied by ethnic group, with Asian
+American children having the highest risk. Thus, whether relative
+peripheral hyperopic defocus acts as an important mechanism
+by which orthokeratology might control myopia progression is
+still uncertain. Furthermore, researchers have found that many
+other factors may influence the effectiveness of myopia control
+with orthokeratology, including corneal relative peripheral power
+change,39 levels of parental myopia,40 and pupil sizes.41 All factors
+mentioned above serve to remind us that the mechanism by which
+orthokeratology might control myopic eye growth may be complex.
+This study has several limitations. First, our analysis was based
+on only seven studies (two RCTs and five non-RCTs) with relatively small sample sizes, thus limiting the reliability of the results. Second, the targeted population varied greatly, and study
+protocols and designs differed. These factors may have potential
+effects on our results. Third, the study by Walline et al.15 was
+included in this meta-analysis, although soft contact lenses were
+used as control. Moreover, most trials included in the present
+meta-analysis were performed in Asia, and only two studies15,17
+were conducted outside this region in America and Spain.
+Further studies should focus on the following two points. First,
+although RCTs for orthokeratology are difficult to carry out,
+using RCTs can leave little room for bias, and the results of RCTs
+are more convincing. Therefore, future large-scale RCTs to investigate the effects of orthokeratology on myopia progression are
+still important. Second, because the mechanism of myopia progression is still debatable, additional animal and human studies
+will be needed to further elucidate the potential biological
+mechanisms that are involved.
+In conclusion, our meta-analysis suggests that orthokeratology
+can reduce the progression of myopia to a certain extent. The
+results of this meta-analysis should be interpreted with caution
+because of the limitations discussed above. Further large-scale
+studies are needed to substantiate the current results and to investigate the long-term effects of orthokeratology in myopia control.
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+11.
+
+12.
+
+ACKNOWLEDGMENTS
+This study was supported by the National Natural Science Foundation of
+China (81173440) and the Shandong Traditional Chinese Medicine Science
+and Technology Development Plans Project (2011-130). Jun-Kang Si and
+Kai Tang contributed equally to this work.
+Received February 17, 2014; accepted October 10, 2014.
+
+13.
+
+14.
+
+REFERENCES
+1. Pan CW, Klein BE, Cotch MF, Shrager S, Klein R, Folsom A,
+Kronmal R, Shea SJ, Burke GL, Saw SM, Wong TY. Racial variations
+
+15.
+
+in the prevalence of refractive errors in the United States: the
+multi-ethnic study of atherosclerosis. Am J Ophthalmol 2013;
+155:1129Y38.
+Koffler BH, Sears JJ. Myopia control in children through refractive
+therapy gas permeable contact lenses: is it for real? Am J Ophthalmol
+2013;156:1076Y81 e1.
+You QS, Wu LJ, Duan JL, Luo YX, Liu LJ, Li X, Gao Q, Wang W,
+Xu L, Jonas JB, Guo XH. Prevalence of myopia in school children in
+greater Beijing: the Beijing Childhood Eye Study. Acta Ophthalmol
+2014;92:e398Y406.
+Foster PJ, Jiang Y. Epidemiology of myopia. Eye (Lond) 2014;
+28:202Y8.
+Wu JF, Bi HS, Wang SM, Hu YY, Wu H, Sun W, Lu TL, Wang XR,
+Jonas JB. Refractive error, visual acuity and causes of vision loss in
+children in Shandong, China. The Shandong Children Eye Study.
+PLoS One 2013;8:e82763.
+Kanthan GL, Mitchell P, Rochtchina E, Cumming RG, Wang JJ.
+Myopia and the long-term incidence of cataract and cataract surgery:
+the Blue Mountains Eye Study. Clin Experiment Ophthalmol 2014;
+42:347Y53.
+Mitchell P, Hourihan F, Sandbach J, Wang JJ. The relationship
+between glaucoma and myopia: the Blue Mountains Eye Study.
+Ophthalmology 1999;106:2010Y5.
+Hochman MA, Seery CM, Zarbin MA. Pathophysiology and management of subretinal hemorrhage. Surv Ophthalmol 1997;42:
+195Y213.
+Kang HM, Lee CS, Park HJ, Lee KH, Byeon SH, Koh HJ, Lee SC.
+Characteristics of rhegmatogenous retinal detachment after refractive
+surgery: comparison with myopic eyes with retinal detachment. Am J
+Ophthalmol 2014;157:666Y72 e1Y2.
+Iribarren R. Tropicamide and myopia progression. Ophthalmology
+2008;115:1103Y4.
+Chua WH, Balakrishnan V, Chan YH, Tong L, Ling Y, Quah BL,
+Tan D. Atropine for the treatment of childhood myopia. Ophthalmology 2006;113:2285Y91.
+Tan DT, Lam DS, Chua WH, Shu-Ping DF, Crockett RS. One-year
+multicenter, double-masked, placebo-controlled, parallel safety and
+efficacy study of 2% pirenzepine ophthalmic gel in children with
+myopia. Ophthalmology 2005;112:84Y91.
+Walline JJ, Lindsley K, Vedula SS, Cotter SA, Mutti DO, Twelker
+JD. Interventions to slow progression of myopia in children.
+Cochrane Database Syst Rev 2011:CD004916.
+Cho P, Cheung SW, Edwards M. The longitudinal orthokeratology
+research in children (LORIC) in Hong Kong: a pilot study on refractive changes and myopic control. Curr Eye Res 2005;30:71Y80.
+Walline JJ, Jones LA, Sinnott LT. Corneal reshaping and myopia
+progression. Br J Ophthalmol 2009;93:1181Y5.
+
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Orthokeratology for Myopia Control: A Meta-analysisVSi et al.
+16. Kakita T, Hiraoka T, Oshika T. Influence of overnight orthokeratology on axial elongation in childhood myopia. Invest Ophthalmol
+Vis Sci 2011;52:2170Y4.
+17. Santodomingo-Rubido J, Villa-Collar C, Gilmartin B, GutierrezOrtega R. Myopia control with orthokeratology contact lenses in
+Spain: refractive and biometric changes. Invest Ophthalmol Vis Sci
+2012;53:5060Y5.
+18. Cho P, Cheung SW. Retardation of Myopia in Orthokeratology
+(ROMIO) study: a 2-year randomized clinical trial. Invest Ophthalmol
+Vis Sci 2012;53:7077Y85.
+19. Charm J, Cho P. High myopia-partial reduction ortho-k: a 2-year
+randomized study. Optom Vis Sci 2013;90:530Y9.
+20. Chen C, Cheung SW, Cho P. Myopia control using toric orthokeratology (TO-SEE study). Invest Ophthalmol Vis Sci 2013;
+54:6510Y7.
+21. Lam CS, Edwards M, Millodot M, Goh WS. A 2-year longitudinal
+study of myopia progression and optical component changes among
+Hong Kong schoolchildren. Optom Vis Sci 1999;76:370Y80.
+22. Wiebe N, Vandermeer B, Platt RW, Klassen TP, Moher D,
+Barrowman NJ. A systematic review identifies a lack of standardization in methods for handling missing variance data. J Clin
+Epidemiol 2006;59:342Y53.
+23. Higgins JP, Green S, eds. Cochrane Handbook for Systematic Reviews of Interventions. Cochrane Collaboration; Version 5.1.0
+[updated March 2011]. Available at: www.cochrane-handbook.org.
+Accessed September 3, 2014.
+24. Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ,
+Gavaghan DJ, McQuay HJ. Assessing the quality of reports of
+randomized clinical trials: is blinding necessary? Control Clin Trials
+1996;17:1Y12.
+25. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gotzsche PC,
+Ioannidis JP, Clarke M, Devereaux PJ, Kleijnen J, Moher D. The
+PRISMA statement for reporting systematic reviews and metaanalyses of studies that evaluate healthcare interventions: explanation and elaboration. BMJ 2009;339:b2700.
+26. Cheung SW, Cho P. Validity of axial length measurements for monitoring myopic progression in orthokeratology. Invest Ophthalmol
+Vis Sci 2013;54:1613Y5.
+27. Cheung SW, Cho P, Fan D. Asymmetrical increase in axial length in
+the two eyes of a monocular orthokeratology patient. Optom Vis Sci
+2004;81:653Y6.
+28. Lee TT, Cho P. Discontinuation of orthokeratology and myopic
+progression. Optom Vis Sci 2010;87:1053Y6.
+29. Reim TR, Lund M, Wu R. Orthokeratology and adolescent myopia
+control. Contact Lens Spectrum 2003;18:40Y2.
+30. Norton TT, Siegwart JT Jr. Animal models of emmetropization:
+matching axial length to the focal plane. J Am Optom Assoc 1995;
+66:405Y14.
+
+257
+
+31. Smith EL, 3rd, Ramamirtham R, Qiao-Grider Y, Hung LF, Huang J,
+Kee CS, Coats D, Paysse E. Effects of foveal ablation on emmetropization and form-deprivation myopia. Invest Ophthalmol Vis Sci
+2007;48:3914Y22.
+32. Smith EL, 3rd, Kee CS, Ramamirtham R, Qiao-Grider Y, Hung LF.
+Peripheral vision can influence eye growth and refractive development in infant monkeys. Invest Ophthalmol Vis Sci 2005;46:3965Y72.
+33. Mutti DO, Sholtz RI, Friedman NE, Zadnik K. Peripheral refraction and ocular shape in children. Invest Ophthalmol Vis Sci 2000;
+41:1022Y30.
+34. Mutti DO, Hayes JR, Mitchell GL, Jones LA, Moeschberger ML,
+Cotter SA, Kleinstein RN, Manny RE, Twelker JD, Zadnik K.
+Refractive error, axial length, and relative peripheral refractive error
+before and after the onset of myopia. Invest Ophthalmol Vis Sci
+2007;48:2510Y9.
+35. Queirós A, González-Méijome JM, Jorge J, Villa-Collar C, Gutiérrez
+AR. Peripheral refraction in myopic patients after orthokeratology.
+Optom Vis Sci 2010;87:323Y9.
+36. Mathur A, Atchison DA. Effect of orthokeratology on peripheral
+aberrations of the eye. Optom Vis Sci 2009;86:476Y84.
+37. Kang P, Swarbrick H. Peripheral refraction in myopic children
+wearing orthokeratology and gas-permeable lenses. Optom Vis Sci
+2011;88:476Y82.
+38. Mutti DO, Sinnott LT, Mitchell GL, Jones-Jordan LA,
+Moeschberger ML, Cotter SA, Kleinstein RN, Manny RE, Twelker
+JD, Zadnik K. Relative peripheral refractive error and the risk of
+onset and progression of myopia in children. CLEERE Study Group.
+Invest Ophthalmol Vis Sci 2011;52:199Y205.
+39. Zhong Y, Chen Z, Xue F, Zhou J, Niu L, Zhou X. Corneal power
+change is predictive of myopia progression in orthokeratology.
+Optom Vis Sci 2014;91:404Y11.
+40. Santodomingo-Rubido J, Villa-Collar C, Gilmartin B, GutierrezOrtega R. Factors preventing myopia progression with orthokeratology correction. Optom Vis Sci 2013;90:1225Y36.
+41. Chen Z, Niu L, Xue F, Qu X, Zhou Z, Zhou X, Chu R. Impact of
+pupil diameter on axial growth in orthokeratology. Optom Vis Sci
+2012;89:1636Y40.
+
+Xing-Rong Wang
+Department of Ophthalmology
+Affiliated Eye Hospital of Shandong
+University of Traditional Chinese Medicine
+48 Yingxiongshan Rd
+Jinan, 250002
+China
+e-mail: semxrw@163.com
+
+Optometry and Vision Science, Vol. 92, No. 3, March 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+

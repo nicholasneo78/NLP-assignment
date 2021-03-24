@@ -1,0 +1,761 @@
+1040-5488/15/9209-e233/0 VOL. 92, NO. 9, PP. e233Ye240
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2015 American Academy of Optometry
+
+CLINICAL REPORT
+
+Corneal Neuralgia after LASIK
+Christos Theophanous*, Deborah S. Jacobs†, and Pedram Hamrah†
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/31/2020
+
+ABSTRACT
+Purpose. To illustrate that corneal neuralgia may be the basis for refractory dry eye syndrome after laser-assisted in situ
+keratomileusis (LASIK).
+Methods. The methodology used is that of a retrospective medical record review of a small case series.
+Results. Three male patients, aged 30 to 48 years, referred in 2012 for dry eye syndrome refractory to treatment within
+1 year of LASIK or LASIK enhancement are reported. Each patient gave history of eye pain, light sensitivity, and difficulty with
+visual activities beginning within 2 months of LASIK or LASIK enhancement. Best-corrected visual acuity was 20/15 or 20/20
+in each of the six eyes. Tear-centered models and metrics did not explain persistent symptoms, which was consistent with
+inadequate response to standard dry eye treatments used before referral and reported here. In vivo confocal microscopy was
+abnormal at presentation in each case and was followed over time. Treatments undertaken subsequent to referral included
+autologous serum tears (three cases), PROSE (Prosthetic Replacement of the Ocular Surface Ecosystem) treatment (two
+cases), and systemic agents for pain, anxiety, or depression (three cases). By the end of 2013, at a mean of 23 months after
+LASIK or LASIK enhancement, symptoms improved in all three patients.
+Conclusions. Patients with persistent dry eye symptoms out of proportion to clinical signs after LASIK have a syndrome that
+may best be classified as corneal neuralgia. In vivo confocal microscopy can be informative as to the neuropathic basis of
+this condition. In keeping with current understanding of complex regional pain syndrome, early multimodal treatment
+directed toward reducing peripheral nociceptive signaling is warranted to avoid subsequent centralization and persistence
+of pain. Distinguishing this syndrome from typical post-LASIK dry eye remains a challenge.
+(Optom Vis Sci 2015;92:e233Ye240)
+Key Words: dry eye, dry eye syndrome, LASIK, corneal neuralgia, neuropathic pain
+
+A
+
+lthough laser-assisted in situ keratomileusis (LASIK) is
+a common and highly effective surgical treatment of
+myopia,1Y3 dry eye symptoms are reported by nearly half
+of patients after the procedure.4Y6 Several pathophysiological
+mechanisms have been suggested for these symptoms, mostly
+relating to impaired tear production, distribution, and stability.7
+In particular, transection of sensory nerves during the lamellar cut
+of the procedure is thought to impair the blink reflex and alter
+corneal sensation.8Y10 Alterations in corneal topography causing uneven tear distribution8 and postoperative changes in tear
+composition owing to goblet cell damage11,12 are also thought
+*BA
+†
+MD
+Keck School of Medicine, University of Southern California, Los Angeles,
+California (CT); Boston Foundation for Sight, Needham, Massachusetts (DSJ);
+and Cornea & Refractive Surgery Service, Massachusetts Eye and Ear, Department
+of Ophthalmology, Harvard Medical School, Boston, Massachusetts (DSJ, PH).
+This is an open-access article distributed under the terms of the Creative
+Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NCND), where it is permissible to download and share the work provided it is properly
+cited. The work cannot be changed in any way or used commercially.
+
+to be contributing factors. Typically, these symptoms peak between 1 week and 3 months of surgery10,13Y15 and resolve within
+6 months.10,15 This time course maps closely with the recovery of
+central corneal sensation13,15 and a period of rapid corneal nerve
+density recovery between 6 months and 1 year after surgery.16,17
+This tear-centered model fails to explain the full spectrum of
+LASIK-associated dry eye disease. Studies have confirmed a poor
+correlation between symptoms and clinical signs, such as punctate
+epithelial keratopathy on corneal staining and abnormal Schirmer
+tests in LASIK patients,9,18 and in dry eye patients in general.19
+Patients with normal findings may report severe symptoms,18
+whereas patients with visible epithelial changes after LASIK often
+do not report discomfort.4
+An explanation for these inconsistencies is that certain cases of
+intractable LASIK-associated dry eye disease represent a pathologic process of the nervous system rather than a problem of tear
+dynamics.20,21 Neuralgia is defined as pain in the distribution of a
+nerve or set of nerves with concurrent signs of nerve damage.22
+Intractable dry eye syndrome after LASIK might be considered a
+variant of complex regional pain syndrome (CRPS) type II23 and
+may be better described as post-LASIK neuralgia. A neuropathic
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+e234 Corneal Neuralgia after LASIKVTheophanous et al.
+
+basis for persistent, intractable, and disabling symptoms out of
+proportion to clinical signs in a subset of patients after LASIK is
+plausible given the known nerve injury from the procedure. Because the corneal subbasal nerve plexus (SNP) is not visualized
+with the slit lamp, in vivo confocal microscopy (IVCM) can be
+useful in identifying signs of nerve damage. A recent report on
+correlation of symptoms and signs of dry eye disease in patients
+with meibomian gland disease found that there was only correlation in patients without abnormalities of the SNP.24 Injury to
+the SNP of the type that occurs in LASIK may disrupt the correlation between signs and symptoms.
+We report the presentation, treatment, and course of disease of
+three patients referred in 2012 for dry eye syndrome refractory to
+treatment within 1 year of LASIK or LASIK enhancement. We
+explain that a subset of patients with severe and persistent ocular
+symptoms after LASIK may be better understood and treated as
+corneal neuralgia.
+
+METHODS
+Our methodology is that of a retrospective medical record review. This report was approved as exempt from review by the
+Institutional Review Board/Ethics Committee of Massachusetts
+Eye and Ear (MEE) and by the New England Institutional Review
+Board; this study complied with the Health Insurance Portability
+and Accountability Act and adhered to the tenets of the Declaration of Helsinki. Inclusion criteria for this study included
+LASIK performed within 1 year of initial consultation in 2012 and
+persistent ocular symptoms that were not alleviated with conventional dry eye therapy. Data extracted from the medical records
+included patient demographics, medical history, ocular history,
+previous treatment, Ocular Surface Disease Index (OSDI) scores,25
+best-corrected visual acuity, clinical findings including vital dye
+staining and tear metrics, and IVCM imaging using HRT3/Rostock
+Cornea Module (Heidelberg Engineering GmbH, Heidelberg,
+Germany), as well as clinical course through December 2013.
+
+RESULTS
+The three patients included in this report are male with ages
+between 30 and 48 years. Demographic and clinical information
+is summarized in Table 1. Detailed case histories with a mean
+follow-up of 23 months after LASIK or LASIK enhancement are
+as follows.
+
+Case 1
+A 42-year-old man with a history of hypercholesterolemia
+underwent LASIK OU. He presented to Boston Foundation for
+Sight (BFS) 10 months later with a detailed timeline of his own
+clinical course as follows: Immediately after the procedure, he had
+a burning sensation in both eyes. Within several weeks, he had
+noted symptoms of light sensitivity, halo effect, and extreme dry
+eye. He was initially treated with topical cyclosporine (Restasis,
+Allergan, Irvine, CA) twice per day, preservative-free lubricating
+drops throughout the day, and punctal occlusion. These measures
+
+substantially reduced his symptoms in the left eye by 2 to
+3 months after LASIK; symptoms in the right eye persisted with
+notation of continued achy, sore pain with tearing that worsened
+throughout the day, sensitivity to sunlight, blurriness, and dryness. His symptoms in the right eye were subsequently treated
+with warm compresses twice per day, moisture chamber goggles during the day, ointment thrice per day and nightly, oral
+cetirizine, trial of bandage soft lenses, and a daytime eye patch,
+offering limited relief. Doxycycline 100 mg by mouth daily was
+also prescribed for mild blepharitis. During this treatment period, the patient developed depression and ultimately was hospitalized for suicidal ideation, which he reported was driven by
+his eye pain.
+At presentation to BFS, his best-corrected visual acuity was
+20/20 OD and 20/15 OS. His OSDI score was 54.5 (average
+subgroup scores: A = 1.4, B = 3.0, C = 2.7). Oxford scores26 were
+0 in each eye. Current and prior systemic and local therapies are
+listed in Table 1. The patient reported relief of symptoms with
+trial of a Prosthetic Replacement of the Ocular Surface Ecosystem
+(PROSE) device (BFS, Needham, MA) in the right eye only;
+hence, the decision was made to proceed with PROSE treatment
+for that eye alone, with the suggestion that he continues all other
+modes of treatment of his symptoms. A trial of autologous serum
+tears (AST) was suggested and consultation at MEE for corneal
+imaging was recommended.
+He was evaluated at MEE 2 weeks later, 4 days after initiation
+of AST four times per day by his primary eye care provider. Examination was significant for mild superficial punctate keratitis
+(SPK) OD and large central and inferior SPK OS. Meibomian
+gland dysfunction OU was noted. Tear breakup time (TBUT)
+was 2 seconds OU, and tear osmolarity was 296 mOsm/L OD
+and 289 mOsm/L OS. Schirmer test results with anesthesia were
+6 mm OD and 10 mm OS. No pain score was obtained, but he
+reported total resolution with in-office administration of topical
+proparacaine. In vivo confocal microscopy of his right eye demonstrated significant diminishment of his corneal nerves with very
+few nerves present, increased tortuosity, beading, and increased
+presence of immune dendritic cells. In vivo confocal microscopy of
+the left eye showed no nerves in the central cornea and increased
+presence of immune dendritic cells (Fig. 1). Increased frequency
+to eight times per day and an increased concentration of AST
+were prescribed, and loteprednol one drop daily was added to his
+regimen to suppress inflammation.
+The patient returned for follow-up 2 months later, having been
+hospitalized again for depression. There had been addition and
+discontinuation of systemic medications by his other physicians,
+including introduction of gabapentin and carbamazepine. He was
+not using loteprednol. Administration of topical proparacaine at
+this visit significantly diminished but did not eliminate his pain.
+He was advised to resume suppressive loteprednol. At his next visit
+2 months later, he had discontinued wearing the PROSE device
+and was continuing with AST, and his systemic regimen had been
+further adjusted. He reported that his pain was 3 of 10, having
+improved from what he reported retrospectively as 7 of 10. There
+was evidence of SNP regeneration on IVCM OU.
+Eight months from initial consultation, the patient returned
+for a scheduled 3-month follow-up reporting flare-ups of pain as
+high as 8 of 10 from a baseline of 4 of 10 with stinging, tearing,
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Corneal Neuralgia after LASIKVTheophanous et al.
+
+e235
+
+TABLE 1.
+Patient demographics and clinical features
+
+Age,
+Case y/sex
+1
+
+2
+
+Medical history
+before LASIK
+
+42/M Hypercholesterolemia
+
+48/M Anxiety
+Allergic rhinitis
+
+Visual
+acuity
+OD: 20/20
+OS: 20/15
+
+OD: 20/15
+OS: 20/15
+
+Vital dye
+staining
+OSDI
+(Oxford
+(A, B, C)* scale)†
+54.5 (1.4,
+3.0, 2.7)
+
+47.7 (1.2,
+3.0, 1.5)
+
+OD: 0
+OS: 0
+
+OD: 0
+OS: 0
+
+Gastroesophageal
+reflux disease
+
+3
+
+30/M (None)
+
+OD: 20/15
+OS: 20/15
+
+39.6 (1.8,
+2.5, 0)
+
+OD: 1+
+OS: 0
+
+Tear metrics
+(OD, OS)
+(mo after
+surgery)
+
+Prescribed
+ophthalmologic
+treatments
+
+Systemic
+medications at
+presentation
+
+Lubricant drops
+Lubricant
+ointment
+5, 5 (21)
+Punctal occlusion
+Schirmer, mm: Moisture goggles
+6, 10 (11)
+Topical
+antibiotics
+Tear osmolarity, Topical steroids
+mOsm/L:
+Topical
+296, 289 (11)
+cyclosporin
+Bandage lenses
+Autologous
+serum‡
+PROSE treatment‡
+TBUT, s:
+Lubricant drops
+3, 3 (8)
+Lubricant
+ointment
+8, 8 (19)
+Lacriserts
+4.5, 4.5 (26)
+Punctal occlusion
+Topical steroids
+Topical
+cyclosporin
+Autologous
+serum‡
+PROSE treatment‡
+TBUT, s:
+Lubricant drops
+6.5, 6.5 (14)
+Punctal occlusion
+5.5, 5.5 (17)
+Topical steroids
+Schirmer, s:
+Topical
+cyclosporin
+7, 10 (5)
+Autologous
+6, 7 (9)
+serum‡
+
+Doxycycline
+Cetirizine
+Atorvastatin
+Aspirin
+Dexlansoprazole
+Mirtazapine
+Risperidone
+Clonazepam
+Buproprion
+Desvenlafaxine
+Propanolol
+
+TBUT, s:
+2, 2 (11)
+
+Additional
+systemic
+medications
+during course
+
+Gabapentin§
+Carbamazepine§
+Eszopiclone§
+Tapentadol§
+Vilazodone§
+Tramadol
+Oxycodone
+
+Atorvastatin
+Escitalopram (replaced
+Aspirin
+Duloxetine)
+Dexlansoprazole Esomeprazole
+Duloxetine
+
+(None)
+
+Gabapentin (taken
+for 1 mo)
+
+*Average response (0 to 4) for each OSDI question subgroup (A, Symptoms; B, Function; C, Environmental Triggers).
+†At time of BFS consult.
+‡Treatment prescribed after initial consultation.
+§Treatment initiated after hospitalization for depression with suicidal ideation.
+
+light sensitivity, blurriness, and pressure OU. He reported being
+bedbound much of the day because of pain. He had started
+loteprednol twice per day, which caused mild improvement in his
+symptoms. He required oral narcotics for breakthrough pain
+reported as 8 of 10. The situation was similar 3 months later, at
+which time no SPK was observed OU and TBUT was 5 seconds
+OU. The patient was advised to continue AST, increase flaxseed
+oil to 3 tbsp/d, and start hot compresses and lid massage. During the next 3-month interval, he was treated elsewhere with
+meibomian gland probing and punctal cautery, after which he
+reported improvement of pain. During this period, the patient
+remained under the care of ophthalmologists who treated his
+ocular surface disease, as well as other clinicians who managed his
+ongoing systemic medical treatment of pain and depression. At the
+next 3-month follow-up visit and the end of the period reported in
+this study (27 months after surgery), the patient had returned
+from disability leave to employment and reported having 0 (of 10)
+pain in the morning, 1 to 2 (of 10) pain when not working, and
+4 to 5 (of 10) pain when working.
+
+Case 2
+A 48-year-old man with history of anxiety, allergic rhinitis,
+and gastroesophageal reflux disease underwent LASIK OU with
+subsequent enhancement procedures 6 months and 9 months
+later (OS and OD, respectively). Seven months after his last enhancement procedure, he was referred to BFS for consideration
+of PROSE treatment of dry eye syndrome after LASIK. The patient reported that he began to experience ocular pain and foreign
+body sensation 1 month after the second enhancement procedure,
+worse OS. He also described shooting pain when watching TV,
+achiness, burning, light sensitivity, and difficulty sleeping because of eye pain. He had been initially treated with preservativefree lubricating drops eight times per day, Restasis twice per day,
+prednisone 1% drops four times per day, hydroxypropyl cellulose
+ophthalmic insert, punctal occlusion, fish oil/flaxseed oil 1000 mg/
+845 mg twice per day, and ointment nightly with limited success.
+At consultation, he reported continued light sensitivity, painful
+and sore eyes, and discomfort with sustained visual activity. The
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+e236 Corneal Neuralgia after LASIKVTheophanous et al.
+
+patient also reported a recent flare-up of anxiety and depression
+symptoms. Best-corrected visual acuity was 20/15 OU. Ocular
+Surface Disease Index score was 47.7 (average subgroup scores:
+A = 1.2, B = 3.0, C = 1.5). Vital dye staining was classified as
+an Oxford score of 0 OU. There was resolution of symptoms OU
+
+with trial of PROSE devices; thus, PROSE treatment was undertaken. He was referred to MEE for consideration of treatment
+with AST and for corneal imaging and was seen 1 month later. At
+this visit, he reported that his pain symptoms were 7 of 10 and
+improved to 2 of 10 with administration of topical proparacaine.
+
+FIGURE 1.
+In vivo confocal microscopy images showing corneal SNP taken at the time of initial MEE consultation. An image from a normal control is provided for
+reference. Specific findings are detailed in the report of each case.
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Corneal Neuralgia after LASIKVTheophanous et al.
+
+In vivo confocal microscopy revealed significant diminishment
+of his corneal nerves, high tortuosity of subbasal corneal nerves,
+beading, and increased presence of immune dendritic cells in
+both eyes (Fig. 1). Increased flaxseed oil was recommended and
+AST eight times per day was added to his regimen, and fluorometholone eye drops were tapered. When he returned 2 months
+later, he reported wearing PROSE devices in the early part of the
+day and administering serum tears later in the day. He reported
+that his baseline symptoms were 4 of 10 and improved to 2 of 10
+with administration of proparacaine. He returned for subsequent
+evaluation 2 months later, reporting that he had discontinued the
+PROSE devices because he was feeling better. He rated his pain
+that day as 6 of 10 improving to 2 of 10 with proparacaine. A
+tapering course of loteprednol was added to his regimen. He
+returned 1 month later, reporting his general baseline as 4 of 10 but
+his symptoms with proparacaine trial went from 2 of 10 to 0 of 10.
+Six months later, 12 months after initial consultation, the patient reported 1 of 10 pain OS only that improved to 0 of 10 with
+proparacaine challenge. Tear breakup time was 8 seconds OU.
+Examination showed 1+ inferior SPK OS. In vivo confocal microscopy showed increased corneal nerves with reduced inflammatory cells OS. The situation was similar at his next 3-month
+follow-up on the same medication regimen. Four months later,
+at the end of the study period (26 months after last surgery), the
+patient’s pain was still 1 of 10 OS with no flare-ups. Tear breakup
+time was 4.5 seconds OU. Examination showed trace superficial
+punctate epithelial erosions inferiorly OU. In vivo confocal microscopy showed increased and more normal-appearing nerves
+OU, with no inflammatory cells. At that time, the patient was
+instructed to reduce AST to four times per day and to discontinue topical methylprednisone, which had been substituted for
+loteprednol.
+
+Case 3
+A 30-year-old man was referred by a cornea specialist for
+consideration of PROSE treatment. His symptoms were eyestrain worse with reading and watching TV, light sensitivity, and
+morning dryness that started 2 months after LASIK that had been
+performed OU 7 months previously by another cornea specialist. He was initially treated by the LASIK surgeon with topical
+prednisolone and lubricant drops, which, by his own report,
+ameliorated his symptoms at first, but the effect waned. Schirmer
+tests with anesthesia performed by the referring doctor were 7 mm
+OD and 10 mm OS with slit lamp revealing ‘‘dry patches.’’ Initial
+evaluation at BFS revealed uncorrected visual acuity of 20/15 in
+each eye. His OSDI score was 39.6 (average subgroup scores: A =
+1.8, B = 2.5, C = 0). Corneal fluorescein staining was Oxford
+1 OD and 0 OS. Soft lenses and PROSE devices were trialed
+on each eye; neither lens type was comfortable or reduced light
+sensitivity symptoms; hence, this path toward reduction of symptoms was not pursued. Of note, he also reported a generalized
+somatic hypersensitivity disorder with ‘‘trigger points.’’ He was
+referred to MEE for confocal study of corneal nerves and consideration of AST, and it was also suggested that he seek evaluation by
+a pain specialist. A pain specialist prescribed gabapentin 300 mg
+daily, but the patient elected to discontinue after 1 month because
+of a lack of symptom relief.
+
+e237
+
+At initial MEE evaluation 3 months later, he reported persistent
+symptoms of eyestrain, achiness, and light sensitivity for which
+lubricant drops provided no relief. Schirmer test with anesthesia
+showed 6 mm of wetting OD and 7 mm OS. Examination showed
+trace SPK OD and 2+ SPK OS. In vivo confocal microscopy
+showed significant diminishment of his corneal nerves, beading,
+and increased presence of immune dendritic cells in both eyes
+(Fig. 1). The patient was treated with pulse dosing of loteprednol,
+followed by low maintenance dose of loteprednol, and flaxseed oil
+2000 mg/d. Two weeks later, the patient reported limited change
+in symptoms. Trace SPK was observed OU. The patient was
+started on AST eight times per day.
+Four months later, the patient reported improvement in light
+sensitivity symptoms, which he rated as 5 of 10, but still reported
+difficulty with harsh lighting and watching TV. He reported eye
+fatigue and occasional pain upon awakening. Tear breakup time
+was 6.5 seconds OU. Examination revealed trace SPK OU. In vivo
+confocal microscopy showed increased nerve density and reduced
+inflammatory cells OU. The patient was instructed to continue
+his current regimen but to taper loteprednol to twice per week.
+Three months later, at the end of the study period (17 months
+after surgery), the patient reported improved symptoms, with
+0 of 10 pain, mild grittiness and dryness, and intermittent light
+sensitivity. Tear breakup time was 5.5 seconds OU. Examination
+showed trace SPK OD and 1 to 2+ SPK OS. In vivo confocal
+microscopy showed increased nerve density with increased inflammatory cells OD. The patient was instructed to continue
+loteprednol twice per week, AST eight times per day, and flaxseed
+oil 2 tbsp/d.
+
+DISCUSSION
+Although dry eye syndrome is common after LASIK, the patients in this study were referred for dry eye syndrome that was
+persistent and unresponsive to standard therapy. In each case, the
+clinical signs of dry eye and tear metrics were inconsistent with
+the patient’s level of discomfort. Each patient reported symptoms
+of pain, burning, soreness, achiness, and light sensitivity. Foreign
+body sensation or grittiness was not a prominent feature for any
+of them. Unlike typical LASIK-associated dry eye disease, the
+symptoms experienced by these patients did not gradually wane
+with time after surgery but rather persisted or increased. We believe that these patients had dry eye syndrome that was neuropathic in etiology, warranting treatment of underlying neuralgia
+rather than treatment of aqueous deficient or evaporative dry eye.
+Ocular Surface Disease Index responses were distinctive in that
+each patient noted more severe discomfort in the Function subgroup compared with the Environmental Triggers or Symptoms
+subgroups. Of note, two patients reported initial response of
+symptoms to the improved environment offered by a PROSE
+device while it was in place, consistent with dampening of what
+might be neuropathic peripheral signaling of evaporation. Complete relief of symptoms with proparacaine that these patients initially experienced suggest a peripheral source of neuropathic pain.
+Improving the ocular surface environment may down-regulate
+ectopic, spontaneous, or hypersensitive signaling in nociceptor
+pathways. Only partial relief with PROSE devices or proparacaine
+suggests a central basis for pain.
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+e238 Corneal Neuralgia after LASIKVTheophanous et al.
+
+In vivo confocal microscopy revealed abnormality of the corneal SNP in these patients, with reduced nerve density and altered
+morphology as the most prominent features. Increased tortuosity
+of subbasal nerves is seen after chronic damage in diabetes27,28 and
+Sjögren syndrome.29 Decreased nerve density is present in the
+three patients reported here, as compared with normal eyes, although it remains unclear if the pattern and time course of SNP
+abnormalities are different in these patients than in those who
+recover more typically from post-LASIK dry eye. Nerve regeneration is visible on IVCM in almost all LASIK patients 1 month
+after surgery, and in one quarter of patients, regenerated nerves
+have reached the corneal apex by 3 months.30 The use of AST was
+associated with improvement in symptoms in each of these patients. Although placebo effect might account for this improvement, the lack of relief with numerous other interventions suggests
+a more specific mechanism.
+This presentation of symptoms out of proportion to signs of
+desiccation along with persistent abnormality of the SNP is
+consistent with and characteristic of neuropathic pain. Neuropathic pain has been operationally defined as an abnormal pain
+state that arises from a damaged peripheral nervous system or
+central nervous system. There may be residual involvement of
+nociceptors at the site of the original injury, creating a mixed
+nociceptive-neuropathic pattern. In neuropathic pain, there is
+perpetuation of pain initiated by neural tissue damage that is
+beyond simple nociception.31 In the cases presented here, injury to
+sensory nerves at the time of LASIK might have triggered a pain
+pathway resulting in refractory symptoms historically attributed to
+dry eye disease. We suggest that these and similar cases be categorized as corneal neuralgia after LASIK or post-LASIK neuralgia.
+We emphasize that correlations can be drawn to CRPS, which
+has as a hallmark pain that is out of proportion to the inciting
+lesion.23 Traditionally a skin and soft tissue disorder, the pathophysiology suspected for CRPS involves neurogenic inflammation
+and elevated neuropeptides,32 as well as autonomic dysfunction.33
+Notably, increased neuropeptide levels in patients after LASIK
+have been reported.34 Our proposal of a neuropathic basis for
+symptoms in these patients is consistent with previous descriptions of dysfunctional lacrimal functional unit in dry eye patients
+and, specifically, the occurrence of neurogenic inflammation of
+interconnecting innervation after insult to the ocular surface.35
+Symptoms of CRPS typically include burning and aching pain,
+allodynia, edema, and sweating or temperature changes.23 Complex regional pain syndrome is further classified into type I, in
+which no nerve damage is obvious, and type II, in which nerve
+damage can be confirmed.23 We suggest that the patients in this
+study might represent a variant of CRPS type II because they
+present with confirmed nerve damage, pain out of proportion
+to the injury, symptoms of burning pain, and autonomic dysfunction evidenced by marginally lower Schirmer test results. Of
+note, the light sensitivity these patients report could be characterized as photoallodynia36 analogous to allodynia in CRPS.
+The approach to CRPS is typically multimodal with local and
+systemic treatments invoked. The goal is to reduce pain signaling
+in the short run and centralization of pain in the long run, both
+of which interfere with patient function. The patients reported
+here were treated locally and systemically with multiple agents
+and all reported improvement over time; common variables were
+
+introduction of AST, which can contribute to nerve regeneration,37,38 PROSE devices, which can reduce peripheral signaling,
+topical anti-inflammatory agents, which may reduce local inflammation that might up-regulate nerve signaling, and systemic
+agents, which can gate or modify pain signaling.
+There are reports on the use of neurotrophic factors, particularly nerve growth factor, demonstrating reduction of neuropathic pain.39,40 Therapeutic strategies resulting in regeneration
+of damaged corneal nerves may improve patient symptoms. Administration of neurotrophic factors has been shown to result
+in postinjury repair of peripheral nerves and their functional recovery.41 Autologous serum tears may have played such a role in
+these patients.
+Depression and emotional life events have also been associated
+with CRPS,42 although this association remains unproven.23 One
+patient with preexisting anxiety reported a resurgence of anxious
+and depressive symptoms around the time his ocular symptoms
+began. Another patient experienced severe depression in association with this syndrome, requiring hospitalization on two occasions. Systemic medications with neurologic and psychiatric
+activity were part of the recovery of these two patients. Pain
+without stain is real20 and, as illustrated by these cases, may best be
+considered a neurologic problem with psychiatric implications.
+Clinicians should consider involvement of pain specialists, neurologists, and psychiatrists in the care of these patients. Describing
+the syndrome as a variant of CRPS type II may be helpful in
+guiding therapy.
+Multimodal treatment including AST, PROSE treatment, topical ophthalmologic agents, and systemic psychiatric and neurologic medication was used in these three patients; thus, the relative
+contribution of each therapy to the patients’ improvement cannot be rigorously assessed. These patients ultimately achieved
+resolution or near resolution of symptoms. These patients shared
+a common time course of a highly symptomatic first year of
+treatment of dry eye after LASIK followed by improvement once
+multimodal therapy directed toward neuropathy was introduced.
+Further studies of refractive surgery populations are warranted
+to identify risk factors for developing this syndrome. Additional
+data from IVCM studies are also likely to be useful in identifying patients with corneal neuralgia after LASIK. In vivo confocal
+microscopy may serve as a metric for disease in corneal neuralgia
+and for monitoring response to treatment.
+In summary, patients with persistent dry eye symptoms out
+of proportion to clinical signs after LASIK have a syndrome that
+may best be classified as corneal neuralgia. In vivo confocal microscopy can be informative as to the neuropathic basis of this
+condition. In keeping with current understanding of CRPS, early
+multimodal treatment directed toward reducing peripheral neurologic signaling is warranted to avoid subsequent centralization
+and persistence of pain on that basis. Distinguishing this syndrome from typical post-LASIK dry eye remains a challenge.
+
+ACKNOWLEDGMENTS
+Drs. Jacobs and Hamrah share the role of senior and corresponding authors
+for this article. The authors have no proprietary or commercial interests
+to disclose.
+Received January 30, 2015; accepted March 25, 2015.
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Corneal Neuralgia after LASIKVTheophanous et al.
+
+REFERENCES
+1. Tahzib NG, Bootsma SJ, Eggink FA, Nabar VA, Nuijts RM.
+Functional outcomes and patient satisfaction after laser in situ keratomileusis for correction of myopia. J Cataract Refract Surg 2005;
+31:1943Y51.
+2. Marinho A, Pinto MC, Pinto R, Vaz F, Neves MC. LASIK for high
+myopia: one year experience. Ophthalmic Surg Lasers 1996;27:S517Y20.
+3. Miller AE, McCulley JP, Bowman RW, Cavanagh HD, Wang XH.
+Patient satisfaction after LASIK for myopia. CLAO J 2001;27:84Y8.
+4. Hovanesian JA, Shah SS, Maloney RK. Symptoms of dry eye and
+recurrent erosion syndrome after refractive surgery. J Cataract Refract
+Surg 2001;27:577Y84.
+5. Toda I, Asano-Kato N, Hori-Komai Y, Tsubota K. Laser-assisted in
+situ keratomileusis for patients with dry eye. Arch Ophthalmol 2002;
+120:1024Y8.
+6. De Paiva CS, Chen Z, Koch DD, Hamill MB, Manuel FK, Hassan
+SS, Wilhelmus KR, Pflugfelder SC. The incidence and risk factors
+for developing dry eye after myopic LASIK. Am J Ophthalmol 2006;
+141:438Y45.
+7. Battat L, Macri A, Dursun D, Pflugfelder SC. Effects of laser in situ
+keratomileusis on tear production, clearance, and the ocular surface.
+Ophthalmology 2001;108:1230Y5.
+8. Ambrosio R, Tervo T, Wilson SE. LASIK-associated dry eye and
+neurotrophic epitheliopathy: pathophysiology and strategies for
+prevention and treatment. J Refract Surg 2008;24:396Y407.
+9. Tuisku IS, Lindbohm N, Wilson SE, Tervo TM. Dry eye and corneal
+sensitivity after high myopic LASIK. J Refract Surg 2007;23:338Y42.
+10. Vroman DT, Sandoval HP, Fernandez de Castro LE, Kasper TJ,
+Holzer MP, Solomon KD. Effect of hinge location on corneal sensation and dry eye after laser in situ keratomileusis for myopia.
+J Cataract Refract Surg 2005;31:1881Y7.
+11. Rodriguez AE, Rodriguez-Prats JL, Hamdi IM, Galal A, Awadalla
+M, Alio JL. Comparison of goblet cell density after femtosecond laser
+and mechanical microkeratome in LASIK. Invest Ophthalmol Vis
+Sci 2007;48:2570Y5.
+12. Rodriguez-Prats JL, Hamdi IM, Rodriguez AE, Galal A, Alio JL.
+Effect of suction ring application during LASIK on goblet cell
+density. J Refract Surg 2007;23:559Y62.
+13. Chao C, Golebiowski B, Stapleton F. The role of corneal innervation
+in LASIK-induced neuropathic dry eye. Ocul Surf 2014;12:32Y45.
+14. Mian SI, Li AY, Dutta S, Musch DC, Shtein RM. Dry eyes and
+corneal sensation after laser in situ keratomileusis with femtosecond
+laser flap creation. Effect of hinge position, hinge angle, and flap
+thickness. J Cataract Refract Surg 2009;35:2092Y8.
+15. Mian SI, Shtein RM, Nelson A, Musch DC. Effect of hinge position
+on corneal sensation and dry eye after laser in situ keratomileusis
+using a femtosecond laser. J Cataract Refract Surg 2007;33:1190Y4.
+16. Calvillo MP, McLaren JW, Hodge DO, Bourne WM. Corneal
+reinnervation after LASIK: prospective 3-year longitudinal study.
+Invest Ophthalmol Vis Sci 2004;45:3991Y6.
+17. Patel SV, McLaren JW, Kittleson KM, Bourne WM. Subbasal nerve
+density and corneal sensitivity after laser in situ keratomileusis:
+femtosecond laser vs mechanical microkeratome. Arch Ophthalmol
+2010;128:1413Y9.
+18. Wilson SE, Ambrosio R. Laser in situ keratomileusis-induced
+neurotrophic epitheliopathy. Am J Ophthalmol 2001;132:405Y6.
+19. Nichols KK, Nichols JJ, Mitchell GL. The lack of association between signs and symptoms in patients with dry eye disease. Cornea
+2004;23:762Y70.
+
+e239
+
+20. Rosenthal P, Baran I, Jacobs DS. Corneal pain without stain: is it
+real? Ocul Surf 2009;7:28Y40.
+21. Rosenthal P, Borsook D. The corneal pain system. Part I: the missing
+piece of the dry eye puzzle. Ocul Surf 2012;10:2Y14.
+22. International Association for the Study of Pain (IASP). IASP Taxonomy. Available at: http://www.iasp-pain.org/Taxonomy. Accessed
+January 25, 2015.
+23. Freedman M, Greis AC, Marino L, Sinha AN, Henstenburg J.
+Complex regional pain syndrome: diagnosis and treatment. Phys
+Med Rehabil Clin N Am 2014;25:291Y303.
+24. Kheirkhah A, Dohlman TH, Amparo F, Arnoldner MA, Jamali A,
+Hamrah P, Dana R. Effects of corneal nerve density on the response
+to treatment in dry eye disease. Ophthalmology 2015;122:662Y8.
+25. Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD, Reis BL.
+Reliability and validity of the Ocular Surface Disease Index. Arch
+Ophthalmol 2000;118:615Y21.
+26. Bron AJ, Evans VE, Smith JA. Grading of corneal and conjunctival
+staining in the context of other dry eye tests. Cornea 2003;
+22:640Y50.
+27. Kallinikos P, Berhanu M, O’Donnell C, Boulton AJ, Efron N, Malik
+RA. Corneal nerve tortuosity in diabetic patients with neuropathy.
+Invest Ophthalmol Vis Sci 2004;45:418Y22.
+28. Mocan MC, Durukan I, Irkec M, Orhan M. Morphologic alterations of both the stromal and subbasal nerves in the corneas of
+patients with diabetes. Cornea 2006;25:769Y73.
+29. Tuominen IS, Konttinen YT, Vesaluoma MH, Moilanen JA,
+Helinto M, Tervo TM. Corneal innervation and morphology in primary Sjogren’s syndrome. Invest Ophthalmol Vis Sci 2003;44:2545Y9.
+30. Deng S, Wang M, Zhang F, Sun X, Hou W, Guo N. Corneal
+subbasal nerve fiber regeneration in myopic patients after laser in situ
+keratomileusis. Neural Regen Res 2012;7:1556Y62.
+31. Jay GW, Barkin RL. Neuropathic pain: etiology, pathophysiology,
+mechanisms, and evaluations. Dis Mon 2014;60:6Y47.
+32. Schinkel C, Gaertner A, Zaspel J, Zedler S, Faist E, Schuermann M.
+Inflammatory mediators are altered in the acute phase of posttraumatic complex regional pain syndrome. Clin J Pain 2006;22:235Y9.
+33. Borchers AT, Gershwin ME. Complex regional pain syndrome: a
+comprehensive and critical review. Autoimmun Rev 2014;13:242Y65.
+34. Nejima R, Miyata K, Tanabe T, Okamoto F, Hiraoka T, Kiuchi T,
+Oshika T. Corneal barrier function, tear film stability, and corneal
+sensation after photorefractive keratectomy and laser in situ keratomileusis. Am J Ophthalmol 2005;139:64Y71.
+35. Stern ME, Gao J, Siemasko KF, Beuerman RW, Pflugfelder SC. The
+role of the lacrimal functional unit in the pathophysiology of dry
+eye. Exp Eye Res 2004;78:409Y16.
+36. Aggarwal S, Kheirkhah A, Cavalcanti BM, Cruzat A, Colon C,
+Brown E, Borsook D, Prüss H, Hamrah P. Autologous serum tears
+for treatment of photoallodynia in patients with corneal neuropathy:
+efficacy and evaluation with in vivo confocal microscopy. Ocul Surf
+2015;Feb 20: E-pub ahead of print: doi:10.1016/j.jtos.2015.01.005.
+37. Rao K, Leveque C, Pflugfelder SC. Corneal nerve regeneration in
+neurotrophic keratopathy following autologous plasma therapy. Br J
+Ophthalmol 2010;94:584Y91.
+38. Bradley JC, Simoni J, Bradley RH, McCartney DL, Brown SM.
+Time- and temperature-dependent stability of growth factor peptides
+in human autologous serum eye drops. Cornea 2009;28:200Y5.
+39. Cirillo G, Cavaliere C, Bianco MR, De Simone A, Colangelo AM,
+Sellitti S, Alberghina L, Papa M. Intrathecal NGF administration
+reduces reactive astrocytosis and changes neurotrophin receptors
+expression pattern in a rat model of neuropathic pain. Cell Mol
+Neurobiol 2010;30:51Y62.
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+e240 Corneal Neuralgia after LASIKVTheophanous et al.
+40. Colangelo AM, Bianco MR, Vitagliano L, Cavaliere C, Cirillo G, De
+Gioia L, Diana D, Colombo D, Redaelli C, Zaccaro L, Morelli G,
+Papa M, Sarmientos P, Alberghina L, Martegani E. A new nerve
+growth factor-mimetic peptide active on neuropathic pain in rats.
+J Neurosci 2008;28:2698Y709.
+41. Takemura Y, Imai S, Kojima H, Katagi M, Yamakawa I, Kasahara T,
+Urabe H, Terashima T, Yasuda H, Chan L, Kimura H, Matsusue Y.
+Brain-derived neurotrophic factor from bone marrow-derived cells
+promotes post-injury repair of peripheral nerve. PLoS One 2012;
+7:e44592.
+
+42. Geertzen JH, de Bruijn H, de Bruijn-Kofman AT, Arendzen JH.
+Reflex sympathetic dystrophy: early treatment and psychological
+aspects. Arch Phys Med Rehabil 1994;75:442Y6.
+
+Deborah S. Jacobs
+Boston Foundation for Sight
+464 Hillside Ave Ste 205
+Needham, MA 02494
+e-mail: djacobs@bostonsight.org
+
+Optometry and Vision Science, Vol. 92, No. 9, September 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+

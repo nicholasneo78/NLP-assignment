@@ -1,0 +1,2502 @@
+Petroleum Research (2016) 2,164-177
+
+Characteristics and accumulation mode of large-scale
+Sinian-Cambrian gas reservoirs in the Gaoshiti-Moxi
+region, Sichuan Basin
+Guoqi Wei 1*, Jinhu Du2, Chunchun Xu3, Caineng Zou4, Wei Yang1, Ping Shen3,
+Zengye Xie1 and Jian Zhang3
+Langfang Branch，PetroChina Research Institute of Exploration and Development，CNPC Key Laboratory
+of Gas Reservoir Formation and Development, Langfang 065007, China
+2
+PetroChina Exploration & Production Company, Beijing 100007, China
+3
+PetroChina Southwest Oil and Gas Field Company, Chengdu 610051, China
+4
+PetroChina Research Institute of Petroleum Exploration and Development, Beijing 100083, China
+Received May 12, 2016; Accepted September 23, 2016
+1
+
+Abstract: The Sinian-Cambrian formations of the Sichuan Basin have favorable hydrocarbon
+accumulation conditions, but the exploration for large-scale gas fields is quite challenging due to old
+strata and multiple tectonic movements. Since the Weiyuan Sinian large gas field was found in 1964,
+the largest monoblock gas field (Anyue Gasfield) was discovered in the Cambrian Longwangmiao
+Formation of the Moxi region in 2013 with proven gas reserves of 440.1×109 m3. Total proven,
+probable and possible reserves exceed one trillion cubic meters in the Sinian Dengying Formation and
+the Cambrian Longwangmiao Formation of the Gaoshiti-Moxi region. The natural gas components,
+light hydrocarbons, reservoir bitumen abundance and other evidences prove that the dry natural
+gas was mainly derived from oil-cracking, with methane (a content of 82.65%-97.35%), ethane (a
+content of 0.01%-0.29%), nitrogen (a content of 0.44%-6.13%), helium (a content of 0.01%-0.06%),
+and hydrogen sulphide (0.62-61.11 g/m3). Gas reservoir pressure increases gradually from the Sinian
+normal pressure (a pressure coefficient of 1.07-1.13) to high pressure (a pressure coefficient of 1.531.70) in the Cambrian Longwangmiao Formation. The temperature of the gas reservoir is 137.5163 oC. Gas reservoir traps are divided into three categories: tectonic type, tectonic-formation type
+and tectonic-lithologic type. The large-scale enrichment of the Sinian-Cambrian natural gas results
+from effective configuration of the large stable inherited palaeo-uplift during the Tongwan tectonic
+movement, wide distribution of ancient source rocks, high-quality reservoirs with vast pore-cavity,
+crude oil cracking of large palaeo-reservoirs and favorable preservation conditions. According to the
+palaeo-structure pattern prior to crude oil cracking of the palaeo-reservoirs, and bitumen abundance
+as well as the distribution characteristics of current gas reservoirs, the accumulation patterns of the
+cracking gas reservoir can be classified into three types: accumulation type, semi-accumulation and
+semi-dispersion type, and dispersion type. This understanding will play an important role in guiding
+the exploration of the Sinian-Cambrian natural gas exploration in the Sichuan Basin.
+
+Key words: palaeo-uplift, large gas field, crude oil cracking gas,
+accumulation mode, Gaoshiti-Moxi, Sichuan Basin
+* Corresponding author. Email: weigq@petrochina.com.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+164
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+1 Introduction
+
+exceeded trillion of cubic meters (Du et al., 2014). Therefore, a
+review of research achievements regarding characteristics and
+natural gas accumulation patterns of large gas reservoirs can
+enrich theory of natural gas accumulation of ancient carbonates
+and improve understanding accumulation formation rules
+of large and super large natural gas reservoirs, and have an
+important guiding significance to deployment decision-making
+of future exploration and expansion of new field exploration.
+
+Sinian-Cambrian strata in the Sichuan Basin have been explored
+for more than 50 years (Song, 1987; Du, 1996; Zhang and
+Zhang, 2002; Ran, 2006). In 1964, Weiyuan Gasfield as a large
+Sinian gas field was discovered in the Sichuan Basin. At that
+time Sinian strata were drilled successively in the Longnvsi
+structure, the Anpingdian structure, the Ziyang palaeo-trap, the
+Gaoshiti structure and so on, and commercial gas flow or lowproduction gas flow were obtained, while Sinian exploratory
+2 Gas reservoir characteristics
+wells on the basin margin were dominated by water production
+Gaoshiti-Moxi Gasfield is located in the middle of the central
+(Wei et al., 2013). As a result, the exploration in such old
+Sichuan gentle tectonic belt, and the east of the axis of Leshan
+sequences of the Sichuan Basin experienced a long evolution,
+–Longnvsi palaeo-uplift in the Sichuan Basin, the major
+multiphase modification (Luo, 1994; Guo et al., 1996; Xu
+reservoirs consist of the Sinian Dengying Formation and the
+et al., 2012; Zhao et al., 2012; Mei et al., 2014) and difficult
+Cambrian Longwangmiao Formation (Fig. 1).
+preservation are in a state of confusion. However, SinianCambrian ancient carbonates are widely distributed with the
+2.1 Strata and sedimentary facies
+development of giant palaeo-uplift, multiple suites of highIn the Gaoshiti-Moxi region, the strata include Jurassic (Suining
+quality source rocks and reservoir-cap assemblages as well as
+Formation, Shaximiao Formation, Lianggaoshan Formation and
+large oil and gas resources (Ji and Yue, 1986; Xie et al., 2000;
+Ziliujing Formation), Triassic (Xujiahe Formation, Leikoupo
+Wei et al., 2010). Accordingly, based on previous researches,
+Formation, Jialingjiang Formation and Feixian’guan Formation),
+the authors have conducted continuous researches on SinianCambrian hydrocarbon accumulation
+conditions, enrichment regularity and 0
+10 km
+target zone evaluation of the Sichuan
+N L
+Basin since 2003. Through systematic
+ong
+wa
+Ga
+ngm
+ota
+Suining
+studies of tectonic evolution history,
+MX22
+iao
+iF
+m.
+Fm
+.
+hydrocarbon generation history of source
+rock and reservoir pore evolution history,
+the authors calibrated Well GS 1 as a
+MX204
+MX11
+risk exploratory well and deployed it
+MX10
+Baolong
+MX12
+BL1
+MX17
+in the Gaoshiti-Moxi region. This well
+MX19
+MX205
+was drilled in August 2010, and in July
+Lezhi
+MX8 Moxi
+MX9
+MX13
+2011, a high-production gas flow with
+MX21
+AP1
+6 3
+Tongnan
+A
+daily output of 1.02×10 m was obtained
+in Sinian Member 2 of the Dengying
+Anyue
+GS18
+GS3
+Fo r m a t io n ( D e ng y i ng Fm .) i n t h e
+GS2
+Sichuan Basin, it was a major exploration
+GS1 GS11
+breakthrough since the Weiyuan Gasfield
+GS9
+GS10
+GS26
+GS6
+was found, initiating discovery of the
+Sinian-Cambrian oversized gas field and
+Guangyuan
+large-scale evaluation exploration in the
+GS23
+GS17
+Kaixian
+Gaoshiti-Moxi region. By the end of 2013,
+Chengdu
+Anyue
+the proven natural gas geological reserves
+Chongqing
+were 440.4×10 9 m 3 in the Cambrian
+Yibin
+Longwangmiao Formation, GaoshitiMoxi region, where the Anyue Gasfield
+4500
+Structural contour of top surface
+Predicted reserve of
+Proven reserve
+Controlled reserve of
+is found as a monoblock gasfield with
+of Longwangmiao Formation/m
+Member 2 of Dengying Fm.
+of Longwangmiao Fm.
+Member 4 of Dengying Fm.
+A
+A′
+China’s largest gas reservoir at present,
+Well location
+Fault
+Pinch-out boundary City or town
+Profile position
+and the 3P (proved, probable, possible)
+reserves of the Sinian-Cambrian natural
+Fig. 1 Distribution of Sinian-Cambrian gas reservoirs in Anyue Gasfield,
+Sichuan Basin
+gas in the Gaoshiti-Moxi region has
+
+165
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+In the Anyue Gasfield, the gas reservoirs of the Dengying
+Formation and Longwangmiao Formation are generally characterized by small thickness per layer (averaging 1.20-3.66 m) and
+large accumulated thickness (averaging 24.4-39.50 m), dominated by low porosity (averaging 3.22%-4.28%) and low permeability (averaging 0.593-1.160 mD) with local development of highporosity high-permeability members (Table 1). The Cambrian
+Longwangmiao Formation is dominated by doloarenite, relict
+doloarenite, and fine- meso crystalline dolomite; while the Sinian Dengying Formation is dominated by algal boundstone doloarenite, algal doloarenite, cryptomonad thrombolite dolomite,
+algal stromatolite dolomite, algal framestone and doloarenite (Xu
+et al., 2014). Reservoiring spaces primarily consist of various
+secondary dissolution pores (including interparticle dissolution
+pores, intraparticle dissolution pores, intercrystalline dissolution
+pores and relict interparticle pores) and cavities (Fig. 3). The
+karstification is the major diagenesis to control reservoir development (Yang et al., 2014), and all kinds of fractures (including
+structural fractures, dissolution fractures and seam sutures) are
+also more developed (Yang et al., 2014; Yao et al., 2014), playing
+an important role in improvement of reservoir permeability and
+
+166
+
+Upper
+Jurassic
+
+Suining
+Fm.
+
+Mesozoic
+
+Hydrocarbon accumulation
+assemblage
+Source
+
+Reservoir
+
+Caprock
+
+Assemblage
+
+Gas
+reservoir
+
+233
+
+Middle Shaximiao
+Jurassic
+Fm.
+
+Lower
+Jurassic
+
+Thickness
+/m
+
+Lithologic
+profile
+
+Strata
+
+1202
+
+Lianggaoshan
+Fm.
+
+42
+
+Ziliujing
+Fm.
+
+355
+
+3
+Member 6
+
+Upper
+Triassic
+
+Xujiahe
+Fm.
+
+Member 4
+
+505
+
+Member 2
+
+Middle
+Triassic
+Lower
+Triassic
+Upper
+Permian
+
+Paleozoic
+
+Lower
+Permian
+
+Leikoupo
+Fm.
+
+417
+
+Jialingjiang
+Fm.
+
+574
+
+Feixianguan
+Fm.
+
+369
+
+Changxing Fm.
+
+Maokou
+Fm.
+Qixia
+Fm .
+
+Member 1
+
+Member 2
+
+2
+
+33
+
+Longtan
+Fm.
+
+173
+
+~
+
+~
+
+227
+
+~
+
+~
+
+107
+
+Lianshan Fm.
+
+16
+
+Lower
+Tongzi
+Fm.
+Ordovician
+Upper
+Xixiangchi
+Cambrian
+Fm.
+Middle
+Cambrian Gaotai Fm.
+
+53
+225
+76
+
+Longwangmiao
+Fm.
+
+Longwangmiao
+Fm.
+
+103
+
+Canglangpu
+
+Lower
+Fm.
+Cambrian Qiongzhusi
+
+1
+
+152
+
+Fm.
+
+347
+
+Maidiping
+Fm.
+
+Sinian
+
+2.2 Reservoir characteristics
+
+increase of reservoiring space.
+
+Proterozoic
+
+Permian (Changxing Formation, Longtan Formation, Maokou
+Formation, Qixia Formation and Liangshan Formation),
+Ordovician (Tongzi Formation), Cambrian (Xixiangchi
+Formation, Gaotai Formation, Longwangmiao Formation,
+Canglangpu Formation, Qiongzhusi Formation and Maidiping
+Formation), Sinian (Dengying Formation and Doushantuo
+Formation) and Pre-Sinian, lack of Carboniferous, Devonian and
+Silurian. In the region, three suites of hydrocarbon accumulation
+assemblages are developed (Fig. 2). Moreover, gas reservoirs of
+Cambrian Longwangmiao Formation, Member 4 and Member
+2 of Dengying Formation were found in the Sinian-Ordovician
+hydrocarbon accumulation assemblages. Gas reservoirs of
+Member 1 of Middle Triassic Leikoupo Formation and Member
+2 of Lower Triassic Jialingjiang Formation were discovered
+in the Permian-Middle Triassic hydrocarbon accumulation
+assemblages. Gas reservoirs of Member 6, Member 4 and
+Member 2 of Xujiahe Formation were found in the Xujiahe
+Formation-Jurassic hydrocarbon accumulation assemblages.
+Among them, the Cambrian Longwangmiao Formation belongs
+to the gentle-slope-type carbonate platform deposits as a
+whole, and grain shoal facies is the most favorable facies for
+development of high-quality reservoirs; the Dengying Formation
+belongs to the rimmed-type carbonate platform deposits, mainly
+including platform margin facies, intraplatform mound-shoal
+facies, intermound-intershoal marine facies and evaporitic
+platform facies, where the microbial-framework dolomite,
+thrombolite-framework dolomite, grain dolomite, laminite
+dolomite and stromatolite dolomite are the most favorable
+reservoir rock (Zou et al., 2014).
+
+Member 4
+
+Dengying Fm.
+
+631
+
+Doushantuo Fm.
+
+9~460
+
+Member 2
+
+PreSinian
+
+Mudstone Dolomite Limestone
+
+~
+
+Algal
+Banded
+dolomite limestone
+
+Shale
+
+Gypsum
+
+Siltstone
+
+Fine
+Marlstone
+sandstone
+
+Diabase
+2
+
+Silty
+shale
+
+Muddy
+Sandy Source rock Reservoir
+sandstone dolomite
+
+Caprock Assemblage
+
+Fig. 2 Synthetic column of oil and gas accumulation
+assemblages in the Gaoshiti-Moxi region, Sichuan Basin
+
+2.3 Trap characteristics and gas reservoir types
+Tectonic framework of the Anyue Gasfield (Longwangmiao
+Formation-Dengying Formation) is characterized by large NEEtrending nose-like uplift which plunging from W to NE，and
+is shown as multi-row and multi-high composite structure. At
+present, many gas reservoirs have been discovered, including
+the Longwangmiao Formation, Member 4 and Member 2 of
+the Dengying Formation. The trap characteristics of different
+members of gas reservoirs (Table 2) are different from gas
+reservoir types.
+In the Gaoshiti-Moxi region, there are mainly developed two
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+Table 1 Reservoir characteristics of Anyue Gasfield
+Cumulative Average
+Average
+Per layer of
+thickness of porosity permeability
+single well/
+single well/ of single
+of single
+m
+m
+well/%
+well/mD
+
+Strata
+
+Longwangmiao
+Fm.
+
+Member 4 of
+Dengying Fm.
+
+Member 2 of
+Dengying Fm.
+
+0.1-8.9
+/1.2
+
+10.8-61.1
+/39.5
+
+0.25-18.80 1.38-101.40
+/2.17
+/24.40
+
+0.13-26.80
+/3.66
+
+5.64-63.00
+/32.96
+
+3.35-5.83
+/4.28
+
+0.008-6.777
+/0.966
+
+Lithology
+
+Reservoiring space
+
+Reservoir type
+
+interparticle dissolution
+pores, intraparticle
+Doloarenite, relict
+Dominated by
+dissolution pores,
+doloarenite and finepore type with
+intercrystalline dissolution
+meso crystalline
+local fracturepores and relict
+pore (cavity) type
+dolomite
+interparticle pores, cavities
+and fractures
+
+Algal bounded
+Dominated by
+doloarenite, algal
+interparticle (dissolution)
+dolarenite, cryptomonad
+Dominated by
+pores, followed by
+2.21-3.95 0.0005-6.320 thrombolite dolomite,
+intercrystalline pores,
+fracture-pore
+/3.22
+/0.593
+algal stromatolite
+intercrystalline dissolution (cavity) type
+dolomite, algal
+pores, cavities and
+framestone and
+fractures
+doloarenite
+
+3.26-3.74
+/3.35
+
+Dominated byalgal
+thrombolite dolomite Dominated by interparticle
+of mound-shoal
+dissolution pores and
+Dominated by
+0.00155intercrystalline dissolution
+complex, algal
+fracture-vug type
+13.20 /1.16
+stromatolite dolomite, pores, followed by cavities
+algal framestone and
+and fractures
+dolarenite
+
+Value following “/” is the average value.
+
+2cm
+(a)
+
+1cm
+(d)
+
+2cm
+
+1cm
+(c)
+
+(b)
+
+1cm
+
+1cm
+(e)
+
+(f)
+
+(a) dissolution vugs and pores in Longwangmiao Formation, Well MX 17 at depth of 4636.89 m; (b) fine-meso crystalline relict arenitic dissolution-pore
+dolomite, dissolution pores filled by bitumen, Longwangmiao Formation, Well MX 12 at depth of 4622.05- 4622.21 m (plane-polarized light); (c) dissolution
+vugs, Member 4 of Dengying Formation, Well GS 1 at depth of 4958.17 m; (d) interparticle dissolution pore in fine-silty algal dolomite, Member 4 of Dengying
+Formation, Well GS 1 at depth of 4984.9 m (plane-polarized light); (e) dissolution vugs, Member 2 of Dengying Formation, Well GS 2 at depth of 5393.87 m;
+(f) mesocrystalline dolomite, interparticle pores and interparticle dissolution pores, Member 2 of Dengying Formation, Well MX 10 at depth of 5465 m (planepolarized light)
+
+Fig. 3
+
+Reservoir characteristics of Dengying Formation and Longwangmiao Formation in Anyue Gasfield
+
+167
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+Table 2 Structural trap elements and gas-water contact data of Anyue Gasfield
+Gaoshiti buried structure
+Strata
+
+Moxi buried structure
+
+Altitude of Lowest
+Area/
+topographic trap Closure/m
+km2
+high/m
+line/m
+
+Altitude of gasSubsurface Altitude of Lowest
+Closure/ Area/ water contact
+topographic topographic trap line/
+m
+km2
+high
+high/m
+m
+Main high
+
+-4215
+
+-4360
+
+145
+
+510.9
+
+Longwangmiao
+Fm.
+
+-4150
+
+-4250
+
+100
+
+137
+
+South fault
+high
+
+-4220
+
+-4320
+
+100
+
+25.4
+
+Member 4 of
+Dengying Fm.
+
+-4640
+
+-4940
+
+300
+
+995
+
+Common trap
+
+-4680
+
+-4940
+
+260
+
+982
+
+East high
+
+-5020
+
+-5150
+
+130
+
+310
+
+West high
+
+-5050
+
+-5150
+
+100
+
+74
+
+South high
+
+-5010
+
+-5230
+
+220
+
+39
+
+673
+
+structural traps on the top of the Longwangmiao Formation, the
+south is the Gaoshiti structural trap and the north is the Moxi
+structural trap. Trap elements are listed in Table 2. Overall,
+the Cambrian Longwangmiao Formation are characterized
+by higher topography in the west and lower topography in the
+east, relatively gentle relief in the Gaoshiti-Moxi region and
+monoclines in other regions. At present, water production
+mainly occurs in the monocline areas where altitude deeper than
+-4500 m and shallower than -4200 m; gas production mainly
+exists in the more gentle areas where altitude from -4500m to
+-4200 m, however, strata of water production exists from Well
+MX 47 to Well MX 204 at a altitude more than -4385 m, while
+strata from Well MX 11 and Well MX 23 at a altitude shallower
+than -4471 m are all gas-bearing beds; moreover, in Well BL
+1, sand bodies in top contain gas while sand bodies in the low
+part contain water. Therefore, gas and water distribution of
+gas reservoirs in the Longwangmiao Formation is controlled
+by sand bodies and local structures with complex gas-water
+contact, mainly belonging to tectonic-lithologic gas reservoir
+(Fig. 4a and Fig.4b).
+In the Gaoshiti-Moxi region, the Sinian top structure shows that
+the Gaoshiti buried structure, the Moxi buried structure and the
+Moxi No.1 fault can constitute a unified trap with the lowest trap
+line of -4940 m and trap area of 1977 km2. In the Gaoshiti-Moxi
+region, Member 4 of the Dengying Formation at topographic
+high are identified as gas layers through logging interpretation.
+In Well NJJ of the Longnvsi structure, daily gas production of
+Member 4 of the Dengying Formation is 18.5×103 m3. According
+to the logging interpretation, in the northern Moxi region, the
+upper submember of Member 4 of Dengying Formation in
+Well MX 22 is identified as gas-bearing layers, while the lower
+submember of Member 4 has a gas-water contact at a altitude
+of -5243 m, nearly 200 m lower than bottom boundary of gas-
+
+168
+
+MX204
+MX19
+MX17
+MX 21 MX13 MX203
+
+A
+-4 300
+-4 350
+-4 400
+-4 450
+-4 500
+-4 550
+
+Gaoshiti: -5167.5
+Moxi: -5159.2
+
+MX11
+
+BL1
+
+A’
+
+Elevation/m
+
+200
+
+B GS17
+-3 950
+-4 050
+-4 150
+-4 250
+-4 350
+-4 450
+
+(a) Gas reservoirs of Longwangmiao Formation
+GS26
+
+GS23
+
+GS6
+
+GS18 B’
+
+GS10
+
+Elevation/m
+
+-5170
+
+(b) Gas reservoirs of Longwangmiao Formation
+
+Elevation/m
+
+-4970
+
+Moxi: -5243.0
+
+C
+-4 600
+-4 700
+-4 800
+-4 900
+-5 000
+-5 100
+-5 200
+-5 300
+-5 400
+D
+-5 000
+-5 050
+-5 100
+-5 150
+-5 200
+-5 250
+-5 300
+-5 350
+-5 400
+
+GS6 GS9 GS1
+
+GS3
+
+AP1 MX9
+
+MX12
+
+MX22 C’
+
+Moxi No.1 fault
+(c) Gas reservoirs of Member 4 of Dengying Formation
+GS6
+
+GS1
+
+GS6
+
+AP3
+
+MX9
+
+MX12
+
+D’
+
+Elevation/m
+
+Member 2 of
+Dengying Fm.
+
+Complex
+gas-water
+distribution,
+no unified gaswater contact
+
+(d) Gas reservoirs of Member 2 of Dengying Formation
+MX9
+
+Gas layer
+
+Fig. 4
+
+Water layer
+
+Fault
+
+Well location
+
+Sinian-Cambrian gas reservoir profile of Anyue
+Gasfield (profile location is shown in Fig)
+
+bearing layers in Member 4 at topographic high in the GaoshitiMoxi region. Therefore, Member 4 of Dengying Formation
+in the Gaoshiti-Moxi region is the development area of a vast
+composite structure-formation gas reservoir (Fig. 4c).
+Both Moxi and Gaoshiti buried structures form traps separately
+on the top boundary of Member 2 of the Dengying Formation.
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+Gas reservoirs in Member 2 of Gaoshiti-Moxi region are
+controlled by structural traps, where the upper part of Member
+2 is gas–bearing reservoirs and the lower part is commonly
+water–bearing reservoirs. Moxi block and Gaoshiti block have
+uniform gas-water contacts at altitudes of -5167.5 m and -5159.2
+m respectively, belonging to tectonic trap gas reservoir with
+bottom water (Fig. 4d).
+
+2.4 Fluid properties
+In the Anyue Gasfield, the main fluids of Sinian and Cambrian
+gas reservoirs include natural gas and formation water.
+2.4.1 Natural gas
+Natural gas compositions are dominated by hydrocarbon gas
+as a whole, composed of methane with a content of 82.65%97.35%, ethane with a content of 0.01%- 0.29% (0.12%0.29% in the Longwangmiao Formation, and 0.01%-0.05%
+in the Dengying Formation) and trace amounts of propane
+occasionally. The natural gas dry coefficient is 0.9976-0.9999,
+indicating a typical dry gas. Non-hydrocarbon gases mainly
+include N2 (a content of 0.44%-6.13%), CO2 (a content of 0.10%14.16%), H2S (a content of 0.62-61.11 g/m3) and He (a content of
+0.01%-0.06%). According to gas reservoir classification standard
+(NEA, 2009), it belongs to the gas reservoir with a mediumlow content of H2S. As age of the reservoir become old, the H2S
+content increases, i.e., 0.62-61.11 g/m 3 in the Longwangmiao
+Formation with an average of 11.23 g/m 3, 6.27-32.06 g/m 3 in
+Member 4 of Dengying Formation with an average of 17.04 g/
+m3, and 6.04-45.70 g/m3 in Member 2 of Dengying Formation
+with an average of 19.50 g/m3.
+2.4.2 Formation water
+Formation water production exists in gas reservoirs of the
+Longwangmiao For mation and Member 2 of Dengying
+Formation. In the Longwangmiao Formation of Well MX 203
+and Well MX 204, total salinities of formation water are 109.83135.68 g/L and pH values are 6.49-7.47, indicating calcium
+chloride type water. In Member 2 of Dengying Formation, total
+salinities of formation water are 57-130 g/L, indicating calcium
+chloride type water.
+
+2.5 Temperature-pressure system
+2.5.1 Transition from Sinian normal pressure gas reservoir
+to Cambrian high pressure gas reservoir
+In the middle part of Member 2 of the Dengying Formation of
+Gaoshiti block, the formation pressures are 57.56-57.66 MPa
+with a pressure coefficient of 1.07-1.08 in the single-well gas
+reservoir; in the middle part of the single-well gas reservoir in
+Moxi block, the formation pressures are 58.62-59.08 MPa with
+a pressure coefficient of 1.07–1.10. Both gas reservoirs belong
+
+to the normal pressure gas reservoir. Member 4 of Dengying
+Formation is further divided into the upper submember and
+lower submember. In the middle part of of the upper submember
+of Member 4 in the Gaoshiti block, the formation pressures are
+56.57-56.63 MPa with a pressure coefficient of 1.12-1.13; in the
+middle part in Moxi block, the formation pressure is 56.80 MPa
+with a pressure coefficient of 1.10. In the lower submenber of
+Member 4 of Well GS 6, the formation pressure is 56.84 MPa
+with a pressure coefficient of 1.10. Both the upper and lower
+submembers of Member 4 in the Gaoshiti-Moxi block have very
+similar pressure coefficients, suggesting that these belong to
+the same pressure system. The Longwangmiao Formation in
+Moxi block has a formation pressure of 75.81-76.37 MPa and a
+pressure coefficient of 1.56–1.70, belonging to the high pressure
+gas reservoir according to the gas reservoir classification
+standard (NEA, 2009); the Longwangmiao Formation in the
+Gaoshiti block has a formation pressure of 68.27 MPa and a
+pressure coefficient of 1.53, also belonging to high pressure
+gas reservoir as well; these two blocks are in different pressure
+systems.
+2.5.2 A high temperature gas reservoir of Sinian-Cambrian
+gas reservoir
+In the Sinian and Cambrian gas reservoirs of the Anyue
+Gasfield, a geothermal gradient is generally about 2.5-2.7 ℃/
+hundred meter, and temperatures of the central gas reservoir is
+137.50-163.28℃, indicating a high temperature gas reservoir.
+It is slightly different in different blocks and horizons, e.g.,
+temperatures of gas reservoirs in Member 2 of Dengying
+Formation in the Moxi block are 155.82-159.91℃, and that in
+the Gaoshiti block are 156.71-156.71o C; temperatures of gas
+reservoirs in the upper submember of Member 4 of Dengying
+Formation in the Gaoshiti block are 150.2-161.0℃, and that in
+the Moxi block are 149.6-158.5℃; temperatures of gas reservoirs
+in the lower submember of Member 4 in the Gaoshiti block are
+155.1-160.3℃, and that in the Longwangmiao Formation are
+137.5-143.9 ℃.
+
+3 G eolog ic cond it ions of large gas
+reservoir formation
+Massive enrichment of natural gas is caused by effective
+configuration of large stable inherited palaeo-uplift in the
+Tongwan phase, widespread distribution of ancient source rocks,
+large-area high-quality pore-vug reservoirs, oil cracking of large
+palaeo-oil reservoirs and good preservation conditions.
+
+3.1 Large palaeo-uplift and constant steady
+evolution in Tongwan movement
+Since the Weiyuan Gasfield was discovered in the Sichuan
+Basin, many scholars have carried out systematic studies on the
+formation and evolution of the Leshan–Longnvsi palaeo-uplift
+
+169
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+as well as controlling effects on hydrocarbon accumulation
+successively (Song, 1987; Xu et al., 2002; Yang, 2002; Wei
+et al., 2010; Hong et al., 2011; Li et al., 2012; Xu et al., 2012;
+Wei et al., 2013; Xie et al., 2013; Jiang et al., 2014; Mei et al.,
+2014). It is believed that the Leshan-Longnvsi palaeo-uplift
+is a long-term inherited palaeo-uplift, which had a prototype
+in the Tongwan phase, formed in the Caledonian period and
+experienced multiphase synsedimentary uplift and denudation
+with certain inheritance and significant controlling effect on
+regional hydrocarbon distribution. The latest research indicates
+that three episodes of the Late Sinian-Early Cambrian tectonic
+movements occurred in the Sichuan Basin, referred to as the
+Episode-I of Tongwan movement (the late depositional period
+of Member 2 of Dengying Formation), the Episode-Ⅱ of
+Tongwan movement (the late depositional period of Member
+4 of Dengying Formation) and the Episode-Ⅲ of Tongwan
+movement (the late depositional period of Maidiping Formation),
+respectively. The layer flattening and balance profile technology
+were used for tectonic evolution analysis on 25 large seismic
+profiles in the Sichuan Basin and adjacent survey line of 27×103
+km. Results show that Tongwanian tectogenesis led to two giant
+palaeo-uplifts in Gaoshiti-Moxi and Weiyuan-Ziyang. Prior to
+the sedimentation of the Cambrian Longwangmiao Formation, a
+tectonic pattern was shown as “two uplifts and one depression”
+on the Sinian top (Fig. 5a), i.e., two uplifts were separated by
+a depression, that called Gaoshiti-Moxi palaeo-uplift and the
+Weiyuan-Ziyang palaeo-uplift respectively. Before Ordovician,
+these two independent palaeo-uplifts were still developed on
+the Sinian top, the cores of Gaoshiti-Moxi and Weiyuan-Ziyang
+palaeo-uplifts had areas of about 22×103 km 2 and 19×103 km 2
+respectively. Before Permian, the Sinian top evolved into a large
+palaeo-uplift (equivalent to the Leshan-Longnvsi palaeo-uplift)
+with two highs (Fig. 5b). Later, tectonic highs of the WeiyuanZiyang palaeo-uplift migrated from the early Ziyang area to the
+Weiyuan area, while those of the Gaoshiti-Moxi palaeo-uplift
+were basically unchanged and exhibited inherited development
+( Wei et al., 2013). Therefore, the Tongwanian palaeogeomorphic pattern fundamentally controlled development
+of source rocks and reservoirs, formation of a large-scale
+palaeo-oil reservoir and its late cracking and accumulation; the
+Gaoshiti-Moxi palaeo-uplift especially has maintained longterm inherited development since the Tongwan phase, providing
+the most favorable places for formation of giant gas fields. The
+Leshan-Longnvsi Caledonian palaeo-uplift has only played a
+role in modifying formation and distribution of the Tongwanian
+palaeo-uplift and giant gas fields in the Gaoshiti-Moxi region
+from Ordovician to nowadays.
+
+3.2 Four suites of large-area ancient source rocks
+Previously it was generally believed that the Sinian natural
+gas in the Sichuan Basin originated from “backf low” of
+
+170
+
+Cambrian source rocks (Huang et al., 1993; Xu et al., 2000;
+Dai, 2003), and mainly accumulated in the weathered crust
+on the Sinian top. The authors studied distribution of Sinian
+and Cambrian source rocks, especially the Lower Cambrian
+source rocks in Qiongzhusi Formation, is very different from
+the previous understanding, which has the maximum thickness
+in the Tongwanian intra-cratonic rift (Fig. 6a). Meanwhile,
+conventional geochemical, organic petrological, and inorganic
+minor element methods for source rock evaluation were
+employed to systematically evaluate effectiveness of SinianCambrian source rocks in the basin peripheral outcrops and
+wells of basin interior. It was proposed that besides Lower
+Cambrian shale in Qiongzhusi Formation as major source
+rock (TOC content of 0.50%-8.49%, average 1.95%), highquality Sinian source rocks including Doushantuo mudstones,
+Dengying mudstones as well as argillaceous carbonate, are
+developed with TOC values of 0.50%-14.17%, 0.50%-4.73%
+and 0.20%-3.67% respectively, and these are all in over-mature
+stage. Four suites of source rocks are widely developed in the
+basin with a superimposition area of about 0.42×106 km2 and gas
+generation of 1938×1012 m3, providing an abundant gas source
+for the formation of large gas fields. Discovery of Sinian source
+rocks enables finding of Sinian gas reservoirs and expansion of
+exploration.
+According to hydrocarbon generation and evolution history
+of source rocks, hydrocarbon generation of Sinian source
+rocks in the Gaoshiti-Moxi region started during the MiddleLate Cambrian. However, due to influence of the Caledonian
+movement, the strata uplifted, formation temperature decreased,
+and hydrocarbon generation process of source rocks was ceased
+(Fig. 6b), which continued before the Permian. In the Permian,
+burial took place again, hydrocarbon generation continued, and
+the region remained in liquid hydrocarbon generation stage
+until the Late Triassic. Since the Late Triassic, with increase
+of formation temperature, the generated liquid hydrocarbon
+began to be cracked up until the Cretaceous. The hydrocarbon
+generation process of Cambrian source rocks is basically the
+same as that of the Sinian, except that period of hydrocarbon
+generation and liquid hydrocarbon cracking slightly later than
+Sinian, but liquid hydrocarbon cracking had already been
+completed in the Cretaceous.
+
+3.3 Large-area superimposed distribution three
+suites of pore-vug type high-quality reservoirs
+Development of Sinian-Cambrian sediments and high-quality
+reservoirs in the Sichuan Basin are also controlled by the
+palaeo-morphologic pattern in the Tongwan phase. Around the
+intra-platform rift and palaeo-uplift, platform-margin facies
+belts were developed in Member 2 of Dengying Formation. On
+palaeo-uplifts，intra-platform shoal bodies were distributed in
+different directions. In the south of the Gaoshiti-Moxi palaeo-
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+0
+
+Z2
+
+Guangyuan Z1
+
+60 km
+
+Nanjiang
+
+0
+
+H1
+
+N
+
+Li1
+
+MX10
+
+Ziyang
+
+Ya’an
+
+HS1
+
+ZG1
+
+Leshan
+
+Zi1
+Zi7 Zi3Zi4
+GS17
+Zi2
+Zi6
+Zi5
+W15
+W117
+W18
+
+LL1
+
+MX9
+AP1
+GK1
+GS1
+
+MX11 NJJ
+MX8
+
+Lichuan
+
+GS2
+GS6
+
+Shizhu
+
+HS1
+
+ZG1
+
+X2
+
+Chongqing
+
+P1
+
+ZS1
+
+Ya’an
+
+Li2
+
+Fuling
+
+HS1
+
+EC1
+
+M3 2
+
+Zigong
+
+Wanxian
+
+Nanchong
+
+Chengdu
+
+Chengdu
+
+Wushan
+
+Daxian
+
+Dujiangyan
+
+Wanxian
+
+Nanchong
+
+Yilong
+
+Wushan
+
+Daxian
+
+Dujiangyan
+
+Tongjiang
+Mianyang
+
+Yilong
+
+Nanjiang
+
+H1
+
+N
+
+Tongjiang
+Mianyang
+
+Z2
+
+Guangyuan Z1
+
+60 km
+
+Ziyang
+Zi1
+Zi7 Zi3
+GS17
+Zi2
+Zi5 Zi6
+W15
+Leshan W117
+ZS1
+W18
+LL1
+
+MX9
+AP1
+GK1
+GS1
+
+Li1
+
+MX10
+MX11 NJJ
+MX8
+
+Lichuan
+
+GS2
+GS6
+
+HS1
+
+Shizhu
+Chongqing
+
+P1
+
+EC1
+
+Li2
+X2
+
+Fuling
+
+M3 2
+
+Zigong
+
+WS1
+
+WS1
+GS1
+
+Yibin
+
+Yibin
+
+Luzhou
+
+Suijiang
+N2
+
+N1
+
+Gulin
+
+Luzhou
+
+Suijiang
+
+DS1
+
+DS1
+N2
+
+L1
+
+Gulin
+
+N1
+
+(a) Before sedimentary period of Longwangmiao Formation
+
+L1
+
+(b) Pre-Permian
+100
+
+Well location
+
+Fig. 5
+
+0
+
+City/town
+
+Basin boundary
+
+Structure contour/m
+
+Structural maps of the Sinian top of the Sichuan Basin during different geological
+periods
+0
+
+50 km
+
+Z
+
+O
+
+∈
+
+S
+
+D
+
+C
+
+P
+
+T
+
+J
+
+K
+
+E
+
+N
+
+Q
+
+20 C
+o
+
+N
+
+H1
+
+40 o C
+60 o C
+
+GT2
+
+Zi2
+
+Zi4
+
+W26 WH1
+WH101
+
+80 o C
+
+80 o Co
+100 Co
+120 C
+
+100 C
+o
+
+140 o C
+
+4000
+
+GS17
+
+Vitrinite reflectance
+
+HS1
+P1
+
+ZS1
+
+LL1
+
+Li1
+
+MX10 MX11 NJJ
+MX9
+MX8
+AP1
+GK1
+GS2
+GS1 GS6
+
+Depth/m
+
+2000
+
+160 o C
+
+0.5%-0.7%
+
+WS1
+
+180 o C
+
+0.7%-1.0%
+
+GS1
+
+6000
+
+DS1
+N2
+
+Well location
+
+1.0%-1.3%
+
+200 o C
+
+1.3%-2.6%
+
+N1
+
+50
+
+Contour line
+
+600
+Denudation line
+
+(a) Thicknesses of source rocks of Lower Cambrian Qiongzhusi Formation
+
+Fig. 6
+
+500
+
+400
+
+300
+Time/Ma
+
+200
+
+100
+
+(b) Hydrocarbon generation and evolution history of source rocks in Gaoshiti area
+
+Distribution and hydrocarbon generation-evolution history of source rocks in
+Sichuan Basin
+
+uplift, intra-platform shoals were dominated by NE-trending
+distribution, while intra-platform shoals in the north were
+dominated by SN-trending distribution. In the Weiyuan-Ziyang
+palaeo-uplift, the intra-platform shoals were dominated by NWtrending distribution. The intra-platform shoals in Member 4 of
+Dengying Formation basically inherited distribution pattern of
+those in Member 4 of Dengying Formation. In the reservoirs of
+the Dengying Formation, reservoiring spaces mainly consist of
+secondary dissolution cavities, interparticle and intercrystalline
+dissolution pores. High-quality reservoirs are mainly distributed
+around the palaeo-uplifts on both sides of the intra-platform
+rift. The areas of type I and type II reservoirs are 148×103 km2
+in Member 2 of the Dengying Formation and 125×103 km 2 in
+Member 4 of the Dengying Foramtion.
+
+Development of grain shoals in the Cambrian Longwangmiao
+Formation is also controlled by the palaeo-morphologic pattern
+in the Tongwan movement. Shoal bodies were dominated
+by NE-trending distribution, and multiple shoal bodies were
+distributed of rows and belts from south to north. Shoal
+bodies under different energy environment were developed in
+different regions of palaeo-morphology. In the Gaoshiti-Moxi
+palaeo-uplift, high-energy grain shoals were of dissolution
+vugs, relatively coarse particles and large thickness per layer
+of shoal body. In the Longwangmiao Formation, four-phase
+aggradation-type grain shoals were developed as large-area
+superimposed continuous distribution pattern. Each phase
+of shoal body could be divided into shoal proper and shoal
+margin, and two large grain-shoal propers were developed
+
+171
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+N
+0
+
+N
+
+Guangyuan
+Tongjiang
+
+60 km
+Mianyang
+
+Nanbu
+
+Ya’an
+
+Zi1
+Zi7 Zi3Zi4
+Zi2
+Zi6
+Zi5
+W26 WJJ
+W117
+
+HS1
+ZG1
+
+LL1
+
+Weiyuan
+
+HS1
+ZS1
+
+WS1
+GS1
+
+Guang’an
+
+Li1
+
+Shizhu
+
+Lichuan
+
+Ya’an
+
+Lichuan
+
+Nanchuan
+Luzhou
+
+Gulin
+
+City/town
+
+(b) Longwangmiao Formation
+Baisn boundary
+
+Bitumen content isoline/%
+
+Denudation line of Longwangmiao Formation
+
+Distribution trend of bitumen content in Sichuan Basin
+
+on the plane of the Moxi region. The low-energy grain shoals
+were developed in the intra-platform rift and were of pinhole
+solution cavities, finer grains and smaller thickness per layer of
+shoal body. In the reservoirs of the Longwangmiao Formation,
+reservoiring spaces mainly consist of interparticle dissolution
+pores, intercrystalline dissolution pores, and medium- and
+small-sized dissolution cavities. The areas of type I and type II
+reservoirs are 52.7×103 km 2.
+Massive superimposition between favorable reservoir facies and
+dissolution governs the large-area superimposed continuous
+distribution of Sinian-Cambrian reservoirs (Xu et al., 2014),
+providing effective reservoiring space for formation of large gas
+fields.
+
+3.4 Cracking of oil in large palaeo-reservoir or
+dispersed liquid hydrocarbon
+C1-C3 components, C6 -C7 components of light hydrocarbon and
+C8-C12 compounds in natural gas as well as a large amount of
+bitumen in reservoirs indicate that Sinian-Cambrian natural gas
+in the Gaoshiti-Moxi region was mainly cracking gas from the
+palaeo-reservoir crude oil or dispersed liquid hydrocarbon.
+Since Prinzhofer and Huc proposed to use a lnC1/C2-lnC2/C3
+chart to identify whether natural gas belongs to initial cracking
+gas of kerogen or secondary cracking gas of crude oil (Prinzhofer
+and Huc, 1995), this method has been widely applied in China
+(Zhao et al., 2001; Xie et al., 2005). In the Gaoshiti-Moxi
+region, ratios of C1/C2 of natural gas changed little, while ratios
+of C 2 /C3 changed greatly, indicating the crude-oil cracking
+gas. Analysis of light hydrocarbon of the dry gas (Hu et al.,
+2005) was used to detect the light hydrocarbon components of
+natural gas in the Gaoshiti-Moxi region successfully (Wei et
+al., 2014), and it was found that C6 -C7 components of natural
+
+172
+
+Shizhu
+
+Chongqing
+
+Nanchuan
+
+Gulin
+
+Fig. 7
+
+Guang’an
+
+Dazu
+
+(a) Dengying Formation
+Well location
+
+Suining
+
+MX22 MX202 MX16
+MX23
+MX12
+MX11
+MX203
+MX32 MX13 MX205
+GS28 GS26
+GS10
+GS6
+GS17
+GS23 GS7
+
+Weiyuan
+
+DS1
+
+N1
+
+Kaixian Wushan
+
+NC1
+
+HS1
+
+Chongqing
+
+Luzhou
+
+N2
+
+Nanbu
+Dazhou
+
+Dazu
+
+P1
+
+Chengkou
+
+Kaixian Wushan
+Chengdu
+
+Suining
+
+MX22
+MX10 MX11 MX23
+MX17 NJJ
+MX9
+MX8
+AP1
+GS18
+GK1 GS2
+GS1
+GS6
+GS17
+GS7
+
+Tongjiang
+
+60 km
+Mianyang
+
+Dazhou
+Chengdu
+
+0
+
+Chengkou
+
+Guangyuan
+
+gas presented higher contents of isoalkanes and cycloparaffins,
+which also is the characteristic of crude-oil cracking gas. In
+addition, in the natural gas from Member 2 and the lower part
+of Member 4 of Dengying Formation in Well GS 1, the highabundance C8-C12 compounds were also detected, indicating the
+intermediate product in the process of crude oil cracking into
+gas. The more intuitive evidence of crude-oil cracking gas was
+massive bitumen in the reservoirs of the Dengying Formation
+and the Longwangmiao Formation. From the uplift high to
+slope, bitumen abundance decreased gradually (Fig. 7). These
+characteristics, mentioned above, indicate that the natural gas of
+the Dengying Formation and the Longwangmiao Formation in
+the Gaoshiti-Moxi region is mainly crude-oil cracking gas.
+
+3.5 High-strength sealing abilities of three suites of
+muddy shale/gypsum-salt caprock
+Drilling results show that there are three suites of SinianCambrian reservoir-cap assemblages in the Gaoshiti-Moxi
+region of the Sichuan Basin (Fig. 2), eg., (1) the assemblage
+of the Sinian dolomite reservoir in Member 2 of Dengying
+Formation-mudstone caprock in Member 3 of Dengying
+Formation, (2) the assemblage of dolomite reservoir in Member
+4 of Dengying Formation-Lower Cambrian muddy shale
+caprock in the Qiongzhusi Formation (including the Maidiping
+Formation), and (3) the assemblage of Lower Cambrian dolomite
+reservoir in the Longwangmiao Formation- Middle Cambrian
+sandy mudstone + the Upper Cambrian tight carbonate rocks
+in the Xixiangchi Formation + Permian muddy shale + the
+Middle and Lower Triassic gypsum-salt caprock. Among these,
+the Lower Cambrian Qiongzhusi Formation and the Permian
+are two suites of regional muddy shale caprocks; furthermore,
+the Permian-Mid-Triassic is the ultrahigh pressure layer with
+ultrahigh pressure closure. In addition, the regional Middle and
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+Lower Triassic gypsum-salt rocks in the Jialingjiang Formation
+and the Leikoupo Formation also play a very important role
+in preservation of the Sinian-Cambrian reservoirs. From the
+Sinian to the Cambrian, the gas reservoir pressure coefficient
+changed from normal pressure (pressure coefficient of 1.071.13) to ultrahigh pressure (pressure coefficient of 1.531.70). Overpressure formation of gas reservoir is related to
+hydrocarbon generation of source rocks, crude oil cracking and
+other factors (Liu et al., 2014). Hence, the present difference
+in pressure between Sinian and Cambrian gas reservoirs was
+related to gradual upward diffusion of natural gas, the Cambrian
+gas reservoir being closer to the ultrahigh pressure gas reservoir
+cap, less natural gas loss and better preservation of original gas
+reservoir pressure.
+
+4 Gas reservoir accumulation types and
+favorable area prediction
+4.1 Gas reservoir accumulation types
+A variety of evidence has demonstrated that the SinianCambrian natural gas in the Gaoshiti-Moxi region is mainly the
+crude-oil cracking gas, but is it the accumulation-type crudeoil cracking gas or dispersed organic-matter cracking gas? In
+order to facilitate the lateral comparison and analysis, based
+on abundance of solid bitumen in the present reservoirs and
+distribution of present gas reservoirs, in combination with the
+palaeo-tectonic pattern of the Sinian top and the Cambrian
+Longwangmiao Formation bottom before substantial crude oil
+cracking (before the Late Triassic), the Sinian-Cambrian gas
+reservoir can be divided into three accumulation modes, eg.,
+accumulation type, semi-accumulation and semi-dispersion
+type, and dispersion type (Table 3); the lower limits of bitumen
+
+content in accumulation-type and dispersion-type gas reservoirs
+were 1.0% and 0.5% respectively.
+4.1.1 Accumulation-type gas reservoir
+According to tectonic evolution of ancient and present tectonic
+positions of current gas reservoirs, this kind of gas reservoir is
+further divided into two subtypes: inherited accumulation type
+and adjusted accumulation type. The inherited accumulationtype gas reservoirs refer to the large palaeo-reservoirs always
+located in inherited palaeo-uplift areas and formed at palaeouplift highs before the Late Triassic. After the Late Triassic,
+the palaeo-reservoirs gradually began to crack, and after
+finalization of the Himalayan structures, the original palaeoreservoir areas were still at tectonic highs. The accumulation
+positions of current gas reservoirs are basically consistent with
+those of palaeo-reservoirs (Fig. 8), where mainly accumulated
+palaeo-reservoir cracking gas, but contributions of dispersed
+liquid hydrocarbon cracking gas in a small number of slope
+areas cannot be excluded. In the Gaoshiti-Moxi region, Sinian
+and Cambrian gas reservoirs in the Longwangmiao Formation
+are typical representatives. The bitumen content in this region
+is higher, generally greater than 1.0% (Fig. 7), but with a large
+span on the vertical distribution; in deep and shallow reservoirs,
+bitumen abundances are almost equivalent, e.g., in Gaoshiti
+region, bitumen contents are 0.2%–3.4% in Member 4 of
+Dengying Formation at depth of 4956-5208 m, 0.1%-3.2% in
+Member 2 of Dengying Formation at depth of 5266-5400 m, and
+0.1%-3.8% in the Longwangmiao Formation at depth of 44904735 m. In the Moxi region, bitumen contents are 0.2%-4.0%
+in Member 4 of Dengying Formation at depth of 5015-5215 m,
+0.1%-3.2% in Member 2 of Dengying Formation at depth of
+5410-5500 m, and 0.1%-7.8% in the Longwangmiao Formation
+
+Table 3 Accumulation types in Gaoshiti-Moxi gas reservoirs
+Type
+
+Subtype
+
+Geologic setting and accumulation
+characteristics
+
+Inherited Inherited palaeo-uplift, where cracking
+accumulation gas basically accumulated within the
+type
+palaeo-reservoir
+Accumulation type
+
+Semi-accumulation
+and semi-dispersion
+type
+Dispersion type
+
+Bitumen content
+
+Typical cases
+
+>1% with large vertical
+distribution range
+
+Dengying Formation and
+Longwangmiao Formation gas
+reservoirs in Gaoshiti-Moxi area
+
+Located at palaeo-uplift highs before
+>1%, vertical distribution
+Adjusted
+Late Triassic, now as anticlines or
+scope is large at original highs
+accumulation slopes, and cracking gas accumulated
+and small on original slope
+type
+in favorable positions of anticlines or
+area
+slopes
+As slopes before Late Triassic, and
+anticline structure since Himalayan
+period, mainly accumulated cracking
+gas migrated from other places
+
+Located in the slope area or structural
+lows for a long time, where exsitu migrated cracking gas mainly
+accumulated
+
+Dengying Formation gas
+reservoir in Ziyang area and
+Weiyuan area
+
+0.5%-1.0%
+
+Dengying Formation gas
+reservoir in Well HS 1
+
+<0.5%
+
+Dengying Formation gas
+reservoirs in Well ZS 1 and Well
+GS 1
+
+173
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+of bitumen generated. Palaeo-reservoirs began cracking from
+the Late Triassic, after finalization of Himalayan structure,
+current structural traps were formed on such original slopes.
+A part of natural gas accumulating in current gas reservoirs
+was sourced from cracking gas of small palaeo-reservoirs, but
+might primarily come from cracking gas of dispersed liquid
+hydrocarbon migrating from other positions. The Sinian gas
+reservoirs in the Weiyuan region are the typical representatives,
+where the bitumen content is high, generally greater than 1.0%
+(Fig. 7a), but with a narrow vertical distribution range and main
+enrichment at the top of the weathered crust of the Dengying
+Formation, eg., the bitumen content is 0.30%-6.00% at depth of
+3000-3200 m, but sharply reduced to roughly less than 0.10% at
+depth of 3250 m-3600 m.
+
+at depth of 4600-4950 m.
+The adjusted accumulation-type gas reservoirs have two
+circumstances: (1) Large palaeo-reservoirs were formed
+at palaeo-uplift highs before the Late Triassic, the palaeoreservoirs began cracking from the Late Triassic, after
+finalization of the Himalayan structures, structures at original
+palaeo-reservoir positions were changed from palaeo-uplift
+highs to current slope zones. Residual palaeo-reservoir cracking
+gas mainly accumulated in current gas reservoirs. The Sinian
+gas reservoirs in the Ziyang region are typical representatives.
+In this region, the bitumen content is high, generally greater
+than 1.0% (Fig. 7a), but with a large vertical distribution span,
+e.g., the bitumen contents are 0.67%-6.30% at depth of 3400
+m, 0.10%-2.47% at depth of 3720-4050m, and 0.10%-2.82% at
+depth of 4480-4560 m. The regional bitumen content reflects
+the large accumulation area of palaeo-reservoirs in that period.
+(2) Adjusted accumulation-type gas reservoirs are located at
+palaeo-reservoir slopes in the pathway of oil and gas migration
+before the Late Triassic, where reservoir dissolution pores are
+developed in small-sized structures, able to form small palaeoreservoirs. After crude oil cracking into gas, a large amount
+GS17
+
+W117
+
+0
+
+4.1.2 Semi-accumulation and semi-dispersion-type gas
+reservoirs
+Semi-accumulation and semi-dispersion-type gas reservoirs
+refer to those gas reservoirs located in the palaeo-uplift slopes
+and pathway of oil and gas migration before the Late Triassic.
+If reservoir dissolution pores were developed in small-sized
+
+(b)Present day
+GS1
+
+Guang'an Structure
+
+J
+∈ O 2+1
+1 c+
+∈
+
+2
+
+Depth/km
+
+1
+
+T3
+
+q
+
+P 2 +T 2+1
+
+4
+
+P1
+∈ l+ ∈
+1
+
+6
+
+Inherited structural trap with a high
+bitumen content, and the positions
+of palaeo-reservoirs are basically
+equivalent to those of present-day
+gas reservoirs
+
+Small trap on a slope
+evolved into structural Paleo-trap evolved into
+trap with a high
+a slope with a high
+bitumen content
+bitumen content
+
+Adjusted accumulation type
+
+8
+
+Dispersion type Inherited accumulation type
+
+Z
+
+O+
+3 S
+
+2+ 3
+
+Slope evolved into
+structural trap with
+a lower bitumen
+content
+Semi-accumulation Dispersion
+and semi-dispersion
+type
+type
+
+(a)Pre-Late Triassic
+P 2 +T 2+1
+P1
+O
+∈ 1 l+ ∈ 2+1
+2+ 3
+∈ 1 c +∈ 1 q
+
+O 3 +S
+
+Z
+N
+
+0 60 km
+
+Jiange
+Tongjiang
+
+Chengdu
+GS17
+W117
+
+Kaixian
+GT2
+Guang’an
+GS1 Chongqing
+
+Luzhou
+
+Gas reservoir
+
+Oil reservoir
+
+Fault
+
+Well location
+
+City/town
+
+ϵ1q is the Lower Cambrian Qiongzhusi Formation; ϵ1c is the Lower Cambrian Canglangpu Formation; ϵ1l is the Lower Cambrian Longwangmiao Formation
+
+Fig. 8
+
+174
+
+Accumulation model of Sinian-Cambrian gas reservoirs in Sichuan Basin
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+structures, then small palaeo-reservoirs could be formed, and
+after crude oil cracking into gas, more bitumen could also be
+produced. If reservoir pores and local small traps were not
+developed, then it would be difficult to form reservoir with
+lower bitumen content accordingly. After the Late Triassic,
+small palaeo-reservoirs gradually started to crack, after
+finalization of Himalayan structures, current structural traps
+were formed on the original slopes. Natural gas accumulating
+in current gas reservoirs was mainly derived from dispersed
+liquid hydrocarbon cracking gas migrating from other positions.
+Sinian gas reservoirs in the Hebaochang (Well HS 1) region are
+the typical representatives with bitumen content of 1.0%-0.50%.
+4.1.3 Dispersion-type gas reservoirs
+Dispersion-type gas reservoirs are located in slopes or structural
+lows for a long time, and there is no palaeo-reservoirs to form.
+Dispersed liquid hydrocarbon cracking gas migrating from other
+positions mainly accumulated in current gas reservoirs. The gas
+reservoirs of the Dengying Formation in Wells ZS 1, GS 1 and
+
+The distribution of different types of gas reservoirs in this region
+is shown in Fig. 9. Defining distribution patterns of different
+types of gas reservoirs is important to guide prospecting and
+exploration of new Sinian-Cambrian reservoirs in the Sichuan
+Basin.
+
+4.2 Prediction of favorable zones for natural gas
+exploration
+Area of high reservoir bitumen content is undoubtedly the
+most favorable area and has good accumulation property for
+formation of a palaeo-reservoir. However, whether the palaeoreservoir cracking gas can be effectively preserved after
+multiphase tectogenetic modification and long-term evolution is
+a key problem to be considered in the evaluation and prediction
+of favorable zones for natural gas exploration. Prediction basis
+is primarily the palaeo-tectonic pattern before massive crude-
+
+N
+
+N
+Tongjiang
+Nanbu Dispersion type
+Dazhou
+
+on
+u lartis io n
+cum
+i- amc id isep e
+Sem
+e
+p
+s
+d
+ty
+an
+
+Chengdu
+
+ZG1
+
+HS1
+
+I2
+
+Zi7
+Zi2
+
+Zi1
+
+Zi4
+Zi3
+Zi6
+
+Zi5
+Accumulation
+type W26
+W117
+LL1
+
+I1
+
+Suining
+
+Weiyuan
+
+HS1
+
+Kaixian Wushan
+
+Li1
+
+Guang’an
+Shizhu
+
+Lichuan
+
+I1
+
+I2
+lat
+mu
+cu pe
+Ac ty
+
+Chongqing
+Nanchuan
+
+III
+
+Accumu lation
+
+ion
+
+N1
+
+Chongqing
+
+II 2
+
+III
+
+Nanchuan
+
+Luzhou
+
+Gulin
+
+(b) Gas reservoir of Cambrian Longwangmiao Formation
+
+(a) Gas reservoir of Sinian
+Well location
+
+Lichuan
+Shizhu
+
+Dazu
+
+HS1
+
+Weiyuan
+
+Gulin
+
+Wushan
+
+Guang’an
+
+GS28 GS26
+GS10
+GS6
+GS17
+GS23 GS7
+
+III
+
+DS1
+
+Kaixian
+
+II 2
+
+Dispersion type
+
+NC1
+
+Suining type
+
+Luzhou
+
+N2
+
+Dazhou
+
+MX22 MX202 MX16 MX23
+MX12
+MX11
+MX203
+MX13 MX205
+MX32
+
+Ya’an
+
+Dazu
+
+P1
+
+WS1
+GS1
+
+Chengkou
+
+II 1
+Mianyang
+Se
+a n dms i- a c c u m
+e m i- d u la ti Nanbu
+on
+p
+ty pis
+e e rs io n
+Chengdu
+
+MX22
+MX23
+MX10 MX11
+n
+NJJ t i o
+MX9
+AP1
+MX8
+ula
+GS18
+GK1 GS2
+u mt y p e
+GS1
+c
+c
+GS6 A
+GS17
+GS7
+
+ZS1
+
+Tongjiang
+
+Chengkou
+
+II 2
+
+Mianyang
+
+II 1
+
+Ya’an
+
+Guangyuan
+
+60 km
+
+0
+
+Guangyuan
+
+60 km
+
+0
+
+other wells are typical representatives, where bitumen content is
+low, generally less than 0.50%.
+
+0 .5
+
+City/town
+
+-500
+
+0
+
+Tectonic line of top surface of gas
+Bitumen content
+reservoir before deposition of Xujiahe Fm.
+isoline/%
+
+Dispersion
+type
+
+I2
+
+Tuype of
+gas reservoir
+
+Favorable
+prediction zone
+
+Fig. 9 Accumulation types of Sinian-Cambrian gas reservoirs and forecast favorable zones in the Sichuan Basin
+
+oil cracking, abundance of reservoir bitumen remaining in
+present reservoirs, favorable reservoiring facies, trap conditions
+and preservation conditions. Therefore, distribution area of an
+accumulation-type gas reservoir is the most favorable zone, that
+of a semi-accumulation and semi-dispersion-type gas reservoir
+is the favorable exploration area, and that of a dispersion-type
+gas reservoir is a general exploration area.
+For to the Sinian Dengying Formation, areas with bitumen
+content more than 1.0% are the most favorable exploration zones,
+because the platform margin mound-shoal facies are developed
+in these areas with large development scale of algal mound
+dolomite or shoal facies reservoirs; in the meantime, these areas
+
+are located at the palaeo-uplift highs during the depositional
+period, and develop karst reservoirs with smaller buried depth
+and shorter distance to the center of hydrocarbon generation;
+thus the accumulation conditions are good. The Gaoshiti-Moxi
+region is superior to the Weiyuan-Ziyang and Emei areas,
+primarily because the former is located at superimposition
+points between palaeo-tectonic highs and current tectonic highs
+with better preservation conditions (zones I1 in Fig. 9a); the
+latter underwent tectogenetic modification, but large groups of
+low-magnitude structural traps and stratigraphic-lithologic traps
+are developed, so that the early palaeo-reservoir cracking gas
+or ex-situ migrated cracking gas can still be captured (zones I2
+in Fig. 9a). The areas with bitumen content of 0.2%-1.0% are
+
+175
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+favorable exploration areas because during the Sinian, grain
+shoals of platform and dissolution vugs were developed. The
+areas with bitumen content of 0.5%-1.0% (zones II1 in Fig.
+9a) are superior to those with a bitumen content of 0.2%-0.5%
+(zones II2 in Fig. 9a). The areas with bitumen content less than
+0.2% are the general exploration areas (zones III in Fig. 9a);
+these areas are of relatively complex late tectonic conditions,
+so the reservoir quality is more poor than the above two areas,
+and buried depth is more deep relatively, but to some extent, a
+certain size and quantity of Himalayan traps are also developed,
+and could capture the late ex-situ migrated cracking gas to form
+gas reservoirs.
+
+(2) The Sinian Member 2 and Member 4 of the Dengying
+Formation as well as the Cambrian Longwangmiao Formation
+comprise the following types of gas reservoirs: the bottomwater structural trap type, structure-formation complex type and
+tectonic-lithologic type respectively; the pressure coefficient of
+gas reservoir transited from 1.07-1.10 of Member 2 and 1.101.13 of Member 4 to 1.53-1.70 of the Longwangmiao Formation,
+indicating normal pressure-high pressure gas reservoir, and
+difference of the pressure coefficient in the gas reservoir is
+related to natural gas diffusion and preservation; temperature
+of the central gas reservoir is 137.5-163.28oC, indicating a hightemperature gas reservoir.
+
+For the Cambrian Longwangmiao Formation, the areas with
+a bitumen content more than 1.0% are the most favorable
+exploration areas (zones I in Fig. 9b). Because these areas are
+adjacent to hydrocarbon generation center of Lower Cambrian
+source rocks, especially the Gaoshiti-Moxi region experienced
+underwater palaeo-uplift in the depositional period and
+developed large-area grain shoal facies with good accumulation
+conditions (zones I 1 in Fig. 9b). In the Longwangmiao
+Formation, the favorable exploration areas can be divided
+into two levels: (1) The areas with a bitumen content of 0.5%1.0% are the favorable exploration areas which developed
+shoal facies reservoir (zones II1 in Fig. 9b). (2) The areas with
+a bitumen content less than 0.5% to the palaeo-burial depth of
+bottom of the Longwangmiao Formation before the Xujiahe
+Formation deposition less than 4500m (zones II 2 area in Fig.
+9b), are affected by large-area development of gypsum-salt,
+therefore grain shoal facies reservoirs were sparsely distributed
+and physical properties are relatively poor, and the palaeostructures and Himalayan traps (present day) are not developed;
+but locally, the high-quality shoal facies reservoirs and the
+superimposition structure are still favorable exploration areas.
+Areas with a burial depth greater than 4500m of the bottom
+of the Longwangmiao Formation before Xujiahe Formation
+deposition are general exploration areas (zones III in Fig. 9b),
+although a certain size of shoal facies reservoirs are developed
+in these areas, larger burial depth or lack large tectonic setting,
+exploration risk is relatively large.
+
+(3) The Sinian-Cambrian hydrocarbon accumulation conditions
+are well in the Sichuan Basin. The large-scale enrichment
+of Sinian-Cambrian natural gas in the Gaoshiti-Moxi region
+located in stable palaeo-uplift highs for a long time, results from
+effective configuration of the large stable inherited palaeo-uplift
+during the Tongwan phase, wide distribution of multiple suites
+of ancient source rocks, vast high-quality pore-vug reservoirs,
+crude oil cracking of large palaeo-reservoirs and favorable
+preservation conditions.
+
+5 Conclusions
+(1) In the Anyue Gasfield, multiple gas reservoirs are developed
+in the Sinian Member 2 and Member 4 of the Dengying
+Formation as well as the Cambrian Longwangmiao Formation,
+where natural gas components are dominated by hydrocarbon
+gases with a methane content of 82.65%-97.35% and lower
+C 2+ content, mainly as dry gas of crude-oil cracking type;
+non-hydrocarbon gases mainly include N2, CO2, H 2S and He,
+characterized by low He content and medium-to-low H 2 S
+content.
+
+176
+
+(4) Based on the palaeo-tectonic pattern before crude oil
+cracking of palaeo-reservoirs, and bitumen abundance as
+well as distribution of current gas reservoirs, the SinianCambrian natural gas reservoirs can be divided into three types:
+accumulation type, semi-accumulation and semi-dispersion type
+and dispersion type; and distribution of different types of gas
+reservoirs and favorable zones of natural gas exploration are
+predicated.
+
+Acknowledegments
+This work was funded by National Science and Technology
+Major P roject of China (Grant No.2011ZX050 07) a nd
+PetroChina Exploration and Production Special Project
+“Evaluation and associated exploration technology research
+of Sinian hydrocarbon-bearing reservoir in Leshan-Longnvsi
+Paleo-uplift of the Sichuan Basin”.
+
+References
+Dai J X. Pool-forming periods and gas sources of Weiyuan gas field. Petroleum Geology & Experiment, 2003, 25(5): 473-479 (in Chinese with
+English abstract).
+Du J H, Zou C N, Xu C C, et al. Theoretical and technical innovations in
+strategic discovery of a giant gas field in Cambrian Longwangmiao
+Formation of central Sichuan paleo-uplift, Sichuan Basin. Petroleum
+Exploration and Development, 2014, 41(3): 294-305.
+Du S M. Weiyuan structure and Sinian hydrocarbon exploration. Explorationist, 1996, 1(2): 46-47 (in Chinese with English abstract).
+Guo Z W, Deng K L, Han Y H. Formation and evolution of Sichuan Basin.
+Beijing: Geological Publishing House, 1996 (in Chinese).
+
+G.Wei et al./Petroleum Research (2016) 2,164-177
+
+Hong H T, Xie J R, Wu G P, et al. Potential of gas exploration in the Sinian
+reservoirs, Sichuan Basin. Natural Gas Industry, 2011, 31(11): 37-41 (in
+Chinese with English abstract).
+Hu G Y, Xiao Z Y, Luo X, et al. Light hydrocarbon composition difference
+between two kinds of cracked gases and its application. Natural Gas
+Industry, 2005, 25(9): 23-25 (in Chinese with English abstract).
+Huang J Z, Chen S J. Hydrocarbon source analysis of Sinian gas reservoir
+forming conditions of Sichuan Basin: a case history of Weiyuan gas
+field. Natural Gas Geoscience, 1993, 4(4): 16-20 (in Chinese with English abstract).
+Ji D H, Yue H. A discussion on oil and exploration prospects of Sinian in
+Southwest Sichuan. Natural Gas Industry, 1986, 6(1): 10-14 (in Chinese
+with English abstract).
+Jiang H, Wang Z C, Du H Y, et al. Tectonic evolution of the Leshan Longnvsi Paleo-uplift and reservoir formation of Neoproterozoic Sinian gas.
+Natural Gas Geoscience,2014, 25(2): 192-200 (in Chinese with English
+abstract).
+Li J, Hu G Y, Xie Z Y, et al. Accumulation mechanism of carbonate oil and
+gas reservoir. Beijing: Petroleum Industry Press, 2012 (in Chinese).
+Liu Y F, Qiu N S, Xie Z Y, et al. Characteristics and effects on gas accumulation of the Sinian-Lower Cambrian temperature pressure field in the
+central Paleo-uplift, Sichuan Basin. Acta Sedimentologica Sinica, 2014,
+32(3): 601-610 (in Chinese with English abstract).
+Luo Z L.Uplift of Longmen Mountain orogenic belt and the formation and
+evolution of Sichuan Basin. Chengdu: Press of Chengdu University of
+Science and Technology, 1994 (in Chinese).
+Mei Q H, He D F, Wen Z, et al. Geologic structure and tectonic evolution
+of Leshan-Longnvsi paleo uplift in Sichuan Basin, China. Acta Petrolei
+Sinica, 2014, 35(1): 11-25 (in Chinese with English abstract).
+National Energy Administration (NEA). SY/T 6168-2009 The classification
+of gas pool. Beijing: Petroleum Industry Press, 2009 (in Chinese).
+Prinzhofer A A, Huc A Y. Genetic and post-genetic molecular and isotopic
+fractionations in natural gases. Chemical Geology, 1995, 126(3/4): 281290.
+Ran L H. Natural gas exploration prospect in the Sichuan Basin. Natural Gas
+Industry, 2006, 26(12): 42-44 (in Chinese with English abstract).
+Song W H. Some new knowledge of Caledonian paleo-uplift in Sichuan
+Basin. Natural Gas Industry, 1987, 7(3): 6-11 (in Chinese with English
+abstract).
+Wei G Q, Shen P, Yang W, et al. Formation conditions and exploration prospects of Sinian large gas fields, Sichuan Basin. Petroleum Exploration
+and Development, 2013, 40(2): 139-149.
+Wei G Q, Jiao G H, Yang W, et al. Hydrocarbon pooling conditions and
+exploration potential of Sinian-Lower Paleozoic gas reservoirs in the
+Sichuan Basin. Natural Gas Industry, 2010, 30(12): 5-9 (in Chinese with
+English abstract).
+Wei G Q, Li J, Xie Z Y, et al. Reservoir geology and exploration theories
+of large gas fields in China. Acta Petrolei Sinica, 2013, 34(S1): 1-13 (in
+Chinese with English abstract).
+Wei G Q, Xie Z Y, Bai G L, et al. Organic geochemical characteristics and
+
+origin of natural gas in the Sinian-Lower Paleozoic reservoirs, Sichuan
+Basin. Natural Gas Industry, 2014, 34(3): 44-49 (in Chinese with English abstract).
+Xie Y X, Ding Y L, Luo Q H. Prospects for developing natural gas in Sichuan Basin in the 21st century. Natural Gas Industry, 2000, 20(6): 1-6 (in
+Chinese with English abstract).
+Xie Z Y, Wei G Q, Li J, et al. Reservoir characteristics and accumulation
+modes of large carbonate gas fields in China. Acta Petrolei Sinica, 2013,
+34(S1): 29-40.
+Xie Z Y, Tian S C, Wei G Q, et al. The study on bitumen and foregone pool
+of Feixianguan oolitic in northeast Sichuan Basin. Natural Gas Geoscience, 2005, 16(3): 283-288 (in Chinese with English abstract).
+Xu C C, Shen P, Yang Y M, et al. Accumulation conditions and enrichment
+patterns of natural gas in the Lower Cambrian Longwangmiao Fm reservoirs of the Leshan-Longnvsi Paleohigh, Sichuan Basin. Natural Gas
+Industry, 2014, 34(3): 1-7 (in Chinese with English abstract).
+Xu H L, Wei G Q, Jia C Z, et al. Tectonic evolution of the Leshan Longnvsi
+paleo-uplift and its control on gas accumulation in the Sinian strata,
+Sichuan Basin. Petroleum Exploration and Development, 2012, 39(4):
+436-446.
+Xu S Q, Hong H T, Li X. Reservoirs forming characteristics and regularity
+in Sinian,Sichuan Basin. Natural Gas Exploration and Development,
+2002, 25(4): 1-5 (in Chinese with English abstract).
+Xu S Q, Zhang G R, Li G H, et al. The hydrocarbon source condition of
+Sinian system of the Caledonian palaeo-uplift. Journal of Chengdu University of Technology, 2000, 27(S): 131-138 (in Chinese with English
+abstract).
+Yang J J. Study on formation and evolution of Sinian petroleum pools in
+Leshan-Longnvsi Paleo-uplift, Sichuan Basin. Chengdu: Southwest Petroleum Institute, 2002 (in Chinese with English abstract).
+Yang W, Wei G Q, Zhao R R, et al. Characteristics and distribution of karst
+reservoirs in the Sinian Dengying Fm, Sichuan Basin. Natural Gas Industry, 2014, 34(3): 55-60 (in Chinese with English abstract).
+Yao G S, Hao Y, Zhou J G, et al. Formation and evolution of reservoir spaces
+in the Sinian Dengying Fm. of the Sichuan Basin. Natural Gas Industry,
+2014, 34(3): 31-37 (in Chinese with English abstract).
+Zhang J, Zhang Q. Petroleum exploration review and prospect of history in
+Sichuan Basin. Natural Gas Industry, 2002, 22(S1): 3-7 (in Chinese with
+English abstract).
+Zhao M J, Zeng F G, Qin S F, et al. Two pyrolytic gases found and proved in
+Talimu Basin. Natural Gas Industry, 2001, 21(1): 35-39 (in Chinese with
+English abstract).
+Zhao W Z, Wang Z C, Hu S Y, et al. Large scale hydrocarbon accumulation
+factors and characteristics of marine carbonate reservoirs in three large
+onshore cratonic basins in China. Acta Petrolei Sinica, 2012, 33(S2):1-10
+(in Chinese with English abstract).
+Zou C N, Du J H, Xu C C, et al. Formation, distribution, resource potential
+and discovery of the Sinian-Cambrian giant gas field, Sichuan Basin,
+SW China. Petroleum Exploration and Development, 2014, 41(3): 306325.
+
+177
+
+

@@ -1,0 +1,1681 @@
+Petroleum Research  
+
+Submarine landslides, relationship with BSRs
+in the Dongsha area of South China Sea
+Li Wan1,2, Xinghe Yu1*, Tyson Steve2, Shunli Li1,3, Zenggui Kuang4,
+Zhibin Sha4, Jinqiang Liang4 and Yulin He1,4
+1
+
+School of Energy Resources, China University of Geosciences, Beijing 100083, China
+School of Earth Sciences, University of Queensland, St Lucia 4067, Australia
+3
+College of Geosciences, China University of Petroleum, Beijing 102249, China
+4
+Guangzhou Marine Geology Survey, Guangzhou 510760, China
+Received February 4, 2016; Accepted August 1, 2016
+2
+
+Abstract: *DVK\GUDWHVDPSOHVZHUHÀUVWREWDLQHGLQWKH'RQJVKDDUHD6RXWK&KLQD6HD *0*6 
+in 2013. High-resolution 3D seismic data in the area show various small landslide bodies developed
+as huge mass transport deposits. These bodies are divided into seven types on the basis of their
+shapes, internal structures and geneses (slide, collapse and deformation above BSRs, as well as
+WKHVOXPSZHGJHOHQVEORFNDQGVKHHWEHORZ%65V %DVHGRQWKLVFODVVLÀFDWLRQGHWDLOHGVWXGLHV
+were conducted, including measurements of the slump body sizes and slope gradients of landslides,
+depiction of their three-dimensional characteristics, and research on the landslide distribution. To
+determine the genetic differences of these seven types, this study analyses the possibility of vertical
+ÁRZSDWWHUQWUDQVIRUPDWLRQDQGPHFKDQLVPVRIVXEPDULQHODQGVOLGHIRUPDWLRQ5HVXOWVVKRZWKDWWKH
+GRPLQDQWIDFWRULQÁXHQFLQJWKHVXEPDULQHODQGVOLGHVLQWKH'RQJVKDDUHDLVWKHIUHHJDVHPLWWHGIURP
+JDVK\GUDWHGHFRPSRVLWLRQZLWKSRVVLEOHWUDQVIRUPDWLRQEHWZHHQÁRZSDWWHUQV)LQDOO\WKHUHDUHWZR
+NLQGVRIUHODWLRQVKLSVEHWZHHQVXEPDULQHODQGVOLGHVDQG%65VVLQFHWKHIUHHJDVHLWKHULQÁXHQFHVWKH
+submarine landslide bodies below or above BSRs, resulting in two types of submarine landslide body
+associations: Type A is characterized by submarine slide above BSRs and slump lens below BSRs,
+whereas Type B shows deformation above BSRs and slump blocks below BSRs. Type A is favourable
+for gas exploration because it indicates less decomposition and better sealing of gas hydrate layers.
+
+Key words: Submarine landslides; Dongsha area;
+BSRs; deep-water deposits; gas hydrate
+
+1 Introduction
+Submarine landslides can involve huge amounts of material
+and move great distances across the continental slope to the
+deep ocean. Similar with landslides on land, they are a kind of
+downward and outward movement of slope-forming materials,
+whose essential controlling force is gravity (Hampton and
+Lee, 1996). Conceptually, submarine landslides and mass
+
+transport deposits (hereinafter referred as MTDs) can be
+used interchangeably. The former one focuses on submarine
+geomorphology and geomechanics, whereas the latter one
+focuses on seismic stratigraphy and fluid flow pattern. Some
+well-known large-scale submarine landslide sedimentation in
+the world, such as the Storegga one in Norway and some in
+Brunei, were referred to different technical names by various
+researchers (collapse, landslide and mass movement). In this
+
+Corresponding author. Email: billyu@cugb.edu.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+59
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+paper, they are all referred to submarine landslides. Yu et al
+proposed that submarine landslide is one of four deep-water
+sedimentary systems (Yu et al., 2014).
+Submarine landslides can occur at varying scales. The largest
+known deep-water submarine landslide in the world is the Agulhas
+landslide in south-eastern Africa, reaching 20,331km3; the modern
+Storegga landslide on the shelf margin of Norway, which is 290km
+wide, over 800km long and 430m thick, with a width/thickness
+ratio up to 675:1; the Lower Carboniferous submarine landslide in
+England is 100m long and 15m thick, with a width/thickness ratio
+of 7:1 (Shanmugam, 2012).
+Research shows that submarine landslides sometimes are closely
+related to gas hydrates. Paull et al analyzed the hydrate-bearing
+deposits from Leg 164 at Blake Ridge of the Ocean Drilling
+Program (ODP), and showed that submarine landslides occur
+more frequently on shelf margins that contain gas hydrates (Paull
+et al., 1996). Sultan et al consider the Storegga landslide in
+Norway to be associated with pore overpressure caused by gas
+hydrate decomposition (Sultan et al., 2004).
+Previous studies have mostly been done from large-scale 2D
+seismic sections between continental shelf-slope break zones and
+continental slopes. Limited by resolution, these previous studies
+mainly focused on the macroscopic characteristics of the landslide
+bodies. However, studies using high-resolution 3D seismic data
+indicate that there are many small landslide bodies in large-scale
+MTDs due to different structures, slopes, sediments supply and gas
+accumulation. In the second gas hydrate drilling area (GMGS2) on
+the continental slope of the South China Sea, hydrates are highly
+FRQFHQWUDWHGZLWKVWURQJ%65 %RWWRPVLPXODWLQJUHÁHFWRU ZKHUH
+submarine landslides and hydrates are prerequisites of each other.
+Based on the high-resolution 3D seismic data, drilling data, we
+
+investigated the submarine landslides and analyze their relationship
+to hydrates in the study area. The results of this study provide
+some insight into subsequent submarine landslide research and gas
+hydrate exploration in the region.
+
+2 Geological setting
+The Dongsha area is situated in the north-eastern part of the
+continental slope of South China Sea, and to the east of the
+Pearl River Mouth Basin. It is bordered by the Dongsha Uplift to
+the west and the Central Mountain Range of Taiwan to the east.
+The water depth ranges from 200m to 3500m. The average slope
+gradients (the ratio of vertical distance to horizontal distance)
+of the study area ranges from 12.8×10-3 to 23×10-3, being one of
+the steepest areas on the continental slope of the South China
+Sea (Fig. 1). Multi-beam bathymetry data shows the presence of
+IDQOLNHXSOLIWVLQWKHQRUWKHUQSDUWRIWKHDUHDDQGUHODWLYHO\ÁDW
+areas in the southern part.
+Tectonically, the area is located on the southeast margin of
+Eurasia, at the junction of the Philippine Sea plate and the East
+Asia continental margin. It experienced a structural inversion
+from an early extension to a late compression. Early extension
+occurred in the Eocene with intensive normal faulting, which
+was gradually weakened until the early Oligocene. During the
+early to late Miocene, an initial compression was developed with
+massive thrust faults and associated folds. During the Pliocene
+to Holocene, strong compression and uplifting occurred in the
+area (Zhu and Wang, 2010; Yu et al., 2013).
+In 2013, the Guangzhou Marine Geological Survey Brigade of
+the China Geological Survey Bureau collected high-purity gas
+K\GUDWHVDPSOHVIRUWKHÀUVWWLPHLQWKH'RQJVKDDUHDWKURXJK
+drilling (GMGS2). The samples are characterized by shallow
+
+GMGS2-09
+GMGS2-03
+
+Guangdong
+
+GMGS2-12
+
+Kaohsiung
+
+GMGS2-07
+
+Zhongshan Hongkong
+Macau
+
+GMGS2-08
+
+GMGS2
+
+GMGS2-08S
+GMGS2-01
+
+Pearl River Mouth Basin
+
+GMGS2-04
+
+GMGS2-11
+
+GMGS1
+GMGS2-05
+
+0
+
+2.3km
+
+GMGS2-02
+
+)LJ0XOWLEHDPEDWK\PHWU\RIWKHVWXG\DUHD7KH\HOORZUHFWDQJOHRI*0*6VKRZVWKHSRVLWLRQRI
+the study area
+
+60
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+burial depths, large thickness, multiple types, and high purity.
+They were mainly rested in two reservoir horizons within 220m
+EHORZWKHVHDÁRRUDWZDWHUGHSWKVRIP7KHVDPSOHV
+show the following various occurrences such as layers, massive,
+nodular, vein-like, etc. The average gas hydrate bearing rate
+in the drilling core ranges from 45%–55%. The gas hydrate
+samples have methane content up to 99%. Eleven boreholes
+were drilled in the study area, eight of which encountered
+hydrates(GMGS2-01, -04, -05, -07, -08, -09, -11 and -12) (Zhang
+et al., 2014)..
+The target stratigraphic interval in the study area is divided
+into three long-term cycles and six medium-term cycles. The
+VXEPDULQHODQGVOLGHVZLWKFOHDUVHLVPLFUHÁHFWLRQFKDUDFWHULVWLFV
+are mainly distributed in Sequences I and II. The T0-1 interface
+is the main termination interface of the shallow detachment
+
+surface, which mostly crosses and overlaps with the BSR.
+Landslide bodies mainly develop on T1 surface. The intervals
+beneath and above T1 are characterized by high and low seismic
+amplitudes, respectively. Sequences I and II were both slightly
+compacted, showing relatively great thickness.
+
+3 S ubm a r i n e l a n d s l i d e t y p e s a n d
+distribution
+Submarine landslides consist of many gravity flow deposition
+types. However, there are many terms for deep-water gravity
+flows on the continental slopes, such as rock avalanche, sand
+fall, debris flow, slurry flow, slope failure, mass transport,
+mass wasting, turbidite, slide, slump, landslide etc. Hence the
+classification of submarine landslides is totally different from
+the onshore landslides (Table 1).
+
+7aEOe  &OassL¿FatLRQ RI JraYLty ÀRZ deSRsLts LQ deeS Zater eQYLrRQPeQts
+Reference
+
+&rLterLa
+
+Varnes
+(1978)
+
+Material kinds and
+movement mode
+
+Dott Jr
+(1963)
+
+MeFKaniFal EeKavior
+
+Middleton and +amSton
+(1973)
+
+6ediment sXSSort
+meFKanism
+
+&OassL¿catLRn
+7ranslational slide rotational slide ÀoZ (deEris ÀoZ deEris avalanFKe eartKÀoZ mXdÀoZ FreeS) Iall
+toSSle
+(lastiF elastiF SlastiF SlastiF visFoXs ÀXid (roFk Iall as elastiF slide
+ÀoZ as SlastiF tXrEidit\ FXrrent as visFoXs ÀXid)
+
+slXmS as elastiF
+
+SlastiF deEris
+
+*rain ÀoZ sXSSorted E\ Jrain Follision ÀXidi]ed ÀoZ E\ XSZard ÀoZ deEris ÀoZ E\ mari[ strenJtK
+tXrEidit\ FXrrent E\ ÀXid tXrEXlenFe
+
+6XEPDULQHODQGVOLGHFODVVLÀFDWLRQ
+
+&ROODSVH
+
+Based on the shape and structure of submarine landslide bodies
+in the study area, combining with their distribution and genesis,
+the submarine landslides are divided into seven types (Fig. 2).
+
+Collapse refers to sedimentary bodies sinking irregularly under
+gravity, forming Y-type faults, or nearly X-type faults, with
+associated folds near them. Within the sedimentary bodies,
+sediment layers maintain stratification, but at the conjunction
+RIIDXOWVFKDRWLFIDFLHVZLWKZHDNDQGGLVFRQWLQXRXVUHÁHFWRUV
+RFFXUORFDOO\UHÁHFWLQJUXSWXUHDQGGHIRUPDWLRQLQWKHSULPDU\
+sediments at stress intersections. The bathymetry above
+collapses usually has the assemblages of pop-ups and downdropped blocks, but is generally expressed as elliptical or
+banded subsidence. Complex faults and folds were not caused by
+compression or extension, but formed by stress relief due to the
+subsidence of brittle sediments (Fig. 2b).
+
+3.1.1 Slide
+A slide is a coherent mass of sediment that moves along a planar
+glide plane and shows no significant internal deformation,
+representing translational shear-surface movements. The slide
+surfaces with different scales form two combination modes. If
+the slide surfaces are similar in scale and parallel with equal dip
+angles, they are similar to the ladder-like fault arrays. If they have
+relatively different scales, a large-scale slip surface will play as the
+principal slip surface and the dip angle decreases gradually from
+top to bottom. Small-scale slip surfaces are developed above the
+large-scale slip surface possibly with opposite dipping directions,
+but their dipping angles are greater than the principal slide surface,
+similar to a detachment fault in structural terms. Slide blocks
+may be rotated entirely and tilted, forming apparent slide gullies.
+The footwall exposed below slide surface due to constitutes the
+headscarps. Morphologically, they are expressed as step-like
+terrains on multi-beam bathymetry (Fig. 2a).
+
+'HIRUPDWLRQ
+Defor mation refers to sedimentar y bodies with plastic
+deformation but without obvious faults and folds, representing
+by low-amplitude discontinuous rumpled shapes and events
+branching and merging irregularly, with obsrued layering
+on seismic profiles. It shows low uplifts on the multi-beam
+bathymetry, lacking washout gullies, headscarps, and crescentshaped ridges. It is not displaced obviously, but cannot be
+
+61
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+SE
+
+SE
+
+250ms
+1275m
+
+b
+
+1275m
+
+SE
+
+SE
+
+125ms
+
+SE
+
+(f)
+
+SE
+
+SE
+
+638m
+Fault
+
+638m
+
+SE
+
+Landslide boundary
+
+(h)
+
+SE
+
+125ms
+
+63ms
+
+125ms
+
+SE
+
+638m
+
+d
+(g)
+
+(i)
+
+SE
+
+638m
+
+BSRs
+
+SE
+
+SE
+
+SE
+
+63ms
+
+638m
+
+63ms
+
+c
+e
+
+SE
+
+125ms
+
+SE
+
+638m
+
+319m
+
+Reflector
+
+63ms
+
+a
+
+SE
+
+250ms
+
+SE
+
+638m
+
+Scale
+
+)LJ  6eLsPLc reÀectLRn characterLstLcs Rf suEParLne OandsOLdes Ln the study area a sOLde E cROOaSse c defRrPatLRn
+d sOuPS ZedJe e sOuPS sheet f sOuPS EORcN cRntrROOed Ey fauOts J sOuPS EORcN ZLthRut fauOts h sOuPS Oens ZLth
+cRPSOe[ L sOuPS Oens ZLth defRrPatLRn
+
+considered as a landslide. However, for convenience, it is listed
+within the study range as well (Fig. 2c).
+3.1.4 Slump wedge
+This is a type of landslide caused by faults formed by tectonics.
+,WFRPPRQO\RFFXUVDVDZHGJH,WVUHÁHFWRUVVWDUWGLYHUJLQJRQ
+the seismic profile, and ends at the concave surface of faults.
+The slump wedge differs from a shallow slide in that a slide is
+caused by the instability of sediments under gravity. Cohesive
+blocks slide downward along weak stress points. The fault
+planes and landslide detachment are usually not the same.
+Whereas a slump wedge is formed by structural stress release
+caused tectonically. The fault surface is the detachment surface
+of landslide bodies (Fig. 2d).
+3.1.5 Slump sheet
+Slump sheet represents sedimentary bodies with internal
+deformation, moving along a relatively flat slip surface. Slump
+sheets have clear top and bottom interfaces that are nearly parallel.
+They are characterised by a steep detachment surface at the head
+and thrust faults at the toe. The internal structure of a slump sheets
+is characterised by contorted and disharmonic reflections with
+low amplitude and low continuity and thrust blocks caused by
+
+62
+
+compression, which can be occasionally observed. The foot-walls
+of reverse faults with a large dip angle on the toe are composed of
+SULPDU\VHGLPHQWVZLWKVKHHWOLNHUHÁHFWLRQ )LJH 
+3.1.6 Slump block
+This is a landslide along a slope, ending at faults (Fig. 2f) or at
+relatively competent sediments. It shows a lenticular shape on
+WKHVHLVPLFSURÀOHVKRZLQJJRRGFRQWLQXRXVHYHQWVLQWHUQDOO\
+without obviously deformations. In terms of the relationship
+between these landslides and fractures, it has been postulated
+that these were formed when a sandy failures was buried
+quickly by later muddy deposits, leading to sealing above and
+the formation of early overpressure. Subsequently, with the
+burial pressure continuously increasing, the enclosed sandstone
+dilated, further forming fractures in the sandstone and adjacent
+mudstone (Fig. 2f and Fig. 2g) (Shanmugam, 2006).
+3.1.7 Slump lens
+It represents a lenticular landslide influenced by liquefaction.
+The typical bi-partite structure is composed of high amplitude
+reflectors, possibly with lenticular foreset in the lower unit.
+Discontinuous and contorted reflectors are developed on the
+upper slope of the upper unit. Sheet-like parallel reflectors
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+converging at the end is present on the lower slope of the upper
+units (Fig. 2h). These lenses overlap each other, constituting a
+large-scale landslide. Combined with the influence of hydrate
+decomposition in the area, it is considered that this complex is
+SUREDEO\IRUPHGE\WKHYHUWLFDOWUDQVIRUPDWLRQRIÁRZSDWWHUQ
+In other word, sediment concentration is high in the lower part
+WRZDUGWKHGHEULVÁRZHQGPHPEHUZKHUHDVVHGLPHQWVLQWKH
+upper part are characterised by strong liquefaction, toward the
+turbidity current end member.
+
+VWURQJDQGFRQWLQXRXVUHÁHFWRUVZLWKWKHLQWHUQDOHYHQWVKDYLQJORZ
+amplitudes with poor continuity. During the process of downward
+VOLGLQJWKHODQGVOLGHERGLHVZHUHLQÁXHQFHGE\ERWKVKHDUVWUHQJWK
+from the underlying formations and squeezing from collision by
+other landslide bodies. Therefore, generally they show intense
+distortion and transformation (Fig. 2i).
+According to the statistical data (Table 2), geometrically
+slump lens and slump sheet show an obvious longitudinal axis.
+However, the collapse range is wide and thin with various
+length-width-thickness ratios. The slide, slump lens and slump
+block lack obvious longitudinal axis. In terms of fault dip angle,
+
+For some lenticular landslides there are no obvious internal bipartite structures, but they are entirely deformed and bounded by
+
+7aEOe  0easurePent data fRr suEParLne OandsOLdes Ln the study area
+Detachment
+surface dip
+anJOe
+
+Tilting dip
+angle
+
+Structure
+amplitudem
+
+Thrust
+fault dip
+angle
+
+4
+
+59
+
+17
+
+Fault displacement126
+
+67
+
+4:7:1
+
+12
+
+49
+
+19
+
+Vertical
+displacement146
+
+—
+
+136
+
+58:48:1
+
+2-11
+
+—
+
+—
+
+—
+
+—
+
+242
+
+12:5:1
+
+7-18
+
+41
+
+—
+
+—
+
+—
+
+/andsOLde
+types
+
+/enJthP
+
+:LdthP
+
+Slide
+
+1275
+
+2020
+
+358
+
+4:1:1
+
+Collapse
+
+1147
+
+2362
+
+325
+
+Deformation
+
+7905
+
+6627
+
+Slump wedge
+
+2932
+
+1125
+
+7hLcNnessP /:7 6ORpe
+
+Slump lens
+
+2295
+
+1223
+
+327
+
+7:4:1
+
+10
+
+36
+
+—
+
+—
+
+—
+
+Slump sheet
+
+3697
+
+917
+
+149
+
+25:6:1
+
+5
+
+51
+
+—
+
+—
+
+63
+
+Slump block
+
+1453
+
+711
+
+289
+
+5:3:1
+
+18
+
+38
+
+—
+
+—
+
+28
+
+L-Length, W-Width, T-Thickness
+
+the collapse may form many faults with similar dip angles.
+Faults in slides have dip angles up to 49°, and the tilting angles
+for the internal layers reach 19°. Thrust faults at the toe of slump
+sheets have much larger dip angles than that of the detachment
+surface in the front. The anti-slope faults and down-slope slide
+surface in a slump block have high dip angles.
+With respect to the development conditions, collapses and
+slump sheets are usually formed on gentle slopes with slope
+gradients less than 5°. Slides, slump blocks, and slump lenses
+are developed on steep slopes with slope gradients greater than
+10°. The dip angle of the internal events within the deformations
+and slump wedges varies greatly and irregularly.
+'GHSLFWLRQVRIVXEPDULQHODQGVOLGHV
+The landslide body types in the study area, except for deformation
+and collapse, can be identified independently. The deformation
+and collapse were developed with high connectivities. Therefore, it
+LVGLIÀFXOWWRGHVFULEHRQHVLQJOHODQGVOLGHERG\+HQFHWKHRWKHU
+ÀYHODQGVOLGHW\SHV VOXPSEORFNKDVDVLPLODUVKDSHDVVOXPSOHQV
+so only the latter is taken as an example) were traced along the
+longitudinal profile with every constant spacing to characterize
+their 3D shapes (Fig. 3).
+The slump wedge is thick at the middle and head, thin at the
+
+toe and flanks. It generally occurs as a lobate shape, with a
+hummocky section at the head. The length of the slide surface
+varies slightly. The sediments accumulate below slide surfaces
+after sliding on the surface for a distance. Planarly, it is
+generally axis-symmetric along the central line. As the central
+axis is the main transport path for sediments, the central part at
+the toe is usually well developed (Fig. 3a).
+7KHVOXPSDORQJORQJLWXGLQDOSURÀOHVRFFXUVDVDOHQV,WLVWKLQ
+at the head and toe and thick in the middle, with equal length
+and lower flank thickness than that in the middle. Sediments
+accumulated on the concave-up slide surfaces. Chaotic seismic
+reflectors at the top vary regularly, showing large-scale in the
+PLGGOHDQGGHFUHDVLQJLQPDJQLWXGHRQWKHVLGHV2QWKHÁDQNV
+these reflectors are basically replaced by parallel reflection
+structures (Fig. 3b).
+Compared to the other landslide types, slides are characterised
+by abrupt variation. Inline-41 shows some obvious offsets with
+relatively large fault displacement. In Inline-37, the events are
+not obviously faulted, almost without displacement, representing
+rapid variation within a short distance (Fig. 3c).
+The slump sheet is featured by thinning at the margin and
+thickening from centre to toe. In the planar view, the slump
+sheet is not entirely axis-symmetric. Taking this slump sheet as
+
+63
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+4m
+193m
+
+33
+
+15
+
+203
+
+SE
+
+m
+
+Discontinuous and contorted
+structure tie line
+
+m
+
+SE
+
+231m
+
+20
+
+204
+
+0m
+
+Inline48
+
+Inline44
+Inline76
+Inline72
+
+Inline40
+Inline68
+Inline36
+Inline28
+
+Inline64
+
+(a)
+
+Inline32
+Fault displacement
+
+(b)
+
+Inline60
+
+SE
+
+Fault tie line
+
+SE
+
+47
+
+17
+
+m
+
+Inline41
+Inline40
+
+254
+Inline157
+Inline152
+
+51
+
+m
+
+232m
+
+Inline38
+Inline37
+318 7m
+
+m
+
+221m
+
+Inline39
+
+Inline147
+
+(c)
+Landslide boundary
+
+Inline137
+
+Inline142
+
+(d)
+
+Fault
+
+Fig. 3 3D illustration of landslide bodies. (a) is for slump wedge, (b) is for slump lens with complex
+structure, (c) is for slide, (d) is for slump sheet.
+
+an example, it is thick and short in the western end, but thin and
+long in the eastern end. The tie line of the anti-slope faults at the
+end of the slump sheet is also asymmetric (Fig. 3d).
+
+3.3 Submarine landslide distribution patterns
+Inline-148 and Inline-68 along the provenance direction are
+located on the eastern margins and western part of the study
+area, respectively, with different landslide types developed (Fig.
+DQG)LJ 7KHUHIRUHWKHWZRSURÀOHVFDQEHXVHGWRLOOXVWUDWH
+the vertical distribution of landslide bodies.
+Faults were developed in the northern end of Inline-148, where
+slump wedges were induced. Nearly nine separated slump
+EORFNVZHUHLGHQWLÀHGIURP6HTXHQFH,,7KH\ZHUHGLYLGHGLQWR
+three phases from top to bottom, and there are 2 to 4 landslide
+bodies closely arranged within each phase. Collapses were
+GHYHORSHGLQ6HTXHQFH,)DXOWPDJQLWXGHDQGLWVLQÁXHQFHRQ
+landform should be considered when dividing phases. Faults in
+WKLVSURÀOHFDQEHURXJKO\GLYLGHGLQWRWZRSKDVHV,QWKHÀUVW
+phase (I), faults were formed in the early stage and are of larger
+scale, laying a basic structural frame work. In the second phase
+(II), faults were much smaller in scales, as a result of large-scale
+fault blocks being broken into smaller ones. Gas chimneys were
+widely developed between Sequences III and VI, featured by
+chaotic seismic facies.
+6WUDWDLQWKHPLGGOHDUHDZHUHQRWLQÁXHQFHGE\JDVFKDUJHZLWK
+small faults formed in several sequences. However, the cause
+
+64
+
+KDVQRWEHHQLGHQWLÀHG\HW2QRQHKDQGLWLVSRVVLEOHWKDWWKH
+primary tight strata prevented gas invasion. On the other hand,
+it is possible that less gas hydrates were decomposed in the area.
+So liquefaction only occurred to a small degree. The landslide
+bodies were constrained by the anti-slope faults in the middle
+part and terminate there. Associated folds (compressive folds)
+were formed by structural inversion, which was also the product
+of a local compression environment. It formed as sedimentary
+bodies which became a hindrance when sliding.
+In the southern part of the study area, three phases of slump
+sheets can be identified on the profile. The slump sheet
+detachment surfaces at the bottom are basically parallel. The
+slump sheets are separated by sheeted parallel sediments. The
+ODWHUVWDJHZDVQRWLQÁXHQFHGGLUHFWO\E\WKHHDUO\VWDJH6OLGH
+type landslides were developed in Sequence I.
+,Q,QOLQH )LJ FKDRWLFVHLVPLFUHÁHFWRUVZHUHGHYHORSHG
+during the deformation of Sequence I at the northern end. Slump
+lenses were developed in Sequence II with both deformed and
+bi-partite structures. Eleven landslide bodies can be identified
+from the upper slope to the downslope and from the lowersequence to the upper-sequence. Slides were developed in the
+middle part of Sequence I. Three domino-like slump blocks
+were successively formed from the upper slope to the down
+slope. Tilted rotation occurs in the blocks. U-type detachment
+surfaces can be observed in the south, formed by the movement
+RIODQGVOLGHERGLHVDORQJWKHWUDQVYHUVHGLUHFWLRQWRWKHSURÀOH
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+CDP120 200
+
+300
+
+400
+
+500
+
+I
+block
+
+Reflection time/ms
+
+1500
+
+4
+
+s
+
+I
+
+II
+
+I II
+9
+
+6
+
+1200
+
+0
+
+1300
+
+1785m
+
+1400
+
+1500
+
+SE
+
+Step-like slides
+
+BSRs
+
+D e ta c h m
+
+7
+
+1750
+3
+
+Lands
+
+2000
+
+lide te
+
+2250
+sl u m p w
+
+1100
+
+I
+
+8
+
+2
+
+2500
+
+1000
+
+II
+
+5
+
+1
+
+900
+
+800
+
+Crossed slide plane
+
+II
+
+II
+1250 S
+lump
+
+700
+
+600
+Collapse
+
+rmina
+
+e n t su rf a
+
+ted by
+
+ce
+
+The
+b
+of la ottom b
+o
+ndsl
+ide undary
+
+edge
+
+Dish
+
+2750
+
+armo
+
+nic a
+
+nd c
+
+Gas influenced
+
+T 0- 1
+
+fault
+
+onto
+
+rted
+
+3000
+
+seism
+
+I
+
+T1
+
+10
+Slump
+
+T 1- 1
+
+ic fa
+
+T2
+12
+T2 -1
+cies
+
+11
+
+II
+
+sheet
+
+III
+
+IV
+
+T3
+
+V
+
+3250
+
+VI
+
+3500
+BSR
+
+Sequenceboundary
+
+Gas Chimney
+
+Fault
+
+Fig.  Schematic interpretation of seismic pro¿le, ,nline. Red character , refers to the ¿rst phase faults, Red
+character ,, refers to the second phase faults 1umber  to  refer to slump blocNs identi¿ed in this section, to 
+refers slump sheets identi¿ed %lacN character , to Ď refers to six mid-term stratigraphic cycles.
+
+CDP 120 200
+
+Reflection time/ms
+
+1250
+1500
+1750
+
+700
+900
+300
+400
+500
+600
+800
+1000
+1100
+1200
+1300
+Eroded gullies
+Slides
+0
+1785m
+Headscarps
+De fo rm at io n
+Eroded gullies
+BSR
+12
+9
+5
+Tilted blocks
+13
+4
+10
+14
+6
+1
+7
+2
+11
+8
+S lu m p le
+ns comp
+T0 -1
+Distortion and transformation
+le x
+3
+
+2000
+
+1400
+
+1500
+
+SE
+
+I
+T1
+
+2250
+
+T 1- 1
+
+Detachment surface
+II
+
+T2
+
+2500
+
+III
+
+T2 -1
+
+2750
+
+IV
+
+T3
+
+V
+
+3000
+
+VI
+BSR
+
+Fault
+
+GasChimney
+
+SequenceBoundary
+
+Fig.  Schematic interpretation of seismic pro¿le of ,nline-. 1umber  to  refer to slump lens complexes identi¿ed in this section,  to  refer to slides identi¿ed. %lacN , to blacN Ď refers to six mid-term stratigraphic cycles.
+
+4 Genetic mechanism of submarine
+landslides
+Short-term triggers for submarine landslides in the study area
+include earthquakes and tsunamis. Medium- to long-term triggers
+
+include sedimentary loading, instability of sand and clay, and gas
+LQÁXHQFH /LHWDO $PRQJWKHPJDVK\GUDWHGHFRPSRVLWLRQ
+is the main triggering mechanism. When gas hydrates were formed,
+fresh water and hydrocarbon gas were extracted from pores in
+sediments, and transformed into solid hydrates, which played a role
+
+65
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+in cementing sediments. Therefore, the sediments became more
+competent. After gas hydrates were decomposed, the solid hydrates
+turned into liquid or free gas, with the methane volumes much
+greater than that of the original hydrate volumes. If the reservoir
+KDGJRRGVHDOVSRUHVZRXOGEHÀOOHGIXOO\ZLWKJDVDQGWKHSRUH
+pressure would be increased accordingly. Overpressure generation
+and the volume expansion of sediments with gas would lead to
+the decrease of the formation’s competence and consolidation. If
+small faults and gas chimneys were developed in the formations,
+they would act as pathways for migration and cause the gas to leak,
+transporting toward the shallow part (Wang, 2011) (Table 3).
+
+3RVVLELOLW\ RI YHUWLFDO WUDQVIRUPDWLRQ RI IORZ
+patterns
+The transformation of the gravity flow pattern in deep water
+vertically and horizontally was mainly caused by the gradual
+variation in the sediments concentration (the volume ratio
+of sediments to fluids), which is an important and common
+phenomenon. It is one of the important and challenging issues in
+deep-water sedimentation research over the years. Turbidity and
+debris flows represent two end members of gravity flows and
+may result in totally different sediment formation properties.
+The properties of the other transitional flows lie in between
+WKHP'HEULVÁRZLVDW\SHRIVHGLPHQWÁRZZLWKERWKSODVWLF
+flow and laminar flow regimes (a Bingham fluid), showing
+FKDUDFWHULVWLFVRIVKHDUVWUHVVGLVWULEXWLRQRYHUWKHHQWLUHÁXLG
+The grain volume concentration has to be greater than or
+HTXDOWR7XUELGLW\ÁRZLVD1HZWRQÁXLGLQWHUPVRIÁXLG
+rheology with a turbulence state and cohesiveness. The sediment
+concentration is usually less than 23%. It is primarily dominated
+by suspended load, which principally transports sediments
+dominated by mud and silt to fine sands, with normal graded
+bedding (Hampton, 1972; Postma et al., 1988; Mutti et al., 1999;
+Shanmugam, 2002; Shanmugam, 2006).
+
+The transformation of gravity flow on the plane has been
+accepted by most scholars. Flume tank experiments have
+YHULÀHGWKHREVHUYDWLRQRIGRZQÁRZWUDQVIRUPDWLRQDQGODUJH
+scale examples can also be observed at outcrops. There have
+been many breakthroughs in research on vertical gravity flow
+pattern transformation. Near the base there exists a denser and
+highly concentrated layer called the laminar layer or inertialÁRZOD\HU,WGHYHORSHGDZHGJHWKLFNHQLQJFRQWLQXRXVO\XSÁRZ
+within the head region. Its high viscosity shows the behavior as
+DNLQGRIQRQ1HZWRQLDQÁXLGW\SLFDODVGHEULVÁRZ7KHVQRXW
+IRUGHEULVÁRZFDQEHYHU\FOHDU7KHXSSHUWXUEXOHQWVXVSHQVLRQ
+above is faster. From the boundary between turbulent current
+and debris flow to the top the density will degrease. On the
+top the turbulent clouds are well developed. The curves show
+elustriation of mud (Fig. 6).This composite fluid with coarser
+grains on the bottom and overlying fine suspended grains is
+FDOOHGD¶ELSDUWLWHJUDYLW\ÁRZ· +DPSWRQ3RVWPDHWDO
+1988; Mutti et al., 1999; Shanmugam, 2002).
+
+4.2 Genetic mechanisms for submarine landslides
+There are two aspects for the genetic mechanisms of mass
+failures. One is the increase in the net component of the
+downward force which is parallel to the continental slope, while
+the other is a decrease in the adhesive force between sediments.
+Firstly, the complexity lies in that the sediments and underlying
+formations were bonded together prior to the detachment surface
+was formed. Secondly, the shape and components of sediments
+varied constantly during the sliding. There was an exchange of
+material between sediments and water around the landslides,
+which maintains a dynamic balance in any one moment (Fig. 7).
+There are many possible reasons for the decrease in adhesive
+force. With respect to the external factors, long-term bottom
+flow modification, and mutual physiochemical action between
+
+Table 3 Summary of the genetic differences of seven types of landslide bodies
+Formation
+duration
+
+(xternal force
+
+Trigger regime
+
+slide
+
+short-term events
+
+gravity component
+along the down slope
+
+multiple mechanisms
+
+above and next to
+BSRs
+
+steep slope
+
+both downward and along
+down slope direction
+
+sediments overload
+
+above and next to
+BSRs
+
+ÁDWDUHD
+
+downward
+
+collapse
+
+66
+
+Position in
+Development
+relation to BSRs background
+
+/andslide
+types
+
+multiple stages, short
+the downward gravity
+term for each stage
+
+0ovement direction
+
+deformation
+
+long-term
+deformation
+
+none
+
+gas invasion
+
+above and next to
+BSRs
+
+both gentle and
+steep slope
+
+without obvious
+displacement
+
+slump wedge
+
+short-term events
+
+tectonic stress
+
+tectonic activity
+
+below and far from
+BSRs
+
+accompanied by
+fault
+
+along the fault surface
+
+slump block
+
+multiple stages, short
+term for each stage
+
+none
+
+mass instability
+
+below and next to
+BSRs
+
+around gas
+chimney
+
+move little distance
+
+slump lens
+
+multiple stages, short
+term for each stage
+
+none
+
+hydrate decomposition
+
+below and next to
+BSRs
+
+above gas
+chimney
+
+move little distance
+
+slump sheet
+
+long-term creep
+
+gravity component
+along the down slope
+
+ÀQHJUDLQHGGHSRVLWLRQ
+in steep slope
+
+below and far from
+BSRs
+
+gentle slope
+
+along down slope direction
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+Energy/size/concentration
+decreased
+
+Turbulent cloud
+Wake
+Low density
+turbidity current
+
+Snout
+
+High density
+turbidity current
+
+Head
+
+Body
+
+Debris flow
+
+Fig.  9ertical transformation model of Àow patterns, edited after *ardner et al ()
+
+Fri
+res ctiona
+ista
+l
+nce
+
+The support of the
+slope for landslide
+
+Component of gravity
+along the slope
+
+Gravity
+
+Thecohesive force between
+the landslide and the lower strata
+
+Component of gravity
+perpendicular to the slope
+
+SE
+
+Landslide internal
+cohesive force
+
+Fig.  The functional mechanism of submarine landslides
+
+water and sediments lead sediments to become looser and
+finer. Tectonic stress could also have formed many small
+faults as well, which may lead sediments to split into many
+small fault blocks. The internal factors reside in the high pore
+pressure formed by the gas invasion that could have decreased
+the formation strength. The presence of gas and water could
+have promoted sediment liquefaction under the function of
+earthquakes and tsunamis. The decrease in the bond between
+sediments and the underlying formations can be caused by
+many factors. For instance, joint surfaces parallel to the bedding
+plane were developed or there were strata like shale with good
+layering with weak interstratified force or fine-grained layers
+ZLWKVPDOOLQWHUVWUDWLÀHGIULFWLRQ0RUHRYHUK\GUDWHOD\HUVFDQ
+form crash pads as well.
+With respect to the external stress, the relative difference of the
+weight component toward the down slope and friction jointly
+decide the stability of sediments. Gravity not only includes the
+gravity produced from the weight of sediments, but also the
+water pressure and structural stress. The influencing factors
+include, first, the fact that the repose slope (maximum slope
+gradients under which sediments are stable) differ from various
+sediment sizes. The larger the grain size is, the steeper the
+slopes will be. In addition, it is also related to the roundness
+of sedimentary grains. If the sedimentary grains are angular
+or sub-angular, the maximum slope gradient can reach 45°
+
+(Stephen, 2013). Secondly, the greater the slope gradients,
+the larger the gravity components will be along the slopes,
+which can cause instability. The gradients of the continental
+slopes reached 18° in the south, and approximately 3-5° in the
+northern part of the study area. Therefore, this is the reason
+why landslides were better developed in the north than in the
+south. Thirdly, the static frictional force is often greater than
+the kinetic frictional force. Hence the stress produced from
+sudden tectonic events (e.g. earthquakes, tsunami, etc.) can
+increase the gravity component along the slope abruptly, causing
+slides. The energy accumulated by tectonic activities will be
+released periodically. Consequently, slides are characterised by
+coincidence and unpredictability. Fourthly, increasing sediments
+load will also increase the gravity component along the slopes,
+so the slide of sediments from the upper continental slope and
+the vertical aggradations of the hemi- pelagic could trigger
+landslides. Variation in water depth is another controlling factor.
+
+5 Relationship between submarine landslides
+and BSRs
+Hydrates-bearing intervals are subject to subsidence by sediment
+loading and tectonic subsidence. As a result, the temperature and
+pressure would be no longer suitable for hydrates to maintain
+an equilibrium. Therefore, gas hydrates would be gradually
+decomposed (Fig. 8a). In addition, free gas would move upward
+
+67
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+12
+0.0
+
+10
+
+8
+
+Time/Ma
+6
+4
+
+2
+
+SE
+Subsidence
+
+Hydrothermal
+gradient
+Gas hydrate
+phase boundary
+
+1.0
+
+2.0
+Hydrate zone
+
+Seafloor
+
+3.0
+
+c
+
+d
+
+GHSZ
+b
+Depth/km
+
+Subsidence
+
+b
+
+c´
+
+Gas
+
+Hydrate
+
+(d)
+SE
+
+3.5
+a
+Geothermal
+gradient
+
+b´
+
+b´
+
+4.0
+
+0
+
+a´
+
+10
+
+20
+30
+40
+Temperature/ o C
+(a)
+
+Free gas
+
+Water
+
+50
+(b)
+Gas hydrate
+
+(e)
+
+(c)
+
+Gas migration
+
+Shale sealing
+
+Microorganism
+
+Gas chimney
+
+Fig.  Relationship between landslides and BSRs. (a) shows the development condition for *+S= (*as +ydrate Stability
+=one), edited after Dickens and 4uinby-+unt () The position change from b to b¶ is shown in (b) and (c), b and c are
+the initial and ¿nal situation for a primary *+S= respectively (d) and (e) are Type $ and Type B respectively.
+
+successively along the gas chimneys and faults. Therefore, the
+area below the interval containing gas hydrates is commonly
+associated with high free gas concentration. After the hydrate
+layers are saturated with gas, they have a limited capability
+for absorbing and transforming free gas to gas hydrates. Strata
+with abundant hydrates can become seals for the gas immediate
+below as well (Fig. 8b and Fig. 8c). Differential capacities of
+sealing may thus lead to obviously different distributions of
+gas, and different landslide body associations. During the gas
+hydrate exploration, hydrate development can also be estimated
+by identifying the landslide associations.
+
+deformations above BSRs (the faults formed by landslides end at
+BSRs irregularly) and slump blocks developed below BSRs. The
+degree of liquefaction is low around the main bodies of MTDs,
+so slump blocks would be well developed. Compared to Type
+$WKHLQÁXHQFHRIIUHHJDVRQWKHORZHUSDUWGHFUHDVHVZKLOH
+LWVLQÁXHQFHRQWKHXSSHUSDUWLQFUHDVHV )LJH )RUH[DPSOH
+Well GMGS2-07 penetrated through a free gas interval. This
+well has similar geological setting to Well GMGS2- 16, and the
+GULOOLQJGDWDVKRZVWKHSUHVHQFHRIIUHHJDVDQGOLTXLGÁXLGLQ
+WKHFRDUVHVHGLPHQWVDWPEHORZWKHVHDÁRRU =KDQJHWDO
+2014).
+
+There are two kinds of relationships between submarine
+landslides and BSRs in the study area. Type A is characterised
+by slides above BSRs (the detachment surface of the slide
+commonly ends at the BSRs) and slump lenses below BSRs,
+indicating that there are more decomposed hydrates and a large
+quantity of free gas in the lower part with strong liquefaction
+of sediments. Whereas there is a well-sealed hydrates layer in
+the upper part, there would be a weak area forming near the
+hydrate bottom interface. Therefore slides would occur easily.
+The upper part would not be affected substantially by free gas
+in this case (Fig. 8d). In Well GMGS2-08, the hydrate-bearing
+interval is more than 20m thick, containing high-purity massive
+gas hydrates with saturation up to 55% (Zhang et al., 2014).
+
+6 Conclusions
+
+Type B is characterised by the presence of collapses or
+
+68
+
+(1) By analyzing the shape, architecture, and genesis, seven
+types of small various landslide bodies in huge mass transport
+deposits are identified, namely the slide, collapse and
+deformation above BSRs, as well as the slump wedge, lens,
+block, and sheet below BSRs. Slide, collapse and deformation
+FDQEHLGHQWLÀHGDVVWHSOLNHWHUUDLQVVXEVLGHQFHDQGORZXSOLIWV
+without obvious gullies respectively.
+(2) Vertical transformation of flow patterns from lower high
+concentration sediments to upper low concentration sediments
+LVSRVVLEO\YHULÀHGE\OHQWLFXODUIRUHVHWVHLVPLFIDFLHVZLWKEL
+partite structure. It is featured by continuous and high-amplitude
+reflectors developed in the lower part of slump lenses, while
+
+L.Wan et al./Petroleum Research (2016) 1,59-69
+
+FKDRWLFDQGGLVFRQWLQXRXVZHDNDPSOLWXGHUHÁHFWRUVGHYHORSHG
+in the upper part of the slump lenses.
+(3) For the geometry, slump sheet and wedge have obvious long
+axes while slide slump lens and block have similar length and
+width. For formation environment, the collapse and slump sheet
+develop when the slope gradient is below 5°, while the slide, slump
+block and lens occur when the slope gradient higher than 10°.
+(4) In the study area, the trigger mechanism for these landslide
+bodies include gas hydrate decomposition, sediments overload,
+instability of sand and clay, and tectonic events. The dominant
+factor is free gas from gas hydrate decomposition.
+(5) Two types of relationships between submarine landslides and
+BSRs are documented. Type A is characterised by slide above
+%65VZKLOHVOXPSOHQVEHORZ%65VUHÁHFWLQJOHVVJDVOHDNDQG
+obvious liquefaction in the lower part. Type B is characterised
+by collapse or deformation above BSRs while slump block
+below BSRs. The interval above BSRs is influenced more by
+hydrate decomposition.
+
+References
+Dickens G R and Quinby-Hunt M S. Methane hydrate stability in pore
+water: a simple theoretical approach for geophysical applications.
+Journal of Geophysic Research, 1997, 102: 773-783.
+Dott Jr. R H. Dynamics of subaqueous gravity depositional processes.
+AAPG Bulletin, 1963, 47: 104-128.
+Gardner M H, Borer J A, Melick J J, et al. Stratigraphic process-response
+model for submarine channels and related features from studies of
+Permian Brushy Canyon outcrops, West Texas. Marine and Petroleum
+Geology, 2004, 21(6):779-781.
+Hampton M A and Lee H J. Submarine landslides. Reviews of Geophysics,
+1996, 34:33-59.
++DPSWRQ0$7KHUROHRIVXEDTXHRXVGHEULVÁRZVLQJHQHUDWLQJWXUELGLW\
+currents. Journal of Sedimentary Petrology, 1972, 42:775-793.
+Li L, Li B, Wang Y M, et al. Seisimic geomorphology and sedimentary
+architectures of mass transport deposits: cases from Pearl River Mouth
+Basin and Niger Delta Basin. Journal of central south university
+(Science and technology), 2013, 44(6): 2410-2416 (in Chinese with
+
+English abstract).
+0LGGOHWRQ*9DQG+DPSWRQ0$6HGLPHQWJUDYLW\ÁRZVPHFKDQLFVRI
+ÁRZDQGGHSRVLWLRQ,Q7XUELGLWHVDQG'HHSZDWHUVHGLPHQWDWLRQ (GV
+0LGGOHWRQ*9DQG%RXPD$+ 6(303DFLÀFVHFWLRQ6KRUW&RXUVH
+Anaheim, California, 1973, 1-38.
+Mutti E, Tinterri R, Remacha E, et al. An introduction to the analysis of
+ancient turbidites basins from an outcrop perspective: Tulsa, Oklahoma.
+AAPG Continuing Education Course Note Series, 1999, 39: 61.
+Paull C K, Buelow W J, Ussler W, et al. Increased continental margin
+slumping frequency during sea level low stands above gas hydratebearing sediments. Geology, 1996, 24:143-146.
+Postma G, Nemec W, Kleinspehn K L. Large floating clasts in turbidites: a
+mechanism for their emplacement. Sedimentary Geology, 1988, 58: 47-61.
+Shanmugam G. Deep-water processes and facies models: implications for
+sandstone petroleum reservoirs. Amsterdam: Elsevier, 2006.
+Shanmugam G. New perspectives on deep-water sandstone: origin,
+recognition, initiation and reservoir quality. Singapore: Elsevier, 2012.
+Shanmugam G. Ten turbidite myths. Earth-Science Reviews, 2002, 58:311341.
+Stephen Essentials of geology. New York: w.w.norton&company, Inc., 2013,
+407.
+Sultan N, Cochonat P, Foucher J P, et al. Effect of gas hydrates melting on
+VHDÁRRUVORSHLQVWDELOLW\0DULQH*HRORJ\  
+Varnes D J. Slope movement types and processes. In: Special Report 176:
+Landslides: Analysis and Control (Eds: Schuster R L and Krizek R J).
+National Academy of Science, Washington D.C., 1978, 11-33.
+Wang Z J. Study of correlationship between mass transport deposits and the
+dissociation of gas hydrate in Baiyun deepwater area.Oil Geophysical
+Prospecting, 2011, 46(1): 144-150 (in Chinese with English abstract).
+Yu X H, Wang J Z, Li S L, et al. The relationship between tectonic
+subsidence and BSR of upper Neogene in the deep-water area of the
+northern continental slope, South China Sea. Acta Geologica sinica,
+2013, 87(3):804-818.
+Yu X H, Wang J Z, Liang J Q, et al. Depositional characteristics and
+accumulation model of gas hydrate in Northern South China Sea.
+Marine and Petroleum Geology, 2014, 56:74-86.
+Zhang G, Yang S, Zhang M, et al. GMGS2 expedition investigates rich and
+complex gas hydrate environment in the South China Sea. Fire in the
+Ice: Methane Hydrate Newsletter, 2014, 14(1):1-5.
+Zhu W L and Mi L J. Atlas of oil and gas basins, China Sea. Beijing:
+Petroleum Industry Press, 2010,87-92 (in Chinese).
+
+69
+
+

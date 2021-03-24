@@ -1,0 +1,2748 @@
+Petroleum Research (2016) 1,10-26
+
+Shale gas reservoirs: Theoretical, practical and
+research issues
+Roberto Aguilera*
+Schulich School of Engineering, University of Calgary, Calgary, Canada
+Received February 3, 2016; Accepted July 25, 2016
+
+Abstract: Shale gas reservoirs are found all over the world. Their endowment worldwide is estimated
+at 10,000 tcf by the GFREE team in the Schulich School of Engineering at the University of
+Calgary. The shale gas work and production initiated successfully in the Unites States and extended
+to Canada will have application, with modifications, in several other countries in the future. The
+‘modifications’ qualifier is important as each shale gas reservoir should be considered as a research
+project by itself to avoid fiascos and major financial losses. Shale gas reservoirs are best represented
+by at least quadruple porosity models. Some of the production obtained from shale reservoirs is
+dominated by diffusion flow. The approximate boundary between viscous and diffusion-like flow is
+estimated with Knudsen number. Viscous flow is present, for example, when the architecture of the
+rock is dominated by mega pore throat, macro pore throat, meso pore throat and sometimes micro
+pore throat. Diffusion flow on the other hand is observed at the nano pore throat level. The process
+speed concept has been used successfully in conventional reservoirs for several decades. However,
+the concept discussed in this paper for tight gas and shale gas reservoirs, with the support of core
+data, has been developed only recently, and permits differentiating between viscous and diffusion
+dominated flow. This is valuable, for example, in those cases where the formation to be developed is
+composed of alternating stacked layers of tight sands and shales, or where there are lateral variations
+due to facies changes. An approach to develop the concept of a super-giant shale gas reservoir is
+presented as well as a description of GFREE, a successful research program for tight formations.
+The paper closes with examples of detailed original gas-in-place (OGIP) calculations for 3 North
+American shale gas reservoirs including free gas in natural fractures and the porous network within
+the organic matter, gas in the non-organic matter, adsorbed gas, and estimates of free gas within
+fractures created during hydraulic fracturing jobs. The examples show that the amount of free gas in
+shale reservoirs, as a percent of the total OGIP, is probably larger than considered previously in the
+literature.
+
+Key words: shale gas reservoirs; process or delivery speed; quadruple
+porosity model; Knudsen number; pore throat level
+
+1 Introduction
+Several researchers (Archie, 1950; Kwon and Pickett, 1975; MacKenzie,
+1975; Chopra et al., 1987; Gunter et al., 1997a; Ebanks, 1987; Hartmann
+and Beaumont, 1999, Aguilera, 2010) have discussed the importance
+of pore and throat structure (for example size, geometry, distribution,
+* Corresponding author. Email: raguiler@ucalgary.ca
+
+connectivity, and composition) on flow unit and storage capacity of
+porous media. Pore throat apertures have been estimated based on
+knowledge of process speed, i.e., the ratio of permeability and porosity
+(Kolodzie, 1980; Aguilera, 2002). In turn, these pore throat apertures
+has been used with reasonable success to anticipate the oil and gas
+flow rates that can be expected from a given well (Martin et al., 1997,
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+10
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+Deng et al, 2011). In general, this type of work has been performed in
+‘conventional’ carbonate and siliciclastic reservoirs. This paper shows,
+with the use of real data and simulation at the pore throat level, that the
+same concept can be extended quantitatively to the case of tight gas and
+shale gas reservoirs.
+Fig. 1 displays location of shale gas reservoirs assessed by the
+United States Energy Information Agency (EIA, 2011). The
+EIA’s work shows technically recoverable gas resources from
+
+shales in the amount of 6,622 tcf in 32 countries assessed. This
+compares with a global (all countries) recovery from shales of
+10,000 tcf estimated by the GFREE team. GFREE stands for
+an integrated multidisciplinary team researching geoscience
+(G), formation evaluation (F), reservoir drilling, completion
+and stimulation (R), reservoir engineering (RE), economics
+and externalities (EE). Endowment, as used in this paper, is
+the summation of cumulative gas production, reserves and
+undiscovered gas.
+
+Assessed basins wit resource estimate
+Assessed basins without resource estimate
+Countries within scope of report
+Countries outside scope of report
+
+Fig. 1 Map of 38 major shale gas basins in 32 countries (EIA, 2011)
+
+Fig. 2 illustrates a world gas resource pyramid showing global
+endowment for conventional gas, tight gas, shale gas and coalbed
+methane reservoirs (Aguilera, 2010). The total natural gas
+endowment, excluding natural gas hydrates, is gigantic, at 45,000
+tcf. The endowment of natural gas, the cleanest burning fossil fuel,
+will supply market needs for over 100 years. The pyramid shows
+that unconventional gas is associated with very low permeabilities.
+As such, successful production of unconventional gas will be
+associated with increases in prices, activation indices, research
+and time. Activation index (Economides and Oligney, 2000) is a
+measure of the total investment required to establish access to new
+oil or gas expressed in dollars per unit volume per day (for example,
+$/barrel/day or $/Mcf/d) of stabilized production. The pyramid
+also shows decreases in process (or delivery speed) and pore throat
+apertures, which are some of the key topics discussed in this paper.
+Although process speed has been used for several decades in
+conventional reservoirs in the oil and gas industry, the proposed
+use of this concept for distinguishing between flow units in
+conventional, tight gas and shale reservoirs has been developed
+only within several years. Comparisons of real data and
+theoretical simulations at the pore throat level are consistent and
+provide good support to the proposed methodology.
+
+Reservoir rock
+1000mD
+
+Endowment
+
+10mD
+
+0.1mD
+
+Production
+costs and
+prices
+
+Delivery
+speed
+(K/Ø)
+
+Activation
+indexes
+
+Pore
+throat
+apertures
+
+Research
+Tight gas
+Shales gas
+
+CBM
+
+Time
+
+Gas hydrates
+
+Fig. 2 World gas resource pyramid showing endowment of
+conventional gas, tight gas, shale gas and coalbed methane
+reservoirs (adapted from Aguilera et al., 2008). Endowment
+is summation of cumulative gas production, reserves and
+undiscovered gas. Delivery speed, which controls the definition
+of flow units considered in this research, decreases as we
+move down the pyramid from conventional to unconventional
+gas reservoirs (Aguilera, 2010).
+
+11
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+2 Process or delivery speed
+
+been producing for several decades.
+
+Process or delivery speed, i.e., the ratio of permeability and
+porosity, provides a relative indication of storage and how
+quickly fluids can move through porous media. The concept has
+been shown to be powerful for characterizing conventional oil
+and gas reservoirs in various lithologies (Chopra et al., 1987;
+Gunter et al., 1997b), and for predicting recoverable hydrocarbon
+volumes (Pickett and Artus, 1970).
+
+Note that observations on this regard refer to gas rates and
+recoveries. For the case of OGIP (Original Gas in Place),
+however, Ambrose et al (2010) argue that based on their pore
+level observations the volumetric “total gas storage capacities and
+the resulting gas-in-place values are being inadvertently inflated
+and overestimated.” This study argue the opposite because
+historically the large contribution of organic porosity, natural
+fractures and hydraulic fractures that contribute a significant
+amount of free gas in place has not been taken into account.
+And many of the laboratory experiments used for determining
+data utilized in computations of original gas in place have been
+carried out in crushed samples, which by their very nature do
+not generally preserve natural fractures and porosity present in
+the organic matter.
+
+It is thus a useful concept for linking geology, petrophysics and
+reservoir engineering as permeability and porosity are studied in
+detail and used by all of these disciplines (Aguilera, 2004). The
+process speed (K/φ) is an important part of the diffusivity equation:
+
+ c p
+         (1)
+2 p  t
+( K /  ) t
+where μ is fluid viscosity, cp; ct is total compressibility, 1/psi; and
+the term [μct/(k/φ)] is the hydraulic diffusivity (η). The above
+equation, for viscous flow, is at the heart of fluid flow calculations
+in porous media by reservoir engineers. The same type of equation
+but using Fick’s law is applicable for gas diffusion though very
+small pores, such as the case of shales. The important of the
+process speed is highlighted because, as indicated by Cui et al
+(2009), “for a set of experimental data, regardless of the underlying
+transfer mechanism, if permeability (K) can be determined, then
+the equivalent effective gas diffusivity (ηd) can be calculated” from
+the equation ηd = [μct /(K/φ)].
+
+3 Shale gas reservoirs
+Shale reservoirs have been considered extensively in the literature
+(e.g., Aguilera, 1978; Bustin et al., 2008; Ruppeil and Loucks, 2008;
+Wang and Reed, 2009; Ambrose et al., 2010; Lavoie et al., 2010)
+and this study has benefitted greatly from those publications. In
+particular this section follows closely the work of Aguilera (2010).
+In the case of shale gas formations, natural gas is generated in the
+shale and remains within the shale. Consequently the shale is both
+source rock and reservoir rock. Grains and pores are smaller in
+shales as compared with tight and conventional gas formations.
+Hydrothermal events may have enhanced the gas potential of shale.
+The presence of octahedral pyrite might help explain if these events
+took place. Gas is trapped and stored in shale in different ways: (1)
+as adsorbed gas into the kerogen material, (2) free gas trapped in
+nonorganic inter-particle (matrix) porosity, (3) free gas trapped in
+microfracture porosity, (4) free gas stored in hydraulic fractures
+created during the stimulation of the shale reservoir, and (5) free
+gas trapped in a pore network developed within the organic matter
+or kerogen as shown on Fig 3. The latter is a new extraordinary
+discovery (Ruppeil and Loucks, 2008; Wang and Reed, 2009) with
+significant practical implications that can help explain the larger
+than anticipated gas rates and recoveries of natural gas from some
+of these formations, for example, in Devonian shales, which have
+
+12
+
+Furthermore material balance crossplot of p/Z vs G p show an
+original straight line which extrapolates to free OGIP followed by a
+deviation similar to the response of a gas a reservoir in the presence
+of an active aquifer. In the case of shale gas reservoirs, however, the
+deviation from the straight line is the result of desorption from the
+the tight shale matrix (not the result from water influx).
+Fig. 3(a) clearly shows presence of porosity in organic
+matter present in the Colorado shale in the Western Canada
+Sedimentary Basin (WCSB) (10 μm scale). A similar situation
+is observed in the Fig. 3(b) for case of the Barnett shale (1μm
+scale). The comparison of shales in 2 different countries
+and carried out by different laboratories is mind-boggling.
+Furthermore the same type of porosity has been observed in
+other shales. The industry is learning about this type of porosity
+at this time but the information available suggests that the
+pattern may be repetitive and that porosity in organic matter
+might be indeed very effective porosity and also very effective
+permeability. Observation of images in Fig. 3 at the 10 and 1μm
+scales corroborate the presence of organic matter and porosity
+within the organic matter. Visual observation of the images
+reveal that 1% porosity in the organic matter of shales, as
+assumed by Wang and Reed (2009), and used in the example at
+the end of this this paper is not unrealistic.
+Fig. 4 is a semi-logarithmic crossplot of permeability vs porosity
+that includes data from the Horn River Basin and soft shales in
+Canada; and Fayettville and Barnet shales in the United States.
+Lines for different values of pore throat radii at 35% cumulative
+pore volume, rp35 (0.014, 0.025 and 0.04 microns) were developed
+with use of the following equation (Aguilera, 2002, 2004):
+
+rp35
+
+ K 
+ 2.665 
+
+ 100  
+
+0.45
+
+(2)
+
+Equation 2 is empirical and was developed on the basis of more
+than 2500 sandstone and carbonate samples from the Aux
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+(a)
+
+(b)
+
+Pores
+
+Porosity in organic matter
+
+1µm
+
+Organic matter
+
+10µm
+
+Fig. 3(a) Porosity in organic matter in the Colorado shale (Rokosh et al., 2010), (b) pores in organic matter in the Barnett shale
+(Ruppel and Loucks, 2008). The images reveal that 1% porosity in the organic matter of shales, as assumed by Wang and Reed
+(2009), is not unrealistic.
+
+Vases, Hoover, Dakota, Nesson, Judith River, Lodgepole, Nisku
+dolomite, Morrow and Keyes, Hunton, Granite wash, Venango,
+Cypress, Mission Canyon, Cherokee, Bartlesville, Stony
+Mountain, Swift, Muddy, Tar Springs, Minnelusa, Red River,
+Desmoines, Devonian, Benois, Trenton limestone, Silurian and
+Edwards Formations. The data had been used originally by
+Kwon and Pickett (1975) for creating a pore structure model and
+developing pore structure interrelationships. An interesting and
+welcome observation is that the equation also works well for
+shales. In fact, lines in Fig. 4 provide a reasonable fit to the shale
+data suggesting that there is a continuum of pore throats from
+the conventional to the tight gas to shale gas reservoirs.
+10 - 2
+
+Fayettville
+
+Horn River Basin
+
+Soft shale
+
+Barnett Formation
+
+Fig. 5 reproduces Fig. 4 but also includes some data from tight gas
+Nikanassin core plugs (Upper Jurassic and Lower Cretaceous) in
+the Western Canadian Sedimentary Basin, these represent data
+from Nikanassin drill cuttings (Solano, 2010). The permeabilities
+from drill cuttings are clearly smaller than those from core
+plugs. This is the result of destruction of slot porosity and natural
+microfractures by the action of the drilling bit. Consequently results
+from the evaluation of only drill cuttings (and crushed samples
+in shales) in tight gas reservoirs provide pessimistic results viz-aviz evaluations using core plugs and full core analysis. The same
+observation hold true when crushed samples of shales are evaluated
+in the laboratory, i.e., they provide information only related to the
+shale ‘matrix’ while generally ignoring microfractures and the pore
+network within the organic material of the shale.
+The comparison of the data from conventional reservoirs and
+
+Permeability (mD)
+
+r p35 =0.04µm
+
+10 - 3
+
+10 2
+
+r p35 =0.025µm
+
+10
+
+1
+
+Fayettville
+Utica
+BC Canada
+
+Horn River Basin
+Huron
+BC Canada
+
+r p35 =0.014µm
+
+10 - 4
+
+Soft shale
+Barnett Formation
+Marcellus
+BC Canada
+Nikanassin tight gas formation
+Nikanassin drill cuttings
+
+10 0
+Permeability (mD)
+
+r p 3 5 =0.55µm
+Nikanssin
+
+10 - 1
+
+10 - 5
+
+0
+
+2
+
+4
+
+6
+
+8
+10
+Porosity (%)
+
+12
+
+14
+
+16
+
+Fig. 4 Permeability vs porosity crossplot. Horn River (Muskwa
+Formation) Basin and Soft shales data from Bustin et al (2008).
+
+Pore size classes have been grouped by Martin et al (1997) on
+the basis of pore throat (port) apertures as megaports (rp35>10
+μm), macroports (2.5-10μm), mesoports (0.5 to 2.5μm),
+microports (0.1 to 0.5μm), and nanoports (0.01 to 0.1μm). Even
+smaller pore sizes are found in shale reservoirs as shown in this
+paper. These port sizes can be used for distinguishing flow units
+in conventional, tight and shale gas reservoirs.
+
+r p 3 5 =0.15µm
+
+10 - 2
+r p 3 5 =0.04µm
+r p 3 5 =0.025µm
+
+10 - 3
+
+r p 3 5 =0.014µm
+
+10 - 4
+10 - 5
+0
+
+2
+
+4
+
+6
+
+8
+10
+Porosity (%)
+
+12
+
+14
+
+16
+
+Fig. 5 Permeability vs porosity crossplot. Shale data of Utica
+from Lavoie et al (2008), data of British Columbia (BC), Canada
+from Wang and Reed (2009), data of Nikanassin tight gas
+formation and Nikanassin drill cuttings from Solano (2010).
+
+13
+
+100
+95
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+the data are shown on Figs. 4 and 5 is a good example of the
+continuum between conventional, tight and shale gas reservoirs
+suggested in this paper. In spite of this observation, the results
+have to be used carefully taking into account that there is not a
+definitive way and/or standard protocol for determining porosity
+and permeability from shale cores.
+Fig. 6 is a repeat of Fig. 5 but also includes average porosities
+and permeabilities of tight gas formations in Middle East and
+North African (MENA) countries (Shehata et al., 2010). Based
+on this result the potential of MENA countries per equivalent
+well should be comparable to that of North America. The graph
+also suggests that it will be difficult to escape from the necessity
+of low spacing required to drain efficiently these types of
+reservoirs. Fig. 6 also includes data from Wang and Reed (2009).
+The crushed samples show permeabilities much lower than all
+the other samples. The same holds true for Delaware Barnett
+and Forth Worth Basin Barnett shown also in the lower part
+(middle and right side) of the graph.
+Fayettville
+Utica
+BC Canada
+MENA
+
+Horn River Basin
+Huron
+BC Canada
+
+Delaware Barnett
+
+r p35 =0.15µm
+r p35 =0.04µm
+r p 35 =0.025µm
+r p 35 =0.014µm
+
+r p35 =0.004µm
+r p 3 5 =0.0005µm
+
+r p 3 5 =0.00005µm
+
+4
+
+6
+
+8
+10
+Porosity (%)
+
+12
+
+14
+
+16
+
+Fig. 6 Permeability vs porosity crossplot. Possible crushed
+samples are interpreted to represent matrix porosity (Wang and
+Reed, 2009). Same might be true (possible crushed samples)
+for Delaware Barnett and Forth Worth Basin Barnett. Care must
+be exercised because this is a matrix porosity scaled to the
+bulk volume of only the matrix (not scaled to the bulk volume of
+the quadruple porosity system). Average data are from Middles
+East and North African (MENA) countries. MENA countries and
+Formations are: (1) Oman/Huge Kazzan and Makarem, (2) Saudi
+Arabia/Gawaher, (3) Saudi Arabia/Mushayab, (4) Saudi Arabia/
+Mushayab, (5) Egypt/Obaiyed, and (6) same formation but out of
+graph as permeabilities go up to 600 mD, (7) Egypt/Abu Gharadig,
+and (8) same formation but out of graph as permeabilities go up
+to 200 mD, (9) Algeria/Teguentour, permeability is 1 mD; triangle
+out of graph as porosity is 20%, (10) Algeria/Krechba, (11) Iraq/
+Akkas, approximately same properties as number 7 above, (12)
+Jordan/Risha,
+(13) Jordan/Risha, approximately same properties
+Fig.6
+as number 5 above, (14) Syria/Arak.
+2016�10��1�����1�27
+
+14
+
+sh  m  org  2  hf
+
+(3)
+
+where, φ 2 is fracture porosity scaled to the bulk volume of
+the quadruple porosity system, fraction; φ hf is porosity of the
+hydraulic fracture scaled to the bulk volume of the quadruple
+porosity system, fraction; φorg is porosity of organic materials
+in shale scaled to the bulk volume of the quadruple porosity
+system, fraction; φm is porosity of the nonorganic matrix scaled
+to the bulk volume of the quadruple porosity system, fraction.
+
+m  x (1  org  2  hf )
+
+r p35 =0.55µm
+
+2
+
+The crushed samples on Fig. 6 represent only the matrix. They
+do not include the fractures and the porosity of the organic
+matter. However, care must be exercised in the interpretation
+of this matrix porosity because it is associated only with the
+bulk volume of the matrix system, not the bulk volume of
+the composite quadruple porosity system present in shale gas
+reservoirs. The total porosity (φ sh) of the stimulated shale is
+given by:
+
+Matrix porosity (φm) is given by:
+
+Soft shale
+Barnett Formation
+Marcellus
+BC Canada
+Nikanassin tight gas formation
+Nikanassin drill cuttings
+Forth Worth Basin Barnett
+
+Permeability (mD)
+
+10 4
+10 3
+10 2
+10 1
+10 0
+10 - 1
+10 - 2
+10 - 3
+10 - 4
+10 - 5
+10 - 6
+10 - 7
+10 - 8
+10 - 9
+10 - 1 0
+10 - 11
+10 - 1 2
+0
+
+3.1 Quadruple porosity model for shales
+
+(4)
+
+where (φx) is the matrix porosity of the crushed sample without
+natural fractures and without organic porosity. The concept
+of “container” for the quadruple porosity system can be used
+in this case. A container is a reservoir subdivision defined by
+correlating flow units between wells (Hartmann and Beaumont,
+1999). It consists of a pore system, made up of one or more
+flow units that respond as a unit when fluid is withdrawn. The
+stimulated reservoir volume (SRV) in gas shales is associated
+with the hydraulic fracture porosity (φhf ). However, it is likely
+that the SRV might be fed by the other porosities considered in
+this study, including porosity in the organic matter of the shale.
+Equations
+3 and 4 are related to the organic porosity ratio,
+100
+partitioning coefficient and hydraulic fracture porosity ratio as
+95
+follows:
+75
+
+
+vorg
+
+org
+org  2  hf
+2
+hf
+
+;v
+
+;v
+
+;v
+sh
+sh hf sh f
+sh
+
+(5)
+
+where vorg is organic porosity ratio, fraction; v is partitioning
+25
+coefficient
+(or fracture porosity ratio), fraction; v hf is hydraulic
+fracture porosity ratio; vf is portion of total porosity in organic
+5
+porosity,
+natural fractures and hydraulic fractures.
+The0 organic porosity ratio indicates what portion of the
+total shale porosity is contributed by the organic (kerogen)
+porosity. This type of porosity “behaves like high gas content
+microfractures” (Wang and Reed, 2009). The partitioning
+coefficient (v) indicates what portion of the total porosity is
+made out of fractures. The hydraulic fracture porosity ratio (vhf )
+indicates what portion of the total porosity is created by the
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+hydraulic fracturing job. This is associated with the stimulated
+reservoir volume (SRV). The summation of the three ratios
+mentioned above is equal to vf.
+Based on petrographic descriptions, at discovery the shale is
+actually a triple porosity system made out of porosity in the
+organic matter, porosity in the inorganic matter and natural
+fractures. However production cannot be obtained from this
+system unless it is hydraulically fractured. When additional
+space is created via the fracturing job natural gas moves into
+the new space and as a result fluid pressure drops. This is the
+pressure that is reflected in the gas formation volume factor
+(B gi) considered in this study. As a result for the purpose of
+volumetric calculations, it is probably more accurate to consider
+the reservoir as a quadruple porosity reservoir. The reasoning
+is akin to a reservoir that undergoes repeated stages of natural
+fracturing through geologic time. At each fracturing stage, the
+hydrocarbons spread thought larger pore volumes resulting in an
+under-pressured reservoir. However, if the evaluator prefers not
+to use the concept of storage within the hydraulic fractures, the
+approach presented in this paper can still be used assuming that
+φhf is equal to zero.
+The practical implications of Wang and Reed’s work (2009)
+are enormous and are highlighted in Table 1 that shows in
+lines 1 to 8 the same data presented in their paper for the
+Barnett, Marcellus and Haynesville shales. The table also
+shows some additional assumptions and calculations, which
+can be easily reproduced using equations 3 to 5 and some other
+basic reservoir engineering concepts as shown on Example 1.
+Obviously the assumptions can be changed as needed in order to
+evaluate specific areas within a given play. But there are some
+important messages in this table. For example, line 9 shows
+that the porosity with natural fractures, hydraulic fractures and
+within the organic matter is significant (1.7, 1.9 and 1.7% for the
+Barnett, Marcellus and Haynesville shales, respectively). These
+values compare with a free gas porosity of 1.4% calculated for
+the Utica shale over 30 years ago (Aguilera, 1978). The Utica
+free gas porosity does not include porosity of the hydraulic
+fractures.
+The calculated porosity of the crushed samples (φx) in line 10
+of Table 1 can be compared, in practice, with crush porosity
+laboratory results. The fractions of the total porosity made out
+of organic materials porosity, natural fractures and hydraulic
+fractures (lines 11 to 13) are very important and add up to
+34.00, 29.23 and 14.17%, respectively (line 14). For some basic
+assumptions of temperature (line 15), reservoir pressure (line
+16), initial water saturation within the free fluid porosity (line
+18), and initial water saturation of the total composite system
+(line 19), it is possible to calculate in line 20 the volumetric
+free original gas in place at reservoir conditions (hydrocarbon
+pore volume in matrix, fractures and hydraulic fractures), the
+
+volumetric free gas original gas in place at standard conditions
+(line 21), the volumetric total original gas in place (line 22),
+and the gas in place in the matrix (line 23). These calculations
+indicate, for the assumptions made above, that the percentage
+of volumetric free gas in the Barnett is close to 49%, 42% in
+the Marcellus and 20% in the Haynesville. The balance is in
+the matrix system. And this is without taking into account the
+volume of adsorbed gas. These approximate results suggest that
+the future of these reservoirs and many other types of shales in
+North America and the rest of the world is, in all probability,
+brilliant. A detailed procedure for these calculations is presented
+in the example at the end of this paper.
+
+3.2 Knudsen number
+A no slip boundary condition has been assumed generally in the
+past with reasonable results when dealing with conventional gas
+reservoirs. However as we move towards gas production from
+tight and shale reservoirs, this assumption is no longer valid.
+To handle the problem in a rigorous manner to a high level of
+accuracy, we could perform flow simulation at a molecular scale
+(for example, molecular dynamics (MD) and lattice Boltzman).
+The problem, from a practical point of view, is that this
+approach is computationally too expensive. A reasonable, yet
+accurate, compromise is to represent the slip boundary gas flow
+by a diffusion-like mechanism. A commonly acknowledged
+parameter to distinguish between diffusion-like flow and
+viscous flow, based on Navier-Stokes equation, is Knudsen
+number (Kn) (Javadpour, 2007; Rahmanian et al, 2010). Knudsen
+dimensionless number is defined as the ratio of the gas mean
+free path (λ) and pore diameter (d):
+
+Kn 
+
+
+d
+
+(6)
+
+where,
+
+
+
+kBT
+2 2 p
+
+(7)
+
+In the above equations, λ is gas mean free path; d is pore
+diameter, m; k B is Boltzmann constant, 1.3805×10 -23 J/°K; T
+is the temperature, °K; p is the pressure, Pascal; and δ is the
+collision diameter of gas molecule, m (Heidemann et al., 1984).
+This equation is not very accurate at high pressure. The Knudsen
+number is inversely proportional to the rarefaction encountered
+during gas flow through porous media. The larger the pressure,
+the smaller is Knudsen number. Also, the larger the pore
+diameter, the smaller is Knudsen number. For example for some
+conditions, viscous (continuous) flow occurs at Knudsen number
+smaller than 0.01, slip flow between 0.01 and 0.1, transition
+flow between 0.1 and 10, and free molecular flow (applicable
+in shales) at Knudsen numbers larger than 10 (Karniadakis et
+al, 2005). Some authors (e.g., Civan, 2009) suggest that viscous
+flow occur at Kn smaller than 0.001.
+
+15
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+Table 1 Quadruple porosity system in shales
+Item
+1*
+
+Barnett FWB Marcellus
+shale
+shale
+
+Charctersitic
+
+0.05
+
+Total porosity of shale
+
+0.065
+
+Haynsville
+shale
+0.12
+
+2*
+
+Assumed fracture porosity
+
+0.005
+
+0.005
+
+0.005
+
+3*
+
+Assumed porosity of hydraulic fracture
+
+0.002
+
+0.002
+
+0.005
+
+4*
+
+Total organic content by weight
+
+0.05
+
+0.06
+
+0.035
+0.07
+
+5*
+
+Total organic content by volume
+
+0.10
+
+0.12
+
+6*
+
+Assumed porosity in organic matter
+
+0.10
+
+0.10
+
+0.10
+
+7*
+
+Porosity of organic matter in shale
+
+0.01
+
+0.012
+
+0.007
+
+8*
+
+Porosity in nonorganic rcok matrix
+
+0.033
+
+0.046
+
+0.103
+
+9
+
+Porosity in NF, HF and OP with free gas and Swif=0
+
+0.017
+
+0.019
+
+0.017
+
+10
+
+Porosity of crushed samples
+
+0.0336
+
+0.0469
+
+0.1048
+
+11
+
+Fraction of total porosity made out of organic porosity
+
+0.2
+
+0.1846
+
+0.0583
+
+12
+
+Fraction of total porosity made out of fractures
+
+0.1
+
+0.0769
+
+0.0417
+
+13
+
+Fraction of total porosity made out of hydraulic fractures porosity
+
+0.04
+
+0.0308
+
+0.0417
+
+14
+
+Fraction of total porosityin NF, HF and PO filed with free gas
+
+0.34
+
+0.2923
+
+0.1417
+
+15
+
+Assumed temperature (deg F)
+
+180
+
+130
+
+320
+
+16
+
+Assumed pressure (psia)
+
+17
+
+Gas formation volume factor (cf/scf)
+
+18
+
+Assumed Swif in free gas porosity in NF, HF and PO (fraction)
+
+19
+
+Assumed total Swi in composite system (fraction)
+
+20
+
+Volumetric free original gas in place in NF, HF and PO in porosity with Swif=0 (cf/acre cf)
+
+3800
+
+2800
+
+10000
+
+0.00419
+
+0.00524
+
+0.00194
+
+0
+
+0
+
+0
+
+0.3
+
+0.3
+
+0.3
+
+740.52
+
+827.64
+
+740.52
+
+21
+
+Volumetric free original gas in place in NF, HF and PO in porosity with Swif=0, OGIPvf (scf/acre cf)
+
+176,743
+
+157,888
+
+381,631
+
+22
+
+Volumetric total free original gas in place (scf/acre cf)
+
+363,883
+
+378,101
+
+1,885,708
+
+23
+
+Volumetric nonorganic matrix original gas inplace (by difference) (scf/acre cf)
+
+187,140
+
+220,212
+
+1,504,077
+
+24
+
+Fraction of OGIPvt as free gas in NF, HF and PO
+
+0.4857
+
+0.4176
+
+0.2024
+
+25
+
+Fraction of OGIPvt as free gas the matrix
+
+0.5143
+
+0.5824
+
+0.7976
+
+26
+
+Water saturation Swim in the matrix (fraction)
+
+0.45455
+
+0.42391
+
+0.34951
+
+27
+
+Volumetric nonorganic matrix original gas in place (based on) (scf/acre cf)
+
+187,140
+
+220,212
+
+1,504,077
+
+28
+
+Apparent natural gas molecular weight (lbm/lbmole)
+
+19.10
+
+19.10
+
+19.10
+
+29
+
+Bulk density (g/cm )
+
+2.55
+
+2.55
+
+2.55
+
+30
+
+Sorbed phase denstiy (g/cm3)
+
+0.37
+
+0.33
+
+0.40
+
+3
+
+31
+
+Langmuir storage capacity (scf/ton)
+
+32
+
+Langmuir pressure (psi)
+
+64.16
+
+50.00
+
+40.00
+
+1200.00
+
+1150.00
+
+1800.00
+
+33
+
+Equivalent porosity of sorbed phase
+
+0.0085
+
+0.0069
+
+0.0054
+
+34
+
+Adorbed original gas in place (scf/acre ft)
+
+169,057
+
+122,889
+
+117,533
+
+35
+
+Free original gas in place (scf/acre ft)
+
+275,934
+
+320,807
+
+1,763,584
+
+36
+
+Total original gas in place (scf/acre ft)
+
+444,991
+
+443,697
+
+1,881,118
+
+37
+
+Percent of OGIPt as free gas
+
+62.01
+
+72.30
+
+93.75
+
+Note: “*” represent data from Wang and Reed (2009).
+
+3.3 Simulation at the pore throat level
+All interpretations for shale gas reservoirs discussed previously are
+based on laboratory measurements of porosity and permeability,
+and rp35 values calculated with the use of empirical equation 2.
+On the other hand Fig. 7 shows theoretical values of porosity
+and permeability obtained from pore scale modeling. The
+corresponding rp35 radii in the graph range between 1-4, 0.1-1.5,
+
+16
+
+0.005-0.5 and 0.009-0.1μm (Rahmanian et al, 2010). The pore scale
+simulation was performed using software developed by the Imperial
+College Consortium on Pore-scale Modelling for regular lattice
+systems of high porosity and permeability. From a strict point of
+view, the simulations only provide an approximation for tighter
+rocks. However, the theoretical data fit very well the empirical flow
+units as shown on Fig. 7. Ultimately, in order to squeeze as much
+information as possible from pore scale modeling, all equations will
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+have to be calibrated with direct sources of information provided by
+cores and drill cuttings.
+
+4 Continuum between conventional, tight
+and shale gas reservoirs
+Fig. 8 presents an integrated crossplot of permeability vs
+porosity in semi-logarithmic coordinates. Shown are flow units
+for conventional, tight gas and shale gas reservoirs based on
+rp35 pore throat values. The letters HR, B and F represent the
+Horn River, Barnett and Fayettville shales. Viscous flow is
+predominant in conventional and tight gas reservoirs down to
+microport size. Diffusion-based flow dominates at the nanoport
+scale, which is typical of shale reservoirs. Discussions of
+Knudsen number have been presented by Javadpour et al (2007),
+Civan (2009), Rahmanian et al (2010) and Rahmanian (2011).
+Megaports
+
+10 4
+r p 3 5 =20µm
+
+10 3
+
+10 2
+
+Mcroports
+
+r p 3 5 =10µm
+
+r p 3 5 =4µm
+r p 3 5 =2µm
+
+10 1
+
+r p 3 5 =0.5µm
+
+r p3 5 =0.2µm
+
+10 -1
+
+Microports
+
+Permeability (mD)
+
+10 0
+
+Mesoports
+
+r p 3 5 =1µm
+
+r p 3 5 =0.1µm
+
+10
+
+-2
+
+10
+
+-3
+
+Nanoports
+
+r p3 5 =0.04µm
+r p3 5 =0.025µm
+r p3 5 =0.014µm
+
+10
+
+-4
+
+10 -5
+
+10
+
+-6
+
+0
+
+5
+1-4 µm
+
+10
+0.1-1.5 µm
+
+15
+Porosity (%)
+
+20
+
+0.05-0.5 µm
+
+25
+
+30
+
+0.009-0.1 µm
+
+Fig. 7 Consistency between porosities and permeabilities from
+core analysis for conventional, tight gas and shale gas reservoirs
+(also see Figs. 4 to 6). Porosities and permeabilities calculated
+from pore scale modeling. The empirical flow units represented by
+rp35 lines (Kolodzie, 1980; Aguilera, 2010) are supported by pore
+scale modeling calculations for rp35 ranging between 1-4, 0.1-1.5,
+0.005-0.5 and 0.009-0.1 μm (Rahmanian et al., 2010).
+
+Fig.7
+201��10��1����5��0�
+
+The potential in the use of process speed as part of the flow
+unit characterization of unconventional gas reservoirs is being
+recognized at present particularly for numerical simulation
+purposes. Some efforts along these lines have been put together
+recently with a good level of success by Deng (2011).
+Additional refinements will be possible with the collection of
+more core and drill cuttings data from stacked layers of tight
+and shale gas reservoirs, formations with lateral variation
+from tight gas to shale gas reservoirs, and simulations with
+theoretical models at the pore throat level. The pore throat level
+simulations (Fig. 7) compare very well with actual laboratory
+data (Fig. 6). The integration of the core laboratory evaluations
+and pore throat simulations allow estimating various properties
+related to reservoir rocks listed on the upper left hand side of
+Fig 8, including (Rahmanian et al., 2010, Rahmanian, 2011): (1)
+Porosity, permeability and pore throat apertures. It is possible
+to estimate one of these properties if the other two are know.
+The objective can also be achieved with the use of equation 2.
+(2) Relative permeabilities and capillary pressures. Information
+related to these properties for unconventional gas reservoirs
+is very scarce. Simulations at the pore throat level carried out
+so far provide reasonable results for relative permeabilities
+and capillary pressures when compared with laboratory data
+(Rahmanian et al., 2010). (3) Electrical properties. Values of the
+porosity (cementation) exponent “m” and the water saturation
+exponent “n” are also scarce but play an important role in
+calculations of water saturation in tight gas reservoirs. Estimates
+of “m” obtained so far compare reasonably well with some
+core results available in the literature. Values of “n” have been
+obtained from simulations at the pore throat level (Rahmanian
+et al, 2010). At present we are researching values of “m” and “n”
+in the laboratory. (4) Rock mechanics. The modeling also allow
+estimating some geomechanical properties, such as Poisson’s
+ratio (PR), shear or rigidity modulus (G), and Young modulus (E),
+from which it is possible to make preliminary estimates of pore
+pressures and net stress (Rahmanian et al., 2010).
+With100
+the above information, some preliminary answers can be
+provided to the list with the question marks in the lower half of
+95
+the left hand side on Fig. 8. This however is not meant to replace
+detailed
+laboratory tests. (1) Brittle or ductile? In general, the higher
+75
+Young’s modulus and the lower the Poison’s ratio the more brittle
+is the rock. (2) Type of stimulation? Geomechanical data from the
+micro simulation and history of hydraulic fracturing in the area can
+lead 25
+to optimized jobs in low permeability formations (Leguizamon
+and Aguilera, 2011). (3) Effect of water saturation, mud filtrate
+and 5leak-off on embedment? The softer the rock and the higher
+the water saturation, the bigger the problems associated with
+0
+embedment. In hard rocks, embedment is generally limited to 50%
+of the grain size. In softer rocks, however, it can be much bigger
+(Lacy et al., 1998).
+
+17
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+10 4
+
+10
+
+2
+
+r p35 =4µm
+
+r p35=2µm
+
+10 1
+r p35=1µm
+
+10
+
+0
+
+10
+
+-1
+
+10
+
+-2
+
+10
+
+-3
+
+1's
+
+100's
+
+0.1's
+
+10's
+
+0.01's
+
+1's
+
+Mcroports
+
+r p35 =10µm
+
+r p35=0.55µm
+
+r p35=0.2µm
+
+Microports Mesoports
+
+3
+
+Permeability (mD)
+
+Chart can be used
+for calibrating
+microsimulation
+at the pore throat
+level to estimate
+r p, K, phi, relative
+perms, capillary
+pressure, electrical
+properties, rock
+mechanics.
+
+10
+
+Estimated oil and gas rates
+(Mbopd) (MMscfd)
+10's
+
+Megaports
+
+r p35 =20µm
+
+Viscous
+flow
+
+Knudsen Number
+
+0.1's
+
+Brittle?
+Ductile?
+Type of stimulation?
+Effect of Sw, mud
+filtrate, leak-off
+on embedment?
+
+r p35=0.014µm
+
+Fayettville
+
+10
+
+-4
+
+Horn River
+Barnett
+
+Soft
+
+10 - 5
+
+10
+
+Nanoports
+
+r p35=0.04µm
+r p35=0.025µm
+
+Diffusionbased flow
+(Nano-scale,
+pore and
+pore throats)
+
+Crushed
+
+-6
+
+0
+
+5
+
+10
+
+5
+1
+20
+Porosity (%)
+
+5
+2
+
+30
+
+Fig. 8 Integrated crossplot of permeability vs porosity showing flow units for conventional, tight
+gas and shale gas reservoirs based on rp35 pore throat values. Viscous flow is predominant in
+conventional and tight gas reservoirs down to microport size. Diffusion-based flow dominates at the
+nanoport scale, typical of shale reservoirs (Rahmanian et al., 2010). Estimated oil and gas rates for
+different port sizes are shown in the right hand size of the graph (Deng et al., 2011).
+
+Fig. 9 shows again an integrated crossplot of permeability vs
+porosity. In this case, however, the flow units for conventional,
+tight gas and shale gas reservoirs are based on process (or delivery)
+speed (K/φ). The concept has also been used in the past for
+investigating possibility of CO2 injection in the WCSB Cardium
+formation (Dashtgard, 2008) and is being investigated at present for
+possible CO2 injection in low permeability formations. The big red
+circle at the bottom of the graph shows an average value of porosity
+and permeability quoted by Leiker (2008) for the Muskwa shale
+(Horn Rover Basin, Canada). Like in previous cases, the integrated
+flow unit crossplot of permeability vs porosity appears to generally
+provide consistent results. Furthermore, the integrated flow unit
+crossplot and analysis is valuable, for example, in those cases
+Fig.8
+where the
+formation to be developed is composed of alternating
+201��10�28��17�07�5�
+stacked layers of tight sands (for instance the Mesozoic Nikanassin,
+Cadomin, and Gething Formations) and shales or in cases where
+there is lateral variation from tight to shale gas (for instance the
+Triassic Montney in the WCSB).
+
+4.1 Creating a giant undeveloped shale model
+The shale gas resource base throughout the world is gigantic.
+The GFREE research team has estimated a conservative shale
+
+18
+
+gas endowment of 10,000 tcf. How it is possible to create a giant
+shale gas model will be discussed in this study.
+The Utica shale in Quebec, Canada was evaluated as a naturally
+fractured reservoir over 30 years ago (Aguilera, 1978). The free
+OGIP was estimated at 5 bcf per section (1 section = 640 acres).
+The technology at the time allowed estimating an average fracture
+porosity of 1.4%. This is similar to some of the fracture porosities
+estimated by Wang and Reed (2009) for the Barnett (1.5%),
+Marcellus (1.7%) and Haynesville (1.2%) shales, without including
+porosity of hydraulic fractures. Furthermore, it was estimated that
+an average hydraulically fractured vertical well could recover about
+2.5 bcf over a 20-year period. The study concluded that a 50% rate
+of success in the proposed 90 wells would lead to a breakeven point.
+A larger rate of success would result in net profits for the company.
+Although extremely important for the province of Quebec these
+shales represent only “the tip of the iceberg” as will be shown next.
+Fast forward 30 years. The Unites States Geological Survey
+(USGS) is examining the potential of oil and gas shales in the
+Appalachian Basin with emphasis on the Utica-Lower Paleozoic
+total petroleum system. Ryder (2008) indicates that “based on
+black shale reservoirs in the Utica shale of the St. Lawrence
+
+100
+95
+75
+
+25
+5
+0
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+10. Indeed a very impressive shale gas reservoir.
+K/ø=3000
+
+3
+
+K/ø=1000
+K/ø=300
+
+10 2
+
+K/ø=100
+
+10 0
+
+10
+
+K/ø=3
+K/ø=1
+K/ø=0.3
+
+-1
+
+10
+
+K/ø=0.1
+K/ø=0.03
+
+-2
+
+K/ø=0.0089
+
+10
+
+-3
+
+10
+
+-4
+
+Microports
+
+Permeability (mD)
+
+K/ø=10
+
+Mesoports
+
+K/ø=30
+
+10 1
+
+Nanoports
+
+10
+
+Mcroports
+
+K/ø=10000
+
+Megaports
+
+10 4
+
+Fayettville
+Horn River
+Barnett
+
+10 - 5
+0
+
+Super-giant as it is, the biggest potential prize is not the
+Marcellus but the extension of the Utica shale investigated in
+Quebec more than 30 years ago. This is represented by the green
+color in Fig. 10. The top of the Utica shale is represented by the
+blue line in Fig. 10. Note that the thickness of the Utica is much
+bigger than the thickness of the Marcellus.
+Another point is that there are many instances when basement
+rock is naturally fractured. It would be not a surprise if that is
+the case of the basement shown in the Fig. 10. When natural
+fractures are created in the basement, the dilatancy zones
+act as vacuums that tend to suck whatever fluids are in the
+surroundings. The Utica shale is an important source rock.
+Chances are that significant volumes of Utica gas were sucked
+into the basement, if naturally fractured.
+The planar surface area where these shales are located is
+gigantic. For example, point B in the cross section in the the
+Fig. 10 is located in the State of Pennsylvania, which has a
+surface area of 119,283 km2. Pennsylvania is also shown in the
+left hand side of the graph. Notice that the Utica shale extends
+for an area approximately 3 times the size of Pennsylvania.
+
+4.2 The role of the GFREE Research Program
+10
+
+Porosity (%)
+
+20
+
+30
+
+Fi g. 9 Per meabilit y vs p o ro sit y show ing f low unit s fo r
+conventional, tight gas and shale gas reser voirs based
+on process (or delivery) speed (K/φ). Red dots connected
+by red lines and ver tical dashed line shows cutoffs used
+by Dashtgard et al (2008) for investigating CO 2 injection
+the Cardium for mation. The c onc ept is being used for
+investigating the possibility of CO 2 disposal in conventional
+and/or unconventional reservoirs including shales. The big red
+circle at the bottom shows an average value of porosity and
+permeability quoted by Leiker (2008) for the Muskwa shale
+(Horn Rover Basin, Canada).
+
+Lowlands of Quebec (Aguilera, 1978), a hypothetical Utica
+shale reservoir is proposed in this report for the United States
+parts of the Appalachian Basin.” In the same year, Lavoie et al
+(2008) of the Geological Survey of Canada state that “the entire
+Utica Group might reach 300 m in thickness (Aguilera, 1978)
+and represents the thickest and most widespread of the Lower
+Paleozoic black shale source rock intervals (Ryder et al., 1998).”
+The USGS in its Assessment of Undiscovered Oil and Gas
+Resources of the Appalachian Basin Province calculated that the
+Marcellus shale contains an estimated undiscovered resource
+of about 1.9 trillion cubic feet of gas (Milici et al., 2002). This
+estimated volume is within the yellow contour line (inside the green
+shade) of the map presented in the Fig. 10. The top of the Marcellus
+shale is represented by the black line in the right hand side of Fig.
+
+The GFREE research program developed at the Schulich School
+of Engineering, University of Calgary, has been discussed in
+several venues (Aguilera and Harding, 2007; Aguilera et al.,
+2008; Aguilera and Harding, 2011). Given the gigantic volume
+of technically recoverable gas from shale reservoirs is shown
+on Fig. 2 (10×103 tcf), actively pursue research and development
+of this resource were recommend. The economic and technical
+100
+challenges involved in commercialization
+of this vast untapped
+resource are many and overcoming them will depend on a
+95
+multi-disciplinary approach involving geoscience, engineering
+and economics. A sample of GFREE
+75 contributions towards the
+achievement of this goal are presented next.
+The cornerstone of the whole project is the proper geoscience (G)
+understanding of shale gas reservoirs.
+For example, assuming
+25
+that all shale gas formations are equal can lead to significant
+financial losses and major fiascos. 5As a result, we recommend
+treating each shale gas reservoir as an individual and separate
+0
+project. Understanding the rocks and the regional variability of
+fracture distribution, mineralogy and diagenesis is fundamental
+to this research. Fulfilling this step involves working in close
+cooperation with geoscientists in industry, universities and
+research organizations throughout the world; and performing
+the work at several scales, from a micro scale (Fig. 3) to a macro
+scale (Fig. 10).
+T he next step dea ls with for mation eva luation ( F ) by
+petrophysics and well testing. The petrophysical segment
+
+19
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+New York Pennsylvania
+
+0
+
+Depth below sea level (103 feet)
+
+Ma
+
+rcel
+
+lus
+
+Sha
+
+le
+
+-10
+
+Basement
+
+-20
+
+Utica source rock
+Marcellus boundary
+
+-30
+(a)
+(b)
+Fig. 10 Areal extension and (a) cross section (b) covering the Marcellus and Utica shales in the United
+States (King, 2011). There is also potential in the basement, if naturally fractured, as the formation of
+natural fractures creates a vacuum that would suck the fluids (natural gas) in the surroundings
+
+The well testing part of the formation evaluation effort
+endeavors to develop better methods for estimating permeability,
+skin and fracture length, using models that include the known
+existence of matrix, natural fractures and porosities within
+the organic material of the shale. Although methods for
+estimating these properties are mature and well established for
+conventional reservoirs, when it comes to unconventional gas
+reservoirs,
+the methodology is not well developed due to the
+Fig.10
+very
+low permeability of these types of formations. An example
+201��10��1����5��07
+of pressure response in a triple porosity reservoir is shown on
+Fig. 11.
+The next segment of our research is associated with the
+reservoir; how to access it, how to complete wells in it and how
+to stimulate the wells. The key ideas are intercepting natural
+
+20
+
+fractures, not damaging the fractures and developing the correct
+hydraulic fracturing procedure. Examples of drilling and
+hydraulic fracturing optimization in the WCSB are presented in
+presented in Figs. 12 and 13, respectively.
+10 3
+
+Triple porosity p D
+
+Derivative of p D
+
+Triple porosity 1/q D
+
+10 2
+p D, 1/q D and derivate rates
+
+involves detailed mineralogy and thermal maturity studies of
+shale gas formations. Similarly a robust quick-look complement
+is required as the detailed studies, including cores, are
+performed typically in a small percentage of the wells. This
+segment also attempts to develop dual, triple and quadruple
+porosity petrophysical methods capable of handling fractures,
+porosities in the organic material of shales and matrix porosities,
+as discussed previously in this paper. One of our triple porosity
+models have been used successfully in a carbonate reservoir in
+Tarim Oilfield in China (Liu et al., 2009). From the formation
+evaluation results, we can attempt to generate “rules of thumb”
+that will provide initial estimates of gas production rates
+from wells drilled in different types of rocks. An example is
+provided in the right side of Fig. 8, potential oil and gas rates are
+presented for different port sizes.
+
+10 1
+10 0
+10 -1
+10 -2
+10 -3
+
+Slope=0.5
+
+10 -4
+10 -5 -9
+10 10 -8 10 -7 10 -6 10 -5 10 -4 10 -3 10 -2 10 -1 10 0 10 1 10 2 10 3 10 4
+tD
+
+Fig. 11 Dimensionless pressure ( p D), derivative and inverse
+of dimensionless rate (1/q D) vs dimensionless time based on
+triple porosity model. Linear flow towards a vertical hydraulic
+fracture results in 3 parallel straight lines with slopes equal to
+0.5 (Leguizamon and Aguilera, 2011).
+
+The reservoir engineering (RE) segment includes an estimation
+of the resource base in shale gas reservoirs, volumetric (Table
+1) and material balance evaluations and determinations of
+the optimum well spacing. This approach is supplemented by
+production decline analysis. A response example for a model
+that considers a multi-stage hydraulically fractured horizontal
+well is presented in Fig. 14. The theoretical response is similar
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+to what is observed in many actual shale gas reservoirs.
+
+(b)
+
+(a)
+
+Mud weight (kg/L)
+0.5
+1.0
+1.5
+
+0.0
+300
+
+Mud weight (kg/L)
+1.5
+0.5
+1.0
+Pore pressure
+
+Pore pressure
+
+Initial pressure
+
+Initial pressure
+
+Mud weight
+
+Mud weight
+
+Bear Paw
+
+Bear Paw
+
+Belly River
+
+800
+
+Belly River
+
+Puskwaskau
+
+Puskwaskau
+
+Chinook
+
+Chinook
+
+Colorado
+
+Colorado
+
+Badheart
+
+Badheart
+Muskiki
+
+1300
+
+Cardium
+Kaskapau
+Dunvegan
+Shaftesbury
+Base Fish Sc
+Paddy
+Cadotte
+Harmon
+
+Cardium sand
+
+Noyikewin
+
+2300
+
+Cardium
+
+True vertical depth (m)
+
+True vertical depth (m)
+
+Cardium sand
+
+1800
+
+Muskiki
+
+1300
+
+Falher A
+
+Base Fish Sc
+Paddy
+Harmon
+Noyikewin
+
+2300
+
+Falher A
+Falher C
+Falher D
+
+Falher D
+
+Falher E
+
+2800
+
+Wilrich
+
+Nikanassin
+
+Nikanassin
+
+3300
+
+3.3217
+
+4.4289
+
+5.5361
+
+6.6434
+
+7.7506
+
+3271
+
+3281
+
+3281
+
+3292
+
+3292
+
+3302
+
+3302
+
+3312
+
+3312
+
+True vertical depth (m)
+
+3271
+
+True vertical depth (m)
+
+201��10��1��9�00�59
+
+54
+81
+108
+Fracture length (m)
+
+135
+
+27
+
+(c)
+
+54
+81
+108
+Fracture length (m)
+
+(d)
+
+True vertical depth (m)
+
+True vertical depth (m)
+
+3281
+
+3292
+
+3292
+
+3302
+
+3302
+
+3312
+
+3312
+
+135
+
+10
+
+1
+
+10 2
+
+10
+
+3
+
+10 4
+
+10
+t (s)
+
+5
+
+10
+
+6
+
+27
+
+54
+81
+108
+Fracture length (m)
+
+135
+
+Fig. 13 Proppant concentration evolution of simulated optimized
+job in tight gas reservoir of the WCSB pumping initially 1 tonne
+of 100 mesh sand. Results are shown at 25 minutes (a), 35
+minutes (b), 55 minutes (c) and 68.5 minutes (d). The fracture
+length with good proppant concentration at the end of the job is
+approximately 80 meters. The total length with smaller amounts
+of proppant going to the bottom of the fracture reaches over
+160 meters. Note that in this optimized job the fracture is
+contained vertically (Leguizamon and Aguilera,
+2011).
+Fig.14
+201��10��1��9�04�4�
+
+10
+
+7
+
+10 8
+
+10
+
+9
+
+Fig. 14 Production decline for a multi-stage hydraulically
+fractured horizontal well
+100 showing (1) fracture linear flow, (2)
+fracture pseudo steady state, (3) matrix linear and fracture
+pseudo steady, (4) both95matrix and fracture pseudo steady and
+(5) formation75linear flow (Brohi et al., 2011).
+
+the acronym). For example, because of environmental concerns,
+the world will be moving
+toward decarbonization providing
+25
+impetus for usage of the cleanest fossil fuel of all: methane.
+5
+A scenario developed with our Global Energy Market (GEM)
+0
+model is presented in Fig.
+15. The relative decarbonization (or
+‘hydrogenization’) of the world is presented in Fig. 16.
+1.0
+
+Measured
+Gases-calculated
+Oil-calculated
+Wood-calculated
+Coal calculated
+Nuclear calculated
+Hydro calculated
+
+0.8
+
+3271
+
+3281
+
+54
+81
+108
+Fracture length (m)
+
+-7
+
+135
+
+3271
+
+27
+
+5
+
+Dual porosity inner composite analytical
+Numerical
+
+-8
+
+(b)
+
+27
+
+4
+
+-6
+
+10 0
+10
+
+Fernie
+
+Proppant concentration (kg/m 2 )
+
+(a)
+
+Fig.12
+
+10
+10
+
+Fig. 12 Pore pressure from Eaton method using two compaction
+trend lines and b exponent equal to 3.0 for Well A (a) and Well
+B (b) (Contreras et al., 2011).
+2.2145
+
+3
+
+Cadomin
+
+Cadomin
+
+1.1072
+
+2
+
+-4
+
+10 - 5
+
+Gething
+
+Gething
+
+0.0000
+
+10
+
+Bluesky
+
+Blusky
+
+3300
+
+10 - 3
+
+Cadotte
+
+Falher B
+
+Wilrich
+
+10 - 2
+
+Shaftesbury
+
+1800
+
+Falher C
+
+2800
+
+1
+
+Dunvegan
+
+Falher B
+
+Falher E
+
+10 - 1
+
+Kaskapau
+
+Production (m 3 /s)
+
+800
+
+The GFREE research program also keeps an eye on the triple
+bottom line. Our idea is to research only those items that present
+good probabilities of generating positive cash flows and being
+economic (the first E in the acronym). Technological innovations
+presumably will lead to reductions in capital and operating costs.
+These innovations have to be supplemented by environmental
+and social considerations, i.e., sound externalities (the last E in
+
+Fraction fo total market
+
+0.0
+300
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+1850
+
+1875
+
+1900
+
+1925
+
+1950
+Year
+
+1975
+
+2000
+
+2025
+
+100
+Fig. 15 World
+substitution curves from the GEM model including
+wood, coal,
+nuclear, hydro, oil and gases (Aguilera and Aguilera,
+95
+2007).
+75
+
+We anticipate that the research program will result in the
+25
+5
+0
+
+21
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+delivery of highly qualified professionals, with significant
+knowledge of tight and shale gas formations, and that are needed
+by industry and research organizations worldwide. Evaluating
+the current status of geologic models, reservoir characterization,
+recovery and production technologies currently available for
+these types of formations is the first step in the effort to reach
+the final goal, finding economic means of producing as much of
+this gas as possible. In progress GFREE research indicates that
+many of the methods we are developing have also application in
+tight oil reservoirs.
+
+Ratios of hydrogen to carbon
+
+10
+
+1
+
+0.1
+1850
+
+Actual
+Calculated
+
+1875
+
+1900
+
+1925
+
+1950
+Year
+
+1975
+
+2000
+
+2025
+
+Fig. 16 Hydrogen to carbon ratio, a good proxy for environmental
+quality (Aguilera and Aguilera, 2007, 2009).
+
+4.3 Example for calculating Gas-In-Place in shale
+gas reservoirs
+This example uses data of the Barnett shale, published originally
+by Wang and Reed of the Bureau of Economic Geology and
+the University of Texas (2009), and represented by asterisks
+(items 1 to 8) in the first column of Table 1. The shale porosity
+(φ sh) is 0.05. Wang et al assumed natural fracture porosity
+(φ2) and hydraulic fracture porosity (φhf ) are 0.005 and 0.002,
+respectively. Their observations indicate 0 to 25% porosity in
+the Barnett organic matter (φ TOC). Consequently they assume
+a reasonable intermediate value φ TOC = 0.1. Furthermore
+their total organic content by weight (TOCwgt) is 0.05. This
+is equivalent to approximately 0.1 total organic content by
+volume (TOCvol). This leads to a porosity of organics in shale
+(φorg), as a function of the bulk volume of the shale equal to
+TOCvol×φTOC = 0.1×0.1 = 0.01, which is shown for the Barnett
+in item 7 of Table 1. The total porosity with free gas (φf ) in
+the organic, natural and hydraulic fractures is consequently
+(φ org)+(φ 2)+(φ hf ) = 0.010+0.005+0.002 = 0.017. The porosity
+in the rock matrix (φm) is then equal to 0.033 as shown in row
+8. Based on past experience, it is reasonable to assume that the
+initial water saturation if the fractures and the organic matter
+(Swif ) is equal to zero. On the other hand, the water saturation in
+
+22
+
+the nonorganic matrix (Swim) can be much larger than zero, as
+explained later. Assuming that all the constituents of free gas
+porosity in fractures and the organic material are not present in
+a crushed sample leads to a crushed porosity shown on row 10,
+φx=0.033/(1-0.010-0.005-0.002)=0.0336 calculated with the use
+of equation 5. The fractions of the total shale porosity made out
+of organic porosity, natural fractures and hydraulic fractures,
+shown on rows 11 to 13, are calculated from equation 6 as
+follows: vorg= 0.01/0.05 = 0.2, v = 0.005/0.05 = 0.1, vhf = 0.002/0.5
+= 0.04. This indicates that the fraction of the total porosity filled
+with free gas in organic, natural and hydraulic fractures (vf ) is
+a significant 0.017/0.5 = 0.34 as shown on row 14. Rows 15 and
+16 present the assumed reservoir temperature and pressure. The
+pressure reflects the fact that gas has already expanded into
+the hydraulically fracture system. Without this expansion the
+pressure would be somewhat higher. Row 17 is a gas formation
+volume factor (0.00419 cf/scf) based on the above assumed
+pressure and temperature. Rows 18 and 19 show assumed
+water saturation (Swif = 0) in the organic, natural and hydraulic
+fractures; and the water saturation in the composite quadruple
+porosity system (Swi= 0.3), respectively.
+Free gas in place in the organic, natural and hydraulic fractures
+in reservoir cubic feet per acre ft is calculated volumetrically
+OGIPvf = 43,560×0.017×(1–0) = 740.67 as shown in row 20. At
+standard conditions the volume is equal to 740.67/0.00419 = 177
+Mscf/acre ft as shown on row 21. The total original gas in place
+is calculated volumetrically OGIPvt = 43,560×0.05×(1–0.3) =
+364 Mscf/acre ft as shown in row 22. The difference between
+the 2 previous volumes gives the original gas in place in the
+nonorganic matrix OGIPvm = 187 Mscf/acre ft as shown on row
+23. Row 24 shows that for this Barnett example, 48.57% of the
+total original free gas in place is within
+the network of organic,
+100
+natural and hydraulic fractures where the water saturation is
+equal to zero. On the other hand, the95remaining 51.43% is stored
+within the nonorganic matrix (row 25).
+75
+
+The quadruple porosity system discussed in this paper is
+strongly scale-dependent. The same holds true for water
+saturation. For example, the water saturation of the composite
+25
+system (Swi) is 0.30 (row 19). The water
+saturation of only the
+matrix (Swim) is calculated from:
+5
+
+S wi S wim (1  vf )  S wif vf
+0
+
+    (8)
+
+Since Swif is equal to zero the resulting matrix water saturation
+is 0.30/(1-0.34) = 0.4545 (row 26). Even though the actual
+volume of initial water is the same, the water saturation is 0.30
+when scaled to the pore volume of the composite system, and
+is much larger (0.4545) when scaled to the volume of only the
+nonorganic matrix porosity. Note that the OGIPvm calculated as
+the difference between total and free gas in organic porosity,
+natural and hydraulic fractures (row 23) is the same as the
+volume calculated calculated volumetrically for the matrix in
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+row 27, OGIPvm = 43560×0.033× (1-0.4545)/0.00419 = 187 Mscf/
+acre ft.
+Because the above volumes are calculated volumetrically in
+nonorganic rock matrix (φ m), porosity network within the
+organic material (φ org), natural fractures (φ 2) and hydraulic
+fractures (φ hf ), the adsorbed gas has not yet been taken into
+account. So the estimates are probably conservative. Adsorbed
+gas can be taken into account for the example at hand based on
+knowledge of the apparent natural gas molecular weight, MWa
+= 19.10 (row 28), average bulk density, ρ b = 2.55 g/cm 3 (row
+29), sorbed phase density, ρs = 0.37 g/cm3 (row 30), Langmuir
+storage capacity, G sL = 64.16 scf/ton (row 31), and Langmuir
+pressure, pL = 1,200 psi (row 32). These data permit estimating
+adsorbed porosity (φa = 0.0085, row 33) from the equation (Cui
+et al., 2009; Ambrose et al., 2010):
+
+
+a 1.318E  06( MWa )
+
+b
+p
+(G
+)
+ s sL p  pL
+
+(9)
+
+Langmuir data are utilized for calculating the volume of
+adsorbed original gas in place (OGIPa = 169 Mscf/acre ft) as
+shown in row 34 from:
+
+OGIPa  (GsL
+
+p
+) b
+pL
+
+(10)
+
+Free gas is calculated to be 276 Mscf/acre ft in row 35 with with
+the use of the equation:
+
+
+OGIPf
+
+43560sh (1  S wi ) 43560a
+
+Bgi
+Bgi
+
+(11)
+
+Where the first term of the right side is equivalent to the total
+volumetric original gas in place (OGIPvt = 364 Mscf/acre ft)
+shown in row 22 and the second term is the adsorbed gas shown
+in row 34.
+Total original gas in place (OGIPt) is calculated to be 445
+Mscf/acre ft in row 36 as the summation of the adsorbed gas
+(169 Mscf/acre ft) and free gas (276 Mscf/acre ft). Thus the
+percentage of free gas is significant (62.01%) as shown in row
+37.
+The procedure presented in this example suggests that the
+volumes of OGIPt in shale gas formations presented previously
+in the literature might have been conservative as typically they
+do not include the independent significant contribution of free
+gas in organic matter, natural fractures and hydraulic fractures.
+But more importantly, it can be argued that the estimated gas
+recoveries might have been conservative in the past as the “gas
+permeability in organic matter is significantly higher than in
+nonorganic matrix” (Wang and Reed, 2009). The same holds
+true for natural fractures. Furthermore, experiments have been
+usually carried out in crushed samples, which in all probability
+
+eliminate most of the natural fractures, the larger pores, and
+the porous network in the organic matter; leading thus to
+conservatively low permeabilities. Also, with advances in
+technology, the areas of the shale formation exposed indirectly
+to the wellbore by multi-stage hydraulic fracturing have been
+increasing continuously.
+
+5 Conclusions
+(1) Flow units of conventional, tight gas and shale gas reservoirs
+can be estimated from knowledge of process (or delivery) speed.
+A new integrated crossplot of permeability vs porosity that
+allows distinguishing between flow units in conventional, tight
+gas and shale gas reservoirs has been developed.
+(2) Process (or delivery) speed represented by the ratio of
+permeability and porosity is shown to provide a continuum
+between conventional, tight gas and shale gas reservoirs.
+(3) Permeabilities from drill cuttings are clearly smaller than
+those from core plugs. This is the result of destruction of natural
+microfractures by the action of the drilling bit. Consequently
+results from the evaluation of only drill cuttings (and crushed
+samples in shales) provide pessimistic results viz a viz
+evaluations using core plugs and full core analysis.
+(4) The approximate boundary between viscous and diffusion
+dominated flow is estimated with Knudsen number. Viscous
+flow is generally present when the architecture of the rock is
+dominated by megaports, macroports, mesoports and sometimes
+microports (port = pore throat). Diffusion flow on the other hand
+is observed at the nanoport level. This distinction is valuable, for
+example, in those cases where the formation to be developed is
+composed of alternating stacked layers of tight sands and shales;
+or where there are lateral variations from tight gas to shale gas.
+(5) Tight gas reservoirs are more realistically represented by
+triple porosity models as thin section work shows the presence
+of intergranular porosity (in some cases), microfractures and slot
+porosity. Shale gas reservoirs are more realistically represented
+by a quadruple porosity model, as thin section and geochemistry
+work shows the presence of nonorganic matrix porosity, organic
+(kerogen) porosity, microfractures, and hydraulic fracture
+porosity (associated with the stimulated reservoir volume, SRV).
+(6) The volumes of initial free gas in place in shales are probably
+larger than those considered in the past, and under favorable
+conditions can reach over 50% of the total gas in place. But
+more importantly, gas recoveries can be larger than estimated
+in the past because permeability of the porosity in the organic
+matter and the natural fractures is significantly higher than the
+permeability of the nonorganic matter.
+(7) There is significant potential in the use of process (or
+
+23
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+delivery) speed as part of the flow unit characterization of
+unconventional gas reservoirs.
+
+Nomenclature
+Bgi = initial gas formation volume factor, cf/scf
+ct = total compressibility, 1/psi
+d = pore diameter (m)
+Gp = Cumulative gas production, cf
+GsL = Langmuir storage capacity, scf/ton
+K= permeability, mD
+kB = Boltzmann constant
+Kn = Knudsen number
+MWa = apparent natural gas molecular weight, lbm/lbmole
+OGIPa = adsorbed original gas in place, scf/acre ft
+OGIPf = volumetric free original gas in place (excluding
+adsorbed gas), scf/acre ft
+OGIPt = total original gas in place (including adsorbed gas),
+scf/acre ft
+OGIPvf = volumetric free original gas in place (excluding
+adsorbed gas), scf/acre ft
+OGIPvm = volumetric matrix original gas in place, scf/acre ft
+
+ρ = collision diameter of gas molecule, nm
+v = partitioning coefficient (or fracture porosity ratio), portion of
+the total porosity made out of fractures
+vf = p ortion of the total porosity in organic porosity, natural
+fractures and hydraulic fractures
+vhf = hydraulic fracture porosity ratio, portion of the total
+porosity created by hydraulic fractures
+vorg = organic porosity ratio, portion of the total porosity made
+out of pores within the organic matter, fraction
+λ = gas mean free path
+φ= porosity, fraction
+φa = adsorbed porosity, fraction
+φf = f ree gas porosity in natural fractures, hydraulic fractures
+and organic porosity, fraction
+φhf = p orosity of the hydraulic fracture scaled to the bulk
+volume of the quadruple porosity system, fraction
+φm = porosity of the matrix scaled to the bulk volume of the
+quadruple porosity system, fraction
+φTOC = porosity in organic matter, fraction
+φsh = total porosity of shale, fraction
+φx = matrix porosity of the crushed sample, fraction
+
+OGIPvt = volumetric total original gas in place, scf/acre ft
+
+φ2 = f racture porosity scaled to the bulk volume of the
+quadruple porosity system, fraction
+
+p = pressure, psia (pressure in Pascals in the gas mean free path
+equation)
+
+μ = viscosity, cp
+
+pL = Langmuir pressure, psia
+rp35 = p ore throat aperture at 35% cumulative pore volume
+(mercury saturation in capillary pressure test), microns
+Swi = initial water saturation in composite system, fraction
+Swif = initial water saturation in natural fractures, hydraulic
+fractures and organic porosity, fraction
+Swim = initial water saturation in nonorganic matrix, fraction
+T = reservoir temperature, deg F (temperature in deg K in the
+gas mean free path equation)
+t = time, hours
+Z = gas deviation factor
+
+24
+
+ρb = average bulk density, g/cm3
+ρs = sorbed gas density, g/cm3
+
+Acknowledgement
+Parts of this work were funded by the Natural Sciences and
+Engineering Research Council of Canada (NSERC agreement
+347825-06), ConocoPhillips (agreement 4204638), Alberta
+Innovates Energy and Environment Solutions (AERI agreement
+1711), the Schulich School of Engineering at the University of
+Calgary and Servipetrol Ltd. Porosities and permeabilities from
+Nikanassin drill cuttings were determined by Nisael Solano of
+the University of Calgary using Darcylog equipment provided
+by Mr. Roland Lenormand of Cydarex in Paris, France. The 3D
+hydraulic fracturing simulation was performed using GOHFER,
+contributed to the GFREE Research program by R. D. Barree of
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+B & A and Kevin Svatek of Core Lab. Their contributions are
+gratefully acknowledged.
+
+References
+Aguilera R and Ha rding T G. State-of-the-a r t of tight gas sands
+characterization and production technology. Petroleum Society’s 8th
+Canadian International Petroleum Conference, 12-14 June, 2007.
+Aguilera R and Harding T. GFREE Research Program in the Schulich
+School of Engineering at the University of Calgary. SPE Annual
+Technical Conference and Exhibition, 30 October-2 November, 2011.
+Aguilera R F and Aguilera R. Assessing the past, present and near future
+of the global energy market. SPE Annual Technical Conference and
+Exhibition, 11-14 November, 2007.
+Aguilera R F and Aguilera R. Global possibilities of future methane and
+hydrogen economies. SPE Journal of Petroleum Technology, 2009,
+13:34-39.
+Aguilera R F, Harding T, Krause F, et al. Natural gas production from
+tight gas formations: A global perspective. The 19th World Petroleum
+Congress, 29 June-3 July, 2008.
+Aguilera R. Flow units: from conventional to tight gas to shale gas
+reservoirs. The Trinidad and Tobago Energy Resources Conference,
+27-30 June, 2010.
+Aguilera R. Incorporating capillary pressure, pore aperture radii, height
+above free water table, and winland r35 values on Pickett Plots. AAPG
+Bulletin, 2002, 86:605-624.
+Aguilera R. Integration of geology, petrophysics, and reservoir engineering
+for characterization of carbonate reservoirs through Pickett Plots.
+AAPG Bulletin, 2004, 88:433-446.
+Aguilera R. Log Analysis of gas-bearing fracture shales in the Saint
+Lawrence Lowlands of Quebec. The 53rd Annual Fall Technical
+Conference and Exhibition, 1-3 October, 1978.
+Ambrose R J, Hartman R C, Diaz-Campos M, et al. New pore-scale
+considerations for shale gas in place calculations. SPE Unconventional
+Gas Conference, 23-25 February, 2010.
+Archie G E. Introduction to petrophysics of reservoir rocks. AAPG
+Bulletin, 1950, 34:943-961.
+Brohi I, Pooladi-Darvish M, Aguilera R. Modeling fractured horizontal
+wells as dual porosity composite reservoirs – application to tight gas,
+shale gas and tight oil cases. SPE Western North American Regional
+Meeting, 7-11 May, 2011.
+Bustin R M, Bustin A M M, Cui X, et al. Impact of shale properties on
+pore structure and storage characteristics. SPE Shale Gas production
+Conference, 16-18 November, 2008.
+Chopra A K, Stein M H, Ader J C. Development of reservoir descriptions to
+aid in design of EOR projects. SPE California Regional Meeting, 8-10
+April, 1987.
+Civan F. Effective correlation of apparent gas permeability in tight porous
+media. New York: Springer, 2009
+Contreras O M, Tutuncu A N, Aguilera R et al. A case study for pore
+pressure prediction in an abnormally sub-pressured Western Canada
+sedimentary Basin. 45th US Rock Mechanics / Geomechanics
+Symposium, 26-29 June, 2011.
+Cui X, Bustin A M M, Bustin R M. Measurements of gas permeability
+and diffusivity of tight reservoir rocks: Different approaches and their
+applications. Geofluids, 2009, 9:208-223.
+
+Dashtgard S E, Buschkuehle M B E, Fairgrieve B, et al. Geological
+characterization and potential for carbon dioxide (CO2) enhanced oil
+recovery in the Cardium Formation, Central Pembina Field, Alberta.
+Bulletin of Canadian Petroleum Geology, 2008, 56:147-164.
+Deng H, Leguizamon J, Aguilera R. Petrophysics of triple porosity tight
+gas reservoirs with a link to gas productivity. SPE Western North
+American Regional Meeting, 7-11 May, 2011.
+Deng H. An integrated workf low for reservoir modeling and f low
+simulation of the Nikanassin tight gas reservoir in the Western Canada
+sedimentary Basin. Calgary: University of Calgary, 2011.
+Ebanks W J Jr. Flow unit concept – integrated approach to reservoir
+description for engineering projects. AAPG Bulletin, 1987, 71:551-552.
+Economides M and Oligeney R. The color of oil: The history, the money
+and the politics of the world’s biggest business. Round Oak Publishing
+Company, 2000.
+Gunter G W, Finneran J M, Hartmann D J, et al. Early determination of
+reservoir flow units using an integrated petrophysical method. SPE
+Annual Technical Conference and Exhibition, 5-8 October, 1997a.
+Gunter G W, Pinch J J, Finneran J M, et al. Overview of an integrated
+process model to develop petrophysical based reservoir descriptions.
+SPE Annual Technical Conference and Exhibition, 5-8 October 1997b.
+Hartmann D J and Beaumont E A. Predicting reservoir system quality and
+performance. AAPG Treatise of Petroleum Geology/Handbook of
+Petroleum Geology: Exploring for Oil and Gas Traps, 1999, 9-1 - 9-154.
+Javadpour F, Fisher D, Unsworth M. Nanoscale gas flow in shale gas
+sediments. Journal of Canadian Petroleum Technology, 2007, 46:55-61.
+Ka r niada k is G, Beskok A, Alur u N. Microf lows and nanof lows:
+Fundumentals and simulation. New York: Springer, 2005.
+King H. Utica shale - The natural gas giant below the Marcellus?
+Geoscience News and Information, 2011.
+Kolodzie S J. The analysis of pore throat size and use of Waxman Smit to
+determine OOIP in Spindle field, Colorado. SPE 55th Annual Technical
+Conference, 1980.
+Kwon B S and Pickett G R. A new pore structure model and pore structure
+interrelationships. SPWLA 16th Annual Logging Symposium, 1975.
+Lacy L L, Rickards A R, Bilden D M. Fracture width and embedment
+testing in Soft reservoir sandstone. SPE Drilling and Completion, 1998,
+13:25-29.
+Lavoie D, Hamblin A P, Theriault R, et al. The Upper Ordovician
+Utica shales and Lor raine Group f lysch in Souther n Quebec:
+Techtonostratigraphic setting and significance for unconventional gas.
+Geological Survey of Canada, 2008.
+Lavoie J Y, Marcil J S, Dorrins P K, et al. Natural gas potential in the
+Saint Lawrence Lowlands of Quebec: A case study. The Canadian
+Unconventional Resources & International Petroleum Conference, 1921 October, 2010.
+Leguizamon J and Aguilera R. Optimizing hydraulic fracturing of naturally
+fractured tight gas formations. SPE Middle East Unconventional Gas
+Conference and Exhibition, 31 January-2 February, 2011.
+Leiker L. Better than Barnett. Daily Oil Bulletin, 29 February, 2008.
+Liu R L, Li N, Feng Q F, et al. Application of the triple porosity model in
+well–log effectiveness estimation of the carbonate reservoir in Tarim
+Oilfield. Journal of Petroleum Science and Engineering, 2009, 68:4046.
+Mackenzie W T. Petrophysical study of the Cardium sand in the Pembina
+Field. The 50th Annual Technical Meeting of SPE 28 September-1
+
+25
+
+R. Aguilera./Petroleum Research (2016) 1,10-26
+
+October, 1975.
+Martin A J, Solomon S T, Hartmann D J. Characterization of petrophysical
+flow units in carbonate reservoirs. AAPG Bulletin, 1997, 81:734-759.
+Milici R C, Ryder R T, Swezey C S, et al. Assessment of undiscovered oil
+and gas resources of the Appalachian Basin Province. United States
+Geological Survey, 2002.
+Pickett G R and Artus D S. Prediction from logs of recoverable hydrocarbon
+volume, Ordovician carbonates, Williston Basin. Geophysics, 1970,
+35:113-123.
+Rahmanian M, Solano N, Aguilera R. Storage and output flow from shale
+and tight gas reservoirs. SPE Western Regional Meeting, 27-29 May,
+2010.
+Rahmanian M. A new model for flow regime recognition based on pore
+level simulation studies of tight gas formations. University of Calgary,
+2011.
+Rokosh C D, Anderson S D A, Beaton A P, et al. Geochemical and
+geological characterization of the Duvernay and Muskwa Formations
+in Alberta. The Canadian Unconventional Resources & International
+Petroleum Conference, 19-21 October, 2010.
+
+26
+
+Ruppel S C and Loucks R G. Black mudrocks: Lessons and questions from
+the Mississippian Barnett shale in the Southern Midcontinent. The
+Sedimentary Record, 2008, 6:4-8.
+Ryder R T, Burruss R C, Hatch J R. Black shale source rocks and oil
+generation in the Cambrian and Ordovician of the Central Appalachian
+Basin, USA. AAPG Bulletin, 1998:82:412-441.
+Ryder R T. Assessment of Appalachian Basin oil and gas resources: UticaLower Paleozoic total petroleum system. United States Geological
+Survey, 2008.
+Shehata A, Aly A, Ramsay L. Overview of tight gas field development in
+the middle east and north Africa Region. SPE North Africa Technical
+Conference and Exhibition, 14-17 February, 2010.
+Solano N A. Reservoir characterization of the Upper Jurassic – Lower
+Cretaceous Nikanassin Group. University of Calgary, 2010
+U.S. Energy Information Administration. World shale gas resource: An
+initial assessment of 14 regions outside the United Stastes. Washington,
+D C: EIA, 2011.
+Wang F P and Reed R M. Pore networks and fluid flow in gas shales. SPE
+Annual Technical Conference and Exhibition, 4-7 October, 2009.
+
+

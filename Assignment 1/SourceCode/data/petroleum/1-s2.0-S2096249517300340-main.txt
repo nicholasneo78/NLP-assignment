@@ -1,0 +1,1732 @@
+Petroleum Research (2016) 1,93-102
+
+Origin of abnormal high pressure and its
+relationship with hydrocarbon accumulation
+in the Dina 2 Gas Field, Kuqa Depression
+Fengqi Zhang1,2*, Zhenliang Wang2, Hongli Zhong3, Yubin Song4, Weiming Liu1 and Chi Wei1
+School of Earth Sciences and Engineering, Xi’an Shiyou University, Xi’an 710065, China
+Department of Geology, Northwest University, Xi’an 710069, China
+3
+College of Geology & Environment, Xi'an University of Science and Technology, Xi'an 710054 , China
+4
+Tazhong Exploration & Development Research Management Department, Petrochina Tarim Oilfield Company, Korla 841000, China
+Received February 4, 2016; Accepted July 25, 2016
+1
+2
+
+Abstract: Based on distribution of formation pressure by indirect estimation and formation testing,
+this study investigates origin of abnormal high pressure in the Dina 2 Gas Field in the Kuqa
+Depression in combination with the latest research findings. Contribution of major overpressure
+mechanisms to this gas field is estimated, and generation of the abnormal high pressure as well as its
+relationship with natural gas accumulation is explored. Disequilibrium compaction, tectonic stress,
+and overpressure transfer are the major overpressure mechanisms. Overpressure transfer resulted
+from vertical opening of faults and folding is the most important cause for the overpressure. Gas
+accumulation and abnormal high pressure generation in the reservoirs of the Dina 2 Gas Field show
+synchroneity. During the early oil-gas charge in the Kangcun stage, the reservoirs were generally
+normal pressure systems. In the Kuqa deposition stage, rapid deposition caused disequilibrium
+compaction and led to generation of excess pressure (approximately 5–10 MPa) in the reservoirs.
+During the Kuqa Formation denudation stage to the Quaternary, reservoir overpressure was greatly
+increased to approximately 40–50 MPa as a result of vertical pressure transfer by episodic fault
+activation, lateral overpressure transfer by folding and horizontal tectonic stress due to intense
+tectonic compression. The last stage was the major period of ultra-high pressure generation and gas
+accumulation in the Dina 2 Gas Field.
+
+Key words: abnormal high pressure; overpressure transfer; tectonic
+compression; Dina 2 Gas Field; Kuqa Depression
+
+1 Introduction
+The Dina 2 Gas Field, a major new discovery following the Kela
+2 Gas Field in the Tarim Basin, is a large-scale coal-derived
+gas field with a reserve of 100×109 m3(Yan et al., 2009). The
+Dina 2 Gas Field is an ultra-high pressure gas field, which has
+a formation pressure of 106 MPa and pressure coefficient of
+2.14–2.29 in the central part (Ma et al., 2003). This gas field has
+
+experienced intense tectonic compression in the Late Himalayan.
+Previous studies indicated that the late Himalayan tectonic
+compression imposed strong influences on ultrahigh pressure
+generation in the Dina 2 Gas field (Ma et al., 2003; Sun et al.,
+2004; Zeng et al., 2004a; Shi et al., 2007), but these researches
+have mainly focused on fluid pressurization caused by tectonic
+stress (Zeng et al., 2004a; Shi et al., 2007). In the context of
+
+* Corresponding author. Email: zhangfengqi68@126.com
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+93
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+et al., 2004). The Kuqa Depression comprises several tectonic
+units, and the Dina 2 Gas Field lies in the eastern Qiulitage
+tectonic belt in the central part of the depression (Fig. 1) (Yan
+et al.,2009). The development and evolution of the eastern
+Qiulitage tectonic belt are controlled by the north-dipping
+thrust faults developed in its south and north: one is the Dina
+north fault developed in the Himalayan; the other is the eastern
+Qiulitage fault initiated in the Yanshanian, continuously
+evolving through the Himalayan, and for med the final
+configuration in the Late Himalayan (Yan et al., 2009). Both
+faults disappear upward in the gypsum mudstone sequences and
+cut through downward into the basement. The two faults not
+only control tectonic framework of the eastern Qiulitage tectonic
+belt but also control generation of the Dina tectonic strata. The
+faults connect to oil source kitchens but do not expose to the
+ground surface, and thus are ideal conduits for vertical oil and
+gas migration (Sun et al., 2004). Beneath the gypsum mudstone
+and salt rock sequences of the Jidike Formation, the Mesozoic
+- Cenozoic tectonic strata have developed fault-bend folds and
+duplexes. The Dina-2 structure is a fault-bend fold of sub-salt
+reservoirs of the Jidike Formation (Ma et al., 2003).
+
+intense tectonic compression, overpressure transfer caused by
+strata deformation (e.g. folding) and episodic opening of faults
+can also lead to fluid pressurization (Osborne and Swarbrick,
+1997; Liu, 2002; Luo, 2004a; Guo et al., 2010), which may
+greatly influence hydrocarbon accumulation. Presently, there is
+little work on the generation mechanism of ultra-high pressure
+and its relationship to hydrocarbon accumulation under the joint
+action of multi-factors in the context of tectonic compression.
+An in-depth study on the issues is needed, especially for the
+quantitative assessment and process analysis.
+This study examines lateral distribution of pressure in
+sandstone-mudstone formations in the Dina 2 Gas Field using
+directly measured pressure data of permeable layers and
+indirectly estimated pressure data in mudstone layers. Building
+upon some already published work, a recognition model of
+major overpressure mechanism is established. The origin of
+abnormal high pressure in the Dina 2 Gas Field is discussed.
+Additionally, relative contribution of major overpressure
+mechanisms to the present abnormal high pressure is estimated
+and the generation process of abnormal high pressure as well
+as its relationship with gas accumulation in the gas field is
+studied. Theses findings will improve understanding of origin of
+abnormal high pressure under complex effect of multi-factors in
+the foreland compression zones, and provide new insights into
+generation mechanism of overpressure in the Dina 2 Gas Field,
+thereby guiding regional hydrocarbon exploration.
+
+In the Dina 2 Gas Field, source rocks are the Middle - Upper
+Triassic and Jurassic coal measure formations. The reservoirs
+are the lower Neogene Jidike Formation and the Paleogene
+Kumugeliemu - Suweiyi formations, mainly composed of
+sandstone, pebbly sandstone and siltstone. The reservoircap rock is a several hundred-meter-thick gypsum salt rock gypsum mudstone - mudstone interval of the Jidike Formation,
+which has strong sealing capacity and forms good reservoir-cap
+rock assemblages in the cross-section (Sun et al., 2004).
+
+2 Regional setting
+The Dina 2 Gas Field is located in the Kuqa Depression, a
+Mesozoic - Cenozoic foreland basin between the southern
+Tianshan orogenic belt and the Tabei uplift belt (Fig. 1) (Ma
+
+0
+
+5km
+
+B
+
+DN102
+
+DN1
+DN22
+DN204
+
+A
+
+DN201
+
+DN203
+
+In the Dina 2 area, the basin has experienced long-term multi-
+
+N
+DN11
+
+DN202
+
+DN2
+
+Basin
+boundary
+
+ld
+G as F ie
+D in a 2
+
+Second-level Well location
+First-level
+tectonic unit line tectonic unit line
+
+Gas field
+
+City/County
+
+0
+
+Fault
+
+40km
+
+Northern monoclinic belt
+
+K
+DB 1
+
+B a ic h
+
+Wushi Sag
+
+i te
+
+Y
+e-
+
+eng S
+
+cto
+
+nic
+
+t
+bel
+
+Baicheng
+
+ag
+
+Qi
+
+150km
+
+0
+
+Quele 1
+
+库尔勒
+
+ft
+
+YM 1
+
+Tarim Basin
+
+un
+
+Upli
+
+提5
+
+nl
+M
+
+i
+Ta b e
+
+Ku
+ou
+
+Aksu
+
+p li ft
+
+Kuqa
+
+Xinhe
+
+Qiulitage tectonic belt
+U
+We n s u
+
+u
+
+Ke - Yi tec to
+ni c be lt
+YN 2
+Ke - Yi tecto nic belt
+DN
+1
+KL 2
+Yangxia
+Sag
+g
+a
+DN 2
+eng S
+B a ic h e l t
+b
+ic
+Yang 1
+lift
+ton
+Luntai
+i Up
+tec
+Ta b e
+ge
+a
+t
+M ou nt ain
+i
+l
+Ti an sh an
+
+nt
+ai
+n
+
+tu
+Al
+
+nM
+
+ou
+
+nta
+
+in
+
+Fig. 1 Division of tectonic units and location of the Dina 2 Gas Field in the Kuqa Depression, Tarim Basin
+
+94
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+stages evolution. In the Pliocene, the eastern Qiulitage tectonic
+belt rapidly deposited the strata (He et al., 2004). Since the
+Late Pliocene, intense tectonic compression occurred N- to
+S-trending in the basin, leading to generation of stress field of
+the maximum principal horizontal stress (Zeng et al., 2004b).
+The tectonic compression was associated with high-magnitude
+uplift and erosion, large-scale faulting and closely related
+intense fold deformation (Li et al., 2008). The above tectonic
+activities played a crucial role in controlling distribution and
+evolution of formation fluid pressure in the study area.
+
+3 Distribution of formation test pressure
+The results of formation testing show that the Cretaceous,
+Paleogene, and Neogene formations at Dina 2 Gas Field are
+
+Buried depth (m)
+
+4500
+
+5000
+
+1.0
+
+Pressure coefficient
+1.5
+2.0
+
+4500
+
+Well DN 11
+Well DN 2
+Well DN 202
+Well DN 204
+Well DN 102
+Well DN 201
+
+5500
+
+6000
+
+6500
+
+10
+4000
+
+2.5
+
+Buried depth (m)
+
+0.5
+4000
+
+associated with overpressure to strong overpressure (Fig. 2). The
+Paleogene and Neogene formations are both associated with
+strong overpressure, with the pressure coefficient of 1.93–2.26
+and relatively high excess pressure of 48.8–55.9 MPa. In the deep
+Cretaceous formations, formation testing is only performed in
+Well ND 11 where the pressure coefficient drops to 1.5–1.7 with
+corresponding excess pressure of 26–33 MPa. In the DN 2, DN
+201, DN 202, and DN 204 at Dina 2 wells, excess pressure is
+generally within range of 52–55 MPa and occasionally at 48.8
+MPa in reservoirs of the Paleogene Kumugeliemu Formation.
+The excess pressure is 53.5–54.5 MPa in the reservoirs of the
+Paleogene Suweiyi Formation and 50.8 MPa at the only pressure
+testing point in the reservoirs of the Neogene Jidike Formation.
+The above results show that the excess pressure in the Paleogene
+
+Jidike Formation
+Suweiyi Formation
+Kumugeliemu Formation
+Cretaceous
+
+(a)
+
+5000
+
+20
+
+Excess pressure(MPa)
+50
+30
+40
+
+60
+
+Well DN 11
+Well DN 2
+Well DN 202
+Well DN 204
+Well DN 102
+Well DN 201
+
+5500
+
+6000
+
+6500
+
+Jidike Formation
+Suweiyi Formation
+Kumugeliemu Formation
+Cretaceous
+
+(b)
+
+Fig. 2 Distribution of formation testing pressure in Dina 2 Gas Field, Kuqa Depression, Tarim Basin
+
+Kumugeliemu–Suweiyi formations is generally consistent with or
+slightly higher than that in the overlying Neogene Jidike Formation.
+
+4 Origin of abnormal high pressure
+Overpressure generation and development mechanisms are
+complex and can be classified into compaction disequilibrium
+and unloading (Ramdhan and Goulty, 2011). Herein, unloading
+refers to pressurization that tends to reduce vertical effective
+stress. The major unloading mechanisms of overpressure are
+fluid expansion, tectonic stress, and overpressure transfer.
+Fluid expansion is primarily caused by gas generation,
+hydrothermal pressurization, and clay mineral dehydration
+(Bowers, 2002; Ramdhan and Goulty, 2011). Previous numerical
+simulations demonstrated that pressurization from hydrothermal
+pressurization and clay mineral dehydration is weak and
+negligible (Luo, 2000). In the widely developed source rock, gas
+generation can cause a wide-range of overpressure (Tingay et al.,
+2009). As for the reservoirs, the major unloading mechanisms of
+overpressure are tectonic stress and overpressure transfer.
+
+Under action of vertical disequilibrium compaction, porosity
+generally remains unchanged (Fig. 3a). Variations in fluid
+pressure with depth approximately parallels to that of the
+lithostatic pressure(Tingay et al., 2009; Ramdhan and Goulty,
+2011) (Fig. 3b); variations in the vertical effective stress and
+porosity of the overpressured formations comply with normal
+compaction relationship (Fig. 3c) (Tingay et al., 2009), and
+variation relationship should be exponential (Luo, 2004a). The
+variation relationship can be expressed as follows:
+
+  0 eb
+
+(1)
+
+Where φ 0 is the surface porosity,%; φ is the porosity at a certain
+depth, %; b is a constant; and δ is the effective stress at the same
+depth, MPa.
+Equation (1) can be transformed into
+
+ 1  0 1eb
+
+(2)
+
+According to equation (2), the recognition model of Tingay et al
+(2009) is modified by replacing the DC trend line to the DC-X
+
+95
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+Pressure
+
+Porosity
+
+Reciprocal of porosity or acoustic
+velocity at the maximum depth
+
+Li
+tho
+
+Fluid sealing
+depth
+
+sta
+tic
+
+Unloading
+pressurization path
+
+pr
+es
+
+Normal
+compaction
+
+su
+
+co
+
+m
+
+Depth
+
+ss u re
+
+Depth
+
+DC- X
+
+M
+o
+pa dif
+ct ied
+io
+n p dis
+re eq
+ss ui
+ur lib
+iz ri
+at um
+io
+np
+at
+h
+
+at ic p re
+
+Overpressure transference or
+fluid-expansion overpressure
+(a)
+
+DC
+
+Di
+
+Reciprocal of porosity
+or acoustic velocity
+
+H y d ro st
+
+Porosity path of
+disequilibrium
+compaction
+pressurization
+
+se
+q
+pr uili
+es br
+su ium
+riz
+at com
+io
+n p pa
+at ctio
+h
+n
+
+re
+
+FE
+Disequilibrium compaction
+pressurization paralleling
+to lithostatic pressure curve
+
+Overpressure transference or
+fluid-expansion overpressure
+(b)
+
+Vertical effective stress
+(c)
+
+Fig. 3 A recognition model of major overpressure mechanisms, (a) relationship between porosity
+and depth, (b) relationship between pressure and depth, (c) relationship between vertical effective
+stress and acoustic velocity (modified from Tingay et al (2009))
+
+trend line (Fig. 3c). After fluid pressurization is caused by fluid
+expansion, overpressure transfer, and tectonic stress, changes in
+porosity related to tectonic stress may be relatively larger and those
+related to fluid expansion and overpressure transfer are smaller. All
+of the pressurization processes can contribute to reduction of the
+vertical effective stress. Thus, variations in the vertical effective
+stress and porosity of the overpressured formation should deviate
+from the exponential curve, as shown in the FE trend line (Fig. 3c)
+(Tingay et al., 2009). Accordingly, the unloading mechanism for
+overpressure can be recognized based on variation relationship
+between porosity (or acoustic velocity) and vertical effective stress
+of the overpressured formation.
+
+4.1 Disequilibrium compaction
+Pressurization mechanism of compaction can be classified into
+two geological factors, the relatively thick low-permeability
+formation and the relatively rapid overlying load deposition
+(Audet and McConnell, 1992; Luo et al, 2004).
+The eastern Paleogene formations of the Qiulitage tectonic
+belt have mainly developed fan delta and lake facies, with
+lagoon facies locally. The Paleogene Kumugeliemu Group
+has a drilling thickness of 146–192 m and its average ratio of
+mudstone thickness-to-stratum thickness (M/S) is 40%. The
+Paleogene Suweiyi Formation is drilled to 184–218.5 m and its
+average ratio of mudstone thickness to stratum thickness is 35%
+(Yan et al., 2009). The Neogene Jidike Formation develops a
+1400-m-thick interval of gypsum-salt rock, gypsum-mudstone,
+and mudstone with low permeability, thus providing a good
+regional seal for the Dina 2 Gas Field. The low-permeability
+
+mudstone constitute+s an environment for abnormal pressure
+generation.
+Since the Neogene, subsidence rate of the eastern Qiulitage
+tectonic belt has apparently increased. The subsidence rate was
+<50 m/Ma in the Triassic to Paleogene, approximately 175 m/Ma
+in Well Dongqiu 5 adjacent to Dina-2 Gas Field in the Jidike stage,
+and approximately 133 m/Ma in Well Dongqiu 5 in the Kangcun
+stage; subsidence rate of the Yangxia Sag at southern Dina 2 Gas
+Field in the Kuqa stage was approximately 1286 m/Ma, and the
+subsidence rate of the Dina 2 Gas Field during the Kuqa stage was
+estimated to be approximately 1000 m/Ma (He et al., 2004). Such
+rapid deposition allowed generation of overpressure in the Jidike
+Formation as well as its underlying formation of low permeability
+gypsum-mudstone and mudstone.
+Based on analysis of mudstone compaction process, the
+abnormal pressure is estimated in the mudstone formation
+caused by disequilibrium compaction using a depth balancing
+method (Luo et al., 2004). The mudstone compaction curves
+show that in DN11, DN 22, and DN 202 wells, the acoustic
+travelling time difference starts to deviate from normal
+compaction trend line from the Jidike Formation (Fig. 4), and
+abnormal high pressure exists in the mudstone. The generation
+of abnormal high pressure in mudstone is generally related
+to regional deposition of large intervals of thick mudstone
+formation, and the rapid deposition during the Kuqa stage
+led to generation of abnormal high pressure in the mudstone.
+The upper boundary of the abnormal pressure belt at Dina2, is basically that of the Jidike Formation, which is widely
+distributed (Fig. 5). The magnitude of excess pressure in the
+
+100
+95
+75
+
+25
+5
+0
+
+96
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+4.2 Pressurization of tectonic stress
+
+mudstone of the upper Jidike Formation is relatively large, with
+the maximum pressure coefficient generally within range of 1.6–
+1.7 and the maximum excess pressure up to 25 MPa. In certain
+wells such as Well DN 11, the maximum pressure coefficient
+of the upper mudstone of the Jidike Formation is up to 1.8–2.0
+and the maximum excess pressure reaches 45 MPa (Fig. 5). The
+excess pressure declines to 5–15 MPa in the mudstone of the
+lower Jidike Formation and Paleogene to Cretaceous formations,
+with the pressure coefficient generally in the range of 1.1–1.3.
+
+Being a major overpressure mechanism, tectonic stress has
+received substantial attention in recent years, however, related
+studies on tectonic stress have primarily focused on qualitative
+evaluations with few quantitative evaluations of overpressure
+mechanism (Berry, 1973; Osborne and Swarbrick, 1997;
+Luo et al., 2004; Wang et al., 2005; Bilotti and Shaw, 2005;
+Feyzullayev and Lerche, 2009). Tectonic stress does not act
+
+Pressure (MPa) Acoustic travel time (µs/m)
+Pressure (MPa) Acoustic travel time (µs/m)
+Pressure (MPa) Acoustic travel time (µs/m)
+200 400 600
+-40 0 40 80 120 100
+200 400 600
+-40 0 40 80 120 100
+200 400 600
+-40 0 40 80 120 100
+600
+
+4200
+
+E 2-3 s
+E 1-2 km
+K 1 bs
+Formation testing pressure
+(a)
+
+re
+
+Depth /m
+
+re
+Hy dro sta tic pre ssu
+
+N1j
+
+Hy dro sta tic pre ssu
+
+Depth(m)
+
+re
+Hy dro sta tic pre ssu
+
+3600
+
+N 1-2 k
+3000
+
+3600
+
+4200
+
+N1j
+
+4800
+4800 E 2-3 s
+E 1-2 km
+
+5400
+(b)
+
+ss u re
+
+6000
+
+3000
+
+2400
+
+at ic p re
+
+5400
+
+N 1-2 k
+
+ss u re
+
+4800
+
+2400
+
+at ic p re
+
+4200
+
+L it h o st
+
+ss u re
+
+N 1-2 k
+
+1800
+
+1800
+
+a ti c p re
+
+3000
+
+N2k
+
+L it h o st
+
+L it h o st
+
+2400
+
+3600
+
+1200
+
+1200 N 2 k
+
+1800 N 2 k
+
+Depth(m)
+
+600
+
+600
+
+1200
+
+N1j
+
+E 2-3 s
+E 1-2 km
+K 1 bs
+Formation testing pressure
+(c)
+
+Fig. 4 The compaction curves and lateral pressure distribution in the Well DN 11 (a), Well DN 22 (b),
+and Well DN 202 (c) of the Dina 2 Gas Field in the Kuqa Depression, Tarim Basin. N2k is Pliocene Kuqa
+Formation; N1-2k is Mioc ene-Pliocene Kangcun Formation; N1j is Miocene Jidike Formation; E 2-3s is
+Eocene-Oligocene Suweiyi Formation; E1-2km is Paleocene-Eocene Kumugeliemu Formation; K1bs is
+Lower Cretaceous Bashijiqike Formation.
+
+A
+1500
+1000
+500
+
+Excess pressure
+(MPa)
+0
+
+20
+
+40
+
+Excess pressure
+(MPa)
+0
+
+20
+
+40
+
+Excess pressure Excess pressure Excess pressure
+(MPa)
+(MPa)
+(MPa)
+0 20 40
+0 20
+0 20 40
+
+Excess pressure Excess pressure
+(MPa)
+(MPa)
+0 20 40
+0 20
+
+0
+
+Q+N 2 k
+
+B
+
+5km
+
+0
+
+Elevation (m)
+
+- 500
+- 1000
+
+N1-2k
+
+- 1500
+- 2000
+- 2500
+
+N1j
+
+Top of overpressure
+
+- 3000
+E2-3s
+E 1 - 2 km
+
+- 3500
+- 4000
+- 4500
+
+Well DN203
+
+Well DN204
+
+Well DN201
+
+Well DN22
+
+Well DN202
+Well DN102 Well DN11
+
+Fig. 5 The distribution of the top of overpressure in the Dina 2 Gas Field, Kuqa Depression, Tarim Basin.
+Section location sees Fig.1.
+
+97
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+directly on sediment particles but function through compaction
+of the formation pressure. Thus, the action of tectonic stress
+to formation pressure is considered to be lateral compaction
+(Osborne and Swarbrick, 1997; Luo et al., 2007).
+During the late Himalayan, the maximum principal stress in
+the study area changed direction to horizontal. The tectonic
+deformation at the southern Tianshan Mountains and the basinmountain boundary was dominated by nearly N-S-trending
+compressional deformation, whereas in the Kuqa Depression,
+nearly NS- and NW-SE-trending compressional deformation
+was the dominating tectonic deformation (Wang et al., 2003).
+The maximum effective principal stress in the Late Himalayan
+was investigated by the acoustic emission experiments (Zeng
+et al., 2004b; Zhang et al., 2004). Comparative analysis
+demonstrated that the horizontal effective principal stress was
+greater than the vertical effective principal stress, proving that
+the Kuqa Depression experienced intense tectonic compression
+in the late Himalayan. Tectonic stress accomplished compaction
+through lateral compaction, which, combined with vertical
+compaction, led to generation of obvious abnormal pressure
+in the Jidike Formation (pressure coefficient up to 2.0, excess
+pressure up to 45 MPa). The abnormal pressure resulted from
+tectonic compaction of mudstone is relatively low in other
+formations (Fig. 4). Assuming that the maximum excess
+pressure generated by total compaction of the Jidike Formation
+is completely transferred to the underlying formation, it is still
+insufficient to generate such high excess pressure at Dina 2
+Gas Field (Fig. 2). When comparing the measured pressure of
+sandstone layer and the compaction curve estimated pressure of
+the adjacent mudstone layer in the same well, great differences
+between two sets of data are observed: the measured pressure of
+sandstone layer is generally greater than the calculated pressure
+of mudstone layer (Fig. 4).
+Based on the concept of tectonic compaction, previous work
+has established a quantitative evaluation model for f luid
+pressurization caused by tectonic compaction under actual
+formation conditions (Zhang et al., 2011)
+
+Δp = ξ (σ 1 − S)
+
+(3)
+
+Where Δp is the fluid pressurization caused by tectonic stress,
+MPa; σ1is the largest horizontal principal stress, MPa; S is the
+load prior to pressurization, MPa; ζ is the sealing coefficient
+that measures the actual sealing ability of the underground
+geologic body (0–1; 0 represents a completely open fluid system,
+and 1 represents a completely sealed fluid system).
+The evaluation results show that fluid pressurization caused
+by tectonic stress in the Cretaceous formations is relatively
+small in the Well DN 201 (1.2 MPa) and Well DN 202 (1.3
+MPa) (Zhang et al., 2011). Following equation (3), the fluid
+pressurizeation caused by tectonic stress in the Cretaceous
+
+98
+
+formations in the Well DN 204 is estimated to be approximately
+1. 5 MPa. The maximum horizontal principal stress of the
+Cretaceous formations in the Well DN 11 and Well DN101 are
+less than the overlying loads, indicating that the tectonic stress
+in the Cretaceous formation of the DN 1 anticline at eastern
+Dina 2 Gas Field basically causes no fluid pressurization.
+As for the Cretaceous and Paleogene reservoirs at the same
+tectonic position and with the same tectonic morphology, the
+fluid pressurization caused by tectonic stress is quite similar.
+Overall, the fluid pressurization caused by tectonic stress in the
+Paleogene reservoirs at Dina area is low, e.g., <2 MPa, whereas
+the tectonic stress in the DN 1 anticline basically causes no fluid
+pressurization.
+
+4.3 Pressurization of overpressure transfer
+Previous studies on the overpressure generation mechanism
+have found that over pressure transfer has played an important
+role in the generation of abnormal high pressure in the Brunei
+Baram region, and China’s Junggar, Bohai Bay and Yingge Sea
+basins (Audet and McConnell, 1992; Liu, 2002; Luo, 2004b;
+Tingay et al., 2009; Guo et al., 2010). Folding can cause ununiform changes in the overlying load along the horizontal
+direction, whereas different generation conditions of formation
+pressure in the lateral direction lead to fluctuations of formation
+depth. Formations sharing the same permeability are in contact
+with those of different excess pressures, resulting in generation
+of fluid pressure and lateral fluid migration (Luo et al., 2004).
+Deep overpressure will drive fluid migration up-dip and thus
+overpressure transfer, leading to generation of overpressure in
+the up-dip part of permeable sand bodies (Liu, 2002). When
+a fault cuts through two overpressure systems with different
+excess pressures, reactivation of the fault will allow fluid to
+flow along the fault conduits, thereby rapidly adjust excess
+pressure and lead shallow formation (previously with low excess
+pressure) to form relatively high overpressure (Osborne and
+Swarbrick, 1997; Liu, 2002; Luo, 2004a; Guo et al., 2010).
+The Dina 2 structure is a fault-bend fold of sub-salt reservoirs
+of the Jidike Formation, which has oil-bearing faults developed
+in the south and north sides. The formation of folds could cause
+the lateral overpressure transfer in the sub-salt reservoirs of
+the Jidike Formation that shared the same permeability and
+pressurization of the excess pressure in the upper reservoirs
+of the anticline with the same permeability (Fig. 6). Oil and
+gas sources were accumulated the Middle - Upper Triassic
+and Jurassic formations. Rapid burial in the Pliocene to
+Quaternary led to fast hydrocarbon generation of the Triassic
+and Jurassic source rocks (Sun et al., 2004). The process of
+hydrocarbon generation caused fluid pressure increases in the
+source rock formation (Barker, 1990; Osborne and Swarbrick,
+1997). During the rapid burial period, the deep source rock
+formations and the upper Paleogene to Neogene formations
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+Well YN2
+
+Well DN202
+0
+
+5km
+Q +N 2 k
+
+Elevation (km)
+
+0
+
+N1j
+
+N 1-2 k
+
+-1.0
+-2.0
+
+E
+N1j
+
+-3.0
+-4.0
+-5.0
+-6.0
+
+N
+
+E
+K
+
+E
+
+K
+
+J
+
+J
+T
+
+J
+T
+
+K
+
+T
+
+Overpressure transfer direction
+
+Fault
+
+Fig. 6 Overpressure transfer in the north-south section of the
+Dina 2 structure, in the Dina 2 Gas Field, Kuqa Depression
+(Sun et al., 2004)
+
+The overpressure that is caused by overpressure transfer
+via fault connection can be evaluated in view of following
+geological phenomena: (1) a hydrostatic pressure gradient is
+maintained between the upper and lower formations connected
+by faults; (2) pressure coefficient of the shallow formation is
+extremely high; (3) great pressure difference between permeable
+formation and wall rock; and (4) a thin upper transition zone
+of the overpressured formations (Luo, 2004b). In the Dina 2
+Gas Field, the excess pressure occurs in the sub-salt Paleogene
+and Neogene reservoirs of the Jidike Formation. The Dina 2
+structure is relatively low. Excluding one point of the Neogene
+Jidike Formation in the Dina 2 Gas Field, all of testing points
+have excess pressure <3 MPa (Fig. 2). The upper and lower
+formations connected by faults generally maintain a hydrostatic
+pressure gradient. Sub-salt reservoirs of the Jidike Formation in
+the Dina 2 structure have an extremely high pressure coefficient,
+and shallow reservoirs have an even greater pressure coefficient
+than deep reservoirs (Fig. 2). As compared to the surrounding
+mudstone, the sub-salt reservoir of the Jidike Formation in the
+Dina 2 structure has relatively the large excess pressure (Fig. 4).
+All above observations suggest that overpressure transfer of the
+Dina 2 structure along faults is one of the key mechanisms for
+the abnormal high pressure generation in the sub-salt reservoirs
+of the Jidike Formation.
+With the measured geological data of the Dina 2 Gas Field, a
+
+normal compaction fitted trend line is achieved with vertical
+effective stress and acoustic velocity of normal compaction
+points, and then projections of the vertical effective stress and
+acoustic velocity of the abnormal pressure points are done in a
+coordinate system. The results show that the data points of the
+vertical effective stress vs acoustic velocity apparently deviate
+from the normal compaction trend line, and degree of deviation
+is quite large (Fig. 7).
+6.0
+5.5
+
+Acoustic velocity(km/s)
+
+were subject to pressurization of hydrocarbon generation in
+addition to the similar pressurized conditions. Therefore, the
+deep source rock formations formed greater excess pressure
+than the overlying formations during the rapid burial period.
+During the intense tectonic compression in the late Himalayan,
+the faults experienced episodic opening and each opening event
+would allow rapid adjustment between the relatively high excess
+pressure in the deep source rock of overpressure system and the
+relatively low excess pressure in sub-salt reservoirs of the Jidike
+Formation. That is, the vertical overpressure transfer occurred
+and thus increased the excess pressure in the sub-salt reservoirs
+of the Jidike Formation. Such pressurization process was
+commonly associated with lateral transfer (Fig. 6).
+
+5.0
+4.5
+4.0
+Normal pressure point
+Abnormal pressure point in well DN11
+Abnormal pressure point in well DN204
+Abnormal pressure point in well DN102
+Abnormal pressure point in well DN201
+Abnormal pressure point in well DN202
+Normal compaction trend line
+
+3.5
+3.0
+2.5
+2.0
+
+0
+
+10
+
+40
+30
+20
+Vertical effective stress (MPa)
+
+50
+
+60
+
+Fig. 7 The relationship between the effective stress and the
+acoustic velocity of overpressured formations in the Dina 2 Gas
+Field of the Kuqa Depression
+
+Based on the above analysis, the tectonic stress and overpressure
+transfer jointly are considered to cause the fluid pressurization
+in the sub-salt reservoirs of the Jidike Formation. Assuming
+that after the late Himalayan fluid pressurization caused by
+unloading, the formation porosity was unchanged, then the
+corresponding acoustic velocity remained basically unchanged
+as well. With this hypothesis, the reduction of vertical effective
+stress resulted from fluid pressurization by tectonic stress and
+the overpressure transfer can be quantified. The reduction of the
+vertical effective stress is due to the fluid pressurization caused
+by the tectonic stress and overpressure transfer (Table 1). Results
+show that the overpressure transfer caused relatively large fluid
+pressurization, generally in the range of 40–50 MPa, accounting
+for 65%–90% of the measured excess pressure with an average
+of 81.2% (Table 1). The pressurized hydraulic fluid caused by
+the compaction and horizontal tectonic stress can be obtained
+from the excess pressure in the adjacent mudstone formations
+(Table 1). As compared to the measured excess pressure, sum of
+estimated pressurization generated by different mechanisms has
+an absolute error <8 MPa (generally <5 MPa) and an relative
+error <15% (generally <10%). The estimates of pressurization
+generated via different overpressure mechanisms generally
+show small differences from the measured excess pressures,
+thus are considered reliable. According to the estimated fluid
+pressurization generated by different overpressure mechanisms,
+
+99
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+Table 1 Estimation of fliud pressurization generated by different overpressure mechanisms in some typical wells of the Dina 2 Gas
+Field, Kuqa Depression
+Well
+
+Ratio between overpressure
+Absolute error between sum
+Testing
+Formation
+Measured excess Effective stress Acoustic velocity Overpressure transfer
+Tectonic stress
+Adjacent mudstone
+transfer pressurization and
+pressurization and measured
+depth (m) pressure (MPa) pressure (MPa)
+(MPa)
+(km/s)
+pressurization (MPa) pressurizzation (MPa) excess pressure (MPa)
+measured excess pressure (%)
+excess pressure (MPa)
+
+DN 11
+
+5768.48
+
+112.14
+
+52.16
+
+20.71
+
+5.17
+
+39.70
+
+0
+
+12.42
+
+76.11
+
+DN 11
+
+5336.33
+
+110.97
+
+55.48
+
+11.93
+
+4.76
+
+36.69
+
+0
+
+12.65
+
+66.13
+
+-6.14
+
+DN 204
+
+5154.63
+
+107.99
+
+54.38
+
+10.73
+
+5.08
+
+45.74
+
+1.5
+
+5.37
+
+84.11
+
+-1.77
+
+DN 204
+
+5318.49
+
+107.52
+
+52.21
+
+14.97
+
+5.17
+
+43.93
+
+1.5
+
+4.69
+
+84.14
+
+-2.09
+
+DN 102
+
+5699.73
+
+108.10
+
+48.83
+
+23.16
+
+5.44
+
+44.81
+
+0
+
+4.21
+
+91.75
+
+0.18
+
+DN 102
+
+5508.09
+
+111.25
+
+53.97
+
+15.60
+
+5.35
+
+49.80
+
+0
+
+7.48
+
+92.27
+
+3.31
+
+DN 201
+
+4975.03
+
+105.92
+
+54.19
+
+8.65
+
+5.00
+
+45.72
+
+1.2
+
+9.12
+
+84.37
+
+1.85
+
+DN 201
+
+4987.84
+
+106.34
+
+54.47
+
+8.53
+
+5.08
+
+48.24
+
+1.2
+
+10.57
+
+88.56
+
+5.53
+
+DN 202
+
+5159.65
+
+109.61
+
+55.96
+
+9.21
+
+4.92
+
+42.70
+
+1.3
+
+7.11
+
+76.30
+
+-4.85
+
+DN 202
+
+5060.85
+
+106. 16
+
+53.53
+
+10.40
+
+4.69
+
+34.67
+
+1.3
+
+9.81
+
+64.77
+
+-7.75
+
+DN 202
+
+4964.36
+
+105.39
+
+53.77
+
+8.94
+
+5.00
+
+45.33
+
+1.3
+
+8.16
+
+84.30
+
+1.03
+
+the overpressure transfer appears to be the major cause for the
+overpressure in the Dina 2 Gas Field.
+
+5 G enerat ion proce ss of abnor mal
+high pressure and its relationship with
+hydrocarbon accumulation
+Previous studies have investigated hydrocarbon accumulation in
+the Kuqa Depression, and a two-stage accumulation model was
+proposed with an early oil accumulation followed by a late gas
+charge. It has been suggested that the Early Miocene (23–12 Ma)
+was the major oil accumulation period, whereas the Pliocene
+(5–0 Ma), especially the Kuqa stage (2.5 Ma) was the major gas
+accumulation period (Liang et al., 2002; Zhao and Lu, 2003).
+Additionally, a three-stage hydrocarbon accumulation model
+has also been proposed as follows: Neogene early - middle
+Kangcun stage (17–10 Ma), late Kangcun stage to early - middle
+Kuqa stage (10–3 Ma), and late Kuqa stage to Late Quaternary
+period (3–1 Ma) (Zhao and Dai, 2002). The results of the K-Ar
+isotope dating analysis with two authigenic illite samples from
+the Paleogene sandstone reservoir in Well DN 22 showed that
+ages of the illite are 11.3 ± 1.4 and 10.4 ± 1.2 Ma, corresponding
+to the middle Kangcun stage. The results of previous analyses
+of the hydrocarbon generation history indicated that the Middle
+- Upper Triassic source rock in the Yangxia Sag entered the
+early maturity stage in the Paleogene, peak oil generation stage
+in the Neogene - Late Miocene (approximately 5 Ma), and overmaturity stage since the Pliocene - Quaternary due to a rapid
+burial. The Jurassic source rock entered the peak oil generation
+period in the Neogene - Late Miocene, mature and over-mature
+in the Pliocene - Quaternary, and peak gas generation in the
+Late Pliocene (Sun et al., 2004). In summary, the Dina 2 Gas
+Field experienced an early oil-gas charge during the Kangcun
+stage, and a late natural gas charge mainly in the late Kuqa
+stage (5 Ma). The latter appears to be the key hydrocarbon
+accumulation period for the Dina 2 Gas Field.
+In the late Kangcun stage, a low-magnitude structure was
+
+100
+
+-0.04
+
+formed in the Dina area and the deep source rock formation
+entered peak oil generation stage. Hydrocarbon generation led
+to formation of abnormal high pressure, and high-pressure oilgas was charged into the upper sub-salt reservoirs of the Jidike
+Formation. Despite the excellent sealing capacity of the gypsumsalt rocks of the Jidike Formation, the Dina low-magnitude
+structure had good reservoir properties such as porosity,
+permeability and lateral continuity, thus had poor lateral sealing
+of the reservoir. After the high-pressure oil and gas was charged
+into reservoirs of the Dina low-magnitude structure, it was
+difficult to generate abnormal high pressure and reservoirs
+retained normal pressure system due to poor lateral sealing. In
+this period, low-magnitude structural oil-gas reservoirs were
+formed (Fig. 8a).
+In the Kuqa stage, deep source rock entered into mature and over
+mature stages. Undercompaction and hydrocarbon generation led
+to generation of ultra-high pressure with great excess pressure.
+Due to rapid deposition, the gypsum-salt rocks of the overlying
+Jidike Formation formed relatively high abnormal pressure, thereby
+enhancing its sealing capacity. In the sub-salt reservoirs of the
+Jidike Formation, a relatively sealed system was formed under
+effects of diagenesis, lateral sealing of faults, and vertical sealing of
+cap rocks. Compaction disequilibrium resulted in a low magnitude
+of excess pressure (approximately 5–10 MPa). During this period,
+tectonic activity was not intense and reactivation of faults was
+relatively weak. The deep high-pressure gas could only slowly
+charge into the sub-salt reservoirs of the Jidike Formation along
+faults, without producing the overpressure transfer. Therefore,
+only a low magnitude of overpressure was formed in the sub-salt
+reservoirs of the Jidike Formation in this period, and the previously
+formed low-magnitude structural oil-gas reservoirs were subject
+to slow gas flushing by deep natural gas, thus remaining as lowmagnitude oil-gas reservoirs (Fig. 8b).
+During denudation stage of the Kuqa Formation to the
+Quaternary, the study area experienced intense tectonic
+compression and episodic opening of faults. Deep source rock
+formations generated even higher excess pressure due to gas
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+Gypsum salt rock
+
+N1-2k
+
+Source rock
+
+Normal-pressure
+oil-gas reservoir
+
+N1j
+
+E 1 - 2 km
+
+Gas reservoir
+Oil reservoir
+
+E 2-3 s
+
+K
+
+Overpressure
+
+J
+T
+
+(a)
+N2k
+
+Oil-gas migration
+direction
+Fault
+
+Excess pressure (MPa)
+0
+20 40 60
+
+N1-2k
+
+Low-magnitude overpressure
+oil-gas reservoir
+
+N1j
+
+E 2-3 s
+E 1 - 2 km
+K
+J
+T
+
+(b)
+Excess pressure (MPa)
+0
+20 40 60
+
+N2k
+
+Q
+
+N1-2k
+
+N2k
+N1-2k
+N1j
+
+k
+s
+-2
+E 2 -3 E 1
+
+K
+
+E 2-3 s
+
+E 1-2km
+K
+J
+
+J
+
+m
+
+T
+
+T
+
+(c)
+
+Fig. 8 Hydrocarbon accumulation model of the Dina 2 Gas
+Field from middle–late Kangcun stage (a), Kuqa stage (b) to
+denudation stage of Kuqa Formation–Quaternary (c) in the
+Kuqa Depression
+
+generation. The resulting overpressured natural gas was charged
+into the upper reservoirs with the lower excess pressure, and the
+overpressure transfer led to increases in the excess pressure in
+the upper sub-salt reservoirs. As faults might have experienced
+multi-stage openings, the vertical overpressure transfer would
+cause multiple-f luid pressurization in the upper sub-salt
+reservoirs. During this period, intense tectonic compression
+resulted in stratigraphic deformation and folding, which caused
+lateral overpressure transfer into the reservoirs. Additionally, the
+lateral compaction of relatively large horizontal tectonic stress
+enhanced the compaction disequilibrium. All above conditions
+would increase magnitude of abnormal pressure in the sub-salt
+reservoirs of the Jidike Formation. In summary, under action of
+intense tectonic compression, the vertical overpressure transfer
+formed by episodic opening of faults, the lateral overpressure
+transfer caused by folding, and the horizontal tectonic stress
+significantly increased magnitude of abnormal pressure in
+sub-salt reservoirs of the Jidike Formation during the Kuqa
+Formation denudation stage to the Quaternary, and formed an
+excess pressure of approximately 40–50 MPa. This stage was
+the major period of ultra-high pressure generation in the Dina
+2 Gas Field. Additionally, the intense tectonic compression led
+to formation of the large-magnitude faulted anticline structure
+
+in this field, and rapid charge of deep overpressured-gas
+transformed the pre-existing oil-gas reservoirs into the present
+Dina 2 gas reservoirs (Fig. 8c).
+
+6 Conclusions
+(1) The major generation mechanisms of abnormal high pressure
+in the Dina 2 Gas Field include disequilibrium compaction,
+tectonic stress, and overpressure transfer. The overpressure
+transfer resulted from vertical opening of faults and folding are
+the primary causes for the abnormal high pressure in this gas
+field with an estimated contribution of 65–90%.
+(2) The reservoirs of the Dina 2 Gas Field were a normal
+pressure system during the early oil-gas charge in the Kangcun
+stage (17-5Ma). During the Kuqa stage (5-2Ma), a rapid
+deposition caused compaction disequilibrium and formed
+an excess pressure of approximately 5–10 MPa. During
+denudation stage of the Kuqa Formation to the Quaternary,
+vertical overpressure transfer from episodic opening of faults,
+the lateral overpressure transfer due to folding, and the lateral
+tectonic stress under an intense tectonic compression setting
+significantly increased magnitude of the abnormal pressure in
+the sub-salt reservoirs of the Jidike Formation and formed an
+excess pressure of approximately 40–50 MPa. This is the major
+overpressure generation period for the Dina 2 Gas Field.
+(3) The present Dina 2 gas reservoirs were formed along with
+generation of ultra-high pressure in the reservoir formations, that
+is, the two processes were synchronous. The field area formed
+the normal pressure reservoirs in the low magnitude anticline
+during the late Kangcun stage (10-5Ma), the low overpressure
+reservoirs in the low magnitude anticline during the Kuqa stage,
+and the ultra-high pressure natural gas reservoirs in the large
+magnitude anticline during the denudation stage of the Kuqa
+Formation to the Quaternary.
+
+Acknowledgements
+The authors would like to thank Yan Song, Mengjun Zhao,
+Shaobo Liu, Shihu Fang, Qingong Zhuo, Qingyang Meng,
+Lin Jiang, and Xuesong Lu from PetroChina Exploration &
+Development Research Institute for their guidance and advice,
+and the Research Institute of Exploration and Development
+of the Tarim Oilfield Company for research assistance and
+logistic support. This work was funded by National Science and
+Technology Major Project of China (Grant No. 2008ZX05003,
+2011ZX05003001).
+
+References
+Audet D M and McConnell J D C. Forward modelling of porosity and pore
+pressre evolution in sedimentary basins. Basin Research, 1992, 4: 147-162.
+Barker C. Calculated volume and pressure changes during the thermal
+
+101
+
+F.Zhang et al./Petroleum Research (2016) 1,93-102
+
+cracking of oil and gas in reservoirs. AAPG Bulletin, 1990, 74(8): 12541261.
+Berry F A F. High fluid potentials in California coast ranges and their tectonic signnificance. AAPG Bulletin, 1973, 57(7): 1219-1249.
+Bilotti F and Shaw J H. Deep-water Niger Delta fold and thrust belt modeled
+as a critical-taper wedge: The influence of elevated basal fluid pressure
+on structural styles. AAPG Bulletin, 2005, 89(11): 1475–1491.
+Bowers G L. Detecting high overpressure. The Leading edge, 2002, 21(2):
+174-177.
+Feyzullayev A A and Lerche I. Occurrence and nature of overpressure in the
+sedimentary section of the South Caspian Basin, Azerbaijan. Energy
+Exploration & Exploitation, 2009, 27(5): 345-366.
+Guo X W, He S, Liu K Y, et al. Oil generation as the dominant overpressure
+mechanism in the Cenozoic Dongying depression, Bohai Bay Basin,
+China. AAPG Bulletin, 2010, 94(12): 1859-1881.
+He G Y, Lu H F, Yang S F, et al. Subsiding features of the Mesozoic and Cenozoic Kuqa basin, Northwestern China. Journal of Zhejiang University
+(Science Edition), 2004, 31(1): 110-113 (in Chinese with English).
+Li Y J, Wu G Y, Lei G L, et al. Deformational features ages and mechanism
+of the Cenonzoic Kuqa foreland fold-and-thrust belt in Xinjiang. Chinese Journal of Geology, 2008, 43(3): 488-506 (in Chinese with English).
+Liang D G, Zhang S C, Zhao M J, et al. Hydrocarbon sources and stages of
+reservoir formation in Kuqa depression. Chinese Science Bulletin, 2002,
+47(Sup): 56-63 (in Chinese with English).
+Liu X F. Overpressure transference: concept and ways. Petroleum Geology
+& Experiment, 2002, 24(6): 533-535 (in Chinese with English).
+Luo X R, Luo L X, Li X Y, et al. Overpressure distribution and affecting
+factors in southern margin of Junggar basin. Earth Science-Journal of
+China University of Geosciences, 2004, 29(4): 404-412 (in Chinese with
+English).
+Luo X R, Wang Z M, Zhang L Q, et al. Overpressure generation and evolution in a compressional tectonic setting, the southern margin of Junggar
+Basin, northwestern China. AAPG Bulletin, 2007, 91(8): 1123-1139.
+Luo X R. Allogenic overpressuring associated with faulting and geological
+consequences. Acta Geologica Sinica, 2004b, 78(5); 641-647 (in Chinese with English).
+Luo X R. Quantitative analysis on overpressuring mechanism resulted from
+tectonic stress. Chinese Journal of Geophysics, 2004a, 47(6): 1086-1093
+(in Chinese with English).
+Luo X R. The application of numerical basin modeling in geological studies.
+Petroleum Exploration and Development, 2000, 27(2): 6-10 (in Chinese
+with English).
+Ma Y J, Gao G X, Zhang L J, et al. The kind of Dina 2 gas field. Natural Gas
+Geoscience, 2004, 15(1): 91-94 (in Chinese with English).
+Ma Y J, Xie H W, Cai Z Z, et al. The geology feature of Dina 2 gas field,
+Kuche depression. Natural Gas Geoscience, 2003, 14(5): 371-374 (in
+
+102
+
+Chinese with English).
+Osborne M J and Swarbrick R E. Mechanisms for generating overpressure in
+sedimentary basins: a reevaluation. AAPG Bulletin, 1997, 81(6): 10231041
+Ramdhan A M and Goulty N R. Overpressure and mudrock compaction in
+the Lower Kutai Basin, Indonesia: A radical reappraisal. AAPG Bulletin, 2011, 95(10): 1725-1744.
+Shi W Z, Chen H H, He S. Quantitative evaluation on contritution of strutural compression to overpressure and analysis on origin of overpressure in
+Kuqa Depression. Acta Petrolei Sinica, 2007, 28(6): 59-64 (in Chinese
+with English).
+Sun D S, Jin Z J, Lü X X, et al. Reservoiring mechanism and finalization period of Dina 2 gasfield in Kuqa basin. Oil & Gas Geology, 2004, 25(5):
+559-564 (in Chinese with English).
+Tingay M R P, Hillis R R, Swarbrick R E, et al. Origin of overpressure and
+pore-pressure prediction in the Baram province, Brunei. AAPG Bulletin, 2009, 93(1): 51-74.
+Wang Q C, Zhang Z P, Lin W. Tertiary fault active feature and stress state
+in the boundary of Kuqa basin and Tianshan. Chinese Science Bulletin,
+2003, 48(24): 2553-2559 (in Chinese with English).
+Wang Z L, Zhang L K, Shi L Z, et al. Genesis analysis and quantitative
+evaluation on abnormal high fluid pressure in the Kela 2 Gas Field,
+Kuqa Depression, Tarim Basin. Geological Review, 2005, 51(1):55-62
+(in Chinese with English).
+Yan W H, Li J M, Li D M, et al. Geologic characteristics and sedimentary
+reservoir of Dina 2 gas field in Kuqa depression. Natural Gas Geoscience, 2009, 20(1): 86-93 (in Chinese with English).
+Zeng L B, Tan C X, Zhang M L. Tectonic stress field and its effect on hydrocarbon migration and accumulation in Mesozoic and Cenozoic in
+the Kuqa Depression, Tarim Basin. Science in China Series D: Earth
+Sciences, 2004b, 47(SII):114-124.
+Zeng L B, Zhou T W and Lü X X. Influence of tectonic compression on the
+abnormal formation pressure in the Kuqa Depression. Geological Review, 2004a, 50(5): 471-475 (in Chinese with English).
+Zhang F Q, Wang Z L, Song Y, et al. The new method of quantitative evaluation on pressurization according to tectonic compression in Kuqa depression. Journal of China University of Petroleum (Edition of Natural
+Science), 2011, 35(4):1-7 (in Chinese with English).
+Zhang M L, Tan C X, Tang L J, et al. An analysis of the Mesozoic-Cenozoic
+tectonic stress field in Kuqa depression, Tarim Basin. Acta Geoscientica
+Sinica, 2004, 25(6): 615-619 (in Chinese with English).
+Zhao J Z and Dai J X. Accumulation timing and history of Kuche petroleum
+system, Tarim basin. Acta Sedimentologica Sinica, 2002, 20(2): 314-318
+(in Chinese with English).
+Zhao M J and Lu S F. Two periods of reservoir forming and their
+significance for hydrocarbon distribution in Kuqa Depression. Acta
+Petrolei Sinica, 2003, 24(5): 16-20 (in Chinese with English).
+
+

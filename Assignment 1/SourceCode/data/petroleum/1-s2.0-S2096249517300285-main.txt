@@ -1,0 +1,1418 @@
+Petroleum Research (2016) 1,27-38
+
+Characteristics and resource prospects of tight
+oil in Ordos Basin, China
+Hua Yang1,2*, Shixiang Li2,3,4 and Xianyang Liu2,3,4
+PetroChina Changqing Oilfield Company, Xi’an 710018, China
+National Engineering Laboratory for Exploration & Development of Low-permeability Oil & Gas Fields, Xi’an 710018, China
+3
+College of Energy Resources, Chengdu University of Technology, Chengdu 610059, China
+4
+Research Institute of Exploration & Development, PetroChina Changqing Oilfield Company, Xi’an 710018, China
+Received February 8, 2016; Accepted July 1, 2016
+1
+2
+
+Abstract: Efficient large-scale development of ultra-low-permeability reservoirs (0.3–1 mD) has
+been achieved in the Changqing Oilfield, Ordos Basin of China. According to unique features of
+petroleum exploration and development in this basin, tight oil herein refers to petroleum that occurs
+in oil-bearing shales and interbedded tight sandstone reservoirs adjacent to source rocks with ambient
+air permeability <0.3 mD. Tight oil in tight sandstone and shale have generally not yet experienced
+large-scale long-distance migration. In the Yanchang Formation, tight oil has mainly accumulated
+in the semi-deep to deep lacustrine facies, typically in oil-bearing shales and tight sandstones of the
+7th member oil-bearing formation and tight sandstones of the 6th member oil-bearing formation
+in the center of the basin. Tight oil resource in the Ordos Basin is characterized by wide spatial
+distribution, excellent source rocks, extremely tight sandstone reservoirs, complex pore throat
+structures, poor physical properties, high oil saturation, good crude-oil properties, and low reservoir
+pressure. A fundamental feature of the continuous oil and gas accumulation in tight oil reservoirs is
+the widespread development of nano-scale pore-throat systems. In the Yanchang Formation, most of
+connected pore throats in tight sandstone reservoirs have diameters greater than critical pore throat
+diameter, allowing oil and gas migration in the tight reservoirs. According to contact relationship
+between tight reservoirs and source rocks, three types of tight oil reservoirs are identified in the
+Yanchang Formation, i.e., tight massive sandstone reservoir, sand - shale interbed reservoir, and oilbearing shale reservoir. In the Ordos Basin, tight oil is widely distributed in the 6th and 7th members
+of the Yanchang Formation, with total resources estimated to be 3×109 t. These include >1×109 t of
+oil resources in shale in the 7th member of the Yanchang Formation and approximately 0.9×109 t
+and 1.1×109 t of tight sandstone oil resource in the 6th and 7th members of the Yanchang Formation,
+respectively. These tight oil resources are the realistic resources addition for the oilfield, which can
+ensure an annual production of 50×106 t of oil and gas equivalent and maintain long-term stable oil
+production in the Changqing Oilfield, Ordos Basin, China.
+
+Key words: tight oil; tight sandstone reservoir; shale reservoir;
+resource potential; Yanchang Formation; Ordos Basin
+
+* Corresponding author. Email: yh_cq@petrochina.com.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+27
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+1 Introduction
+Tight oil is a new hot spot of global exploration and development
+of unconventional oil and gas resources following shale gas (Liang
+et al., 2011; Sun et al., 2011; Zou et al., 2011a; Jia et al., 2012a).
+Tight oil plays a crucial role in the global energy structure, and
+commercial development of tight oil has been achieved in a number
+of countries such as the United States, Canada, and Australia (Zou
+et al., 2011a; Yan et al., Lin et al., 2011). Despite their abundance
+in China, exploration and development of unconventional oil and
+gas resources remain in an early stage in this country (Guan et al.,
+1995; Zou et al., 2010a).
+Ordos Basin is rich in tight oil resources and has great potential
+for oil exploration and development. Over the past decade,
+PetroChina Changqing Oilfield Company has overcome
+difficulties related to low and ultra-low-permeability and
+achieved an annual increase of (1–3)×108 t in proved reserves
+for 10 consecutive years. By the end of 2015, the submitted
+proved reserves have accumulated to 4.154×10 9 t, including
+2.156×109 t in low-permeability reservoirs (<1 mD). Changqing
+Oilfield Company has successfully achieved efficient large-scale
+development of tight oil reservoirs with ultra-low-permeability
+(0.3–1.0 mD) and innovated development technologies, typically
+in Huaqing Oilfield. In 2015, crude oil production in Changqing
+oilfield exceeded 25×10 6 t. Presently, field research of oil
+reservoirs with low permeability of 0.3–1.0 mD is ongoing in
+Changqing Oilfield. Laboratory researches and field experiments
+are conducted on shale oil in reservoirs of the 7th member of the
+Yanchang Formation with permeability <0.1 mD.
+To date, there has been no consensus on the definition of tight
+oil. Zou et al consider that tight oil is the petroleum that coexists in source rocks and accumulates in various types of tight
+reservoirs after short-distance migration, and tight oil reservoirs
+mainly consist of tight sandstone and tight limestone, with the insitu matrix permeability less than or equal to 0.1 mD (reservoir
+surface-air permeability <1 mD) (Zou et al., 2012a,b). Jia et
+al consider that tight oil is the petroleum that occurs in a free
+or adsorbed state in source rocks or tight reservoir rocks (e.g.,
+sandstone and carbonate rock) interbedded with or adjacent to
+source rocks, such oil accumulation has not experienced largescale long-distance migration, and the in-situ matrix permeability
+of the reservoirs is less than or equal to 0.1 mD (reservoir surfaceair permeability <1 mD) (Jia et al., 2012b). As for tight oil
+represented by Bakken Oilfield in the U.S. (Lin et al., 2011), the insitu matrix permeability of the reservoirs is 0.01–0.1 mD. All the
+above definitions of tight oil take the surface-air permeability <1
+mD as the boundary. According to actual situation of petroleum
+exploration and development in Ordos Basin, reservoirs with
+surface-air permeability (herein referred to the permeability in
+surface atmosphere unless otherwise specified) <1 mD (in-situ
+matrix permeability <0.1 mD) are referred to as unconventional oil
+
+28
+
+and gas resources, and those with the permeability of 0.3–1 mD are
+regarded as ultra-low-permeability reservoir. As of date, efficient
+large-scale development has been achieved in the abovementioned
+low-permeability tight oil reservoirs. To focus on our research
+targets, tight oil in Ordos Basin is defined as the petroleum that
+occurs in oil-bearing shales and tight sandstone interbed reservoirs
+adjacent to source rocks and with surface-air permeability <0.3 mD.
+Such oil resources, including tight sandstone oil and shale oil, have
+not experienced large-scale long-distance migration. As compared
+to the explored low- and ultra-low-permeability reservoirs, tight
+oil reservoirs feature complex accumulation mechanisms, fine
+pore throats, poor physical properties, and high filling content;
+as compared to such resources overseas, tight oil in Ordos Basin
+shows substantial differences in pressure coefficient, oil potential,
+reservoir brittleness, and natural micro-fracture development.
+Consequently, well-developed technologies overseas are not fully
+applicable to the exploration and development of tight oil in Ordos
+Basin. Based on the latest advances of tight oil exploration in Ordos
+Basin, this study elaborates major geological characteristics of tight
+oil and preliminarily assesses and forecasts prospects of tight oil
+resources in Ordos Basin, in attempt to promote tight oil exploration
+and related geological research.
+
+2 Characteristics of tight oil in Ordos Basin
+In Ordos Basin, tight oil of the Yanchang Formation has mainly
+accumulated in the semi-deep to deep lacustrine facies, typically
+in oil-bearing shales and tight sandstones of the 7th member in
+the basin and tight sandstones of the 6th member in the center
+of the basin. Such tight oil is characterized by wide distribution,
+superior hydrocarbon source rocks, tight sandstone reservoir,
+complex pore throat structure, poor physical properties, high
+oil saturation, good oil quality, and low reservoir pressure
+coefficient. Typical oil in the shale is identified in the tight
+reservoirs of the 7th member,where oil-bearing shales are
+widely distributed with large thickness. Typical tight sandstone
+oil is identified in sandstone reservoirs of the 7th member and
+reservoirs of the 6th member in the center of the lacustrine
+basin. These oil-bearing formations are adjacent to high-quality
+source rocks and feature excellent source rock conditions, good
+source - reservoir configuration, and tight reservoirs.
+
+2.1 Wide distribution of oil-bearing shales and
+high-quality source rocks
+During deposition of the Late Triassic Yanchang Formation, the
+Indosinian movement led to the formation of a large-scale inland
+freshwater lacustrine. During deposition of the 7th member of
+Yanchang Formation, the basin reached maximum scale and
+developed major source rocks consisting of black shale, and dark
+mudstone (Yang and Zhang, 2005; Zhang et al., 20006).
+In Ordos Basin, oil-bearing shales mainly are developed in the
+lower part of the 7th member. The oil-bearing shales are NW-
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+SE trending and distributed widely. Their approximate effective
+distribution area is 100×103 km, approaching western Yan’an
+- An’sai to the northeast, Majiatan to the northwest, Zhenyuan
+- Jingchuan to the southwest, and Zhengning - Fuxian to the
+southeast (Fig. 1). Source rocks are generally 30–60 m thick, and
+maximum thickness is up to 130 m. Hydrocarbon-generating center
+lies in the Jiyuan - Huachi - Zhengning area, where distribution
+area of high-quality source rocks is approximately 50×103 km2.
+Majiatan
+
+Yanchi
+Chengchuan
+
+Dingbian
+
+Jingbian
+
+Well Erosion
+location area
+
+City/
+town
+
+Thickness of
+oil- bear shale / m
+0
+
+H210
+
+10
+
+A83
+
+20
+
+Jiyuan
+
+30
+40
+
+Wuqi
+
+G295
+
+50
+
+An' sai
+
+Zhidan
+
+Huanxian
+
+W100
+L189
+
+Yan' an
+
+Yongning
+
+Huachi
+Ganquan
+
+Qingcheng
+
+Z86
+Z84
+Zhenyuan
+
+Fuxian
+
+X41
+X21
+Qingyan
+
+ZH9
+N33
+
+Chongxing Jingchuan
+Changwu
+
+Huangling
+Zhengning
+0
+
+40 km
+
+Fig. l Distribution of oil-bearing shales in the 7th member of the
+Upper Triassic Yanchang Formation, Ordos Basin
+
+Black shales of the 7th member of Yanchang Formation are rich in
+organic matter. Organic geochemical data indicate that the residual
+organic carbon content of these black shales is generally 6–22%
+with the maximum level of 30–40% and the average total organic
+carbon (TOC) content of 13.75% (Yang and Zhang, 2005). Organic
+maturity (Ro) is 0.85–1.15%, indicating that black shales have entered
+the peak stage of oil generation (Yang and Zhang, 2005) and mostly
+had undergone intensive hydrocarbon generation and expulsion
+(Zhang et al., 2006). Average intensity of hydrocarbon generation is
+4.95×106 t/km2, total effective amount of hydrocarbon generation is
+247.308×109 t. Average intensity of hydrocarbon expulsion is 2.9×106
+t/km2, and total amount of hydrocarbon expulsion is 144.771×109 t.
+All the data show that the 7th member of Yanchang Formation has
+good-quality source rocks and is an important resource base for
+tight oil reservoir.
+
+2.2 Tight sandstone reservoirs and complex pore
+throat structure
+In the Ordos Basin, tight sandstone reservoirs primarily consist
+of continental clastic deposits. The lithology is complex, and
+dominated by silt-fine sandstones with fine granularity, poor
+
+physical properties, and tight reservoirs. Generally, porosity
+ranges from 4% to 10% and permeability is less than 0.3 mD,
+which are typical characteristics of tight sandstones. This
+kind of reservoir shows large lateral variations in the physical
+properties and features a number of interbeds vertically. Other
+characteristics include strong heterogeneity, fine pore throats,
+and complex pore structure(Wang et al., 2015a).
+In the 6th member of Yanchang Formation, major types of
+reservoir rocks are feldspathic sandstone and lithic feldspathic
+sandstone. Feldspar content is high, averaging 42.2%; quartz
+content averages 25.2%; metamorphic lithic content averages
+4.7%. In the 7th member of Yanchang Formation, major types
+of reservoir rocks are lithic sandstone and feldspathic lithic
+sandstone. Average contents of quartz and feldspar are 32.1%
+and 19.6%, respectively; total lithic content is 27.3%, and
+dominated by metamorphic lithic debris.
+Major reservoir fillings are illite, chlorite, and carbonate. The
+fillings accounted for 15.3% of the 6th member of Yanchang
+Formation, mainly composed of ferruginous calcite, hydromica,
+and chlorite; the ferruginous calcite content is relatively high
+and averages 3.8% (30% of total reservoir fillings). The filling
+accounted for 17.4% of the 7th member of Yanchang Formation,
+mainly composed of illite, chlorite, and carbonate (mainly
+ferruginous calcite and ferruginous dolomite); the illite content
+is relatively high and averages 7.3% (>45% of total reservoir
+fillings). Additionally, reservoir fillings include small amounts
+of kaolinite as well as tuffaceous, siliceous, and feldspathic
+rocks; illite and ferruginous calcite primarily play a role in
+destructing reservoirs by reducing their physical properties,
+whereas widespread development of chlorite clay film in a rim
+shape effectively improves reservoir properties by exerting a
+protective effect on the primary intergranular pores.
+In the tight sandstones of the Yanchang Formation, major pore
+types are dissolved pore and residual intergranular pore, with
+tiny pore throats, complex structure(You et al., 2014), poor
+connectivity and intense diagenetic activity. Overgrowth of
+quartz and cementation of ferruginous calcite with ferruginous
+dolomite are observed commonly, and content of clay matrix
+is relatively high. Throat shapes are mainly laminated-,
+curved laminated-, and bundled tube-like. Pore throats of tight
+sandstone reservoirs have good sorting, mainly in the pattern of
+fine pore - micro throat or medium pore - micro fine throat.
+Average permeability of tight reservoirs in oil-bearing
+formations
+100
+in the center of the lake basin is <0.3 mD, indicating poor physical
+properties. In the 6th member of Yanchang 95
+Formation, porosity
+of tight reservoirs ranges from 5.6% to15.5% 75(average 10.2%) and
+permeability varies from 0.05 to 2.22 mD (average 0.22 mD). In the
+7th member of Yanchang Formation, porosity of tight reservoirs is
+from 4.8 to 12.6% (average 7.2%) and permeability ranges from 0.01
+25
+to 1.35 mD (average 0.18 mD).
+5
+0
+
+29
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+2.3 High oil saturation and good crude oil quality
+In the Ordos Basin, tight sandstones directly contact with highquality source rocks, thus sufficient oil resources and high
+charging intensity allow oil and gas generated from source rocks
+to form reservoirs by short-distance migration. Tight reservoirs of
+both oil-bearing formations have good oil shows, which generally
+can be classified as oil-spot to oil-immersion grade by geological
+logging. Average oil saturation is up to 70%, specifically, average
+oil saturation is estimated to 72.8% by sealing coring, 69.8%
+by calculation using the Archie equation, 69.0% by mercury
+porosimetry, and 70.3% using infiltration method.
+Surface crude oil from the 7th member of Yanchang Formation has
+following general properties: density of 0.84 g/cm3, viscosity of 6.12
+mPa·s, freezing point of 17. 6°C, and initial boiling point of 76.3°C.
+Compared with other oilfields, crude oil from the 7th member of
+Yanchang Formation is of good properties in terms of low density,
+low viscosity, low sulfur content, and low freezing point.
+
+2.4 Low reservoir pressure coefficients
+In the Ordos Basin, major Triassic reservoir depth is generally
+1200–2300 m with present stratigraphy pressure of 7.0–18.1 MPa.
+Based on analysis of original stratigraphy pressure and reservoir
+depth in over 20 developed blocks in the basin, reservoir pressure
+coefficient is 0.6–0.8, indicating low pressure of the reservoirs(Li et
+al., 2013).
+The main reason for formation of low pressure reservoir is that
+formation temperature experienced a hot-to-cold geothermal
+conversion during oil and gas accumulation (Xu et al., 2012). In
+
+the late Early Cretaceous, the Ordos Basin was influenced by the
+Yanshanian tectonic movement, with frequent volcanic activities in
+the surrounding areas. During this period, geothermal gradient was
+up to 3.5–4.5°C/hm (Ren, 1996), major reservoir depth was up to
+3000–4000 m, and therefore, formation temperature could reach
+100–180°C. High formation temperature leads to intense fluid
+activity and result in kerogen entering mature stage, thus source
+rocks began to generate and expulse hydrocarbon. Significant
+displacement pressure from hydrocarbon generation and expulsion
+allowed oil and gas accumulation in a large quantity, leading to
+formation of high-pressure reservoirs. Since the Late Cretaceous,
+the Ordos Basin was uplifted and denuded as a whole. According
+to recovery of denuded thickness, the denudation could be >1000
+m. Pressure of overlying strata decreased while reservoir porosity
+rebounded. Meanwhile, magmatic activities in the periphery of
+the basin were weakened, whereas the geothermal gradient was
+reduced to 2.8–3.2°C/hm and the formation temperature reduced
+to 70–100°C (Ren, 1996). The fluid activity was weakened and
+pore fluid pressure was further reduced, leading to formation of the
+present low-pressure reservoirs.
+In the Ordos Basin, tight oil has two key geological characteristics:
+(1) source reservoir symbiosis with continuously distribution in
+large areas of banded oil-bearing reservoirs, and no obvious trap or
+oil-water boundarie, (2) non-buoyant accumulation with continuous
+charging of oil and gas, no significant influence by hydrodynamic
+effect, and no uniform oil-water interface and pressure system.
+Compared with the Bakken Formation in Williston Basin (Table 1)
+(Schmoker and Hester, 1983; Webster, 1984; Lin et al., 2011), tight
+oil in the Ordos Basin is characterized by large oil-bearing shale
+thickness and wide distribution, well development of oil-bearing
+shale interbedded with clastic rock favour formation of tight oil and
+
+Table 1 Tight oil characteristics between the Upper Triassic Yanchang Formation, Ordos Basin, China, and the Upper Devonialn Mississippian Bakken Formation, Williston Basin, the United States
+Tight oil in the Bakken Formation, Oil in the oil-bearing shale,
+Tight oil in the
+Basin
+Williston Basin
+the Ordos Basin
+Ordos Basin
+7th member of Yanchang
+7th and 6th members of
+Strata
+Upper Devonian - Lower Carboniferous
+Formation
+Yanchang Formation
+Depositional environment
+Shallow marine facies
+Lacustrine facies
+Buried depth/ m
+2593-3203
+1000-2600
+Shale thickness/ m
+3-15
+20-80
+10-80
+Quartz/%
+36.6 (Oil-bearing shale) 47.5 (Silstone)
+26.2 (Oil-bearing shale)
+41.8 (Silstone)
+Mineral
+Feldspar/%
+14.2 (Oil-bearing shale) 18.9 (Silstone)
+18.9 (Oil-bearing shale)
+23.5 (Silstone)
+component
+Clay/%
+26.7 (Oil-bearing shale) 21.5 (Silstone)
+29.8 (Oil-bearing shale)
+17.4 (Silstone)
+Porosity/%
+—
+6.0
+2.08
+(Oil-bearing
+shale)
+8.2 (Silstone)
+Physical
+properties
+Permeability/mD
+—
+0.04
+0.001 (Oil-bearing shale)
+0.02 (Silstone)
+Oil content of oil-bearing shale/%
+10.0
+3.5-6.0
+Kerogen type
+I+II
+I
+TOC/%
+11.30
+13.75
+Ro/%
+0.7-1.0
+0.90-1.16
+Maximum pyrolysis temperature/oC
+443-447
+440-455
+Relationship between source rock
+Interbed and symbiosis
+Interbed and symbiosis
+and reservoir
+
+30
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+indicate great development potential of tight oil in this basin.
+
+3.2 Accumulation mechanisms
+
+3 Tight oil distribution patterns and
+accumulation mechanisms
+
+Tight oil and shale oil reservoirs are usually dominated by nanoscale pore-throat systems (Zou et al., 2011b). This is a fundamental
+pre-requisite for large areas of continuous or quasi-continuous
+oil and gas accumulation, which determines the continuous or
+quasi-continuous distribution of oil and gas resources (Zou et al.,
+2010a; Zou et al., 2012a). Difference between conventional and
+unconventional large oil and gas fields is size of pore throat. Pore
+throat diameter of conventional reservoirs range from microns to
+millimeter, while pore throat diameter of unconventional reservoirs
+is generally nanometer-scale. High-resolution field emission
+scanning electron microscopy (FE-SEM) and nano-CT were
+used to investigate pore throats diameters, nano-scale pore throats
+(<1000 nm) are widely developed and occupied by petroleum in
+the unconventional reservoirs in China, indicating nano-scale
+pore throats play an important role in oil and gas accumulation in
+unconventional reservoirs (Zou et al., 2012b).
+
+3.1 Distribution patterns
+In Ordos Basin, tight oil is mainly distributed in the center of the
+Mesozoic large-scale depression lake basin. Oil-bearing shales of
+the 7th member of the Yanchang Formation are NW - SE trending
+and widely distributed, with relatively large thickness (Fig. 1). The
+hydrocarbon-generating center is located in the Jiyuan - Huachi Zhengning area, covering nearly 50×103 km2 of high-quality source
+rocks. Tight sandstone oils are primarily distributed in the semideep to deep lake gravity flow sand bodies or delta-front sandstone
+bodies. Source-reservoir symbiosis is a major factor to control
+accumulation of tight oil (Yao et al., 2015; Qiu et al., 2016; Zhang
+et al., 2016). In the 7th member of the Yangchang Formation, tight
+sandstone oils are well developed in the 1st and 2nd sub-members
+of the 7th member, and are horizontally distributed in delta-front
+sand bodies of the Jiyuan area and turbidite sand bodies of the
+Longdong area (Fig. 2a). In the 6th member of the Yanchang
+Formation, tight sandstone oils are mainly developed in gravity
+flow sand bodies of the semi-deep to deep lacustrine and deltafront sand bodies, and are horizontally distributed in the Huachi,
+Qingcheng, and Heshui areas (Fig. 2b).
+0
+
+Dingbian
+
+50 km
+
+Crude oil molecules can migrate through nano-scale pore throats.
+Fluorescence imagesfrom confocal laser scanning microscopy
+show that inner microscopic pore structure of tight sandstones in
+the 7th member of the Yanchang Formation is relatively complex,
+and pores connectivity is good (You et al,. 2014; Li et al., 2015;
+Wang et al,. 2015b); most of dissolved pores, residual intergranular
+pores and micro pores show fluorescence. Molecular diameters
+0
+
+Jingbian
+
+30 km Zhidan
+
+Huanxian
+
+Wuqi
+
+Huachi
+Zhidan
+
+Huanxian
+Huachi
+
+Qingcheng
+Qingcheng
+Heshui
+Heshui
+Zhenyuan
+
+Qingyang
+
+Qingyang
+
+Ningxian
+
+Zhenning
+
+(a)Tight oil distribution of the 7th member of the Yanchang Formation
+
+Delta plain
+facies
+
+Delta front
+facies
+
+Deep lacustrine
+facies
+
+Major sand
+body
+
+(b)Tight oil distribution of the 6th member of the Yanchang Formation
+
+Secondary sand Boundary between Boundary between
+body
+delta plain and
+delta front and
+delta front
+deep lacustrine
+
+Proved reserve
+area
+
+Favorable target
+area
+
+City or town
+
+Fig. 2 Tight oil distribution of the 7th and 6th members of the Yanchang Formation, Ordos Basin, China
+
+31
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+Bou
+
+Where d is the thickness of bound water film, mm; φ is the
+porosity of core, %; Sw is irreducible water saturation, %; A is
+specific surface area, m2/g; ρr is density of core, 103kg/m3.
+
+ater
+
+nd w
+ater
+film
+
+According to bound water saturation of different samples,
+relevant thickness of bound water film are calculated, ranging
+from 34-53 nm (average 43 nm) (Xiang et al., 1999). Therefore,
+critical pore throat radius that allow asphaltene of maximum
+molecular diameter of 4 nm to pass through is 45 nm, that is, the
+critical pore throat diameter is 90 nm (Fig. 3).
+Statistics of nano-scale pore throat diameter distribution of tight
+oil reservoirs in the Ordos Basin shows that median pore throat
+diameters of tight oil reservoirs in the Yanchang Formation are
+20–300 nm, mainly in the range of 50–200 nm; maximum pore
+throat diameters are 300–2000 nm, mainly in the range of 500–
+1000 nm(Fig. 4). Pore throat diameter of tight oil reservoirs varies
+in different areas. In Jiyuan area, median pore throat diameters of
+tight oil reservoirs are 40–300 nm, mainly in the range of 80–200
+nm; maximum pore throat diameters are 300–1300 nm, mainly
+in the range of 550–1200 nm. In Heshui area, median pore throat
+diameters of tight oil reservoirs are 13–300 nm, mainly in the range
+of 40–100 nm; maximum pore throat diameters are 300–2000 nm,
+mainly in the range of 300–600 nm. In Shangliyuan area, median
+pore throat diameters of tight oil reservoirs are 20–300 nm, mainly
+in the range of 50–200 nm; maximum pore throat diameters are
+300–900 nm, mainly in the range of 500–800 nm.
+
+film
+
+B
+
+nd w
+
+(1)
+
+d = 7142φ S w /(A⋅ ρ r )
+
+In the tight oil reservoirs of the Yanchang Formation, the
+median pore throat diameters mainly range from 50 to 200
+nm, most of the connected pore throats diameters are greater
+than the critical pore throat diameter, which are controlled
+by hydrocarbon expulsion pressure. These conditions meet
+requirements of oil and gas migration in tight reservoirs.
+
+Bou
+
+of major hydrocarbons from crude oil are 0.38–4 nm. Molecular
+diameters of CH4, C2H6, C3H8, iC4H10, and nC5H12 are 0.38, 0.44,
+0.51, 0.53, and 0.58 nm, respectively. Maximum molecular diameter
+of asphaltene is 4 nm. Based on numerical simulation, thickness of
+bound water film in the cores can be calculated by equation 1 (Xiang
+et al., 1999):
+
+Framework grains
+
+Framework grains
+
+C
+
+A
+
+30µm
+A
+
+Molecular diameter / nm
+
+B
+
+CH 4
+
+0.38
+
+C2H6
+
+0.44 Adamantane
+
+H2O
+
+0.7~2
+
+C3H8
+
+0.51
+
+n- Alkane
+
+0.4~2
+
+iC 4 H 1 0
+
+0.53
+
+0.8~3
+
+nC 5 H 1 2
+
+0.58
+
+Arene
+Maximum
+asphaltene
+
+4 Major reservoirs types and exploration
+progress of tight oil
+There are abundant tight oil resources in the Ordos Basin (Zou
+et al., 2010b; Jia et al., 2012). Through researches on vertical
+distribution of oil-bearing shales and tight sandstones in the 7th
+Sandstone
+
+Tight sandstone
+
+Sample number=53
+Samples from
+Jiyuan
+
+Samples from
+Heshui
+
+0.1
+
+1
+
+Median throat
+diameter
+
+Maximun
+asphaltene
+
+Maximum pore
+throat diameter
+
+Samples from
+Shangliyuan
+
+10
+100
+Pore throat diameter / nm
+
+1000
+
+10000
+
+Fig. 4 Distribution of pore throat diameter of tight oil reservoirs in the Yanchang Formation,
+Ordos Basin, China
+
+32
+
+4
+
+Fig. 3 Critical pore throat diameters of tight sandstones in the
+Yanchang Formation, Ordos Basin, China, A represents the
+critical pore throat diameter of 90 nm; pore throat diameter at
+B is approximately 200 nm; C represents average thickness of
+bound water film of 43 nm.
+
+Shale
+
+Arene
+n-Alkanes
+Adamantane
+nC 5 H 12
+iC 4 H 10
+C3H8
+C2H6
+CH 4
+H2O
+
+0.3
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+member of the Yanchang Formation, and different assemblage
+relations of sand - shale interbeds, adaptive technology program
+can be explored and tight oil resources can be used effectively.
+
+4.1 Reservoir types
+Evolution of basin controls assemblages of depositional facies
+and development characteristics of sand bodies. Delta-front
+and gravity flow sand bodies are mainly developed in the 7th
+member in the basin and the 6th member in the center of the
+basin (Zou et al., 2009; Li et al., 2010; Li et al., 2011), and thick
+laminated sand bodies are formed in the center of the lake basin
+(Fu et al., 2010). The area of lake basin reached the largest
+during deposition of the 3th sub-member of the 7th member
+(Yang et al., 2010), then its gradually shrank thereafter. During
+deposition of 7th to 6th member of the Yanchang Formation, the
+lake basin was dominated by lake regressive - sand trangressive
+deposits, and experienced multiple small-scale oscillations,
+resulting in fluctuations of the lake level. With oscillations of
+the lake basin, the lake underwent periodic trangressive and
+regressive processes, leading to deposition of multiple sets
+of favorable reservoir-cap rock assemblages of sand - shale
+interbeds. Vertical distribution patterns of oil-bearing shales
+and tight sandstones in the Ordos Basin shows that tight oil
+reservoirs can be divided into 3 major types, including tight
+massive sandstone reservoir, sand - shale interbed reservoir, and
+oil-bearing shale reservoir (Fig. 5).
+Tight massive sandstone reservoirs are mainly distributed in
+the middle - upper 7th member and the bottom 6th member of
+Yanchang Formation, characterized by multi-stage superposition
+of gravity flow slump sandstones with less clay content. The sand
+bodies are integral with large thickness, contiguous complex planes
+and large scale. Reservoir spaces are mainly dissolved pores and
+micro pores (Fig. 6a), with average porosity of 9.5%, permeability
+of 0.21 mD and good pore throats connectivity (Fig. 6b).
+The sand - shale interbed reservoirs contain a number of interlayers,
+which are characterized by multiple sets of superimposed
+development of sandstone, silty mudstone, muddy siltstone and
+dark mudstone. The reservoirs heterogeneity is strong, with high
+clay content, fine grain size, developed micro pores, poor physical
+properties (average porosity of 8.1%; average permeability of 0.1
+mD) and poor connectivity (Fig. 6c and 6d).
+In oil-bearing shale reservoirs, major reservoir spaces are micro
+pores and micro fractures in oil-bearing shales. Oil-bearing
+shales of the 7th member of the Yanchang Formation are mainly
+composed of quartz, feldspar, carbonate, clay and pyrite, with
+high content of rigid materials and high quality and abundance
+of organic matter. The oil-bearing shales are interbedded with
+tuff (Fig. 6e and 6f) and dissolved pores are developed in the
+tuff (Fig. 6f). Horizontal micro fractures can be observed in
+the oil-bearing shales (Fig. 6e and 6f). The oil-bearing shales
+
+are of certain reserve ability because of micro fractures and its
+residual liquid hydrocarbon.
+
+4.2 Exploration progress
+Due to poor physical propertie, tight oil reservoirs should be
+modified by effective technological measures to achieve industrial
+production. In the Changqing Oilfield, process tests that focus on
+3 types of tight oil reservoirs have been carried out, and tight oil
+reservoirs of massive sandstones, sand - shale interbeds, and oilbearing shales are modified by fracturing, leading to production of
+industrial oil flow and new advances in tight oil exploration.
+Thick massive tight oil reservoirs of the 7th member of the
+Yanchang Formation are fractured by pumping slippery fluid
+and surfactant gel and slick mixture fluid in large fluid volume,
+large drainage volume with small sand ratio. This process forms
+reticular fractures and dramatically expands drainage volume,
+thereby improving the single-well production of tight oil. This
+technology has been successfully applied in 18 wells in the
+Ordos Basin, high-yield oil flow over 20 t are obtained from 5
+wells, especially, in the Well H210 (Fig. 5a), high yield of test
+oil flow reach to 21.91 t/d after injection of 60.0 m3 of ceramsites
+with a sand ratio of 18.5% and a drainage volume of 6.0 m3/min.
+For sand - shale interbed and oil-bearing shale reservoirs, Well
+L189 and Well G295 are optimised from areas with large thickness
+of oil-bearing shales to test. Water injection through oil tube and
+casing pipe can increase capacity of fracturing fluid, and then
+further expand drainage volume and improve sing-well production.
+In the sand - shale interbed reservoirs, ,oil-bearing sandstone
+formation in the Well L189 is 4.3 m thick and yield of test oil flow
+is up to of 13.18 t/d after injection of 80 m3 sand with sand ratio of
+12.4% and drainage volume of 12.0 m3/min (Fig. 5b). In the oilbearing shale reservoirs, oil-bearing shale formation in the Well
+G295 is 28.0 thick and yield of test oil flow reaches 20.40 t/d after
+injection of 22 m3 ceramsites with sand ratio of 6.3% and drainage
+volume of 5.0 m3/min (Fig. 5c).
+With technological applications in tight sandstone reservoirs,
+a number of large-scale oil-rich zones have been discovered in
+the Ordos Basin. Presently, field-testing has been accomplished
+in approximately 600 wells for tight sandstone reservoirs of the
+7th mumber of the Yanchang Formation. Of these, nearly 350
+wells have yielded industrial oil flow and test oil production of
+approximately 150 wells are >10 t/d. These wells are mainly
+distributed in the gravity flow and delta-front sand bodies in
+adjacent hydrocarbon-generating sags, and are mainly spread in
+the Longdong and Jiyuan areas; presently, more than 10 largescale oil-rich zones are identified (Fig. 2a), covering total area of
+approximately 1400 km2 with implemented reserves >400×106 t
+initially. Large-scale reserves of tight oil have been found in the
+sandstone reservoirs of the 6th of the Yanchang Formation. The
+Huaqing Oilfield is rapidly and efficiently identified based on
+
+33
+
+The thrid sub-member
+
+The 7th member of Yanchang Formation
+The second sub-member
+The first sub-member
+
+34
+Member
+Sub-member
+
+75
+
+SP/mV
+
+15
+
+150
+
+GR/API
+
+50
+
+2250
+
+2240
+
+2230
+
+2220
+
+2210
+
+2200
+
+2190
+
+2180
+
+2170
+
+2160
+
+2150
+
+2140
+
+Depht/m
+
+Fine
+sandstone
+
+2.2
+
+Siltstone
+
+100
+
+Delta
+
+Sub-facies
+
+Delta front
+
+Member
+Sub-member
+
+26
+
+500
+
+SP/mV
+
+16
+
+20
+
+GR/API
+
+Oil-bearing shale
+
+The first sub-member
+
+The second sub-member
+
+2250
+
+2240
+
+2230
+
+2220
+
+2210
+
+2200
+
+2190
+
+2180
+
+2170
+
+2160
+
+2150
+
+Dark mudstone
+
+Mud
+content/%
+AC/( μ s·m -1 )
+DEN/ 100
+0
+203 363
+-3
+(g·cm ) Sand
+Lithology
+AT/( Ω ·m)
+content/%
+2.7
+2
+760
+16
+0
+100
+
+(b)
+
+Mud - sand content
+
+Lacustrine
+
+Sub-facies
+
+Deep lacustrine
+
+Oil layer
+
+The first sub-member
+
+The second sub-member
+
+500
+
+85
+
+50
+
+60
+
+SP/mV
+
+GR/API
+
+2700
+
+2690
+
+2680
+
+2670
+
+2660
+
+2650
+
+2640
+
+2630
+
+2620
+
+2610
+
+Poor oil layer
+
+(c)
+
+Mud
+content/%
+100
+0
+Sand
+content/%
+0
+100
+
+Dry layer
+
+AC/( μ s·m -1 )
+DEN/
+385 (g·cm -3 )
+AT/( Ω ·m)
+2
+5
+2000 2.7
+
+Lithology 185
+
+Fig. 5 Major types and characteristic of tight oil reserviors in the Yanchang Formation, Ordos Basin, China
+
+0
+
+content/%
+
+Mud
+content/%
+
+DEN/ 100
+0
+(g·cm -3 ) Sand
+
+AT/( Ω ·m)
+170 2.8
+5
+
+AC/( μ s·m -1 )
+350
+
+Lithology 100
+
+(a)
+
+Interpretation
+
+Facies
+Perforation
+section
+Test oil
+production
+
+Oil: 20.91t / d, water: 0 m 3
+The 7th member of Yanchang Formation
+The thrid sub-member
+
+Depht/m
+
+Interpretation
+
+Facies
+Perforation
+section
+Test oil
+production
+
+Oil : 13 . 18 t / d, water: 0 m 3
+
+Member
+Sub-member
+
+The 7th member of Yanchang Formation
+The thrid sub-member
+
+Depht/m
+
+Interpretation
+
+Sub-facies
+
+Semi-lacustrine
+
+Deep lacustrine
+Lacustrine
+
+Facies
+Perforation
+section
+Test oil
+production
+
+Oil : 20 . 49 t / d，water : 0 m 3
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+Fig. 6 Microscopic pore structure characteristics of different reservoirs in the Yanchang Formation,
+Ordos Basin, China, (a) Dissolved pores and intergranular pores in the tight massive sandstone
+reservoir; surface porosity 3.8%, porosity 8.1%, and permeability 0.28 mD; 2nd sub-member of the
+7th member of the Yanchang Formation, 2180.11 m of Well A83. (b) Laser confocal photomicrograph
+of the tight massive sandstone reservoir mainly consisting of dissolved pores and micro pores; good
+pores connectivity; 2nd sub-member of the 7th member of the Yanchang Formation, 2180.11 m of
+Well A83. (c)Micro pores in the sand - shale interbed reservoir; porosity 10.0%, permeability 0.065
+mD; 1st sub-member of the 7th member of the Yanchang Formation, 1658.96 m of Well N33. (d) Laser
+confocal three-dimensional image of the sand - shale interbed reservoir, bright yellow indicates good
+development and connectivity of pore throats, followed by green; blue areas indicate poor development
+and connectivity of pore throats; 3rh sub-member of the 7th member of the Yanchang Formation,
+1658.96 m of Well N33. (e) Tuff - oil-bearing shale interbed, with dissolved pores in the tuff and
+horizontal micro fractures in the oil-bearing shale (dark-brown banded zones in horizontal direction);
+3rh sub-member of the 7th member of the Yanchang Formation, 2015.06 m of Well N33. (f) Tuff
+interbedded with oil-bearing shale, with dissolved pores in the tuff; 3rh sub-member of the 7th member
+of the Yanchang Formation, 2015.06 m of Well 100.
+
+35
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+integrated exploration and assessment, the proved reserves are
+522×106 t. Additionally, 4 large-scale oil-rich zones have been
+discovered in the periphery of the Huaqing Oilfield as well as
+the Heshui and Ta’erwan areas (Fig. 2b), with controlling area
+of 1100 km2 and initial implemented reserves of nearly 600×106,
+and the center of the lake basin becomes a favorable target for
+tight oil exploration and evaluation.
+
+5 Resource potential
+Based on assessment of hydrocarbon source rock and analysis
+of tight oil accumulation conditions and mechanisms, some key
+indices, such as trap area, reservoir thickness, oil saturation
+are used to preliminarily estimate tight sandstone and shale oil
+resources with a variety of methods (Guo et al., 2011).
+
+5.1 Tight sandstone oil resource potential
+In this study, tight oil resources of Ordos Basin are calculated
+using a volume method. This method should use reservoir area and
+effective reservoir thickness. Some other parameters for calculation
+are derived from blocks of submitted proved reserves.
+The equation of the volume method is expressed as:
+
+N  100 Ah So  oTr / Boi
+
+(2)
+
+where N is amount of resources, 104 t; A is the trap area, km2;h is
+the oil layer thickness, m; φ is the average effective porosity,%;
+S o is the average initial oil saturation,%; ρo is the average
+surface crude oil density, t/m3; Tr the success rate of exploratory
+wells,%; and Boi is the average initial crude oil volume factor.
+Reservoir area (trap area) boundary is generally determined
+by both sides of the main sand body, sand body boundaries
+of 4- or 10-m-thick oil layers are used as the oil-bearing
+boundary, when the oil-bearing boundary is not identified in the
+extensional direction of the sand body, the trap area boundary
+can be determined by extending the oil flow well with test oil
+production >2.0 t or stable oil production >0.65 t by 1–1.5-time
+development well spacing. With this method, trap areas of the
+7th and 6th members of Yanchang oil-bearing formations are
+estimated to be 8461.20 km2 and 4872.54 km2, respectively.
+Low limit of effective reservoir thickness is mainly determined
+by investigating lithology, oil saturation and physical properties
+of the effective reservoir. Low limits of lithology and oil
+saturation are identified from core observations, analysis of
+physical properties and oil testing results. Empirical statistics
+combined with single-layer oil testing data are used to calculate
+low limit of physical properties of the effective reservoir. The
+average tight oil thickness of 7th and 6th members of Yanchang
+oil-bearing formations are 6.0 and 9.3 m, respectively.
+The average effective porosity can be obtained by a arithmetic
+mean method. The porosity of 7th member of Yanchang oil-
+
+36
+
+bearing formation is generally 5–10% (average 8.1%), the
+porosity of 6th member of Yanchang oil-bearing formation is
+generally 9–15% (average 11.3%).
+The average oil saturation of reservoirs can be obtained by
+examining relationship between tight reservoir porosity and oil
+saturation from sealing core drilling. The average oil saturations of
+7th and 6th members of Yanchang oil-bearing formations are 73%
+and 71%, respectively. The crude oil density is used 0.85 t/m3.
+The formation crude oil volume factor is 1.341 which is from
+the 3rd sub-member of 6th member of Yanchang Formation in
+Huaqing area. Risk factor represent degree of implementation
+of traps, due to restriction of geological understanding and
+exploration degree, exploration of tight oil resources in the
+Ordos Basin is still in an early exploration stage, and current
+understanding of tight oil accumulation mechanism needs to be
+improved. Therefore, recent success rate of exploratory wells is
+47.3%.
+Results of preliminary assessment show that tight sandstone
+resource in Ordos Basin are approximately 2×109 t, including
+0.9×109 t of the 7th member of Yanchang oil-bearing formation and
+1.1 ×109 t of the 6th member of Yanchang oil-bearing formation.
+
+5.2 Tight oil resource potential in oil-bearing shale
+The buried depth of oil-bearing shale in the 7th member of
+Yanchang Formation is mostly >1000 m. Tight oil are mainly
+developed in 3rd and 2nd sub-members of the 7th member of
+Yangchang Formation. Variations of the formation thickness
+are very rapid laterally, and single-layer thickness of oil-bearing
+shale mainly ranges from 3 to 15 m. The accumulative thickness
+of oil-bearing shale in the best developed area is up to 40 m and
+ranges from 10 m to 40 m in most areas. The tight oil resources
+in oil-bearing shale can be calculated using the following
+equation:
+
+(3)
+N  GOc Bo
+4
+where N is the amount of resources, 10 t; G is the weight of
+oil-bearing shale, 10 4 t; O c is the content of retained liquid
+hydrocarbons, mg(hydrocarbon)/g (oil-bearing shale); and Bc is
+the effective oil-bearing shale ratio.
+
+In the 7th member of Yanchang Formation, oil-bearing shale which
+accumulative thickness is more than 20 m are distributed in the NW SE direction along the Jiyuan - Huachi - Zhengning area (Fig. 1), with
+distribution area of 25×103 km2, average thickness of 11.2 m, density
+of 2.21 g/cm3, and weight of 994×109 t. Retained liquid hydrocarbon
+content of the oil-bearing shale is generally 1–3 mg/g and averages 2.64
+mg/g. Testing results show that oil content >3.5% meets standard of
+industrial grade oil. In the 7th member of Yanchang Formation, ratio
+of effective oil-bearing shale that meet standard of industrial grade oil
+is approximately 40%. Tight oil resource in shale of the 7th member of
+Yanchang Formation is estimated to be >1×109 t.
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+6 Conclusions
+(1) In the Yanchang Formation of the Ordos Basin, tight oil
+has mainly developed in the semi-deep to deep lacustrine
+facies, and has typically accumulated in oil-bearing shales and
+tight sandstones of the 7th member of Yanchang oil-bearing
+formation as well as tight sandstones of the 6th member of
+Yanchang oil-bearing formation in the center of the basin.
+(2) Tight oil are characterized by wide spatial distribution,
+excellent hydrocarbon source rock conditions, tight sandstone
+reservoirs, complex pore throat structures, poor physical
+properties, high oil saturation, excellent crude oil quality, and
+low reservoir pressure. thus providing favourable geological
+conditions for tight oil accumulation and having good producing
+potential.
+(3) Tight oil reservoirs have median pore throat diameters of
+20–300 nm, mainly in the range of 50–200 nm. The maximum
+pore throat diameter is 300–2000 nm, mainly in the range of
+500–1000 nm. The critical pore throat diameter that meets
+requirements of hydrocarbon migration is 90 nm. Diameters
+of most connected pore throats of the Yanchang Formation are
+greater than this critical value, thereby satisfying requirements
+of oil and gas migration in tight reservoirs.
+(4) Major types of tight oil reservoirs are tight massive sandstone
+reservoir, sand - shale interbed reservoir, and oil-bearing shale
+reservoir.
+(5) Total tight oil resources in the Ordos Basin are approximately
+3.0×109 t, includiing >1 × 109 t of tight oil in shale reservoirs
+and approximately 0.9 × 109 t of tight sandstone oil in the 7th
+member of Yanchang Formation, and nearly 1.1×109 t of tight
+sandstone oil in the 6th member fo Yanchang Formation.
+
+Acknowledgements
+T h i s wo r k wa s s u p p o r t e d by Na t i o n a l S c i e n c e a n d
+Technology Major Project of China (Grant No. 2011ZX05044,
+2011ZX05001), and National Key Basic Research Program (973
+Program) of China (2014CB239003).
+
+References
+Fu S T, Deng X Q, Pang J L. Characteristics and mechanism of thick sandbody of Yanchang Formation at the centre of Ordos Basin. Acta Sedimentologica Sinica, 2010, 28(6):1081-1089 (in Chinese with English
+abstract).
+Guan D S, Niu J Y, Guo L N. Unconventional oil and gas geology in China.
+Beijing: Petroleum Industry Press, 1995 (in Chinese).
+Guo Q L, Zhou C Q, Chen N S, et al. Evaluation methods for unconventional hydrocarbon resources. Lithologic Reservoirs, 2011, 23(4):12-19
+(in Chinese with English abstract).
+Jia C Z, Zheng M and Zhang Y F. Unconventional hydrocarbon resources
+
+in China and the prospect of exploration and development. Petroleum
+Exploration and Development, 2012a, 39(2):129-136 (in Chinese with
+English abstract).
+Jia C Z, Zou C N, Tao S Z, et al. Assessment criteria, main types, basic
+features and resource prospects of the tight oil in China. Acta Petrolei
+Sinica, 2012b, 33(3):343-350.
+Li H B, Guo H K, Yang Z M, et al. Tight oil occurrence space of Triassic
+Chang 7 Member in Northern Shaanxi Area, Ordos Basin, NW China.
+Petroleum Exploration and Development, 2015, 42(3): 396-400 (in Chinese with English abstract).
+Li S X, Shi Z J, Liu X Y, et al. Quantitative analysis of the Mesozoic abnormal low pressure in Ordos Basin. Petroleum Exploration and Development, 2013, 40(5): 528-533 (in Chinese with English abstract).
+Li X B, Chen Q L, Liu H Q, et al. Three types of sediment gravity flows and
+their petroliferous features of Yanchang Formation in Ordos Basin[J].
+Lithologic Reservoirs, 2010, 22(3):16-21 (in Chinese with English abstract).
+Li X B, Fu J H, Chen Q L, et al. The concept of sandy debris flow and its
+application in the Yanchang Formation deep water sedimentation of the
+Ordos Basin. Advances in Earth Science, 2011, 26(3):286-294 (in Chinese with English abstract).
+Liang D G, Ran L H, Dai D S, et al. A re-recognition of the prospecting
+potential of Jurassic large-area and non-conventional oils in the central- northern Sichuan Basin. Acta Petrolei Sinica, 2011, 32(1):8-17 (in
+Chinese with English abstract).
+Lin S H, Zou C N, Yuan X J, et al. Status quo of tight oil exploitation in the
+United States and its implication. Lithologic Reservoirs, 2011, 23(4):2530 (in Chinese with English abstract).
+Qiu Z, Shi Z S, Dong D Z, et al. Geological characteristics of source rock
+and reservoir of tight oil and its accumulation mechanism: A case study
+of Middle Permian Lucaogou Formation in Jimusar sag, Junggar Basin.
+Petroleum Exploration and Development, 2016, 43(6): 1-12 (in Chinese
+with English abstract).
+Ren Z L. Research on the relations between geothermal history and oli-gas
+accumulation in the Ordos Basin. Acta Petrolei Sinica, 1996, 17(1):1724 (in Chinese with English abstract).
+Schmoker J W and Hester T C. Organic carbon in Bakken Formation,
+United States portion of Williston Basin. AAPG Bulletin, 1983,
+67(12):2165-2174.
+Sun Z D, Jia C Z, Li X F, et al. Unconventional oil & gas exploration and
+development (upper volume). Beijing: Petroleum Industry Press, 2011
+(in Chinese).
+Wang M L, Liu Y T, Zhang F D, et al. Quantitative analysis of microscopic
+pore-throat structure of tight oil reservoir in Ordos Basin. Acta Mineralogica Sinica, 2015a, 35(3): 318-322 (in Chinese with English abstract).
+Wang M L, Zhang S A, Zhang F D, et al. Quantitative research on tight oil
+microscopic state of Chang 7 Member of Triassic Yanchang Formation
+in Ordos Basin, NW China. Petroleum Exploration and Development,
+2015b, 42(6): 757-762 (in Chinese with English abstract).
+Webster R L. Petroleum source rocks and stratigraphy of the Bakken Formation in north Dakota. AAPG Bulletin, 1984, 68(7):953.
+Xu H, Zhang J F, Tang D Z, et al. Controlling factors of underpressure reservoirs in the Sulige gas field, Ordos Basin. Petroleum Exploration and
+Development, 2012, 39(1):64-68 (in Chinese with English abstract).
+Yan C Z, Li L G, Wang B F, et al. New progress of shale gas exploration
+
+37
+
+H.Yang et al./Petroleum Research (2016) 1,27-38
+
+and development in north America. Beijing: Petroleum Industry Press,
+2009 (in Chinese).
+Yang H and Zhang W Z. Leading effect of the seventh Member highquality source rock of Yanchang Formation in Ordos Basin during the
+enrichment of low-penetrating oil-gas accumulation: geology and geochemistry. Geochimica, 2005, 34(2):147-154 (in Chinese with English
+abstract).
+Yang H, Dou W T, Liu X Y, et al. Analysis on sedimentary facies of
+Member 7 in Yanchang Formation of Triassic in Ordos Basin. Acta
+Sedimentologica Sinica, 2010, 28(2):254-263 (in Chinese with English
+abstract).
+Yao Y T, Li S X, Zhao Y D, et al. Characteristics & controlling factors of
+Chang 7 tight oil in Xin'anbian area, Orods Basin. Acta Sedimentologica Sinica, 2015, 33(3): 625-632 (in Chinese with English abstract).
+You Y, Niu X B, Feng S B, et al. Study of pore features in Chang7 tight oil
+reservoir, Yanchang layer, Ordos Basin. Journal of China University of
+Petroleum, 2014, 38(6): 18-23 (in Chinese with English abstract).
+Zhang W Z, Yang H, Li J F, et al. Leading effect of high-class source rock
+of Chang 7 in Ordos Basin on enrichment of low permeability oilgas accumulation: hydrocarbon generation and expulsion mechanism.
+Petroleum Exploration and Development, 2006, 33(3):289-293 (in Chinese with English abstract).
+Zhang Z Y, Chen S J, Yang H, et al. Tight oil accumulation mechanisms of
+Triassic Yanchang Formation Chang 7 Member, Ordos Basin, China.
+Petroleum Exploration and Development, 2016, 43(4): 590-599 (in Chi-
+
+38
+
+nese with English abstract).
+Zou C N, Dong D Z, Wang S J, et al. Geological characteristics, formation
+mechanism and resource potential of shale gas in China. Petroleum
+Exploration and Development, 2010a, 37(6):641-653 (in Chinese with
+English abstract).
+Zou C N, Tao S Z, Hou L H, et al. Unconventional petroleum geology. Beijing: Geological Publishing House, 2011 (in Chinese).
+Zou C N, Yang Z, Tao S Z, et al. Nano-hydrocarbon and the accumulation
+in coexisting source and reservoir. Petroleum Exploration and Development, 2012b, 39(1):13-26 (in Chinese with English abstract).
+Zou C N, Zhang G Y, Tao S Z, et al. Geological features, major discoveries
+and unconventional petroleum geology in the global petroleum exploration. Petroleum Exploration and Development, 2010b, 37(2):129-145 (in
+Chinese with English abstract).
+Zou C N, Zhao Z Z, Yang H, et al. Genetic mechanism and distribution of
+sandy debris flows in terrestrial lacustrine basin. Acta Sedimentologica
+
+Sinica, 2009, 27(6):1065-1075 (in Chinese with English abstract).
+Zou C N, Zhu R K, Bai B, et al. First discovery of nano-pore throat in oil
+and gas reservoir in China and its scientific value. Acta Petrologica Sinica, 2011b, 27(6):1857-1864 (in Chinese with English abstract).
+Zou C N, Zhu R K, Wu S T, et al. Types, characteristics, genesis and prospects of conventional and unconventional hydrocarbon accumulations:
+taking tight oil and tight gas in China as an instance. Acta Petrolei Sinica, 2012a, 33(2):173-187 (in Chinese with English abstract).
+
+

@@ -1,0 +1,304 @@
+1040-5488/11/8807-0795/0 VOL. 88, NO. 7, PP. 795–797
+OPTOMETRY AND VISION SCIENCE
+Copyright © 2011 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Font Size and Viewing Distance of Handheld
+Smart Phones
+Yuliya Bababekova*, Mark Rosenfield†, Jennifer E. Hue*, and Rae R. Huang‡
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+ABSTRACT
+Purpose. The use of handheld smart phones for written communication is becoming ubiquitous in modern society. The
+relatively small screens found in these devices may necessitate close working distances and small text sizes, which can
+increase the demands placed on accommodation and vergence.
+Methods. Font size and viewing distance were measured while subjects used handheld electronic devices in two separate
+trials. In the first study (n ⫽ 129), subjects were asked to show a typical text message on their own personal phone and
+to hold the device “as if they were about to read a text message.” A second trial was conducted in a similar manner except
+subjects (n ⫽ 100) were asked to view a specific web page from the internet.
+Results. For text messages and internet viewing, the mean font size was 1.1 M (range, 0.7 to 2.1 M) and 0.8 M (range,
+0.3 to 1.4 M), respectively. The mean working distance for text messages and internet viewing was 36.2 cm (range, 17.5
+to 58.0 cm) and 32.2 cm (range, 19 to 60 cm), respectively.
+Conclusions. The mean font size for both conditions was comparable with newspaper print, although some subjects
+viewed text that was considerably smaller. However, the mean working distances were closer than the typical near
+working distance of 40 cm for adults when viewing hardcopy text. These close distances place increased demands on
+both accommodation and vergence, which could exacerbate symptoms. Practitioners need to consider the closer
+distances adopted while viewing material on smart phones when examining patients and prescribing refractive corrections for use at near, as well as when treating patients presenting with asthenopia associated with nearwork.
+(Optom Vis Sci 2011;88:795–797)
+Key Words: accommodation, computer vision, convergence, nearwork, reading
+
+T
+
+he use of computers and digital electronic devices for both
+vocational and non-vocational activities including e-mail,
+internet access, and entertainment is almost universal in the
+developed world. A recent estimate of internet usage by continent
+ranged from 77.4% of the population of North America to 10.9%
+of Africa, with an estimated 1,966,514,816 users worldwide (or
+28.7% of the world’s population).1
+The viewing of digital electronic screens is no longer restricted to
+desktop computers located in the workplace. Today’s visual requirements may include viewing laptop and tablet computers,
+electronic book readers, smart phones, and other electronic devices
+both in the workplace, at home or in the case of portable equipment, in any location. Furthermore, computer use is not restricted
+to adults. A recent investigation of over 2000 American children
+*BS
+†
+MCOptom, PhD, FAAO
+‡
+BA
+State University of New York, SUNY State College of Optometry, New York,
+New York.
+
+between 8 and 18 years of age reported that in an average day, they
+spend ⬃7.5 h using entertainment media, 4.5 h watching TV,
+1.5 h on a computer, and over an hour playing video games.2
+The use of handheld smart phones for written communication
+(e.g., text messaging, e-mail, and internet access) is also becoming
+ubiquitous in contemporary society. The relatively small screens
+found in these devices may necessitate close working distances and
+small text sizes, which can increase the demands placed on ocular
+accommodation and vergence when compared with printed materials. This can result in disabling symptoms which may include
+eyestrain, headaches, ocular discomfort, dry eye, diplopia, and
+blurred vision either at near or when looking into the distance after
+prolonged use.3 Indeed, previous studies have reported that between 64 and 90% of computer users experience some of these
+visual symptoms.4
+Bilton5 proposed the term “1, 2, 10” to describe commonly
+adopted working distances, with cell phones and electronic books
+typically being held ⬃one foot (⬇30 cm) away, desktop computers
+being viewed at about 2 feet (⬇60 cm), whereas televisions are
+
+Optometry and Vision Science, Vol. 88, No. 7, July 2011
+
+796
+
+Font Size of Handheld Smart Phones—Bababekova et al.
+
+often viewed at a distance of around 10 feet (⬃3 m). However,
+there appears to be little evidence documenting the working distances adopted when using smart phone type devices. Accordingly,
+the aim of this study was to measure both font size and viewing
+distance while individuals were using handheld electronic devices.
+
+METHODS
+Smart phone font size and viewing distance were quantified in
+two separate studies. In the first investigation, these parameters
+were measured in 129 subjects (46 male and 83 female) having a
+mean age of 23.2 years (range, 18 to 39 years). Subjects wore their
+habitual refractive correction (either spectacles or contact lenses)
+and were asked if they used a “smart phone.” If they replied in the
+affirmative, they were asked to show the examiner a typical text
+message on their own personal phone. The vertical height of a
+lower case letter without ascenders or descenders (e.g., e, m, o) was
+measured to the nearest half millimeter through a ⫹20.00 D lens
+with a ruler. Additionally, subjects were asked to hold the device
+“as if they were about to read a text message” and the distance from
+the smart phone to their spectacle plane was measured using a rigid
+tape measure to the nearest millimeter.
+A second trial was conducted in a similar manner except subjects
+were asked to view a specific web page from the internet. One
+hundred subjects (34 male and 66 female) having a mean age of
+24.9 years (range, 18 to 40 years) participated in this second trial.
+Subjects were asked to open up the SUNY College of Optometry
+web site (www.sunyopt.edu) on their smart phones and to “read
+the text as they normally would.” They were instructed to hold the
+phone “as they normally would” and to increase or decrease the
+font size so as to be able to read the text comfortably. The working
+distance and text size was measured using the same methodology as
+the first trial.
+
+RESULTS
+The mean (⫾1 SD) and range of values measured for font size
+and working distance when reading a text message and viewing a
+page from the internet are shown in Table 1. Font size is expressed
+either as the height of a lowercase letter, as a Snellen fraction or in
+terms of M acuity (i.e., the distance in meters at which the letter
+subtends 5 min of arc).6 Both the mean working distance and font
+size when viewing the web site were significantly smaller than when
+typing a text message (working distance: t ⫽ 4.09; dF ⫽ 223; p ⫽
+0.000, font size: t ⫽ 10.65; dF ⫽ 223; p ⫽ 0.000). In both trials,
+
+font size did not vary significantly with working distance (text
+message: r ⫽ 0.10, p ⫽ 0.24; web page: r ⫽ 0.16, p ⫽ 0.13).
+
+DISCUSSION
+When reading a text message on a smart phone, the mean font
+size (6/19.2 or 1.1 M) was comparable with newspaper print,
+which generally ranges between 0.8 and 1.2 M (6/12 to 6/18).7
+However, Sheedy and Shaw-McMinn8 suggested a 3⫻ acuity reserve, i.e., for comfortable reading, the visual acuity (VA) should be
+three times better than that required to read the text on the display.
+This indicates that prolonged viewing of a 6/19.2 letter would
+require VA of at least 6/6.4 (or 20/21). Furthermore, the results
+documented in Table 1 indicate that in some cases, the text size was
+as small as 6/8.3, so that based on the 3⫻ reserve, VA of 6/2.8
+would be required for comfortable, sustained viewing. When viewing a page from the internet, the mean font size was even smaller
+(6/15.1 or 0.8 M), which would require VA of at least 6/5 for
+comfortable viewing. In some cases, letter size was as small as 6/5.9
+or 0.3 M, which based on the 3⫻ reserve would require a VA of
+6/2.0. Although there does not appear to be any objective evidence
+to support the 3⫻ rule for sustained reading, it does appear reasonable to assume that many patients will not be comfortable
+reading text which is close to their acuity threshold for a sustained
+period of time. Current work in our laboratory is evaluating
+whether the 3⫻ rule is valid, or if an alternative relationship between threshold VA and letter size for sustained reading would be
+more appropriate.
+A limitation of this investigation was the fact that only a single
+measurement of text height was taken for each device. An alternative method of calculating text size could have been to use the
+pixilation density of the screen (pixels/mm) and the number of
+pixels per letter height. However, because pixilation density varies
+with the manufacturer and model of device being used, as well as
+screen size and shape, this technique would have been considerably
+more complicated than the simple measurement technique adopted here.
+Hennings and Ye9 cited multiple international standards for the
+height of a letter displayed on a video display terminal. Recommendations ranged from 12 min of arc for non-critical markings
+and routine instructions printed in lower case letters up to 26 min
+of arc, with a mean value of ⬃18 min of arc. Indeed, the American
+National Standards Institute ANSI/HFES 100 –2007 states that
+the minimum character height for visual displays at computer
+
+TABLE 1.
+Mean and range of values for font size and working distance while using a smart phone and either reading a text message
+or viewing a web page on the internet
+
+Font size (mm)
+Snellen fraction
+M acuity
+Working distance (cm)
+
+Text message,
+mean (⫾1 SD)
+
+Text message
+(range)
+
+Web page,
+mean (⫾1 SD)
+
+Web page
+(range)
+
+1.6 (0.35)
+6/19.2 (5.25)
+1.1 (0.24)
+36.2 (7.12)
+
+1.0 to 3.0
+6/8.3 to 6/35.3
+0.7 to 2.1
+17.5 to 58.0
+
+1.1 (0.34)
+6/15.1 (4.78)
+0.8 (0.23)
+32.2 (7.41)
+
+0.5 to 32.0
+6/5.9 to 6/28.5
+0.3 to 1.4
+19.0 to 60.0
+
+Note that the standard deviation for the Snellen fraction refers only to the denominator of the fraction.
+Optometry and Vision Science, Vol. 88, No. 7, July 2011
+
+Font Size of Handheld Smart Phones—Bababekova et al.
+
+workstations should be 16 min of arc, and text should be between
+22 and 30 min of arc except when speed of recognition is unimportant.10 In the present investigation, the mean angular subtense
+when viewing text messages and a web page was 16.0 min (SD ⫽
+4.37; range ⫽ 6.9 to 29.5 min) and 12.6 min (SD ⫽ 3.98; range ⫽
+4.9 to 23.7 min), respectively. Therefore, in most cases, the text
+being observed on the smart phone was smaller than that recommended by existing standards. Future studies should investigate
+whether an increase in asthenopic symptoms results from these
+small font sizes.
+Additionally, the mean working distance when observing a text
+message (36.2 cm) was closer than the typical near working distance of 40 cm for adults when viewing hardcopy text11,12 and
+was as close as 17.5 cm for one individual. Indeed, 75% of the
+subjects examined used viewing distances between 26 and 40 cm,
+whereas 22.5% adopted viewing distances of ⬍30 cm (Table 1).
+The distances adopted when viewing the web site were closer
+(mean ⫽ 32.2 cm) and in one individual was only 19.0 cm. These
+close distances will place increased demands on both ocular accommodation and vergence, especially if maintained for an extended
+period of time, which could exacerbate symptoms when compared
+with the longer viewing distances more commonly found when
+viewing printed materials.12
+Previous work in our laboratory has reported that symptoms of
+asthenopia (e.g., eyestrain, headaches, ocular discomfort, dry eye,
+diplopia, and blurred vision) during computer use were not associated with an abnormal accommodative response.13 Additionally,
+subjects reading text from a computer were most symptomatic
+when they converged accurately on the screen, i.e., having orthoassociated phoria, when compared with individuals having a lower
+vergence response (exo associated phoria).13 It is unclear whether
+these findings are applicable to the handheld devices used in the
+present investigation, given the closer viewing distances being adopted. In a recent article, Tosha et al.14 examined the relationship
+between visual discomfort and the accommodative response. They
+noted an increased lag of accommodation in subjects reporting
+higher discomfort, which became manifest with extended viewing
+(typically after at least 30 s of sustained fixation). This was attributed to accommodative fatigue. These differences were apparent
+for the 4 and 5 D accommodative stimulus conditions but were not
+significant for the 2 or 3 D stimulus levels. Accordingly, the closer
+distances adopted when using smart phones for an extended period
+of time may induce a larger lag of accommodation and greater
+fatigue. Future studies should examine the accommodative response when viewing these devices for sustained intervals.
+The use of electronic devices to view small type for many hours,
+frequently at close working distances, has become commonplace in
+modern society for patients of all ages. Indeed, recent studies have
+proposed the use of smart phones to collect experimental data
+during clinical trials.12,15 Many individuals use one or more handheld devices. These present a variety of visual demands that are
+significantly different from those of printed materials in terms of
+working distances, gaze angle, and text sizes. It is no longer reasonable to assume that a patient will read text at a viewing distance of
+⬃40 cm with their eyes depressed. Accordingly, a careful history is
+required in patients of all ages to determine the working distance(s)
+
+797
+
+being adopted, and practitioners should consider performing refractive and binocular testing at these distances during the optometric
+examination. Additionally, changes in the design of ophthalmic lenses
+(particularly for the correction of presbyopia) may also be required to
+facilitate these modern visual demands.
+Received January 18, 2011; accepted February 11, 2011.
+
+REFERENCES
+1. Internet World Stats. Usage and Population Statistics. The Internet
+Big Picture. World Internet Users and Population Stats. Available at:
+http://www.internetworldstats.com/stats.htm. Accessed February 9,
+2011.
+2. Rideout VJ, Foehr UG, Roberts DF. Generation M2. Media in the
+lives of 8- to 18-year olds. A Kaiser Family Foundation Study. January
+2010. Available at: http://www.kff.org/entmedia/upload/8010.pdf.
+Accessed March 8, 2011.
+3. Rossignol AM, Morse EP, Summers VM, Pagnotto LD. Visual display terminal use and reported health symptoms among Massachusetts clerical workers. J Occup Med 1987;29:112–8.
+4. Thomson WD. Eye problems and visual display terminals—the facts
+and the fallacies. Ophthalmic Physiol Opt 1998;18:111–9.
+5. Bilton N. I Live in the Future & Here’s How It Works. New York,
+NY: Crown Business; 2010.
+6. Lay M, Wickware E, Rosenfield M. Visual acuity and contrast sensitivity. In: Rosenfield M, Logan N, eds. Optometry: Science, Techniques and Clinical Management, 2nd ed. Edinburgh: Butterworth
+Heinemann, Elsevier; 2009:173–85.
+7. DeMarco LM, Massof RW. Distribution of print sizes in U. S. newspapers. J Vis Impair Blind 1997;91:9–13.
+8. Sheedy JE, Shaw-McMinn PG. Diagnosing and Treating ComputerRelated Vision Problems. Boston, MA: Butterworth Heinemann;
+2003.
+9. Hennings LK, Ye N. Interaction of screen distances, screen letter
+heights and source document distances. Interacting Comput 1996;8:
+311–22.
+10. American National Standards Institute/Human Factors Engineering
+Society. Human Factors Engineering of Computer Workstations:
+ANSI/HFES 100–2007. Santa Monica, CA: Human Factors and
+Ergonomics Society; 2007.
+11. Bailey IL. Visual acuity. In: Benjamin WJ, Borish IM, eds. Borish’s
+Clinical Refraction, 2nd ed. Oxford: Butterworth Heinemann; 2006:
+217–46.
+12. Rah MJ, Mitchell GL, Bullimore MA, Mutti DO, Zadnik K. Prospective quantification of near work using the experience sampling
+method. Optom Vis Sci 2001;78:496–502.
+13. Collier JD, Rosenfield M. Accommodation and convergence during
+sustained computer work. Optometry, in press.
+14. Tosha C, Borsting E, Ridder WH, III, Chase C. Accommodation
+response and visual discomfort. Ophthalmic Physiol Opt 2009;29:
+625–33.
+15. Woods CA, Dumbleton K, Jones L, Fonn D. Patient use of smartphones to communicate subjective data in clinical trials. Optom Vis
+Sci 2011;88:290–4.
+
+Optometry and Vision Science, Vol. 88, No. 7, July 2011
+
+Mark Rosenfield
+SUNY College of Optometry
+33 West 42nd Street
+New York, New York 10036
+e-mail: mrosenfield@sunyopt.edu
+
+

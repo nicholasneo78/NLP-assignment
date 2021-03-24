@@ -1,0 +1,1337 @@
+Petroleum Research 2 (2017) 1e12
+
+Contents lists available at ScienceDirect
+
+Petroleum Research
+journal homepage: http://www.keaipublishing.com/en/journals/
+petroleum-research/
+
+Full Length Article
+
+New advances in the assessment of tight oil resource in China
+Shejiao Wang*, Yuanjiang Yu, Qiulin Guo, Shaoyong Wang, Xiaozhi Wu
+PetroChina Research Institute of Petroleum Exploration and Development, Beijing 100083, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 15 July 2016
+Received in revised form
+14 November 2016
+Accepted 18 November 2016
+Available online 1 July 2017
+
+The research on tight oil becomes another hotspot in the ﬁeld of unconventional oil and gas after the
+boom of shale gas. The global recoverable resources of tight oil are estimated to be around 47.3  109 t. In
+recent years, signiﬁcant progress has been made in the technologies of tight oil exploration and
+development in North America, thus stimulating the dramatic increase of tight oil production. Meanwhile, China has also acquired remarkable achievements in tight oil exploration. Mature assessment
+methods have been established for tight oil resources by the US, generally dominated by analogy and
+statistical methods with their own advantages and disadvantages as well as applicable conditions. In
+China, improvement of resource evaluation techniques becomes an urgent issue in increasing tight oil
+reserve and production. This study mainly discusses the resource evaluation methods and resource
+enrichment characteristics of tight oil. Seven kinds of assessment methods in three categories (i.e.,
+analogy, statistical and genetic method) and evaluation parameters have been preliminary established,
+and are speciﬁcally applied in the Sichuan, Ordos, Songliao, Junggar, Bohai Bay and other tight oil basins
+through the newly hierarchical resource abundance analogy method, the estimated ultimate recovery
+(EUR) analogy method and the small-cell volumetric method. The preliminary evaluation results reveal
+that China has great potential in tight oil resource, and the geological resources amount to 20  109 t,
+providing a resource base for large-scale development.
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open
+access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Unconventional oil and gas
+Resource assessment method
+Resource potential
+Resource enrichment characteristics
+Tight oil
+
+1. Introduction
+The world is currently undergoing the third signiﬁcant energy
+revolution characterized by the transformation from conventional
+oil and gas to new energy, in which unconventional oil and gas
+resources will no doubt be the most practical in future. The research
+on tight oil has become a hotspot in the ﬁeld of unconventional oil
+and gas after the boom of shale gas (Zou et al., 2012a). Hundreds of
+oil companies in North America have shifted the focus from shale
+gas to tight oil, thereby contributing to the progress of exploration
+and development technologies of tight oil as well as rapid increase
+in production. America ﬁrst realized the transition from conventional to unconventional resources and now holds a leading position in the ﬁeld of tight oil exploration and development (Zou et al.,
+2012a). The tight oil production in America reached 30  106 t in
+2011 and was up to approximately 70  106 t in 2012.
+Using the successful experiences in North America as a reference, China has stepped up efforts in tight oil exploitation and
+development, and made signiﬁcant achievements in recent years
+* Corresponding author.
+E-mail address: wsj@petrochina.com.cn (S. Wang).
+Peer review under responsibility of Petroleum Research.
+
+(Liang et al., 2011; Wang et al., 2012; Zhao and Du, 2012; Yang et al.,
+2013; Jiang et al., 2014). A series of commercial oil ﬂows have been
+obtained in many tight oil wells in the Ordos, Junggar, Sichuan,
+Bohai Bay, Songliao and other large-scale hydrocarbon-bearing
+basins, indicating a favorable exploration situation in China. The
+scale of tight oil resources is the key in making strategic deployment by some oil companies. The assessment of tight oil resources
+and technical improvement are thus particularly urgent in
+increasing tight oil reserves and production in China.
+We have carried out a key technological research and development program of unconventional oil and gas assessment. During
+the course of implementation, the new progress on tight oil
+exploration and development and the related assessment methods
+in North America were reviewed and investigated, and China's tight
+oil enrichment characteristics were analyzed (Jia, 2012; Jia et al.,
+2012; Pang et al., 2012; Zou et al., 2012b). By learning tight oil
+assessment methods and the related key parameters in North
+America, the tight oil assessment methods ﬁtting the geologic
+features of China were established and applied in some basins.
+According to the preliminary assessment results, China has great
+tight oil potential in lacustrine basins and thus possesses a resource
+base for large-scale development.
+
+http://dx.doi.org/10.1016/j.ptlrs.2017.06.005
+2096-2495/© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+
+2
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+2. Review of tight oil assessment methods
+Unconventional resources occupy increasingly important roles
+in global oil and gas exploration and exploitation, among which
+tight oil is very important and approachable. The researches on
+tight oil assessment methods and techniques have attracted
+extensive attentions in recent years. Based on the theory of “energy
+triangle”, some scholars determined the quantitative relation between conventional and unconventional resources and then made
+assessments on the unconventional resources using results of
+conventional resources as a reference (Cheng et al., 2010). However,
+this evaluation method is somewhat rough. Through investigations
+on the related literature and academic exchange materials, it was
+found that several mature assessment methods have been established for tight oil resources overseas, generally dominated by
+analogy and statistical methods. As listed in Table 1, the analogy
+methods are represented by the FORSPAN method from the United
+States Geological Survey (USGS) and the resource grid density
+method from ExxonMobil Corporation. The statistical methods
+mainly include the volumetric method, the estimated ultimate recovery (EUR), the stochastic simulation method, the discovery
+process method and the oil and gas spatial distribution prediction
+method (Chen et al., 2005; Chen and Osadetz, 2006a, 2006b;
+Kenneth et al., 2013).
+2.1. FORSPAN method
+The FORSPAN method is a mainstream method for unconventional resource assessment proposed by USGS (Schmoker, 2005;
+Dashtgard et al., 2008; Clarkson and Pedersen, 2011). This
+method was ﬁrst developed by the John Grace Consulting Company
+(Gautier, 1995) and then gained a wide application after modiﬁcation by Schmoker of USGS (Schmoker, 1999, 2002). In recent
+years, Charpentier and Cook (2010) have made some signiﬁcant
+improvements, especially in database, parameter distribution and
+graphic output standard. Currently, FORSPAN is a sophisticated
+assessment method, and the ‘cell’ in the current assessment grid
+refers to the drainage area controlled by a well. To be speciﬁc, in the
+region with wells, the distributions of some reservoir parameters
+such as thickness, area, oil saturation, porosity and permeability as
+well as the single-well recoverable reserves, the single-well
+controlled area and the recovery ratio, were mainly investigated;
+in the regions without wells and production data, the assessment
+parameters are principally acquired through analogy. The FORSPAN
+
+method is applicable to assess the remaining resource potential in
+the developed regions, i.e., the remaining resources in the whole
+assessment unit are estimated based on the simulation on the
+parameter distribution and the calculation of resources in each cell.
+2.2. EUR analogy method
+This method was proposed on the basis of FORSPAN model.
+Exxon Mobil Corporation established the resource grid density
+method which can accurately assess the distribution of continuous
+oil and gas resources by the analogy of EUR in each block (Fig. 1). In
+2012, after modiﬁcation of this method, a multi-prong assessment
+approach (MPAA) method comes into being. MPAA combines the
+EUR analogy method and the volumetric method. Through the
+analogy of EUR in each block and correction with the reservoir
+volume, the predicted resources will be more reliable. Currently,
+EUR analogy method has become the most common method for
+evaluating tight oil resources abroad.
+2.3. Stochastic simulation method
+Stochastic simulation method is a new method proposed by
+USGS recently. There were three deﬁciencies of the traditional
+analogy methods (Olea et al., 2010): (I) the spatial relationship
+among the EURs of different assessment units is neglected; (II) the
+implicit information are not exported fully; (III) the assessment
+results are somewhat contrary to the spatial distribution regularities. The stochastic simulation method was then proposed for
+addressing these problems, which differs from analogy method in
+the following aspects: (I) The development of algorithm from the
+analogy method to the comprehensive assessment method which
+the main method is the statistical method supplemented by the
+analogy method. The stochastic simulation method of the
+sequential Gaussian simulation algorithm is used in regions with
+wells, while the analogy method is applied in regions without
+wells, and the spatial relationship among EURs and the related
+parameters are acquired through analogy, then the assessment is
+conducted based on multi-point simulation. (II) The development
+of geologic modeling. The parameters were previously determined
+by triangular distribution, and now through the analysis of the
+relationship among the spatial data, the spatial distribution model
+of the parameters is established by the geo-statistical method. (III)
+The development of the simulation cell from the original cell to the
+earliest grid cell. The area of the new cell is small, or even smaller in
+
+Table 1
+Tight oil assessment methods.
+Category
+
+Method
+
+Analogy
+method
+
+The resource of a target area is
+evaluated by analogy with the
+parameters of the known
+assessment units, and solution is
+acquired by Monto Carlo
+stochastic simulation method.
+In the spatial resources
+Single-well reserves
+estimation method, discovery distribution prediction method,
+based on the statistics of the
+process method, stochastic
+discovered reservoirs, the oil and
+simulation method,
+gas distribution characteristics
+volumetric method; spatial
+are determined for the calculation
+resources distribution
+of resources.
+prediction method
+The resource is calculated
+Pyrolysis analogy method
+through the basin simulation
+proposed of Humble
+software.
+Geochemical Services, U.S.
+
+Statistical
+method
+
+Genetic
+method
+
+Estimated ultimate recovery
+(EUR) analogy method,
+FORSPAN method, resource
+grid density method
+
+Principle and Characteristics
+
+Application
+conditions
+
+Advantages
+
+Disadvantages
+
+Moderate-and
+high-exploration
+regions
+
+Input parameters are less, and Difﬁculty in the
+determination of key
+the mathematical model is
+parameters and lack of
+simple
+considerations on the spatial
+correlation of EUR
+
+Moderate-and
+high-exploration
+regions
+
+By taking the spatial position
+relationships of parameters
+into account, the spatial
+distribution of resources is
+calculated
+
+A lots of parameters are
+involved, the distribution of
+the discovered reserves is
+required and the calculation
+process is complex
+
+Moderate-and lowexploration regions
+
+The geological distribution
+characteristics and
+accumulation of oil and gas
+resources are systematically
+understood
+
+The basin simulation process
+is complex and the
+assessment period is long.
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+3
+
+estimation unit. Then, the whole assessment area is divided into
+several minimum estimation units and the resources are ﬁnally
+estimated by calculating the reserves of each minimum estimation
+units.
+2.5. Volumetric method
+It is a common assessment method for both conventional and
+unconventional oil and gas resources. Through this method, The
+Canadian Consulting Company assessed the tight oil reserves of the
+Cardium Formation in Pembina Oilﬁeld in Western Canada Basin,
+and got the distribution of tight oil abundances.
+2.6. The oil/gas spatial distribution prediction method
+It is a special statistical method (Chen et al., 2004; Liu et al.,
+2010; Xie et al., 2011), and includes three different assessment
+methods: the method based on the reservoir-forming mechanism
+and the spatial data analysis, the stochastic simulation method
+based on a geological model, the data analysis method of the
+support vector machine (SVM). These three methods have similar
+ideas and assessment processes except the mathematical statistical
+analysis.
+In summary, all methods have their own advantages/disadvantages and application conditions (Table 1). In practical applications
+abroad, different assessment methods are selected based on the
+geologic features of different basins.
+3. Assessment parameters of tight oil resource
+Tight oil resource assessment parameters include various parameters in the resource assessment method, and the geological
+assessment parameters in the resource assessment. The former
+refer to the parameters that are directly used in the calculation of
+tight oil resources, while the latter are the geological risk assessment parameters in the resource analogy assessment.
+3.1. Tight oil resource assessment parameters
+Through analysis of the tight oil resource assessment methods,
+there are several key parameters in the calculation of tight oil
+resource.
+
+Fig. 1. Modiﬁed resource grid density method proposed by ExxonMobil Corporation
+(after Kenneth et al., 2013). (a) Initial resource density and block scopes. (b) Distribution of cumulative probabilities for well-controlled resources in various blocks.
+
+the single-well controlled discharge region. Chen and Osadetz
+(2013) used the stochastic simulation method based on the
+geologic model to assess the resources of shale oil in the Upper
+Cretaceous Cardium Formation in Western Canada Basin, and the
+assessment results were veriﬁed by the single-well recoverable
+reserves method. Fig. 2 shows the calculated shale oil abundances
+of Western Canada Basin through the stochastic simulation method
+(Chen and Osadetz, 2013).
+2.4. EUR estimated method
+This method, as a typical statistical method, was proposed by
+Advanced Resources Informational (ARI) Company of the U.S. The
+key is to use the scope controlled by a single well as the minimum
+
+(1) EUR (  103 ton per well). EUR refers to the estimated ultimate recovery for a single well. For the developing well with
+many years of production history, EUR can be predicted and
+assessed by the trend prediction method through the gradual
+decreased productivity. Then, based on the EUR of the
+developing well, it can estimate the average EUR of the
+exploratory well in the assessable area, and the tight oil reserves of the assessable area are thus calculated. EUR is a key
+parameter that is most commonly used in unconventional oil
+and gas assessment in the abroad. For the calculation of
+single-well EUR, the key is to select a typical production well
+as the calibration well, and then establish the EUR probability
+distribution curve of different types of production wells,
+which then serves as the basis for analogy assessment.
+(2) Single-well controlled area (km2). This parameter is critical
+in the application of EUR assessment method. The accuracy
+of the single-well controlled area determines the resources
+estimation precision of the EUR method. The single-well
+controlled areas varied in different regions and different
+well types. Normally, the single-well controlled area should
+be determined based on reservoir research results. By taking
+full advantage of dynamic analysis results to develop the
+
+4
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+Fig. 2. Shale oil abundances of Western Canada Basin through the stochastic simulation method (Chen and Osadetz, 2013).
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+dynamic and static combining well network optimization
+technique, the reasonable range of single-well controlled
+area thus can be determined.
+Effective porosity (%). Porosity is an important parameter in
+reservoir assessment. Effective porosity is the ratio of the
+volume of the interconnected pores to the total rock volume.
+It can be classiﬁed into matrix porosity and fracture porosity.
+Tight oil is mainly accumulated in the micro- and nanopores. According to the current reservoir classiﬁcation standard and the development practices in the world, the
+porosity of a tight oil reservoir is usually smaller than 12%.
+Based on the statistical data, the tight oil reservoirs can be
+divided into three types, type-I reservoirs with a porosity
+over 8%, type-II reservoirs with a porosity from 5% to 8%, and
+type-III reservoirs with a porosity smaller than 5%, respectively. The type-III reservoirs are dominated by nanopores
+and still possess certain resources, but due to the high
+development cost, so it is difﬁcult for the economical
+development.
+Effective reservoir thickness (m). The effective thickness of
+tight oil reservoir is the thickness of the reservoir with production capacity in the oil-bearing sequences, it is the most
+critical assessment parameter to affect the calculation of
+resources using the volumetric method,
+Oil saturation (%). Oil saturation (So) also is a key parameter
+in the calculation of tight oil resources using the volumetric
+method, it refers to the ratio of the oil volume in the effective
+pores of the oil-bearing rock (Vo) to the volume of effective
+pores in the reservoir rock (Vp) (So ¼ Vo/Vp  100%).
+Reservoir area (km2). Reservoir area is the most critical
+parameter in tight oil resource assessment. The geological
+
+resources and recoverable resources per unit area (the
+resource abundance) are often used in the expression of the
+resource assessment results, to illustrate the enrichment
+degree of the resource in a region.
+(7) Resource abundance (  103 t/km2). Resource abundance
+refers to the tight oil reserves per unit area and commonly is
+used in the analogy method. In some high-degree exploration regions, ﬁrstly the calibrated unit is established, and the
+abundances of geological resources and recoverable resources in the unit are calculated; then, through the analogy
+of the geological conditions between the unknown unit and
+the calibrated unit, the analogy coefﬁcient of the unknown
+unit is determined and thus the total resources can be
+calculated.
+(8) Recoverable coefﬁcient. This parameter is deﬁned as the ratio
+of the recoverable tight oil resources to the total geological
+resources. The recoverable coefﬁcient increases constantly
+with improvement of the recovery technologies, therefore, it
+just roughly reﬂect the recoverable condition in a certain
+time. According to the tight oil exploitation practice over the
+past several years in North America, the recoverable coefﬁcient varies greatly with type of tight oil and basin, and
+generally ranges from 4% to 12%.
+Table 2 lists the technically recoverable resources of unproven
+tight oil in the U.S. in 2012. The assessment was conducted by U.S.
+Energy Information Administration (EIA) using the EUR method. It
+can be found that the most critical assessment parameters are the
+area of assessment region, the single-well EUR and the single-well
+controlled area (average interwell spacing) (EIA, 2012).
+
+Table 2
+Assessment results of tight oil resources of some basins in the U.S.
+Basin
+
+Zone
+
+Austin Chalk
+Eagle Ford
+Anadarko
+Woodford
+Permian
+Avalon/Bone Springs
+Spraberry
+Rocky Mountain basins Niobrara
+Williston Bakkena
+San Joaquin/Los Angeles Monterey/Santos
+Total
+
+Area/square mile Average well spacing/ Ratio of Ratio of Average EUR/106 Well number in Recoverable resources/
+well per square mile untested potential barrel per well
+potential area million barrels
+area/%
+area/%
+
+Western Gulf
+
+3200
+3120
+1313
+1085
+20,385
+6522
+2520
+
+3
+5
+6
+4
+6
+8
+2
+12
+
+72
+100
+100
+100
+99
+97
+77
+98
+
+61
+54
+88
+78
+72
+80
+97
+93
+
+0.13
+0.28
+0.02
+0.39
+0.11
+0.05
+0.55
+0.50
+
+21 165
+8665
+16 375
+4085
+4636
+127 451
+9767
+27 584
+219 729
+
+2688
+2461
+393
+1593
+510
+6500
+5372
+13 709
+33 226
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+3.2. Geological assessment parameters
+Geological assessment parameters are required in the geological
+risk analysis when using analogy method for tight oil assessment.
+Generally, there are three types of parameters in the geological
+assessment: (I) the reservoir condition parameters, mainly
+including effective reservoir thickness, reservoir lithology, pore
+type and effective porosity; (II) the source rock condition parameters, mainly including the effective thickness of source rock, the
+content of organic carbon, maturity and the type of organic matter;
+(III) the preservation conditions parameters, including lithology
+and thickness of the sealing layer. During the establishment of
+geological assessment parameters and the calculation of resources,
+in order to facilitate calculating analogy coefﬁcient, the analogy
+assessment standard of the above-mentioned ten parameters and
+the scoring table should be formulated according to the geological
+assessment results, in other words, ten parameters can be graded
+and given different scores. Taking the porosity as an example, it
+generally can be classiﬁed into four levels: the ﬁrst level with a
+porosity over 10% and a score of 1e0.75, the second level with a
+porosity of 10%e8% and a score of 0.75e0.5, the third level with a
+porosity of 8%e5% and a score of 0.5e0.25, and the fourth level with
+a porosity less than 5% and a score of 0.25e0. Various analogy coefﬁcients are then acquired through the analogy of geological parameters of the assessment area with the assessment standard. By
+weighted all analogy coefﬁcients, the total analogy coefﬁcient of
+the assessment area is acquired. Accordingly, it can be concluded
+that the establishment of the geological assessment standards for
+tight oil is the key to the analogy assessment.
+
+5
+
+2030. From the perspective of the current tight oil development
+situation, the development speed and scale of tight oil may be
+beyond the expectation in future.
+5. Progress of tight oil assessment methods in China
+Currently, the exploration degree of tight oil in China is quite
+low. Many scholars applied the resource abundance analogy
+method to predict resource, the process is as follows. On the base of
+analysis of a known typical tight oil reservoir, the analogy parameters and assessment standard can be determined, the similarity
+coefﬁcient is calculated according to the geological conditions for
+the formation of tight oil in the assessment area, and the tight oil
+resources can be calculated through the analogy method.
+During a major research and development program of unconventional oil and gas resource assessment of PetroChina Company
+Limited (PetroChina in short), we have carried out a systematic
+study on tight oil assessment methods and preliminarily have
+established a set of tight oil assessment methods which are suited
+to the geological characteristics of China's continental sedimentary
+geology (Guo et al., 2011, 2013a, 2013b) (Table 3). Among these
+methods, the small-cell volumetric method, EUR method and hierarchical resource abundance analogy method are newly established and suitable to calculate resources of the region with high
+exploration degree; whereas the volumetric method and the
+analogy method are appropriate to estimate resources of the region
+with low exploration degree. The key parameters of the resource
+assessment mainly include the area of assessment region, effective
+reservoir thickness, effective porosity, oil saturation, crude oil
+density, well-controlled area, EUR, resource abundance and analogy coefﬁcient.
+
+4. Potential and distribution of global tight oil resources
+5.1. Hierarchical resource abundance analogy method
+Global tight oil resources are characterized by wide distribution
+and huge potential. It was predicted by International Energy
+Agency (IEA) in 2012 that the global technically recoverable tight oil
+resources amounted to 32.7  109 t (Fig. 3). As predicted by Energy
+Information Administration (EIA) in 2013, the recoverable tight oil
+resources reached 47.3  109 t. North America, Asia & Paciﬁc area,
+and Central Asia-Russia are of the greatest potential, with recoverable resources of 11.0  109 t, 10.7  109 t and 10.4  109 t,
+respectively. Central & South America, Africa and Europe are with
+recovery resources of 8.2  109 t, 5.2  109 t and 1.8  109 t,
+respectively. Both IEA and EIA predicted that the global tight oil
+resources are of huge potential, especially in North America and
+Asia & Paciﬁc area with large-scale development for tight oil. As
+predicted by EIA, the global tight oil production will be up to
+0.25  109 t in 2030; BP presented a more optimistic prediction that
+the global tight oil production will be at least up to 0.45  109 t in
+
+The resource abundance analogy method is one of the most
+common methods in China's conventional oil and gas assessment
+(Guo et al., 2011). This method is improved and more precise, its
+principle is similar to the resource abundance analogy method of
+the conventional oil and gas. This method takes the heterogeneity
+of tight oil into account, and thus the whole assessment area is
+divided into several small units for assessment based on the variation of geological conditions. In practical applications, this method
+is great different with the resource abundance analogy method of
+the conventional oil and gas.
+Using the hierarchical resource abundance analogy method,
+ﬁrstly we should evaluate geological conditions of the assessment
+area, according to the geological conditions for the formation of
+tight oil and the geological assessment results, the assessment area
+can be divided into several geological units in three different levels,
+that is, type A (core or sweet-spot units), type B (favorable or
+extended units) and type C (prospective units). Then, the typical
+calibration area with similar geological characteristics to the classiﬁed units is selected for the analogy assessment (Fig. 4). Finally,
+the similarity coefﬁcient of each assessment units as well as both
+geological and recoverable resources in different assessment unit
+can be calculated. This method is more precise than the general
+analogy method, and can show tight oil distribution in different
+geological conditions, therefore, this method is convenient and
+easy for application and favorable zone selection.
+5.2. EUR analogy method
+
+Fig. 3. Distribution of technical recoverable tight oil resources.
+
+Through EUR analogy of the developing wells, the average
+single-well of EUR can be obtained, and then the tight oil resources
+would be calculated. Similar to the hierarchical resource abundance
+
+6
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+Table 3
+Assessment methods of tight oil resource in China.
+Category
+
+Method
+
+Application scope
+
+Advantages
+
+Disadvantages
+
+Analogy method
+
+Analogy method
+
+Low-exploration regions
+
+The assessment is simple and
+rapid
+
+The heterogeneity of resource
+distribution is not taken into
+account, selection of analogy
+standard and parameters has
+strong subjectivity
+
+Hierarchical resource
+abundance analogy method
+
+Moderate, high-exploration
+regions
+
+EUR analogy method
+
+Moderate, high-exploration
+regions
+
+Heterogeneity of resource
+distribution is taken into
+account
+EUR is directly calculated
+
+Volumetric method
+
+Low-exploration regions
+
+The assessment is simple and
+rapid.
+
+Small-cell volumetric method
+
+Moderate, high-exploration
+regions
+
+Spatial resources distribution of
+prediction method
+
+Moderate, high-exploration
+regions
+
+Heterogeneity of the
+distribution of some key
+parameters such as porosity is
+taken into account
+The spatial position
+relationship among the
+parameters is taken into
+account, and the spatial
+locations of resources are given
+
+Numerical simulation of
+hydrocarbon accumulation
+
+Moderate, and lowexploration regions
+
+Statistical method
+
+Genetic method
+
+analogy method, during application of the EUR analogy method,
+the assessment area should be divided into three types, type A (core
+unit or sweet-spot unit), type B (favorable unit or extended unit)
+and type-C (prospective unit), and the area proportions of these
+three types of units would be estimated. Then, a typical production
+well is selected as the calibration unit of the single-well EUR
+analogy. The single-well EUR curves of different types should be
+plotted, then different analogy assessment parameters can be obtained. During the analogy assessment, one or more calibration
+units with similar characteristics should be selected for type A, type
+B and type C, respectively; then, the following key parameters are
+determined: (1) the mean value, variance, maximum and minimum
+of EUR obtained from statistical analysis of EURs of different types
+of calibration units; (2) the average well-controlled area and recovery ratio (recovery coefﬁcient) of three types. Therefore, the
+recoverable resources can be calculated through the analogy.
+In order to ensure reliability of the analogy of some parameters
+such as EUR, the controlled area per well and recovery coefﬁcient,
+the production wells with similar geological conditions should be
+selected when using EUR analogy method for tight oil assessment.
+Guo et al. (2013a) described the analogy procedure and calculation
+formulas of the EUR analogy method in detail.
+
+5.3. Volumetric method
+The volumetric method is commonly used in conventional oil
+and gas assessment and can rapidly estimate the resources of the
+studied area. Though the formation mechanism of tight oil is
+different from the conventional oil and gas, the hydrocarbon
+occurrence of tight oil is similar to conventional oil and gas. Thus,
+the volumetric method also can be used to calculate tight oil
+resources.
+Tight oil resources can be rapidly and conveniently assessed
+through a few parameters and data based on the formula of the
+
+The geological distribution
+characteristics and
+accumulation rules of oil and
+gas resources are systematically
+understood
+
+Due to short history of well
+development, it is difﬁcult to
+determine key parameters.
+The heterogeneity of resource
+distribution is not taken into
+account
+
+Multiple parameters and
+distribution of the discovered
+reserves are required, the
+calculation process is complex
+and the assessment period is
+long
+Some key parameters are easily
+affected by sample collection
+and test processes, basin
+simulation is complex and the
+assessment period is long
+
+volumetric method and Monte Carlo algorithm, and the calculation
+formula can be expressed as:
+
+Qo ¼ 100,A,Ca ,Hfo ,4,ð1  Sw Þ,roi =Boi
+
+(1)
+
+where Qo denotes the resources (104t), A denotes the oil-bearing
+area in the studied area (km2), Ca denotes the coefﬁcient of oilbearing area, Hfo denotes the effective thickness of oil-bearing
+layer (m), ø denotes the effective porosity, Sw denotes the original
+water saturation, roi denotes the crude oil density on ground (t/
+m3); Boi denotes the crude oil volume factor.
+In the calculation, the parameters can be input in the forms of
+the mean values or the parameter distribution patterns such as the
+uniform and triangular distributions; then the curve of cumulative
+probability and the histogram of frequency are obtained through
+several stochastic simulations. Then, the resources of different
+probability distributions and the expected tight oil resources can be
+calculated.
+
+5.4. Small-cell volumetric method
+Unlike the above-described volumetric method, in the smallcell volumetric method, the assessment area is divided into
+several grid cells (or called surface element, see Fig. 5), that is the
+calculation cell (or small cell). Based on the parameters of tight
+reservoir such as effective reservoir thickness, effective porosity
+and oil saturation in each grid cell, the resources in each grid cell
+then can be calculated (Guo et al., 2011). This method is quite
+different from the conventional volumetric method, because the
+calculation results can be visually displayed in the form of resource
+abundance, providing an important basis for favorable area optimization. The calculation procedure is described in detail below.
+(1) The studied area is divided into several grids and the area of
+each grid cell is determined. Generally, the studied area is
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+7
+
+Fig. 5. Construction of grid units using the small-cell volumetric method.
+
+The more detailed assessment procedures and calculation
+formulas are described by Guo et al. (2013a).
+
+5.5. Reservoir numerical simulation method
+
+Fig. 4. Illustration of the hierarchical resource analogy method. (a) Resource abundance of the calibration unit. (b) Classiﬁcation of the assessment areas.
+
+divided into several rectangular grids. In some cases, which
+kind of grid (such as rectangular grid, PEBI grid, triangular
+grid or the other variable-area grids) can be applied is
+depended on the data source of the reservoir physical parameters. In general case, if the data are sourced from the
+seismic data interpretation results, then the triangular grids
+will be used; if the data are sourced from mud or well logging, PEBI grids will be used; if the data are sourced from the
+comprehensive interpretation results (isoline data), then the
+triangular or the other variable-area grids will be used.
+(2) Parameters of effective porosity, effective thickness and oil
+saturation of the small cell are calculated. If there are data
+points in the small cell, the average values of each parameter
+can be regarded as the parameter values of the small cell; if
+there is no data point in the small cell, key parameter values
+can be obtained through the grid interpolation software. At
+last, the resources in each cell are calculated using the
+calculation formula of the volumetric method, and thereby
+the resources of the whole studied area can be calculated.
+
+Tight oil has the complex hydrocarbon accumulation mechanism and thus no genetic assessment method for tight oil has yet
+been established so far. The nanoscale testing technique is mainly
+adopted for the physical simulation abroad, and coupled with
+computed tomography (CT) scanning technology, the accumulation
+process can be revealed (Loucks et al., 2009; Sondergeld et al.,
+2010). The physical simulation experiments and numerical simulations started late in China. Currently, only three tight oil accumulation models of sandwich or interbed type, near-source type
+and source-reservoir integration type, have been established (Guo
+et al., 2013a), and the workable assessment module and technical
+system are still under development. Moreover, the numerical
+simulations should depend on the calculation results of basin
+simulation.
+Sandwich-or interbed type tight oil is quite typical. The reservoir is sandwiched in the source rock, i.e., a sandwich conﬁguration
+is formed. The lithology of reservoirs generally is tight sandstone
+and carbonate. The matrix porosity is smaller than 10% and the
+matrix permeability under overburden pressure is less than 0.1 mD.
+A typical example is the tight oil in Member 7 of the Yanchang
+Formation of the Ordos Basin. The accumulation of such sourcereservoir interbed tight oil is near-source type with a short
+migration distance. The crude oil that formed in and expulsed from
+the source rocks directly migrate into the tight reservoir of the
+source rock interlayer. The resources of this type of tight oil are
+related to the hydrocarbon generation and expulsion intensity of
+source rock as well as the thickness and porosity of the reservoir.
+Near-source type tight oil, a kind of transition-type tight oil,
+refers to the crude oil enriched in the tight reservoir adjacent to the
+top or bottom of source rocks. The reservoir is dominated by
+sandstones and carbonate, and the matrix porosity and permeability are slightly better than those of typical tight oil reservoir. The
+typical examples are the tight oil in Member 6 of the Yanchang
+
+8
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+Formation of the Ordos Basin and the Fuyu reservoir in the Songliao
+Basin. The accumulation process of this type of tight oil is between
+primary migration and secondary migration. Part of the crude oil
+that expulsed from the source rocks will form the in-source tight oil
+in the source rock interlayer while some will migrate into the
+neighboring reservoirs. The accumulation quantity of tight oil is
+associated with the amount of oil generation and expulsion from
+the source rocks, the thickness and porosity of tight oil reservoir
+and the geological time of densiﬁcation onset.
+Source-reservoir integration type tight oil refers to tight oil in
+reservoirs which are both hydrocarbon source rocks and reservoir.
+For example, tight oil in the carbonate rocks such as limestone in
+Shulu Depression, dolomitic limestone in Jimusaer Depression
+(Kuang et al., 2013). Since the source rock and reservoir coexist, the
+generated oil is accumulated in place. Shale oil also has a similar
+accumulation process.
+Currently, the numerical simulations on the accumulation
+quantity of tight oil are primarily by means of basin simulations.
+The key data in the calculation are mainly from results of basin
+history simulation (such as geologic history, thermal history, hydrocarbon generation and expulsion history). For example, the
+porosity evolution data is from results of burial history simulation,
+the rock densiﬁcation data is from results of thermal history and
+diagenetic evolution history simulation, and the data of oil saturation, oil generation and expulsion quantities are from results of
+hydrocarbon generation and expulsion history simulation.
+Overall, the hydrocarbon accumulation numerical simulation
+method is a relatively precise method for tight oil assessment, and
+only is applied to the region with abundant information and clear
+understandings of petroleum accumulation history. More details of
+this method are described in Guo et al. (2013b).
+6. A case study of Da'anzhai member
+In this study, we focused on Jurassic Da'anzhai Member of
+Ziliujing Formation in the central Sichuan area of the Sichuan Basin
+for tight oil assessment.
+The source rocks of the Da'anzhai Member are the shallow to
+semi-deep lacustrine dark mudstones, mainly are distributed in the
+3rd sub-member and the lower part of the 1st sub-member of
+Da'anzhai Member. The thickness of source rocks ranges from 20 to
+70 m and the effective source rocks which the thickness is over 5 m
+cover an area of approximately 72  103 km2. The organic matter
+types are primarily humus-sapropel type, the total organic carbon
+(TOC) ranges from 0.62% to 2.56% (average 0.99%). The potential of
+hydrocarbon generation mostly ranges from 2 to 6 mg/g, with a
+mean value of 4 mg/g. The hydrogen index is from 60 to 210 mg/
+g∙TOC, with a mean value of 150 mg/g∙TOC, indicating a good oil
+source rock. The values of Ro in the most parts of the Da'anzhai
+Member are from 0.83% to 1.4%, indicating the source rocks are
+mature on the whole and at the oil generation peak. The values of
+Ro in the area in the north of Longgang and the west of Chengdu are
+over 1.3%, indicating the source rocks are in the stage of gas
+generation.
+The reservoirs in the Da'anzhai Member are mainly developed in
+the 1st sub-member and the 3rd sub-member, and the litology are
+shell limestone, argillaceous shell limestone, shell banded limestone and crystalline limestone. The pure shell limestone is the
+primary productive horizon. The shell limestones are distributed
+stably in the whole central Sichuan, characterized by thin interbeds
+and locally medium-thick beds; the thickness per layer is generally
+2e10 m and the cumulative thickness is 20e40 m. Analysis of 2437
+samples from 38 cored wells in 11 blocks indicates that the shell
+limestone and argillaceous shell limestone are characterized by
+extremely low porosity and permeability, the porosity is less than
+
+1% and the permeability is less than 0.1 mD; the porosity ranges
+from 0.17% to 5.94%, with the average value of 0.99%, and the
+permeability ranges from 0.0000559 to 506 mD, with the average
+value of 1.09 mD.
+In terms of source-reservoir conﬁguration relationship, the
+reservoirs in the Da'anzhai Member can be divided into the
+following three types. (1) Limestone-shale contact type, the shell
+limestones on the top of the 1st sub-member and on the bottom of
+the 3rd sub-member are contacted with the mudstone and shale.
+Thickness per layer of these two suites of shell limestone mostly is
+over 4 m. Under the same tectonic stress, the fractures are easily
+formed. Currently, the oil and gas in the Da'anzhai Member are
+mainly produced from this type of reservoir. (2) Thin limestoneshale interbedded type. The reservoir sandwiched with the
+source rock, is favorable for the hydrocarbon generation and
+accumulation, therefore, oil and gas can be observed everywhere in
+the Da'anzhai Member. (3) Thick-bedded mudstone type. The
+mudstones are well developed in the middle part of the 3rd submember, characterized by great hydrocarbon generation potential
+and poor reservoir development.
+In this study, the tight oil resource of the Da'anzhai Member is
+assessed using the hierarchical resource abundance analogy
+method, EUR analogy method and small-cell volumetric method,
+respectively.
+6.1. Hierarchical resource abundance analogy method
+For the sake of comparison of results from different methods,
+the assessment area was divided into three types (type A, type B
+and type C) according to high-grade, middle-grade, low-grade
+resource abundances, respectively. Type A block is dominated by
+shelly limestone with the thickness of over 25 m, and thick source
+rocks and fractures covering an area of approximately
+3.35  103 km2. In the type B block, thickness of the reservoir and
+the source rocks are 10e25 m, 15e30 m, respectively, and fractures
+are well developed with an area of approximately 6.65  103 km2.
+In type C block, the reservoir is tight and covers an area of
+approximately 14.15  103 km2. The area of type A, type B and type
+C block occupy 13.87%, 27.54% and 58.59% of the total assessment
+area respectively.
+In the practical application, ﬁrstly the analogy calibration unit
+should be established, and the resource abundance should be acquired. The Gongshanmiao oilﬁeld, with a high exploration degree,
+was selected as the calibration unit in this study for tight oil
+assessment in the Da'anzhai Member. This calibration unit is
+located in the region 6 km south of Nanbu County, Nanchong City,
+Sichuan Province, with an area of approximately 627.5 km2. By the
+end of 2012, the proved geological oil reserves of the Gongshanmiao oilﬁeld is 16.1268  106 t, where totally 104 wells were
+drilled and 70 wells were obtained the commercial oil ﬂows. The
+resource abundances of the calibration unit were calculated using
+the volumetric method and the single-well production descending
+ﬁtting method. According to the calculation results, type A block
+has the high abundance of over 120  103 t/km2, type B block has
+the medium abundance ranging from 50  103 t/km2 to 120  103 t/
+km2, and type C block has the small abundance less than 50  103 t/
+km2.
+Based on the statistics of the distributions of total 10 geological
+parameters in these three types of blocks, the geologic parameters
+of these blocks were calculated. Then, according to the analogy
+standard, the analogy assessment was conducted using the abovedescribed the hierarchical resource abundance analogy method
+and the tight oil assessment software. Results reveal that the
+geological reserves with a probability of 50% are approximately
+1.285  109 t.
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+6.2. Small-cell volumetric method
+Parameters of the small-cell volumetric method include effective reservoir thickness, fullness coefﬁcient of trap space, porosity
+and oil saturation. The effective reservoir thickness refers to the
+cumulative thickness of the limestone with oil-producing capacity.
+The fullness coefﬁcient of trap space is closely related to the supply
+of oil source, i.e., it is directly related with the thickness, TOC and Ro
+of source rocks. The porosity data is from the test data and logging
+interpretation results of the drilled wells. The oil saturation data is
+from oil testing data and logging interpretation results of drilled
+wells. The crude oil volume factor generally is 1.15.
+When using the small-cell volumetric method to calculate
+geological resources, because both the reservoir thickness and hydrocarbon distribution area are known, therefore, the oil saturation
+and fullness coefﬁcient in the small cells impose greatest effects on
+the results. In the calculation, thickness of the shell limestone is the
+reservoir thickness, the porosity is the measured porosity, and
+determination of the oil saturation is based on the analogy with the
+known oil saturation. Then, after determination of key parameters
+(effective reservoir thickness and distribution, porosity distribution, and oil saturation distribution), for the small-cell method,
+through the small-cell assessment software, the quantity of
+resource and the resource abundance can be calculated by division
+of the study area into small cells, interpolate attribute data and
+
+9
+
+resource calculation of the volumetric method. Fig. 6 shows distributions of key parameters of the Da'anzhai Member.
+The calculation result reveals the geological resource abundance
+of the tight oil in the Da'anzhai Member primarily ranges from
+50  103 t/km2 to 130  103 t/km2 and the total geological resources
+are 1.114  109 t. The area with the geological resource abundance
+over 10  103 t/km2 is approximately 25  103 km2, the geological
+resource is about 1.038  109 t and mainly is distributed in the
+central and eastern Sichuan (Fig. 7).
+
+6.3. EUR analogy method
+Like the hierarchical resource abundance method, the EUR
+analogy method is used to calculate resources by constructing a
+EUR calibration region ﬁrstly, followed by the analogy assessment.
+In this study, by analyzing the EUR per well of the Da'anzhai oil
+ﬁeld, we plotted the EUR distribution curves for three types of
+wells, and acquired their key parameters, i.e., type I of the EUR per
+well equal to or great than 15  103 t, type II of the EUR per well
+from 5  103 t to 15  103 t, type III of the EUR per well small than
+5  103 t. Through analogy with EURs of typical wells in the Elm
+Coulee Formation of the Williston Basin and the Pingdiquan Formation of the Junngar Basin (Guo et al., 2013b), the key parameters
+in the assessment area were determined (Table 4). Finally, the
+recoverable resources in type A, type B and type C blocks with a
+
+Fig. 6. Distribution of the key calculation parameters of the Da'anzhai Member by the small-cell volumetric method.
+
+10
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+Fig. 7. Distribution of the resource abundance (>10  104 t/km2) of tight oil of the Da'anzhai Member by the small-cell volumetric method.
+
+Table 4
+Tight oil resources of the Jurassic Da'anzhai Member in Sichuan Basin by the EUR
+analogy method.
+Parameter
+
+Type A block
+
+Type B block
+
+Type C block
+
+Area/km2
+Controlled area per well/km2
+EUR/103 t
+Recoverable resources/103 t
+
+3350
+1.45
+23
+53 170
+
+6650
+0.9
+6
+44 330
+
+14 150
+0.45
+1
+31 460
+
+probability of 50% were calculated, the total recoverable resources
+in the Da'anzhai Member were approximately 0.129  109 t
+(Table 4).
+Through the values of resources and the recovery coefﬁcient by
+three different methods, the geological resources of tight oil and
+the recoverable resources in the Jurassic Da'anzhai Member are
+approximately (1.038-1.650)  109 t and approximately (0.0810.129)  109 t, respectively. The geological and recoverable resources of the regions with a probability of 50% are 1.333  109 t
+and 0.106  109 t, respectively (Table 5).
+7. Potential tight oil resources and enrichment characteristics
+Through the above-described assessment methods, a preliminary assessment was carried out on tight oil resources in some
+major basins and regions explored by PetroChina. The assessment
+
+result reveals that tight oil reserves in eight major onshore basins in
+China are about 20  109 t, suggesting that China has a solid
+resource basis for large-scale development. In particular, the Ordos
+Basin, the Songliao Basin, the Junggar Basin, the Bohai Bay Basin
+and the Sichuan Basin have 89% of the total tight oil resources in
+China, and are thus regarded as the most practical tight oil exploration regions in China.
+Since researches on tight oil in China is still in the early stage,
+except that Member 7 of the Yanchang Formation in the Ordos
+Basin, the Jurassic strata in Central Sichuan, Fuyu reservoir in the
+Songliao Basin, the Lucaogou Formation of Jimsar Depression in the
+Junggar Basin, Shulu Sag in the Bohai Bay Basin, and Anan
+Depression in the Erlian Basin have more tight oil data, other
+exploration areas in China are of less data. Therefore, tight oil resources currently are estimated on the base of the available data,
+and the further precise assessments still need more data.
+In terms of the enrichment characteristics, China's tight oil is
+mainly distributed in the basin centers and slope areas, i.e., deepwater regions in lake basins, and shows the large area of continuous distribution. In the tight-oil enrichment regions, the source
+rocks are well developed and the reservoirs are mostly thinbedded. Moreover, source rocks and tight reservoirs overlay with
+each other and mostly form “sandwich” pattern. Since the tight oil
+reservoirs are quite tight and are of quite low permeability, high-
+
+Table 5
+Summary of tight oil resources of the Jurassic Da'anzhai Member in Sichuan Basin.
+Resource abundance analogy method
+
+Small-cell volumetric method
+
+EUR analogy method
+
+Total resource with a probability of
+50%/
+
+Geological
+resource/109 t
+
+Recovery
+coefﬁcient/%
+
+Recoverable
+resource/109 t
+
+Geological
+resource/109 t
+
+Recoverable
+resource/109 t
+
+Geological
+resource/109 t
+
+Recoverable
+resource/109 t
+
+Geological
+resource/109 t
+
+Recoverabl
+resource/109 t
+
+1.285
+
+7.8e9.5
+
+0.1e0.122
+
+1.038
+
+0.081e0.099
+
+1.36e1.65
+
+0.129
+
+1.33
+
+0.106
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+quality source rocks and great hydrocarbon-expulsion intensity are
+necessary for the accumulation of tight oil.
+The enrichment of tight oil is closely related with the genetic
+type of source rock and the reservoir. According to the research
+results, tight oil is mainly distributed in the sands of submerged
+delta in deep water, gravity ﬂow sandstone and lacustrine carbonate rock. Tight oil reservoirs in deep and semi-deep lacustrine
+submerged delta sandstone are most widely distributed in the
+Qingshankou and the Quantou Formations of the Songliao Basin,
+the Shahejie Formation of the Bohai Bay Basin, the Yanchang Formation of the Ordos Basin, and the Middle-Lower Jurassic of the
+Sichuan Basin. For example, in the Songliao Basin, tight oil is
+vertically distributed in the tight sandstones of the Quantou Formation (Fuyu reservoir) and the ﬁrst and second members of the
+Qingshankou Formation (Gaotaizi reservoir), and a number of thinbedded sand bodies with a burial depth less than 2000 m overlay
+with each other vertically; horizontally, tight oil reservoirs are
+dominated by submerged delta front facies, mainly distributed in
+Changyuan of Daqing, Qijia-Gulong and Sanzhao areas in the
+northern Songliao Basin, and Da'anbei, Gaojia, Chaganpao, Rangzijing and Daqingzijing areas in the southern Songliao Basin.
+Tight oil in deep lacustrine gravity ﬂow sandstones is mainly
+distributed in the Yanchang Formation of the Ordos Basin and the
+Shahejie Formation of the Bohai Bay Basin. For example, tight oil in
+Member 7 of the Upper Triassic Yanchang Formation is featured by
+large reservoir size, thin sand layer with wide distribution. Vertically, the tight sandstone oil reservoirs are mostly developed in 1
+and 2 oil layer group of Member 7 of the Yanchang Formation.
+Horizontally, tight oil is distributed in the submerged delta front
+near the hydrocarbon generation center and in the favorable sands
+of the gravity ﬂow in the central lake basin. The tight sandstone oil
+reservoirs in Member 7 of the Yanchang Formation are mainly
+distributed in the delta front sands in Jiayuan area and the turbidite
+sands in the eastern Longdong area.
+The tight oil in lacustrine carbonate rocks are mainly developed
+in depressions and slopes. This kind of reservoir is sandwiched in
+the semi-deep and deep lacustrine dark muddy shales with moderate burial depths (3500 m). The of tight oil is distributed in
+Permian of the Junggar Basin and the Santanghu Basin, Paleogene
+of the Qaidam Basin and the Bohai Bay Basin. For example, the
+upper and lower suites of sweet-spot bodies are vertically developed in the Middle Permian Lucaogou Formation of Jimusar
+Depression in the Junggar Basin, in which the upper sweet-spot
+body consists of carbonate shoal and bar deposits, and the lower
+sweet-spot body consists of the distal deltaic bar deposits and the
+sheet dolomitic siltstone-ﬁne sandstone. Both these sweet-spot
+bodies are distributed horizontally in the effective source rocks
+(Kuang et al., 2013; Jiang et al., 2014).
+In conclusion, the enrichment of tight oil is controlled by many
+factors. Large areas of high-quality source rocks and tight reservoirs
+are the foundation for the continuous distribution of tight oil in a
+large area. A close contact between source rock and reservoir is a
+primary controlling factor of tight oil formation.
+8. Conclusions
+(1) Based on the accumulation characteristics of continental
+tight oil in China, three kinds of the assessment methods,
+namely, the analogy method, the statistical method and the
+genetic method, and their related assessment parameter
+systems were preliminarily established. More speciﬁcally,
+the small-cell volumetric method, the EUR analogy method
+and the hierarchical resource abundance analogy method are
+suitable for the calculation of resources in the highexploration regions, while the volumetric method and the
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+11
+
+analogy method are appropriate for the estimation of resources in the low-exploration regions.
+The newly established hierarchical resource abundance
+method, the EUR analogy method and the small-cell volumetric method were applied to assess tight oil in the Sichuan,
+Ordos, Songliao, Junggar, Bohai Bay and the other tight oil
+basins in China. Results reveal that China has a great tight oil
+potential, and the total tight oil resource in eight major basins is up to 20  109 t, indicating that these basins have great
+potential for large-scale development. In particular, Member
+7 in the Ordos Basin, the Lucaogou Formation in the Junggar
+Basin, the Shahejie Formation in the Bohai Bay Basin, the
+Qingshankou Formation and Fuyu reservoir in the Songliao
+Basin, have huge tight oil potential and are the most practical
+and perspective for tight oil exploration.
+For the analogy methods, the key of the hierarchical resource
+abundance analogy method is the selection of suitable calibration units and the determination of analogy parameters,
+while the key of the EUR analogy method is the selection of
+typical production well and the determination of the controlling area per well. For the statistical methods, the core of
+small-cell volumetric method is the determination of reserves per unit volume in each cell, while the core of the
+volumetric method is to accurately and reasonably set values
+of the calculation parameters. The accuracy of the assessment result depends on the geological understandings of the
+studied area and the values of geological parameters.
+For the genetic method, the hydrocarbon generation,
+expulsion and accumulation quantities of source rocks
+should be acquired through the simulation of the basin.
+However, tight oil has a complex accumulation mechanism
+and a well-accepted genetic method for tight oil assessment
+has yet not formed.
+Each tight oil assessment method has its own application
+scope and advantages/disadvantages. In the practical application, multiple methods should be purposefully selected
+depending on the petroleum geological conditions, tight oil
+accumulation mechanism and the exploration and exploitation degree of the studied area, so as to estimate resources
+from various different perspectives and to cross-validate
+results, thereby improving the credibility of the estimated
+results.
+
+Acknowledgements
+This work was funded by Major Scientiﬁc and Technological
+Project of PetroChina (Grant No.2014E-050202).
+
+References
+Charpentier, R.R., Cook, T.A., 2010. USGS Methodology for Assessing Continuous
+Petroleum Resources. U.S. Geological Survey, Virginia.
+Chen, Z.H., Osadetz, K.G., Gao, H.Y., Hannigan, P.K., 2004. SuperSD: an object-based
+stochastic simulation program for modeling the locations of undiscovered petroleum accumulations. Comput. Geosci. 30 (3), 281e290.
+Chen, Z.H., Osadetz, K.G., Gao, H.Y., 2005. Stochastic simulation of undiscovered
+petroleum accumulation. In: Leuangthong, O., Deutsch, C.V. (Eds.), Quantitative
+Geology and Geostatistics. Springer, Deutsch, pp. 661e670.
+Chen, Z.H., Osadetz, K.G., 2013. An assessment of tight oil resource potential in the
+upper cretaceous Cardium Formation, western Canada sedimentary basin.
+Petrol. Explor. Dev. 40 (3), 320e328 (in Chinese).
+Chen, Z.H., Osadetz, K.G., 2006a. Geological risk mapping and prospect evaluation
+using multivariate and Bayesian methods, Western Sverdrup Basin of Canada.
+AAPG Bull. 90 (6), 859e872.
+Chen, Z.H., Osadetz, K.G., 2006b. Undiscovered petroleum accumulation mapping
+using model-based stochastic simulation. Math. Geol. 38 (1), 1e16.
+Cheng, K., Wu, W., Holditch, S.A., Ayers, W.B., Mcvay, D.A., 2010. In: Assessment of
+the Distribution of Technically-recoverable Resource in North American Basins:
+
+12
+
+S. Wang et al. / Petroleum Research 2 (2017) 1e12
+
+Canadian Unconventional Resources & International Petroleum Conference,
+Calgary, Alberta, Canada, 2010. Calgary. Society of Petroleum Engineers.
+Clarkson, C.R., Pedersen, P.K., 2011. Production Analysis of Western Canadian Unconventional Light Oil Plays. Society of Petroleum Engineers, Calgary.
+Dashtgard, S.E., Buschkuehle, M.B.E., Fairgrieve, B., Berhane, H., 2008. Geological
+characterization and potential for carbon dioxide (CO2) enhanced oil recovery
+in the Eardium Formation, central Pembina ﬁeld, Alberta. Bull. Can. Petrol. Geol.
+56 (2), 147e164.
+Gautier, D.L., 1995. National Assessment of United States Oil and Gas Resources:
+Results, Methodology, and Supposing Data. U.S. Geological Survey, Denver.
+Guo, Q.L., Chen, N.S., Song, H.Q., Wu, X.Z., Xie, H.B., 2013b. Accumulation models
+and numerical models of tight oil: a case study from Yanchang Formation in
+Ordos Basin. Lithol. Reserv. 25 (1), 4e10 (in Chinese).
+Guo, Q.L., Chen, N.S., Wu, X.Z., Song, H.Q., Yang, Z., Li, D.H., 2013a. Method for
+assessment of tight oil resources. China Pet. Explor. 18 (2), 67e76 (in Chinese).
+Guo, Q.L., Zhou, C.Q., Chen, N.S., Hu, J.W., Xie, H.B., 2011. Evaluation methods for
+unconventional hydrocarbon resources. Lithol. Reserv. 23 (4), 12e19 (in
+Chinese).
+Jia, C.Z., Zou, C.N., Li, J.Z., Li, D.H., Zheng, M., 2012. Assessment criteria, main types,
+basic features and resource prospects of the tight oil in China. Acta Pet. Sin. 33
+(3), 343e350 (in Chinese).
+Jia, C.Z., 2012. Several important issues about current oil and gas exploration in
+China. Acta Pet. Sin. 33 (S1), 6e13 (in Chinese).
+Jiang, Z.X., Zhang, W.Z., Liang, C., Wang, Y.S., Liu, H.M., Chen, X., 2014. Characteristics
+and evaluation elements of shale oil reservoir. Acta Pet. Sin. 35 (1), 184e196 (in
+Chinese).
+Kenneth, C.H., Kurt, J.S., Don, A.Y., 2013. Continuous Resources Assessment Integrating Volumetric Analysis and Probabilistic Well Simulation. International
+Petroleum Technology Conference, Beijing.
+Kuang, L.C., Hu, W.X., Wang, X.L., Wu, H.G., Wang, X.L., 2013. Research of the tight oil
+reservoir in the Lucaogou Formation in Jimusar sag: analysis of lithology and
+porosity characteristic. Geol. J. China Univ. 19 (3), 529e553 (in Chinese).
+Liang, D.G., Ran, L.H., Dai, D.S., He, Z.X., Ou, Y.J., Liao, Q.S., He, W.Y., 2011. A rerecognition of the prospecting potential of Jurassic large-area and nonconventional oils in the central-northern Sichuan Basin. Acta Pet. Sin. 32 (1),
+8e17 (in Chinese).
+Liu, Y.X., Chen, Z.H., Osadetz, K.G., 2010. Bayesian support vector machine for petroleum resource assessment, example from western Sverdrup Basin, Canada.
+In: Third Symposium on Resource Assessment Methodologies Program & Abstracts, Canmore, pp. 66e69.
+
+Loucks, R.G., Reed, R.M., Ruppel, S.C., Jarvie, D.M., 2009. Morphology, genesis, and
+distribution of nanometer-scale pores in siliceous mudstones of the Mississippian Barnett shale. J. Sediment. Res. 79, 848e861.
+Olea, R.A., Cook, T.A., Coleman, J.L., 2010. A methodology for the assessment of
+unconventional (continuous) resources with an application to the greater
+natural Buttes gas ﬁeld, Utah. Nat. Resour. Res. 19 (4), 10e18.
+Pang, Z.L., Zou, C.N., Tao, S.Z., Yang, Z., Wu, S.T., 2012. Formation, distribution and
+resource evaluation of tight oil in China. Chin. Eng. Sci. 14 (7), 60e67 (in
+Chinese).
+Schmoker, J.W., 1999. Geological Survey Assessment Model for Continuous (Unconventional) Oil and Gas Accumulations-The ”FORSPAN” Model. U.S. Geological Survey, Denver.
+Schmoker, J.W., 2002. Resource-assessment perspectives for unconventional gas
+systems. AAPG Bull. 86 (11), 1993e1999.
+Schmoker, J.W., 2005. U. S. Geological Survey Assessment Concepts for Continuous
+Petroleum Accumulations. U.S. Geological Survey, Denver.
+Sondergeld, C.H., Ambrose, R.J., Rai, C.S., Moncrieff, J., 2010. Microstructural Studies
+of Gas Shales. Society of Petroleum Engineers, Pittsburgh.
+U.S. Energy Information Administration (EIA), 2012. Annual Energy Outlook 2012
+with Projections to 2035. EIA, Washington.
+Wang, S.Q., Hu, S.Y., Dong, D.Z., 2012. Jurassic System in the east of Sichuan province: a tight oil and gas new ﬁeld of great importance in Sichuan Basin. Nat. Gas.
+Ind. 32 (12), 22e29 (in Chinese).
+Xie, H.B., Guo, Q.L., Li, F., Li, J.Z., Wu, N., Hu, S.Y., Liang, K., 2011. Prediction of petroleum exploration risk and subterranean spatial distribution of hydrocarbon
+accumulations. Petrol. Sci. 8, 17e23.
+Yang, H., Li, S.X., Liu, X.Y., 2013. Characteristics and resource prospects of tight oil
+and shale oil in Ordos Basin. Acta Pet. Sin. 34 (1), 1e11 (in Chinese).
+Zhao, W.Z., Du, J.H., 2012. Tight Oil and Gas. Petroleum Industry Press, Beijing,
+pp. 1e142 (in Chinese).
+Zou, C.N., Tao, S.Z., Yang, Z., Yuan, X.J., Zhu, R.K., Hou, L.H., Jia, J.H., Wang, L., Wu, S.T.,
+Bai, B., Gao, X.H., Yang, C., 2012a. New advance in unconventional petroleum
+exploration and research in China. Bulletin of Mineralogy. Petrol. Geochem. 31
+(4), 312e322 (in Chinese).
+Zou, C.N., Zhu, R.K., Wu, S.T., Yang, Z., Tao, S.Z., Yuan, X.J., Hou, L.H., Yang, H., Xu, C.C.,
+Li, D.H., Bai, B., Wang, L., 2012b. Types, characteristics, genesis and prospects of
+conventional and unconventional hydrocarbon accumulations: taking tight oil
+and tight gas in China as an instance. Acta Pet. Sin. 33 (2), 173e187 (in Chinese).
+
+

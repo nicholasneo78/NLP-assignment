@@ -1,0 +1,1974 @@
+Petroleum Research (2016) 2,149-163
+
+Basic characteristics and evaluation of shale oil
+reservoirs
+Zaixing Jiang1*, Wenzhao Zhang1, Chao Liang1, Yongshi Wang2, Huimin Liu2 and Xiang Chen3
+School of Energy Resources, China University of Geosciences, Beijing 100083, China
+Research Institute of Geological Sciences, Sinopec Shengli Oilfield Company, Dongying 257015, China
+3
+Sinopec Henan Oilfield Company, Nanyang 473132, China
+Received June 3, 2016; Accepted October 21, 2016
+1
+
+2
+
+Abstract: Shale oil refers to liquid hydrocarbons existing in free, dissolved or adsorbed states in the
+effective source rock of mudstones or shales, where some residual oil is retained after hydrocarbon
+generation and expulsion from the mudstones or shales. Basically shale oil experiences no migration
+or only undergoes some primary, short-distance migration within the source rocks. So far, there is no
+consensus on the exact definition of shale oil in China. Researches on the reservoir-controlling factors
+and evaluation elements are also far from sufficient. In this study, shale oil reservoirs are defined as
+mudstones or shales excluding the interbedded or adjacent layers of coarser siliciclastic or chemicalbiogenic lithofacies (e.g. siltstone, carbonate, salt or chert layers) in the source rocks. According to
+different reservoiring mechanisms, shale oil reservoirs are classified into “fracture type” and “matrix
+type”. The general features of shale oil reservoirs include: rich in organic matters, dominated by Type
+I and II1 kerogen (with Ro = 0.6%-1.2% and total organic content (TOC) > 2.0%), complex mineral
+compositions and laminated structures, tight storage space, low porosity and ultra-low permeability,
+and as well as the requirement for reservoir fracturing. This paper emphasizes the critical role of
+organic matter in the formation and evaluation of shale oil reservoirs, and its critical control on the
+oil generation potential and storage capacity of shale, which eventually determine the oil content and
+productivity of shale oil reservoirs. Besides, a set of reservoir evaluation criteria is also put forward
+with a focus on the TOC content, in which the threshold values of TOC are set to be 2% and 4%,
+and a variety of indicators are taken into account including the type and maturity of organic matter,
+the thickness of organic-rich shale, mineral compositions and rock types, porosity and permeability,
+and fracturing ability. The evaluation criteria divide shale oil reservoirs into three grades, i.e., target
+reservoir, favorable reservoir and invalid reservoir.
+
+Key words: shale oil; tight oil; reservoir characteristics; evaluation elements
+and criteria; organic matter content
+
+1 Introduction
+With continuous worldwide decline in conventional oil and gas
+production and increasing demand of energy resources, the
+unconventional oil and gas has now become a viable supplement for the conventional energy sources with a series of breakthroughs. The recent rapid development of shale gas also attracts
+a widespread attention on oil resources in shale formation. As
+the definition of shale oil changes in recent years, along with the
+
+further improvement of enrichment theory and the progress of
+exploration and development technology, shale oil has become
+the frontier of petroleum exploration and a hot research area for
+new oil reserve.
+At present, only the United States and Canada are the major
+countries to realize the commercial development of shale oil and
+gas in the world. Since 2005, the shale oil production in the U.S.
+has increased rapidly. Despite the low oil price, shale oil produc-
+
+* Corresponding author. Email: jiangzx@cugb.edu.cn
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+149
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+tion of U.S. reaches 4.9×106 barrels per day (b/d) in 2015 (EIA,
+2016), which equivalent to 98% of domestic daily oil production
+(Wang et al., 2016). According to the statistics of U.S. EIA, the
+shale oil production will increase up to 7.1×106 b/d in 2040. The
+shale oil exploration and development in the U.S. is focused on
+marine shale formations including the Bakken, Eagle Ford and
+Barnett, among which the Bakken formations in the Williston
+Basin have been well documented. The Bakken shale consists of
+three parts: shale beds in the upper part and the lower part are
+high-quality source rocks with a strong capability of generating
+hydrocarbons; the middle part mainly comprises dolomitic siltstone and calcareous sandstone (Miller et al., 2008; Sonnenberg
+and Pramudito, 2009). This kind of reservoiring pattern typically known as “sandwich cake” is actually the case that tight
+siltstones are interbedded with oil in the shale formation.
+Commercial oil flows to some different degrees have been obtained in the mudstone-shale horizons of the Mesozoic and Cenozoic continental basins such as the Songliao Basin, Bohai Bay Basin and Nanxiang Basin, of which the reservoiring space mainly
+consists of shale matrix pores and fractures, typical of “shale
+oil” by definition. In the Western sag of the Liaohe Depression,
+the self-flowing industrial oil flows were found in the fractured
+mudstone-shale of Member 3 of the Shahejie Formation in Well
+Shugu 165, with the maximum oil output of 24 m3/d. In the Bonan
+sag of the Jiyang Depression, the commercial oil and gas flows
+have been discovered in the shale of Member 1 and lower part of
+Member 3 of the Shahejie Formation in 11 exploratory wells at
+the end of 2011, and the low-yield oil and gas flows were found
+in the lower part of Member 3 and the upper part of Member 4 of
+the Shahejie Formation in 8 exploratory wells (Zhang et al., 2012).
+In the Biyang sag of the Nanxiang Basin, the commercial oil flow
+of 4.68 m3/d was obtained in the mudstone-shale of the upper part
+of Member 3 of the Hetaoyuan Formation after the fracturing
+in Well Biye HF-1 (Chen et al., 2011). In the Permian Lucaogou
+Formation of Malang and Taihu sags in the Santanghu Basin, the
+oil was discovered in 15 exploratory wells, and the commercial
+oil flow was found in 4 wells (Liang et al., 2012). The recoverable
+shale oil resources in major basins in China are preliminary estimated to be about 21.2×109t (Wang et al., 2016).
+In China, the current exploration and development of shale oil
+enters into an exploring phase overall. Some advancements
+have been achieved both theoretically and practically not only
+by referring to the North American models and experience in
+exploration and development, but also through exploratory researches centered on the diversities of China’s basic geological
+conditions, significant theoretical and practical progress has
+been made, but there are still many issues to be addressed.
+(1) At present, there is no consensus on the definition and connotation of shale oil. The terminologies of shale oil and tight
+oil are used quite confusingly (Chen et al., 2011). It is not clear
+
+150
+
+whether shale oil includes oil resources in other types of reservoirs migrating to neighboring source rocks. There is no clarified classification of shale oil reservoirs for different reserving
+mechanisms, leading to the controversy on which one should be
+given the priority: the controlling factors or the evaluation elements of shale oil reservoirs.
+(2) Further researches need to be conducted to figure out the reservoiring mechanisms of shale oil, such as the type, effectiveness
+and distribution of reservoiring space in shales as well as the occurrence state, retention mechanisms, seepage mechanisms and
+conditions of exploration and production. So far, the oil and gas
+in mudstone-shale fractures has been found in many countries
+and regions. Therefore mudstone-shale fractures are commonly
+deemed to producing oil. However, the research is still far from
+sufficient on the occurrence state, seepage mechanisms and movability of shale oil in matrix pore types. It is still quite controversial on whether commercial accumulation and economic exploitation can be achieved in these plays. There is no theoretical system
+concerning the reservoiring mechanisms of shale oil.
+(3) Current researches are mostly based on shale gas reservoir
+evaluation, systematic and effective evaluation methods for shale
+oil reservoirs have not been established. Zou et al. proposed that
+the key factors for shale oil evaluation include the abundance
+and maturity of organic matter, the index of reservoir fracturability, shale oil viscosity, formation energy and the magnitude
+of organic-rich shale (Zou et al., 2013). Zhang et al. recommended that factors including oil type, abundance and maturity of
+organic matter, buried depth, formation pressure should also be
+taken into account for shale oil evaluation (Zhang et al., 2012).
+Currently, the key evaluation elements have not been determined
+for shale oil reservoir classification, resource evaluation and
+strategic area selection. Besides, the systematic and effective
+evaluation criteria have not been established.
+
+2 Definition and connotation of shale oil
+Different scholars and institutions have different opinions on the
+definition of shale oil. Besides, there is confusion and controversy
+in usage of terminologies such as shale oil and tight oil.
+
+2.1 Tight oil
+Tight oil is characterized by tight reservoir and poor permeability,
+which is consequently unable to be developed economically
+through using conventional techniques. Unconventional techniques,
+such as horizontal drilling and multistage hydraulic fracturing
+technology, are required for the economic production. The
+concept of tight oil can be understood both in a broad sense and a
+narrow sense (Zhou et al., 2012). Generalized tight oil refers to the
+petroleum accumulation contained in the low-porosity and lowpermeability reservoirs, including the oil resources in source rocks
+and those expelled from source rocks and migrated to the inter-
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+beds or adjacent formations. However, tight oil in a narrow sense
+refers to the oil resources in tight reservoirs excluding the source
+rocks (shale), which is not widely used for practical application.
+Different scholars have different understandings on the concept
+of “tight oil”. Mills put forward a vague concept of tight oil
+which makes a simple distinction between tight oil and shale
+oil based on the physical properties of crude oil (API gravity
+and crude oil viscosity), the concept holds that tight oil refers to
+the light crude oil in hydrocarbon-bearing formations with low
+porosity and permeability (Mills, 2008). It was pointed out by
+Lin et al. that tight oil is “self-generated, self-reservoired and
+continuously distributed petroleum accumulations, which exist
+in organic-rich low-permeability shale, argillaceous siltstone
+and sandstone inter-bed system”, in this definition, shale is
+considered to be the main reservoir (Lin et al., 2011). Based on
+generation and reservoiring model, reservoir characteristics,
+physical properties of crude oil and production capacity of
+individual wells, Zou et al. proposed that tight oil refers to
+the oil accumulated after a short distance of migration in
+tight reservoirs which is in symbiosis with source rocks, the
+in situ reservoir matrix permeability is less than 0.1 mD and
+the porosity is less than 10%, providing a narrow, restricted
+definition (Zou et al., 2012). However, it was pointed out by Jia
+et al. that tight oil occurs in source rocks or refers to petroleum
+accumulation in reservoiring rocks inter-bedded with source
+rocks adjacent to tight sandstones and tight carbonates (Jia et al.,
+2012), providing a generalized definition for tight oil. At present,
+the term “tight oil” used by most organizations and media refers
+to the generalized definition of tight oil.
+
+2.2 Shale oil
+The use of shale oil terminology can date back to hundreds of
+years ago, but the early shale oil referred to the oil produced
+from oil shale processing, i.e., synthetic oil. Oil shale is a kind of
+combustible solid mineral resources with high content of ash and
+organic matter, from which a kind of unconventional oil resources
+similar to natural oil can be refined through low temperature
+carbonization. The shale oil refining process related to oil shale
+has a history of one hundred years. The term “shale oil” has been
+commonly recognized and used with a clear connotation.
+The “shale oil” at the present exploration and development
+refers to the liquid hydrocarbons existing as free or adsorption
+state in mudstone or shale formations that have reached the oil
+generation threshold and can be directly exploited using such
+techniques as horizontal drilling, hydraulic fracturing, and
+etc. The word “shale oil” can be understood in both broad and
+narrow senses. Shale oil generally refers to the oil resources
+contained in tight oil-bearing layers (including interlayers of
+other rocks excluding mudstone and shale), while in a narrow
+sense shale oil refers to the oil resources in mudstone and shale
+which are source rocks.
+
+It was pointed out by Zou et al. that shale oil refers to the oil
+stored in shale formations which are rich in organic matters and
+filled in nanoscale apertures (Zou et al., 2013). This definition
+clearly distinguishes tight oil and gas from shale oil and gas. It is
+considered that tight oil and gas is preserved in tight sandstone
+or carbonate reservoirs after a short-distance migration, while
+shale oil and gas is mainly accumulated in the organic-rich shale
+formations basically without undergoing migration. However,
+it was pointed out by Zhang et al. that the main medium
+layer where shale oil accumulates include the mudstone-shale
+formations which have generated or are generating oil, as
+well as the mudstone-shale strata with certain tight sandstone,
+carbonate or volcanic rock inter-layers (Zhang et al., 2012).
+Shale oil commonly mentioned in current papers or statistics is
+the general meaning.
+Tight oil is short for tight reservoir oil, which generally refers to
+the oil in the reservoirs with low porosity and poor permeability
+(the porosity is commonly less than 10%, and the in situ matrix
+permeability is less than 0.1 mD). The reservoir rock types
+include shale, siltstone, sandstone, limestone, dolomite and
+even volcanic rocks. Shale oil specifically refers to the liquid
+hydrocarbons in mudstone and shale which are effective source
+rocks. Shale oil reservoir specifically refers to the oil-bearing
+and oil-producing horizons, which mainly are mudstone and
+shale. At present, the debate on the connotation of shale oil
+mainly lies in whether it should include oils in other types
+of tight inter-layers or adjacent layers (siltstone, sandstone,
+limestone and dolomite) of source rocks. The oil resources
+in such inter-layers or adjacent layers are different from that
+accumulated in pure mudstone and shale in terms of the sourcereservoir relationship, seepage mechanisms, as well as main
+factors controlling the accumulation and development conditions.
+It is a kind of tight oil, but should not be classified as shale oil
+(Fig. 1). Shale oil is a type of tight oil that is accumulated in the
+source rock formations. It basically experiences no migration
+or only short-distance primary migration within the source
+rocks. It is retented and accumulated under overpressure and
+via diffusion. For the oil in the inter-layer of shale formations
+or adjacent to other types of rock formations, the source and
+reservoir are in direct contact or close to each other, the oil
+source usually undergoes primary migration or short-distance
+secondary migration, the accumulation dynamics comes from
+overpressure and buoyancy effect. The reservoir is characterized
+by high permeability, large reserving space, good reservoir
+connectivity, and great brittleness, which makes it easier to be
+stimulated.
+
+2.3 Classification of shale oil reservoirs
+Reservoiring storage space and pore inter-connectivity of
+hydrocarbon-bearing mudstone and shale are the key elements
+to form shale oil reservoirs. The currently accepted reservoiring
+
+151
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+mechanisms include: (1) fracture network formed by tectonic
+movements or natural hydraulic fracturing can serve as oil
+reservoirs, (2) various types of micro-pore and micro-fracture
+in the matrix of mudstone and shale also make good reservoirs.
+Based on different reservoiring mechanisms, shale oil reservoirs
+can be divided into two types as outlined below.
+Tight oil
+
+Shale oil
+
+Oil in tight interlayer of shale
+
+Oil in tight formations
+adjacent to source rocks
+
+shale, inter-granular and intra-granular pores in clay and matrix
+particles, inter-granular pores in pyrite, unstable dissolution
+pores of minerals, inter-crystalline pores in recrystallized
+carbonate mineral, especially pores in organic matter from
+hydrocarbon conversion. The oil-bearing potential of shale
+reservoirs is closely related to a number of factors including the
+abundance and maturity of organic matter. Using conventional
+development techniques, this kind of shale oil is difficult to
+be effectively produced. However, when the shale distribution
+scale, oil content and rock fracturability of reservoirs reach a
+certain condition, horizontal drilling, multistage fracturing and
+other measures can be used to obtain industrial oil flows. The
+exploration and development practice of shale oil in the Biyang
+sag has proven to be a great breakthrough in such a matrix-type
+shale oil (Chen et al., 2011).
+
+3 Characteristics and accumulation
+mechanism of shale oil reservoirs
+
+Tight
+limestone
+
+Fig. 1
+
+Tight
+dolostone
+
+Tight
+sandstone
+
+Mud
+shale
+
+Graphic illustration of tight oil and shale oil
+
+The first type is the mudstone and shale reservoir with massive
+well-developed natural fractures, i.e., the fracture type. Most of
+the shale oil exists as a free state in the fractures of mudstone
+and shale beds, and the fractures can also greatly improve
+permeability. The enrichment of the fracture-type shale oil is
+controlled by fracture and the development of fracture system
+often closely related to factors such as formation pore pressure,
+anisotropic horizontal stress, faulting and folding. The sweet
+spots or zones are often associated with the abnormally highpressure zone within the thick block shale, adjacent to faults
+and around the turning region of regional structures. This kind
+of shale oil is recoverable but usually not stable in production.
+The initial output of oil wells is quite high but declines rapidly,
+and there is also a great variabilities in the production capacity
+among wells. A typical example is the Monterey Shale in the U.S.
+San Joaquin Basin (Zhang et al., 2012).
+The second type refers to the mudstone and shale reservoir
+with no fracture development and matrix pore as the main
+reservoiring storage space, i.e., matrix type. Most of the shale
+oil exists as free and adsorbed states in various kinds of pores,
+such as the matrix pores and micro fractures of mudstone and
+
+152
+
+Compared with conventional oil reservoirs, the oil content
+of shale oil reservoir is not only related to the lithologies and
+physical property parameters, but also closely related to the
+geochemical parameters. Shale oil reservoirs have a higher
+demand for the distribution and hydrocarbon generation ability
+of source rocks. Economic development of shale oil can only be
+achieved in large-scale, stably distributed shale beds with high
+content of organic matter. Organic matter plays a critical role in
+controlling the formation of shale oil reservoirs.
+
+3.1 Characteristics of organic matter controlling
+on shale oil reservoirs
+Continental shale oil region in China is mainly developed in
+the semi-deep lake and deep lake sedimentary environments.
+The organic matters are mainly of Type-I and Type-II1 kerogen
+with moderate maturity and Ro values of 0.5%-1.1%. The shale
+has a moderate or high abundance of organic matter. The total
+organic carbon (TOC) is generally above 2.0%. In contrast,
+the major marine shale oil reservoirs in the U.S. are dominated
+by Type-II kerogen with relatively high abundance of TOC of
+generally greater than 3%, and relatively high maturity with Ro
+values of 0.6%-1.5% (Table 1) (Miller et al., 2008; Sonnenberg
+and Pramudito, 2009; Chen et al., 2011; EIA, 2012; IEA, 2012;
+Liang et al., 2012; Zhang et al., 2012).
+3.1.1 Oil generation potential and oil content of shale
+determined by organic matter content
+Organic matter provides a material basis for generating shale
+oil. Studies have shown that in the case of low TOCo (original
+organic carbon), the oil generated by source rocks is mainly
+used to meet their own needs in the absorption by organic
+matters and minerals. When TOCo increases to a certain value,
+the massive free oil starts to fill the matrix pores of mudstone
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+Table 1 Comparison of organic geochemical parameters between continental
+shale oil in China and marine shale oil in the U.S.
+Development
+horizon
+
+Region
+
+Es3 x
+
+Bonan sag
+
+Lithology
+Shale, limestone,
+calcareous shale
+
+Es4 s
+
+Western sag
+
+Es3
+
+Carbonaceous mud shale
+
+Biyang sag
+
+Eh3 s
+
+Calcareous shale,
+silty shale
+
+Malang sag
+
+P2 l
+
+Williston Basin
+
+Bakken (C1)
+
+Fort Worth Basin
+
+Barnett (C1)
+
+Southern Texas
+
+Eagle Ford (K2)
+
+Calcareous mudstone,
+dolomite mudstone
+Limestone, shale,
+dolomite siltstone
+Siliceous shale,
+calcareous shale,
+limestone
+Shale, limestone
+
+Kerogen type
+
+R o/ %
+
+TOC/ %
+
+Type I-II1
+
+0.52-0.92
+
+Concentrated in the range of 2-5, with
+the maximum of9.3
+
+Type I-II1
+
+0.54-1.44
+
+Dominated by
+Type II1
+
+/
+
+Type I-II1
+
+0.52-0.87
+
+Dominated by
+Type I
+
+0.5-0.9
+
+Totally within the range of 1.4-11.9,
+and concentrated in the range of 3-6
+
+Type II
+
+0.65-0.9
+
+Concentrated in the range of 7.2-13
+
+Type II
+
+0.6-1.4
+
+Concentrated in the range of 4-8
+
+Type I, Type II
+
+1.15-1.4
+
+Concentrated in the range of 2-7
+
+Concentrated in the range of 1-2, with
+the maximum of4.2
+Averaged at 2.61, with the maximum
+of 16.33
+
+Averaged at 2.89, with the maximum
+of 4.96
+
+Es3 x denotes the lower part of Member 3 of Paleogene Shahejie Formation; Es4 s denotes the upper part of Member 4 of Paleogene Shahejie Formation; Eh3s denotes the upper part
+Member 3 of Paleogene Hetaoyuan Formation; P2l denotes Permian Lucaogou Formation; Bakken (C1) denotes the Lower Carboniferous Bakken Formation; Barnett (C1) denotes
+the Lower Carboniferous Barnett Formation; Eagle Ford (K2) denotes the Upper Cretaceous Eagle Ford Formation.
+
+potential, which can result in more residual hydrocarbon. In
+conclusion, higher TOC leads to higher oil content in shale.
+
+and shale, then undergoes migration and expulsion, which can
+thus be exploited. The content of chloroform bitumen “A” and
+free hydrocarbon amount “S1” from Rock Eval pyrolysis can
+directly reflect the oil content of shale. Statistical analysis was
+carried out on the geochemical indicators of source rocks in five
+regions including the Songliao, Hailar and Bohai Bay basins,
+in general, the “S1” and chloroform bitumen “A” increase with
+TOC abundance (Lu et al., 2012). The organic geochemical data
+of shale oil reservoirs in the Biyang sag also proved that the
+content of chloroform bitumen “A” and “S1” have a good positive
+correlation with TOC (Fig. 2). The content of organic matter
+determines the amount of shale oil. Under the condition of
+similar organic matter type and maturity, the higher content of
+organic carbon in shale means greater hydrocarbon generation
+
+3.1.2 Organic matter content VS shale reservoiring capacity
+Organic matter in shale has higher porosity and permeability
+than the associated rock matrix and can provide pores and
+channels for the reservior and flow of hydrocarbons. With the
+thermal evolution of kerogen and the expulsion of generated
+oil and gas, organic pores will be developed. In addition, pores
+may also be formed between matrix and organic matter due to
+the volume shrinkage of the organic matter. The organic acid
+from hydrocarbon generation, on the other hand, will increase
+the solubility of minerals by providing H+ and complexing metal
+elements. As a consequence, unstable minerals are dissolved to
+4.0
+Free hydrocarbon “S 1 ”/mg·g -1
+
+Chloroform bitumen “A”/%
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0 0
+
+2
+
+Fig. 2
+
+4
+TOC/%
+
+6
+
+8
+
+3.0
+
+2.0
+
+1.0
+
+0.0 0
+
+2
+
+4
+TOC/%
+
+6
+
+8
+
+Relationship between oil content and TOC of muddy shale in the 3rd
+Member of the Hetaoyuan Formation in the Biyang sag
+
+153
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+form pores. Organic matter-related pores are well-connected
+and have high abundance, related studies carried out by Jarvie
+et al. indicated that shale with 7% organic matter can increase
+porosity by 4.9% through consuming 35% of organic carbon
+during the hydrocarbon conversion process (Jarvie et al., 2007).
+According to the statistical data of the lower part of Member 3
+of the Shahejie Formation, Well Luo-69 in the Luojia area of
+the Zhanhua sag, a rough positive correlation can be observed
+between TOC and porosity, the fracture density also increases
+with increasing TOC (Fig. 3). In conclusion, in the case of
+
+similar mineral compositions, the higher organic matter content
+in shale corresponds the more pores and fractures, which lead to
+better reservoiring capacity.
+3.1.3 The carbonate crystal morphology influenced by
+organic matter content
+Through the obser vation of sliced mudstone and shale
+samples selected from the Biyang, Zhanhua, Dongying and
+other sags, the calcite in the shale reservoirs mainly has
+three forms, i.e., micrite, granular spar and acicular spar.
+
+16
+Average fracture density/per meter
+
+30
+
+Porosity/%
+
+12
+
+8
+
+4
+
+0
+
+0
+
+2
+
+4
+
+TOC/%
+
+6
+
+8
+
+10
+
+20
+
+10
+
+0
+
+0
+
+1
+
+2
+
+3
+TOC/%
+
+4
+
+5
+
+>5
+
+Fig. 3 Relationship among porosity, fracture development and TOC of muddy shale in the
+lower part of Member 3 of the Shahejie Formation, Well Luo-69 in the Zhanhua sag
+
+The three forms have some relationships with TOC: when
+TOC is less than 2%, the calcite will appear in the form of
+micrite with no recrystallization; when TOC is more than 2%,
+recrystallization starts, and the calcite mainly exists in the
+form of microspar and granular spar; when the TOC is more
+than 4%, further recrystallization will occur, and the calcite
+is mainly in the form of acicular spar. As TOC increasing, the
+degree of crystallization will become stronger (Fig. 4). This
+phenomenon is thought to be related to the thermal evolution
+and the TOC content (Wang et al., 2005). During the process
+of thermal evolution and hydrocarbon conversion, organic
+matter would release organic acids, which forms acid solution
+in the pores and dissolves the micritic calcite in the calcareous
+shale. Due to a reduction in organic acid expulsion, the calcite
+
+100µm
+
+(a)
+
+(b)
+
+recrystallizes after reprecipitation. However, when the organic
+matter has a fairly high degree of thermal evolution within a
+certain range and depth, it is the content of organic carbon that
+determines the recrystallization form of carbonate morphology,
+which determines whether it remains in the form of micrite,
+preliminarily recrystallized to be crystalline powder and
+granule, or further recrystallized to be acicular spar.
+The recrystallization caused by hydrocarbon generation
+is favorable for shale reservoirs. On one hand, it provides
+reservoiring space including recrystallization intergranular
+pores, dissolution pores and interlayer seams, thus improving
+the porosity. On the other hand, the mechanical properties of
+rock are changed. After the clay mixture is excluded during the
+
+200µm
+
+(c)
+
+200µm
+
+(a) Micrite calcite, TOC = 1.74%, Well Biye HF-1 at 2425.4 m; (b) Granular calcite, TOC = 3.67%, Well Biye HF-1 at 2435.6 m; (c) acicular calcite, TOC =
+4.05%, Well Biye HF-1 at 2440.7 m.
+
+Fig. 4
+
+154
+
+Crystalization morphology of carbonate mineral in Member 3 of Hetaoyuan Formation, Biyang sag
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+reservoirs, TOC peaks are within the range of 3%-6%; for highabundance shale oil reservoirs, TOC peaks are within the range
+of 4%-10% (Liang et al., 2012). It is thus clear that the content
+of organic matter can control the quality of shale oil reservoir,
+and therefore becomes an important factor which affects the
+productivity of shale oil reservoirs.
+
+recrystallization, there will be an increase in the mineral content
+and brittleness of calcite.
+As shown in the histogram of the samples from the Zhanhua
+sag, Well Luo-69 (Fig. 5), the depth of 3060 m is an obvious
+turning point of TOC, below which the TOC is generally less
+than 2% and above which the TOC is basically greater than 2%,
+partially goes beyond 4% and even higher. Correspondingly,
+the parameters are also significantly improved in the upper
+part, including the hydrocarbon generation potential “S1+S2”,
+chloroform bitumen“A”, porosity, and oil saturation. The oiltesting well data shows the horizons at the depth of 3040-3066
+m (TOC > 2%) is an oil reservoir. Based on the TOC data of
+the shale oil members with different productivity in shale oil
+reservoirs of the Lucaogou Formation in the Malang sag, Liang
+et al. point out that TOC peaks are within the range of 1%4% in the water producing wells; for low-abundance shale oil
+Strata
+
+0
+
+R4
+GR/API Depth
+300
+100 /m Lithologic 0
+profile
+R2. 5
+SP/mV
+
+-20
+
+60
+
+0
+
+3000
+
+Th/U
+
+3.2 Mineral compositions of shale
+Shale refers to the fine-grained sedimentary rocks consisting
+of fine grained sediments with grain sizes less than 0.062
+mm. Meanwhile, shale is rich in organic matter with fissile
+or laminated beddings. Mineral compositions of shale are
+complex, composed mainly of brittle minerals such as quartz,
+feldspar, calcite and other clay minerals like montmorillonite,
+illite/smectite, illite, kaolinite, as well as minor amount of
+pyrite. These mineral components can form four kinds of basic
+
+Sr / Ba
+
+10 0
+
+Calcite Clay
+/%
+/%
+
+10 0
+
+100 0
+
+(S 1 + S 2 )
+/(mg·g -1 )
+
+1000
+
+80 0
+
+Cb “A”
+/%
+
+TOC
+/%
+10 0
+
+Oil
+Porosity Hp/mD
+saturation
+/%
+/%
+
+2.5 0
+
+20 0
+
+300 0
+
+100
+
+2920
+
+2940
+
+Lower part of Member 3 of Shahejie Formation
+
+Paleogene
+
+Shahejie Formation
+
+Cenozoic
+
+2960
+
+2980
+
+3000
+
+3020
+
+3040
+
+3060
+
+3080
+
+3100
+
+3120
+
+3140
+Laminated calcareous
+clay rocks with high
+organic matter content
+
+Massive calcareous
+Laminated limestone
+claystone with moderate
+with high organic
+organic matter content
+matter content
+
+Massive limestone
+with moderate organic
+matter content
+
+Laminated mud shale
+with low organic
+matter content
+
+Laminated claystone
+with low organic
+matter content
+
+Silty mudstone
+
+Cb“A” represents chloroform bitumen “A”，HP represents horizontal permeability
+
+Fig. 5
+
+Reservoir characteristic column of Well Luo 69, Zhanhua sag
+
+155
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+laminated structure: organic matter-rich laminated structure,
+clastic-rich laminated structure, carbonate laminated structure
+and clay laminated structure. Different assemblages and
+proportions of laminated structures lead to different lithofacies
+(Wang et al., 2012).
+The types and structures of shale pores are determined by
+various mineral compositions. The rigidity of quartz is favorable
+for the preservation of inter-granular pore. The instability
+of feldspar results in dissolution pores along the cleavage.
+Carbonate minerals are not only easily dissolved to form intergranular or intra-granular dissolved pores and also easily
+recrystallized to form inter-granular pores. Clay minerals are
+often curly shaped flakes with considerable inter-granular pores.
+Different mineral compositions also control the brittleness of
+
+shale, and further influence the later reservoir reconstruction.
+The higher content of brittle minerals such as quartz and calcite
+can result formation of natural fractures. During fracturing and
+stimulation, it is also easy to form complex induced fractures
+and achieve the extension and connection of fracture networks.
+However, the elastic deformation of clay minerals during
+fracturing tends to block the channels, which is undesirable for
+reservoir stimulation.
+Through the investigation of the mineral compositions of shale
+reservoirs in different regions (Table 2) (Chen et al., 2011; Liang
+et al., 2012; Tang et al., 2012; Zhang et al., 2012), the marine
+shale usually have high siliceous content, while the lacustrine
+shale usually have high content of carbonate minerals and the
+content of clay mineral is generally lower than 50%.
+
+Table 2 Rock mineral composition of shale reservoir in different regions
+Strata
+
+(Quartz + Feldspar)
+/%
+
+North America
+Northern Guizhou
+
+Barnett (C1)
+∈1
+
+40-60
+32-78, average 56.3
+
+< 25
+< 20
+
+40-80
+40-70
+
+< 50
+8-47, average 30.5
+
+Es3x
+P 2l
+Eh3s
+
+3-48, average 18
+20-40
+34-57
+
+average 58
+5-48
+23-31
+
+average 78
+/
+68-83
+
+1-48, average 19
+/
+16.9-31.5
+
+Ordos Basin
+Bonan sag
+Malang sag
+Biyang sag
+
+Pz2
+Mz
+
+32-54
+27-47
+
+3.3 Characteristics of reservoiring and seepage
+space in shale
+Sha le reser voi r cha racter istics a re deter m ined by the
+compositions and structures of fine-grained mudstone and shale.
+The tight reservoir generally has low matrix porosity, small
+radius of pore throat and extremely low original permeability.
+Desirable measurements cannot be obtained when using
+conventional methods to analyze the petrophysical properties
+of shale reservoirs, such as casting thin section, porosity and
+permeability measurement, and mercury injection. Therefore,
+special imaging techniques and analysis testing methods should
+be adopted in characterizing mudstone and shale reservoirs. For
+instance, high-resolution imaging instruments, such as argon ion
+polishing and sampling equipment, three-dimensional micro/
+nano imaging X-ray computed tomography (CT), Field Emission
+Scanning Electron Microscope (FE _SEM), environment
+scanning electron microscopy, need to be used in order to
+realize the 3D distribution image reconstruction of internal
+shale pores and mineral compositions (Slatt and O’Brien, 2011;
+Loucks et al., 2012). The structure and distribution of pores
+and micro-fractures in shale can be effectively characterised by
+measuring the surface area of N2 and CO2 under low pressure in
+combination with energy spectrum analysis (Tian et al., 2012).
+Numerous studies have been done on the evolution of
+reservoiring space and pores in shales (Slatt and O’Brien, 2011;
+
+156
+
+Carbonate mineral
+Brittle mineral /%
+/%
+
+Clay mineral
+/%
+
+Region
+
+/
+/
+
+40-58
+58-70
+
+/
+/
+
+Loucks et al., 2012; Zhu et al., 2012). It is considered that the
+shale reservoiring space can be summarized into four categories:
+intergranular pore, intra-granular pore, organic matter pore
+and fracture. The development of pore network depends on the
+composition and structure of minerals, while the content and
+type of organic matter are critical to the development of organic
+pore. Pore type is also closely related with diagenesis.
+By obs e r v i ng c or e sa mples of sha les i n t he Biya ng,
+Zhanhua and Dongying sags with the use of transmitted
+light microscope and argon ion polishing FE-SEM, shale
+reservoiring spaces in these areas consists mainly of matrix
+pores, fractures. The aperture of matrix pores and fractures
+ranges from micro-nanometer to nanometer scales. Nanoscale
+pores and fractures are dominant, while micro-fractures are
+well developed. The types of matrix pore mainly include
+residual original intergranular pores, intergranular pores (Fig.
+6a-Fig. 6c), secondary pores formed by the dissolution of
+unstable mineral (Fig. 6d) and organic pores. Organic pores
+can be also divided into three types: pores on the contact
+edge of organic matter and clastic grains, pores formed by
+the dissolution of organic matter lumps and hydrocarbon
+conversion pores (Table 3, Fig. 6).
+Organic pores are lipophilic and generally anhydrous, providing
+an important reservoiring place for shale oil and gas. The
+formation and enrichment of organic pores are controlled
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+(a)
+
+2µm
+
+(b)
+
+2.5µm
+
+(c)
+
+25µm
+
+(d)
+
+2.5µm
+
+(e)
+
+1µm
+
+(f)
+
+5µm
+
+(g)
+
+2.5µm
+
+(h)
+
+100µm
+
+(i)
+
+250µm
+
+(a) Clay mineral intracrystalline pore, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2441.6 m; (b) Pyrite
+intracrystalline pore, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2441.6 m; (c) Calcite recrystallization
+intracrystalline pore, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2447.5 m; (d) Dissolved fracture along
+the cleavage in feldspar, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2441.6 m; (e) Pores formed by
+hydrocarbon generation and evolution of organic matter, the Lower 3rd Member of the Shahejie Formation, Dongying sag, Well Niu-38
+at 3350 m; (f) Pores formed by organic acid dissolution pore, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1
+at 2423.6 m; (g) Pores at the margin of organic matter, the lower part of Member 3 of the Shahejie Formation, Dongying sag, Well Niu-1
+at 3426.2 m; (h) Interlayered micro-fracture, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2437.25 m; (i)
+Tectonic micro-fracture, the 3rd Member of the Hetaoyuan Formation, Biyang sag, Well Biye HF-1 at 2443.3 m.
+
+Fig. 6
+
+Characteristics of micro-reservoiring space in shales
+
+Table 3 Types and characteristics of micro pores in shale oil reservoirs
+Pore type
+
+Organic pore
+
+Pore carrier
+
+Shape
+
+Size/nm
+
+Abundance
+
+Connectivity
+
+In organic matter
+
+Honeycomb and bubble
+shape
+
+50-300
+
+Low
+
+Better
+
+Elongated and slit shape
+
+100-800
+
+High
+
+Poor
+
+Long and irregular
+shape
+
+100-1500
+
+Relatively high
+
+Moderate
+
+Between organic matter and
+clastic grains
+
+In the dissolved organic matter
+lumps
+Dissolution pore
+
+Calcite, feldspar, clay mineral
+
+Elongated and
+embayment shape
+
+200-2000
+
+Relatively high
+
+Good
+
+Intercrystal pore
+
+Clay minerals, pyrite, calcite
+recrystallization crystal
+
+Oval, square and
+elongated shape
+
+80-800
+
+Moderate
+
+Moderate
+
+Inter-granular pore
+
+Quartz, feldspar, mica sheet
+
+Square shape
+
+100-1500
+
+Mid-low
+
+Bad
+
+157
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+by the abundance, type and evolution degrees of the organic
+matter. More specifically, organic pores are formed under the
+following conditions: (1) in kerogen after the solid kerogen
+converts into hydrocarbon fluid (Fig. 6e), (2) by the formation
+of bubbles during the generation of liquid hydrocarbons or the
+accumulation of hydrocarbon gas, (3) through the dissolution of
+calcite and clay minerals by organic acids (Fig. 6f). It is worthy
+to note that compared with shale gas reservoirs, the organic
+matter in oil shale has a relatively low degree of evolution, and
+has not reached the gas generation window. For this reason, the
+development of the nanoscale hydrocarbon conversion pores in
+shale oil reservoirs is quite limited. The elongated and slit pores
+are mostly observed at the contact edge of organic matter and
+matrix particles, with the width of 100-800 nm (Fig. 6g). This
+kind of pores has high abundance and large sizes, and is thought
+to be the inter-granular pores between the organic matter and the
+matrix which are not fully compacted. In addition, the volume
+of organic matter usually shrinks to some degree after thermal
+evolution and the expulsion of hydrocarbon fluids, thus forming
+pores between itself and the mineral matrix around.
+Micro-fractures are quite often developed in shale oil reservoirs
+with various types, such as structural fracture, interlayer seam,
+mineral contraction fracture, and hydrocarbon-generating
+overpressure seam with different geneses. Among them, the
+horizontal interlayer seam is mostly well developed; mechanical
+property varies greatly at the contacts of different laminae,
+usually resulting in long, parallel continuous cracks with
+widths of 2-8 μm (Fig. 6h). The mineral contraction fractures
+are mainly developed in clay minerals, and formed by the
+transformation and dehydration of clay minerals as well as the
+hydrocarbon expulsion of organic matter during the diagenetic
+process. The interlayer shrinkage of flake-like clay minerals
+forms contraction fractures. However, tectonic micro-fracture
+is mainly oblique with flat fracture surface and disconnected
+laminae, and is mostly filled by carbonate minerals (Fig. 6i).
+Micro-fractures not only provide seepage channels for shale
+reservoirs, but also play an important role in connecting
+hydrocarbons and improving the petrophysical properties.
+They can also facilitate reservoir stimulation by intersecting
+with artificial fractures to form effective multi-scale fracture
+networks.
+
+3.4 Stimulation conditions of shale reservoirs
+For shale oil reservoirs which have low porosity and extremelylow permeability, horizontal wells and artificial fracturing
+must be used in a large scale in order to improve the production
+ability within reservoirs. Shale reservoir stimulation should take
+into account the buried depth and rock fracturing availability,
+in which the latter is dependent on the development degrees of
+natural fractures, mineral compositions and rock mechanical
+properties (Tang et al., 2012).
+
+158
+
+Burial depths have some impact on the physical properties
+of reservoirs. With increasing depth, the compaction effect is
+enhanced, while the porosity and permeability of reservoirs are
+reduced. The increase of burial depth results in high costs for well
+drilling and completion, etc., thus reducing the economic value of
+reservoirs. Natural fractures in shale can reduce the tensile strength
+of rock, which can also enhance the effect of fracturing. If natural
+fractures are well-developed, it will be easier to form artificially
+induced fractures. In terms of shale mineral compositions, the
+higher percentage of brittle minerals and the lower content of
+clay minerals can lead to the larger shale brittleness and greater
+fracturing availability. As for the mechanics properties of rocks,
+the commonly used characterization parameters include Young’s
+modulus and Poisson’s ratio. The former reflects the rigidity of rock,
+which is the ability of shale to hold fractures after fracturing, while
+Poisson’s ratio reflects the rock elasticity, which determines the
+ability of shale to rupture under pressure. Thus, the higher Young’s
+modulus and lower Poisson’s ratio can result in greater fracturing
+availability of shale.
+
+3.5 Accumulation mechanisms of shale oil
+At present, there are not so much researches on hydrocarbon
+generation and expulsion, relevant simulation experiments,
+as well as the retention mechanism and occurrence state of
+residual hydrocarbons in shale. The simulation experiment of
+hydrocarbon generation and expulsion in the confined space of
+source rocks, indicated that the process could be divided into
+different stages as the maturity increases with the increasing of
+the thermal evolution degree (Li et al., 2011; Guang et al., 2012).
+When Ro is less than 0.9%, the generated oil is mainly retained
+in the source rocks. If Ro is greater than 0.9%, the expelled oil
+from the source rock can be retained on the surface of the source
+rocks and in the connected micro-fractures, part of the oil can
+enter the interbedded sandstones. Most scholars hold the view
+that the process of hydrocarbon release and expulsion includes
+the generation and release of hydrocarbons from kerogen and
+the primary migration of hydrocarbons in the source rocks.
+During the first stage, the release of liquid hydrocarbons is
+controlled by the adsorption effect of kerogen and the diffusion
+effect of hydrocarbons in the kerogen network, which depends
+mainly on the chemical properties of the kerogen. During
+the second stage, the controlling factors of the retained
+hydrocarbons in the mudstone and shale include the lithological
+assemblage of source rocks, effective migration channels, stress
+distribution in the source rocks and micro-fracture development
+(Pepper and Corvi, 1995; Stainforth, 2009). The occurrence state
+of residual hydrocarbons is mainly controlled by the organic
+and inorganic mineral compositions in shale, reservoiring
+space structures, hydrocarbon compositions and properties.
+Through analyzing and observing with FE-SEM, Zou put
+forward a retention and accumulation model for shale oil, liquid
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+hydrocarbons are considered to mainly occur in the internal or
+on the surface of organic matter in an adsorption phase; in the
+nanoscale pore throat of mineral matrix (clay, quartz, feldspar,
+dolomite and calcite), liquid hydrocarbons occur mostly in a free
+state, sometimes in an adsorption state; hydrocarbons mainly
+exist as free state in micro fractures (Zou et al., 2013).
+Shale oil is originated from the retention and accumulation of
+generated hydrocarbons in the source rocks. It is the residual
+oil which has not been expelled after hydrocarbon generation.
+Shale oil experiences no migration or only primary migration,
+which is a typical self-generating and self-reservoiring system.
+During the continuous oil generation stage of organic-rich
+shale, the retention and accumulation of oil is controlled by
+various factors such as reservoiring space structure, medium
+lipophilicity or hydrophility and crude oil properties. Shale
+oil mainly exists as free, adsorbed or dissolved state in large
+fractures, matrix pores, micro-fractures and other lithologic
+inter-layers of shale. Shale oil may be accumulated in organicrich shale within oil generation window. Shale oil reservoirs are
+usually characterized by large oil-bearing area and continuous
+distribution of reservoir bodies. The oil-bearing magnitude is
+controlled by the distribution of organic-rich shales.
+
+4 Elements and criteria of shale oil
+reservoir evaluation
+Based on the “self-generating and self-reserving” accumulation
+model for shale oil and the requirement of fracturing and
+stimulation for reservoir development, it is considered that the
+evaluation of shale oil reservoir should focus on the oil generation
+potential, reserving capacity, stimulation conditions and shale oil
+mobility. Evaluation parameters can be summarized as: organic
+geochemical parameters which characterize the conditions of
+oil sources (including the type and maturity of kerogen, organic
+matter abundance, and rock pyrolysis parameters), reservoir
+
+property parameters of accumulation conditions for shale oil
+(the area, thickness, porosity-permeability parameter, oilbearing abundance of organic-rich shale), and the parameters
+indicating exploitation conditions (including buried depth, rock
+mineral compositions, the development of fractures, mechanical
+parameters rock, the viscosity of crude oil, and formation
+pressure), among which the organic geochemical parameters are
+the most important to reflect oil source conditions.
+
+4.1 Reservoir evaluation elements
+4.1.1 Type and maturity of organic matter
+The generation and accumulation of shale oil is controlled by the
+type of organic matter and the stage of thermal evolution stage.
+Type-III organic matter is mainly for gas generation, and has low
+shale oil production rate no matter under what stage of evolution.
+Type-I and Type-II organic matters have low shale oil production
+rate prior to the oil generation (window) stages, or the low and
+high maturity stages due to the limited amount of generated oil
+or the conversion of oil into gas. However, during the mature
+stage (0.7% < Ro < 1.1%), shale oil is in the enrichment window
+with high production rate (transformation ratio). Therefore, the
+target shale oil reservoir evaluation should be the low mature and
+mature source rocks with Type-I and Type-II1 organic matters and
+Ro of 0.6%-1.2%, based on which classification and evaluation can
+be achieved according to the abundance of organic matter.
+4.1.2 TOC
+Through analyzing the controlling factors and effects of organic
+matter on the oil content and reservoiring capability of shale
+oil reservoirs, it is clear that the production capacity of shale oil
+reservoir is primarily controlled by organic matter abundance.
+Based on the statistics of shale oil testing and production (Table
+4), it can be observed that the average TOC in oil-testing wells is
+
+Table 4 Parameters of shale oil wells in different regions
+Production /(m3·d-1)
+Region
+
+Zhanhua sag
+
+Strata
+
+Well
+
+Before
+fracturing
+
+After
+fracturing
+
+0.69
+79.90
+2.30
+1.80
+24.00
+
+2.09
+
+Es3x
+
+Luo 67
+Luo 42
+Luo 20
+Luo 19
+Xinyishen 9
+Biye HF1
+
+Biyang sag
+
+Es3s
+Anshen 1
+
+Shulu sag
+
+Es3x
+
+Jin 97
+Jin 116x
+
+9.20
+1.98
+
+Stable production of 2.50 after
+fracturing, with maximum of
+23.60
+Stable production of 0.50 after
+fracturing, with maximum of
+4.68
+0.89
+
+17.70
+12.10
+
+TOC (%) in oil testing
+member
+
+Porosity
+
+1.63-3.85, average 2.74;
+3.27-7.73, average 5.02
+3.48-5.50, average 4.62
+
+4.12-8.75, average 5.99
+4.80-18.70, average 10.11
+3.42-12.90, average 8.47
+
+0.50-4.02, average 2.18
+
+5.75-11.30, average 9.21
+
+2.16-4.96, average 3.40
+
+2.32-7.19, average 4.80
+
+Average 3.03
+Average 3.96
+Average 2.17
+
+159
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+higher than 2%. Higher TOC leads to higher shale oil production.
+When TOC reaches over 4%, the production will be even larger.
+Based on production data and survey results in combination
+with the effect range of TOC on carbonate crystal morphology,
+it is believed that if other conditions are satisfied, the lower limit
+value of TOC for the accumulation and industrial recovery of
+shale oil should be no less than 2%, and the boundary values
+is 2% and 4%. When TOC < 2%, the reservoirs are considered
+invalid, and basically no oil will be produced even if fracturing
+stimulation is performed. When 2% < TOC < 4%, the reservoir
+is deemed to have low abundance and industrial oil flow after
+fracturing, or may have natural low yields. When TOC > 4%, the
+reservoirs have high abundance with certain natural productivity
+and industrial value as well as high single-well yields and a
+prolonged period of stable production. The types and maturity
+thresholds of organic matter vary in different regions. Therefore,
+a difference exists in the comparability of TOC. The evaluation of
+reservoirs cannot only depend on TOC. We suggest that regional
+TOC boundary values should be analyzed and determined in the
+regions with large amount of local data. In regions with less data,
+it is recommended to use the TOC of 2.0% and 4.0% as the tripledivision threshold for shale oil reservoir and capacity evaluation.
+
+and comprises complex compositions and varies types. Based
+on the important role of organic matter in shale sedimentation,
+d iagenesis a nd r es e r voi r for m at ion, we sug gest t hat
+characteristics of organic matter should be taken into account
+and the composition should be taken as the first principle in
+classifying shale types. The type of shale is determined by both
+the content of organic carbon and rock mineral compositions
+(Fig. 7). According to the three basic elements of TOC,
+carbonate mineral and clay mineral, and with TOC boundary
+values of 2% and 4%, shales are subdivided into high-organic,
+moderate-organic and low-organic types.
+Based on the shale oil exploration in the Luojia in the Zhanhua
+sag, the most favorable lithofacies is thought to be the laminated
+limestone and calcareous shale with high content of brittle
+mineral and organic carbon after recrystallization. Such
+lithofacies is mainly distributed in the relatively isolated semideep lake facies zone below the storm wave base, with high
+content of organic matter, and is commonly found within the
+transgressive system tract.
+TOC/%
+
+4.1.3 Thickness of organic-rich shale
+The oil content and economic benefit of shale reservoirs are
+controlled by shale thickness. The thicker the organic-rich
+shale is, the higher the enrichment degree of shale oil will be.
+At present, there is no unified understanding of the lower limit
+of shale reservoir thickness. In the U.S., the thickness of shale
+formation is defined as no less than 30 m, and the thickness of
+effective shale is no less than 9 m (Wang et al., 2010). It is also
+required to consider other factors when determining the lower
+limit of shale reservoir thickness. If the organic carbon content
+is higher, the lower limit can be smaller. Due to the fact that the
+domestic exploration of shale oil is still at the starting stage, it is
+suggested to set the lower limit of thickness to be 40 m for those
+shale formations suitable for commercial development, and set the
+effective thickness of rich-organic shale to be no less than 15 m.
+
+II
+
+I
+4
+
+4
+IV
+
+III
+2
+
+2
+VI
+
+V
+Carbonate
+/%
+
+25
+
+50
+
+25
+
+Clay
+/%
+
+I: limestone with high content of organic matter; II: argillite rock with high content of
+organic matter; III: limestone with moderate amount of organic matter; IV: argillite
+rock with moderate amount of organic matter; V: limestone with low content of
+organic matter; VI: argillite rock with low content of organic matter
+
+Fig. 7
+
+Classification of shales
+
+4.1.4 Rock mineral compositions
+
+4.1.6 Fracturing availability of shale
+
+Different mineral compositions not only control pore structures,
+but also influence the late reservoir stimulation. High content
+of brittle minerals is easy to form natural fractures and
+induced fractures. Clay minerals are prone to block seepage
+channels, which is not conducive to reservoir stimulation. It is
+recommended that the content of brittle minerals in high-quality
+shale reservoir should be greater than 50%, while the content of
+clay mineral should be less than 40%.
+
+The larger the Young’s modulus is, the higher the degree of
+natural fracture development is. The lower the Poisson’s ratio is,
+the higher the brittle mineral content is, and the lower the clay
+content is. As a result, the fracturing availability of shales will be
+greater. It is proposed by Jiang et al. that a good shale reservoir
+should satisfy the following conditions: a Poisson’s ratio < 0.25, a
+Young’s modulus value > 20 GPa, a brittle mineral content > 40%
+and a clay mineral content < 30% (Jiang et al., 2010).
+
+4.1.5 Rock type
+
+4.1.7 Mobility of shale oil
+
+Mudstone and shale usually consist of fine-grained sediments
+
+Besides the characteristics of shale oil reservoirs and ability of
+
+160
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+fracturing, the capacity of reservoirs is another key factor of
+shale oil exploration and development, which is closely related
+to the mobility of shale oil, and greatly affected by reservoir
+permeability, density and viscosity of crude oil and formation
+pressure. Low density and low viscosity of crude oil, high
+formation pressure and high gas-oil ratio are usually favorable
+for the flow and development of shale oil in micro/nanoscale
+pore throats.
+In view of the low original permeability of matrix-type shale
+oil, artificial fracturing is used to enhance permeability.
+Fracture-typed shale oil reser voi rs usually have la rge
+variations in permeability. So far, there is no unified standard
+for measuring permeability in situ. Therefore, further studies
+on the seepage mechanisms and production conditions of shale
+oil are required.
+
+4.2 Reservoir evaluation criteria and application
+Based on the above analysis, a comprehensive evaluation standard
+of shale oil reservoir with a focus on organic carbon content is
+formulated through practical researches and extensive investigation
+(Huang et al., 2004; Jiang et al., 2010; Mullen et al., 2010; Zhang
+et al., 2012; Luo et al., 2013; Wang et al., 2013; Yu, 2012; Zou
+et al., 2013). The parameters that are closely related to shale oil
+capacity are selected, and the threshold values of TOC are 2%
+and 4% respectively. Meanwhile, a wide range of indicators are
+comprehensively considered, including the thickness, porosity,
+percentages of brittle minerals, clay mineral content and rock
+mechanical parameters of the organic-rich shale. This evaluation
+divides shale oil reservoirs into 3 categories (Table 5).
+
+This evaluation criterion can be applied to the classification
+of individual well reservoir. The measured TOC data and
+logging data are firstly used to establish the geochemical
+logging response model, so as to systematically determine the
+vertical variations in TOC values of the target shale horizons
+in each well. Then different levels of shale oil reservoirs can be
+classified based on the above criterion. Taking the Biyang sag as
+an example, single well reservoir classification and evaluation
+is carried out on Well Biye HF-1 using the above criterion (Fig.
+8). The TOC ranges mainly within 1.5%-3.5%, therefore the
+reservoirs of this well belong to Type Ⅱ on the whole .
+The planar application of the criterion is to delineate the
+distribution of favorable shale reservoir area through multiparameter superimposition in combination with various
+graphs including the basic TOC contour map, Ro contour map,
+lithofacies planar distribution map, brittle mineral content
+contour map, organic-rich shale thickness contour map, porosity
+contour map and fracture development planar map.
+
+5 Conclusions
+(1) Shale oil refers to the liquid hydrocarbons in mudstone
+and shale formations which serve as effective source rocks.
+“Tight oil” and “shale oil” can be defined in both broad and
+narrow senses. In a broad sense shale oil refers to the oil
+resources in tight oil-bearing layers (including non-mudstone
+and shale and interlayer of other rock types) of shale with low
+porosity and permeability, whereas in a narrow sense shale oil
+specifically refers to the oil resources in mudstone-shale. Shale
+oil reservoir can be divided into fracture-type and matrix-type
+
+Table 5 Evaluation parameters and criteria of shale oil reservoir
+Brittle
+mineral/%
+
+Clay
+mineral/%
+
+Young’s
+modulus/
+GPa
+
+Poisson’s
+ratio
+
+>6
+
+>50
+
+<40
+
+>20
+
+<0.25
+
+≥10
+
+≥4
+
+≥40
+
+≤50
+
+≥18
+
+≤0.20
+
+<10
+
+<4
+
+<40
+
+>50
+
+<18
+
+>0.20
+
+Reservoir type
+
+TOC
+/%
+
+Ro
+/%
+
+Target reservoir
+(Type I)
+
+>4
+
+0.7-1.1
+
+>40
+
+>15
+
+Favorable reservoir
+(Type II)
+
+2-4
+
+≥0.5
+
+≥30
+
+Invalid reservoir
+(Type III)
+
+<2
+
+<0.5
+
+<30
+
+Shale
+Organic-rich
+Porosity/%
+thickness/m thickness/m
+
+according to the differences in reservoiring mechanisms and
+production.
+(2) Basically shale oil reservoirs are characterized by high
+abundant organic matter, complex mineral compositions,
+development of laminated structure, tiny reservoiring space,
+micro/ nanoscale pore throats, low porosity, extremely low
+permeability. Shale oil is originated from the crude oil
+
+that has not been expelled after hydrocarbon generation
+or retained after hydrocarbon expulsion. It retains and
+accumulates within shale reservoirs with no migration or
+only primary migration. Shale oil exists as free, dissolved
+or a d s or b e d l iqu id hyd r o c a r b on s i n la rge f r a c t u r e s,
+matrix pores and micro-fractures in mudstone and shale
+formations.
+
+161
+
+1
+
+GR
+50
+
+2390
+
+300
+
+RT
+
+150
+
+5000
+
+AC
+
+Brittle
+mineral
+/%
+
+Clay
+/%
+
+380 0
+
+50 0
+
+100
+
+S 1 + S 2 Porosity PermeabilityOil bearing
+/(mg· g -1 )
+abundance
+/%
+/%
+
+TOC
+/%
+0
+
+7
+
+0
+
+40
+
+0
+
+15
+
+0
+
+0.04
+
+0
+
+/%
+
+5
+
+Reservoir
+evaluation
+
+Lithologic
+profile
+
+Fracture
+
+Strata
+
+Depth
+/m
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+Ⅲ
+2400
+
+Ⅱ
+2410
+
+Ⅲ
+
+2420
+
+No. 5 major shale horizon
+
+Member 3 of Hetaoyuan Formation
+
+√
+Ⅱ
+
+√
+2430
+
+Ⅲ
+
+√
+√
+√
+√
+
+2440
+
+Ⅱ
+
+√
+2450
+
+2460
+
+2470
+
+Ⅲ
+
+2480
+
+Muddy
+siltstone
+
+Fig. 8
+
+Silty shale with
+moderate and low
+content of TOC
+
+Calcareous shale with
+low and moderate
+content of TOC
+
+Dolomite shale with
+moderate and low
+content of TOC
+
+Argillaceous dolomite
+with moderate and low
+content of TOC
+
+The comprehensive evaluation column of shale oil reservoirs in Well BY-HF1, Biyang sag
+
+(3) Organic matter plays an important role in the formation and
+evaluation of shale oil reservoirs. The objective of shale oil reservoir
+evaluation is to delineate the low-mature and mature source rock
+with Type-I and Type-II1 organic matters and Ro of 0.5%-1.0%.
+A set of shale oil reservoir evaluation criteria was proposed with
+a focus on the abundance of organic carbon and TOC threshold
+values of 2% and 4%. Meanwhile, different indicators should be
+taken into account, including the thickness of organic matter-rich
+
+162
+
+Calcareous shale with
+high and moderate
+content of TOC
+
+shale, mineral compositions, rock types, porosity and permeability,
+and fractures. Shale oil reservoir can be divided into three grades,
+i.e., target reservoir, favorable reservoir and invalid reservoir.
+
+Acknowledegments
+This work was funded by National Science and Technology
+Major Project of China (Grant No. 2011ZX05009-002)
+
+Z. Jiang et al./Petroleum Research (2016) 2,149-163
+
+References
+Chen X, Wang M, Yan Y X, et al. Accumulation conditions for continental
+shale oil and gas in the Biyang Depression. Oil & Gas Geology, 2011,
+32(4): 568-577(in Chinese with English abstract).
+EIA. Annual energy outlook 2016, with projections to 2040. Washington:
+US Energy Information Administration, 2016.
+Guan D F, Xu X H, Li Z M, et al. Theory study of hydrocarbon generation
+and expulsion of source rocks and oil and gas in shale. Sino-Global
+Energy, 2012, 17(5): 40-52(in Chinese with English abstract).
+Jarvie D M, Hill R J, Ruble T E, et al. Unconventional shale-gas systems:
+the Mississippian Barnett Shale of north-central Texas as one model for
+thermogenic shale-gas assessment. AAPG Bulletin, 2007, 91(4): 475499.
+Jia C Z, Zou C N, Li J Z, et al. Assessment criteria, main types, basic
+features and resource prospects of the tight oil in China. Acta Petrolei
+Sinica, 2012, 33(3): 343-349(in Chinese with English abstract).
+Jiang Y Q, Dong D Z, Qi L, et al. Basic features and evaluation of shale gas
+reservoirs. Natural Gas Industry, 2010, 30(10): 7-12(in Chinese with
+English abstract).
+Li Z M, Zheng L J, Ma Z L, et al. Simulation of source rock for hydrocarbon
+generation and expulsion in finite space and its significance. Petroleum
+Geology & Experiment, 2011, 33(5): 447-451(in Chinese with English
+abstract).
+Liang S J, Huang Z L, Liu B, et al. Formation mechanism and enrichment
+conditions of Lucaogou Formation shale oil from Malang sag,
+Santanghu Basin. Acta Petrolei Sinica, 2012, 33(4): 588-594(in Chinese
+with English abstract).
+Lin S H, Zou C N, Yuan X J, et al. Status quo of tight oil exploitation in the
+United States and its implication. Lithologic Reservoirs, 2011, 34(2): 2530(in Chinese with English abstract).
+Loucks R G, Reed R M, Ruppel S C, et al. Spectrum of pore types and
+networks in mudrocks and a descriptive classification for matrix-related
+mudrock pores. AAPG Bulletin, 2012, 96(6): 1071-1098.
+Lu S F, Huang W B, Chen F W, et al. Classification and evaluation criteria
+of shale oil and gas resources: discussion and application. Petroleum
+Exploration and Development, 2012, 39(2): 249-255(in Chinese with
+English abstract).
+Luo Y, Zhao Y C, Lü X H. Characterization of the upper Es3 inter-salt shale
+
+reservoir in Liutun sag, Dongpu Depression. Acta Petrolei Sinica, 2013,
+34(2): 293-300(in Chinese with English abstract).
+Miao J Y, Zhu Z Q, Liu W R, et al. Relationship between occurrence
+of organic matter and the primary migration of the hydrocarbon in
+argillaceous rock. Acta Sedimentologica Sinica, 2004, 22(1): 169-175(in
+Chinese with English abstract).
+M iller B, Pa neitz J, Mul len M. T he successf ul appl ication of a
+compartmental completion technique used to isolate multiple hydraulicfracture treatments in horizontal Bakken shale wells in North Dakota.
+SPE 116469, 2008.
+Mills R M. The myth of the oil crisis: overcoming the challenges of
+depletion, geopolitics, and global warming. Westport: State of
+Connecticut, Greenwood Publishing Group, 2008: 158-159.
+Mullen J, Lowry J C, Nwabuoku K C. Lessons learned developing the eagle
+ford shale. SPE 138446, 2010.
+Pepper A S, Corvi P J. Simple kinetic models of petroleum formation: Part
+
+I: Oil and gas generation from kerogen. Marine and Petroleum Geology,
+1995, 12(3): 291-319.
+Slatt R M, O’Brien N R. Pore types in the Barnett and Woodford gas shales:
+contribution to understanding gas storage and migration pathways in
+fine-grained rocks. AAPG Bulletin, 2011, 95(12): 2017-2030.
+Sonnenberg S A, Pramudito A. Petroleum geology of the giant Elm Coulee
+field, Williston Basin. AAPG Bulletin, 2009, 93(9): 1127-1153.
+Stainforth J G. Practical klinetic modeling of petroleum generation and
+expulsion. Marine and Petroleum Geology, 2009, 26(4): 552-572.
+Tang Y, Xing Y, Li L Z, et al. Influence factors and evaluation methods
+of the gas shale fracability. Earth Science Frontiers, 2012, 19(5): 356363(in Chinese with English abstract).
+Tian H, Zhang S C, Liu S B, et al. Determination of organic-rich shale pore
+features by mercury injection and gas adsorption methods. Acta Petrolei
+Sinica, 2012, 33(3): 419-427(in Chinese with English abstract).
+Wang G M, Ren Y J, Zhong J H, et al. Genetic analysis on lamellar calcite
+veins in Paleogene black shale of the Jiyang Depression. Acta Geologica
+Sinica, 2005, 79(6): 834-838(in Chinese with English abstract).
+Wang G M. Laminae combination and genetic classification of Eogene shale
+in Jiyang Depression. Journal of Jilin University: Earth Science Edition,
+2012, 42(3): 666-671(in Chinese with English abstract).
+Wang H J, Ma F, Tong X G, et al. Assessment of global unconventional
+oil and gas resources. Petroleum Exploration and Development, 2016,
+43(6): 850-862 (in Chinese with English abstract).
+Wang X, Liu Y H, Zhang M, et al. Conditions of formation and accumulation
+for shale gas. Natural Gas Geoscience, 2010, 21(2): 350-356(in Chinese
+with English abstract).
+Wang Y S, Li Z, Gong J Q, et al. Discussion on an evaluation method of
+shale oil and gas in Jiyang Depression: a case study on Luojia area in
+Zhanhua sag. Acta Petrolei Sinica, 2013, 34(1): 83-90(in Chinese with
+English abstract).
+Yu B S. Particularity of shale gas reservoir and its evaluation. Earth Science
+Frontiers, 2012, 19(3): 252-258(in Chinese with English abstract).
+Zhang J C, Lin LM, Li Y X, et al. Classification and evaluation of shale oil.
+Earth Science Frontiers, 2012, 19(5): 322-331(in Chinese with English
+abstract).
+Zhang S W, Wang Y S, Zhang L Y, et al. Formation conditions of shale oil
+and gas in Bonan sub-sag, Jiyang Depression. Engineering Science,
+2012, 14(6): 49-55(in Chinese with English abstract).
+Zhou Q F, Yang G F. Definition and application of tight oil and shale oil
+terms. Oil & Gas Geology, 2012, 3(4): 541-544(in Chinese with English
+abstract).
+Zhu R F, Zhang L Y, Li J Y, et al. Organic matter reservoir space of shale
+in Dongying sag, Bohai Bay Basin. Petroleum Geology & Experiment,
+2012, 34(4): 352-356(in Chinese with English abstract).
+Zou C N, Yang Z, Cui J W, et al. Formation mechanism, geological
+characteristics and development strategy of nonmarine shale oil in
+China. Petroleum Exploration and Development, 2013, 40(1): 14-26(in
+Chinese with English abstract).
+Zou C N, Zhu R K, Wu S T, et al. Types, characteristics, genesis
+and prospects of conventional and unconventional hydrocarbon
+accumulations: taking tight oil and tight gas in China as an instance.
+Acta Petrolei Sinica, 2012, 33(2): 173-187(in Chinese with English
+abstract).
+
+163
+
+

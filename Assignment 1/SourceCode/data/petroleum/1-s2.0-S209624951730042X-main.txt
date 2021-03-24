@@ -1,0 +1,2382 @@
+Petroleum Research (2016) 2,191-204
+
+Micro-pore Structure and Gas Accumulation
+Characteristics of Shale in the Longmaxi
+Formation, Northwest Guizhou
+Bing Xue1,2,3*, Jinchuan Zhang1,2, Xuan Tang1,2, Chao Yang1,2, Qian Chen1,2,
+Xiangjie Man1 and Wei Dang1,2
+School of Energy Resources, China University of Geosciences, Beijing 100083, China
+Key Laboratory of Shale Gas Exploration and Evaluation, Ministry of Land and Resources, Beijing 100083, China
+3
+CNPC Greatwall Drilling Company, Beijing 100101, China
+Received March 24, 2016; Accepted August 26, 2016
+1
+2
+
+Abstract: For further study on characteristics of micro-pores in the marine shale reservoirs in Northwest
+Guizhou, shale samples in the Lower Silurian Longmaxi Formation were selected to investigate effect
+of micro-pores on the characteristics of gas accumulation in shales, through methods of the argon broad
+ion beam-field emission scanning electron microscope and the nitrogen adsorption/desorption, analysis
+on the characteristics of micro-pores and related geochemical analysis. Results show that there are
+seven types of pores in the Longmaxi Formation shale, including interparticle pores, intraparticle pores,
+intercrystalline pores, dissolution pores, fossil pores, organic pores, and microfractures, among which
+the interparticle pores and organic pores are best developed. According to the nitrogen adsorption/
+desorption curves, the pore structures can be classified into three types, including the cylindrical pores
+with both opening ends, narrow parallel-plate pores and tapered parallel-plate pores with four opening
+sides. Diameter of micro-pores ranges from 2 to 64 nm, mainly at 2-6 nm. The diameter of micro-pores
+(less than 2 nm) ranges from 0.4 to 1.8 nm, The micro-pores with a diameter of 0.4-1.0 nm contribute
+most to the pore volume. Pore volume is dominated by meso-pores (2-50 nm) with a proportion of
+83.1%. The micro-pores and meso-pores make major contribution to the specific surface area of pores
+with proportions of 20.1% and 79.3%, respectively. The total organic carbon (TOC) is the major
+factor controlling development of nanopores. Different pore types have different characteristics of gas
+occurrence and migration, indicating that nanopores provide favorable conditions for the occurrence and
+microscopic migration of gas in shales.
+
+Key words: Northwest Guizhou; Longmaxi Formation; lower Silurian; argon
+broad ion beam-field emission scanning electron microscope; nitrogen
+adsorption/desorption; pore structure
+
+1 Introduction
+As the exploration and exploitation of shale gas have been
+increasingly drawn worldwide attention, China has also
+enhanced its investment into shale gas, especially in the
+
+southern areas where breakthroughs in the exploration and
+development of shale gas have been made successively (Nie
+and Zhang, 2011; Guo and Zhang, 2014; Jia et al., 2014),
+which requires further investigation into shale gas. Although
+shale is characterized by low porosity and low permeability,
+
+* Corresponding author. Email: xuebinhru@yeah.net
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+191
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+192
+
+This study mainly focuses on shale of the Lower Silurian
+Longmaxi Formation. Core samples from two wells and field
+outcrop samples were chosen to conduct BIB-FESEM and
+nitrogen adsorption and desorption tests (Table 1).
+
+Tongzi
+Zunyi
+
+Chishui
+
+Tongzi
+Well XY-1
+Well TY-1
+
+Guiyang
+
+Liupanshui
+
+Qilongcun
+Xishui
+
+Renhuai
+Zunyi
+
+Zhenxiong
+
+Jinsha
+Bijie
+Dafang
+Qianxi
+Nayong
+
+N
+0
+
+80 km
+
+Fig. 1
+
+Guiyang
+
+Liuzhi
+Well
+XY-1
+
+Bijie
+
+Study area
+
+Zhijin
+
+City/town
+
+Sampling
+location
+
+Province
+boundary
+
+Distribution area of
+the Longmaxi Formation
+
+Location of the study area and distribution of sampling
+location
+0
+
+10
+
+20
+
+30
+
+Mineral content/%
+40
+50
+60
+
+70
+
+80
+
+90
+
+100
+
+Qilongcun section
+
+The study area is located in the northwest of Guizhou Province.
+Tectonically, it is located in the upper Yangtze Plate and its
+main body is situated in the central Guizhou uplift area, which
+is an EW-trending uplift zone of the early Paleozoic. In the early
+Silurian, the southern areas of Northwest Guizhou gradually
+lifted up to form a continent due to Duyun movement (Xiao et
+al., 2005), leading to the continuous northward retrogradation of
+marine sediments in Northwest Guizhou. Consequentially, black
+shale deposits were developed with a nearly EW distribution in
+deepwater shelf and stagnant basin of the Longmaxi Formation
+only to the north of Bijie-Zunyi area (Guo and Zhang, 2014) (Fig.
+1). In the Northwest Guizhou, the Longmaxi Formation becomes
+gradually thinner from the north to the south with the maximum
+thickness being up to 50m. According to the microconstituent
+analysis, the organic matter of the Longmaxi Formation mainly
+consists of sapropelite and scattered mineral-bituminous matrix,
+while the types of organic matter are mainly type I and type II1;
+the Longmaxi Formation has high total organic carbon (TOC),
+ranging from 1% to 6%; R o is commonly high (greater than
+2%), indicating the high-mature gas generation phase. Mineral
+constituents are mainly clastic and clay minerals as well as some
+carbonates and minor pyrite (Fig. 2). Among these minerals,
+clastic mineral takes up 23%-66% with an average of 40.5%,
+and dominated by quartz; while clay minerals account for 22%-
+
+3 Methods
+
+Sampling location
+
+2 Geological setting
+
+55% with an average of 43.1%, and dominated by illite, followed
+by illite/smectite formation.
+
+Well XY-1
+
+the massive development of pore space dominated by micropores makes shale have certain accumulation capacity (Chen
+et al., 2012; Yang et al., 2013a; Yu et al., 2013; Guo and Zhang,
+2014; Jia et al., 2014; Yang et al., 2014). At present, there is no
+unified scheme for classification of pores in unconventional
+shale reservoirs (Loucks and Ruppel, 2007; Slatt and O’Neal,
+2011; Chalmers et al., 2012). Researches show that diameter of
+pores in mud shale is mainly in the nanoscale, which is hardly
+observed with conventional techniques. At abroad, the types and
+characteristics of nanopores in mud shale are mainly observed
+by using argon broad ion beam technique and scanning
+electronic microscopy with high resolution (Chen et al., 2012),
+which has provided advanced techniques for the investigation
+in the micro-characteristics of shale gas accumulation. Apart
+from reasonable experimental design and acquired drilling core
+samples and outcrop samples from the Longmaxi Formation in
+Northwest Guizhou, argon broad ion beam technique and field
+emission scanning electronic microscopy (BIB-FESEM) were
+also used in the experiment. For verification of the experimental
+results and quantitative investigation, nitrogen adsorption/
+desorption experiment was performed on the samples. In this
+way, the types and characteristics of pores in the marine shale in
+Northwest Guizhou can be classified and analyzed for genesis.
+The effect of nanopores on the gas accumulation characteristics
+was also discussed.
+
+Clay mineral Quartz Potash feldspar Plagioclase Calcite
+
+Fig. 2
+
+Dolomite
+
+Pyrite
+
+Mineral contents of shale in the Longmaxi Formation in
+Northwest Guizhou
+
+An FEI Quanta 200FEG field emission environmental scanning
+electron microscope was used for observation of pores. A
+Gatan 691.CS argon ion polisher was used for sample polishing
+and preparation, mainly including following steps: sample
+pregrinding, sample pretreatment using high-energy argon ion
+beam system, deposition of the conductive film onto the sample
+surface, gold sputtering and SEM observation. In the SEM
+observation, minerals can be differentiated by color and form.
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+Table 1 Sampling data and test items
+Sampling location
+
+Number of samples
+
+Lithology
+
+Testing method
+
+Well XY-1
+
+15
+
+Black shale
+
+BIB-FESEM, nitrogen adsorption/desorption
+
+Well TY-1
+
+5
+
+Black shale
+
+BIB-FESEM
+
+Qilongcun section
+
+4
+
+Black shale
+
+BIB-FESEM
+
+Meanwhile, with energy-dispersive spectroscopy (EDS), mineral
+composition and content can be more accurately determined.
+Samples polished by argon ions have smooth and flat surface,
+and the back-scattered electron imaging is more favorable for
+the observation of the microstructure and form of nanopores.
+For the qualitative and quantitative characterization of type
+and characteristics of the micro-pores observed under SEM,
+the nitrogen adsorption and desorption test was performed to
+verify the pore features, and the structure and features of micropores were also analyzed. In nitrogen adsorption/desorption test,
+the multilayer isothermal adsorption equation (BET) and BJH
+algorithm were used to characterize specific surface area as well
+as the distribution of pore volume and pore diameter (Brunauer
+et al., 1938; Yan et al., 1979). The nitrogen adsorption/desorption
+was carried out by a Quadrasorb SI static cryogenic automatic
+nitrogen sorption analyzer developed, the relative pressure of
+adsorption/desorption is 0.005-0.995, and the measured pore
+diameter is 0.35-400nm.
+
+proposed by Loucks, i.e., interparticle pores, intraparticle pores
+and organic pores (Rouquerol et a., 1994). The advantages of
+this classification include simplicity, feasibility, good suitability
+and a comprehensive consideration of hydrocarbon wettability
+of all pore types and differences of the gas flowing in the pores.
+Compared with the stable marine organic-rich mud shale strata
+in North America, the organic-rich mud shale in China is
+greatly different in sedimentary facies, geological evolution and
+organic geochemical and physical properties, and thus unique in
+terms of the types and characteristics of pores.
+In accordance with principles of objectivity, suitability and
+uniformity, and based on the pore classification after Loucks
+et al., the authors employed BIB-FESEM technique to test
+the shale samples of the Longmaxi Formation in Northwest
+Guizhou, and then classified pore types depending on the
+structure, genesis and geochemical characteristics of pores
+coupled with relationship between pore development and matrix
+(Table 2).
+
+4 Types and characteristics of pores
+
+4.1 Matrix pores
+
+The academia has great dispute on the classification of pores in
+shale reservoirs (Nelson, 2009), mainly because principles and
+bases of pore classification are contradictory to its universality
+and simplicity. The most classic classification of the pores in
+the north American marine shale is the “trichotomy” method
+
+Matrix has different pore types, including interparticle pores
+formed by irregular stacking of particles, dissolution pores
+formed after the dissolution of quartz particles, fossil pores
+formed from paleontological fossils, and organic pores between
+the particles of organic matter. Through compilation and
+
+Table 2 The classification and characteristics of pores in shale of the Longmaxi Formation, Northwest Guizhou
+Types of pore
+
+Matrix
+pores
+
+Inorganic
+pores
+
+Organic
+pores
+Fractured
+pores
+
+Interparticle
+pores
+Intraparticle
+pores
+Intercrystalline
+pores
+Dissolution
+pores
+Fossil
+pores
+Organic matter
+pores
+
+Microfractures
+
+Pore diameter /
+nm
+
+Genesis mechanism
+
+20-3000
+
+Incomplete cementation between mineral particles or late diagenesis
+
+10-500
+
+Primary sedimentary pores or late diagenetic modification
+
+50-2000
+
+Untight crystal growth or late diagenetic contraction
+
+30-1000
+
+Dissolution
+
+50-5000
+
+Spaces including fossilized coelom and skeleton
+
+5-300
+
+Hydrocarbon generation and evolution of organic matter
+
+100-8000
+
+Stress effects such as sedimentation, diagenesis, micro-tectonics, etc.
+
+193
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+classification, the matrix pores can be divided into organic pores
+and inorganic pores (Fig. 3 and Fig. 4).
+
+morphologies which are mainly triangle, polygon and line
+forms (Figs. 3a-c and Figs. 4c-f). Such pore forms are closely
+related to mineral composition, for example, linear pores are
+typically found in the flocculent aggregate of clay minerals
+(Figs. 3d-f and 4h). The connectivity of interparticle pores is
+usually good, especially the “cardhouse structure” which can be
+formed in clay minerals (Bennett et al., 1991; Ross and Bustin,
+2007), these pores can provide favorable seepage paths for
+methane molecules (0.38 nm). In this study, brittle minerals and
+flocculent clay minerals can form the most interparticle pores
+
+4.1.1 Inorganic pores
+(1) Interparticle pores
+Interparticle pores are developed in both conventional reservoirs
+and tight shale reservoirs due to joint effect of sedimentation,
+late diagenesis and modification, etc. Interparticle pores
+are more common between mineral particles with diverse
+
+20 µm
+
+(a)
+
+(b)
+
+5 µm
+
+(d)
+
+20 µm
+
+20 µm
+
+(c)
+
+5 µm
+
+3 µm
+
+(e)
+
+(f)
+
+Anatase
+
+4 µm
+
+(g)
+
+500 µm
+
+(h)
+
+20 µm
+
+(i)
+
+(a) Interparticle pores between quartz and clay particles, microfractures in quartz particles, Well TY-1 at depth of 666.6 m; (b) dissolution pores in calcite,
+intercrystalline pores in microspherical or framboidal pyrite, Well TY-1 at depth of 677.5 m; (c) dissolution pores in calcite, interparticle pores between calcite
+and clay minerals, 1m from the bottom of Qilongcun section; (d) flocculent interparticle pores in clay minerals, Well TY-1 at depth of 663.2 m; (e) interlayer
+intraparticle pores in clay minerals, Well TY-1 at depth of 670.7m; (f) interparticle pores and interlayer intraparticle pores in clay mineral aggregate, the pores
+are partially filled, intergrown organic matter and pyrite, Well TY-1 at depth of 657.5; (g) fossil pores, Well XY-1 at depth of 625 m; (h) intercrystalline pores
+in pyrite, Well XY-1 at depth of 640 m; (i) intraparticle pores in anatase, minor dissolution pores, 5m from the bottom of Qilongcun section.
+
+Fig. 3
+
+194
+
+Characteristics of inorganic pores in the shale of the Longmaxi Formation
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+because they are commonly developed in minerals.
+(2) Intraparticle pores
+Intraparticle pores are well developed inside particles with
+a common pore diameter up to 200 nm, among which the
+intraparticle pores are best developed between the layers of
+clay minerals (Figs. 3e, 4d and 4h), but less developed in
+other minerals (Fig. 3i). Illite content is the highest in the clay
+minerals, within which many intraparticle pores are found,
+which were probably formed when montmorillonite or other
+unstable minerals transformed into illite or other minerals in the
+process of sedimentation and accumulation (Lee et al., 2010).
+Some of the interlayer pores can be filled by other minerals
+(Fig. 3f), which might be related to the late diagenesis and
+evolution. The intraparticle pores can provide large space for the
+occurrence of gas, and also form the pore network together with
+interparticle pores, thereby dramatically enhance the seepage
+ability of the hydrocarbon in shale.
+(3) Intercrystalline pores
+In the shale of the Longmaxi Formation, pyrites are commonly
+developed and mainly occure in microspherical and framboidal
+druses. Intercrystalline pores are usually developed in pyrites,
+which are formed by the incompact stacking during the growth
+of crystals. The pore diameter is mostly within the range of
+20-1000 nm, with the certain connectivity inside. Besides,
+intercrystalline pores are also commonly found in quartz,
+feldspar, calcite minerals.
+(4) Dissolution pores
+During geological evolution, unstable minerals including quartz,
+carbonate minerals and clay minerals can dissolve to form pores
+under the effect of sedimentation, tectonics, the generation and
+evolution of hydrocarbon, which requires strong in-situ stress,
+high temperature or other conditions. The dissolution pores are
+well developed in the shale of the Longmaxi Formation because
+the shale is at the high-mature stage following remarkable deep
+burial and hydrocarbon generation processes (Figs. 3b, 3c and
+3i). Sometimes, the dissolution pores could be partly or fully
+refilled by quartz, clay, etc., thus the unfilled dissolution pores
+can serve as the occurrence space of gas.
+(5) Fossil pores
+It is found that there are a small number of paleontological
+fossils in shale with variable morphology which are generally
+well preserved, probably because the shale of the Longmaxi
+Formation belongs to abyssal sedimentation, providing favorable
+conditions for the preservation of fossils. Pores are developed
+in the skeletons and coeloms of the fossils with generally
+large diameter of micron order (Fig. 3g), which have favorable
+
+connectivity and can offer a migration pathway and occurrence
+space for gas molecules. But sometimes the fossil pores could
+be filled by quartz, carbonate minerals, clay minerals, etc., thus
+losing the functions mentioned above (Chen et al., 2012).
+4.1.2 Organic pores
+Organic pores are commonly distributed in the organic matter
+of the Longmaxi shales. These are scattered in the shale matrix,
+but occure in many shapes, e.g., gneissic, elliptical, linear, etc.
+(Fig. 4a and 4c). The pore diameter is generally of the nanoscale
+(Fig. 4b), usually 5-300 nm, belonging to meso-pores and macropores. A related research shows that only when Ro of organic
+matter reaches 0.6%, organic matter pores would be developed
+(Dow, 1977), indicating that organic matter pores are closely
+related to hydrocarbon generation and evolution of organic
+matter (kerogen) . The formation of this kind of pores is due to
+the consumption of organic constituents during the hydrocarbon
+generation of kerogen, or the contraction pore-fractures from the
+water consumption during hydrocarbon generation. Besides, the
+formation of organic pores is also related to type and abundance
+of the organic matter.
+It is found that organic matter does not exist alone, usually
+occurring with clay minerals, quartz, carbonate minerals, pyrite,
+etc. in the form of adsorption, wrapping or filling (Figs. 4d–h),
+which has been verified in the elemental composition acquired
+by EDS (Fig. 4i). This kind of aggregate of organic matter is
+favorable for the development of pores (Nelson, 2009; Yang et
+al., 2014), for example, many pores are found in the symbiont of
+organic matter and clay minerals.
+Organic matter pores are substantially developed in the shale
+of the Longmaxi Formation, having certain connectivity
+with interparticle and intraparticle pores, so as to provide
+microseepage paths for occurrence and migration of gas in shale
+reservoirs.
+
+4.2 Fractured pores
+Microfractures, which are generally of microscale, might be
+related to the change of stress caused by micro-sedimentary
+tectonics or late diagenesis, and have no relationship with the
+matrix of rocks. Microfractures are abundant in the Longmaxi
+Formation shale (Fig. 5), characterized by various shapes and
+good extensibility, mostly no wider than 400nm. Microfractures
+are usually open and can interconnect with other types of
+pores to form intricate solid seepage network, which is of great
+significance to the microscopic migration of gas. Although
+microfractures would lose the ability of seepage filled by
+cements like quartz and carbonate minerals, these fractures still
+play a role in fracturing modification during late exploitation
+(Bowker, 2007).
+
+195
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+5 µm
+
+(a)
+
+2 µm
+
+1 µm
+
+(b)
+
+20 µm
+
+(d)
+
+(c)
+
+10 µm
+
+5 µm
+
+(e)
+
+(f)
+504
+Si
+
+X-ray count
+
+403
+302
+
+C
+
+Al
+
+100
+0
+
+30 µm
+
+(g)
+
+20 µm
+
+(h)
+
+S
+
+201
+
+Fe
+
+K
+0
+
+2
+
+Fe
+
+4
+
+6
+
+8
+
+Energy/keV
+
+10
+
+12
+
+14
+
+(i)
+
+(a) Circular or pitted organic pores, Well XY-1 at depth of 635 m; (b) scattered organic pores, 9m from the bottom of Qilongcun section; (c) cellular organic
+pores, interparticle pores between organic matter and clay minerals, 15 m from the bottom of Qilongcun section; (d) symbiont of organic matter and pyrite,
+the intercrystalline pores in pyrite, Well TY-1 at depth of 663.2 m; (e) symbiont of organic matter and quartz, pores inside the organic matter, the interparticle
+pores between organic matter and quartz, 15m from the bottom of Qilongcun section; (f) symbiont of organic matter and calcite, scattered organic matter
+pores, Well XY-1 at depth of 640 m; (g) symbiont of organic matter and clay minerals, scattered organic matter pores and interparticle pores, Well XY-1 at
+depth of 635 m; (h) meso-pores and microfractures in the organic matter, the interparticle pores and interlayer intraparticle pores in the aggregate of clay
+minerals, Well TY-1 at depth of 663.2 m; (i) energy spectrum of organic matter aggregate (the analysis position see the red box in Fig. 4g).
+
+Fig. 4
+
+Characteristics of organic pores in the shale of the Longmaxi Formation
+
+4.3 Comparison of pore characteristics between
+the shale of marine, continental, and marinecontinental transition facies
+Influenced by the complicated geological setting and multiphase evolution, the development of shale in China varies much
+in different areas, especially in terms of type of organic matter,
+mineral constituents, and organic geochemical characteristics,
+making development of micro-pores in mud shale chang
+dramatically. The continental shale in China was formed in a
+
+196
+
+relatively late age (Yang et al., 2013a) and dominated by the
+Mesozoic to Cenozoic strata in the northern China, such as
+the shale of the Triassic Yangchang Formation in the Ordos
+Basin and the shale of the Cretaceous the Qingshankou
+Formation in the Songliao Basin (Huang et al., 2013), but was
+less distributed in the southern China. The thermal evolution
+degree of organic matter is generally not high, but the content
+of clay minerals is considerable (Gao et al., 2013; Guo et al.,
+2013), then the intraparticle pores in clay minerals are well
+developed. Organic-rich shale of marine-continental transition
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+10 µm
+
+10 µm
+
+(a)
+(b)
+(a) Microfractures in quartz particles, Well TY-1 at depth of 666.6 m; (b) microfractures in calcite, Well TY-1 at depth of 663.2m
+
+Fig. 5
+
+Characteristics of microfractures in the shale of the Longmaxi Formation
+
+facies is widely distributed in upper Paleozoic and Mesozoic,
+such as the Upper Carboniferous Taiyuan Formation in the
+Qinshui Basin and the Upper Permian Longtan Formation
+in the Upper Yangtze area. Various types of pores are
+developed in shale due to various types of organic matter,
+moderate thermal evolution degree, and complicated mineral
+constituents dominated by clastic and clay minerals. Marine
+shale is mainly developed in the southern China at an early
+age generally within Paleozoic, such as the black shale of the
+Lower Cambrian Niutitang Formation, the Lower Silurian
+Longmaxi Formation, and the Middle Devonian Luofu
+Formation. Evolution of organic matter in marine shale has
+
+been in mature to over-mature stage, with high content of
+clastic minerals, especially such brittle minerals as quartz and
+calcite, and low content of clay minerals, which might be why
+many organic matter pores and interparticle pores in marine
+shale. The organic-rich shale of the Lower Silurian Longmaxi
+Formation is dominated by abyssal shelf sediments with high
+degree of thermal maturity, and the mineral constituents are
+chiefly clastic minerals with pyrite. As a result, organic matter
+pores and interparticle pores are substantially developed, and
+intraparticle pores are also well developed. Besides, there are
+also some dissolution pores and fossil pores in shale due to the
+sedimentary environment and geological evolution (Table 3).
+
+Table 3 Characteristics of pores types in different shales in China
+Types of shale
+
+Sedimentary facies
+
+Types of organic
+matter
+
+TOC/%
+
+Ro/%
+
+Pore types
+
+Pore structure
+
+Marine
+
+Abyssal, bathyal, etc.
+
+Mainly sapropelic type,
+secondly mixed type
+
+1.0-8.0
+
+2.0-4.0
+
+Mainly organic matter pores,
+interparticle pores secondly
+(Loucks et al., 2012 )
+
+Mainly cylindrical pores and
+tapered plate pores (Chen et al.,
+2012; Yang et al., 2013b)
+
+Continental
+
+Lagoon, swamp, etc.
+
+Mixed type, humic type
+
+0.5-12.0
+
+0.5-3.0
+
+Marinecontinental
+transition
+
+Deep lacustrine, semideep lacustrine, etc.
+
+Mainly humic type,
+secondly mixed type
+
+4.0-10.0
+
+0.5-2.0
+
+5 Characterization of pores in shale using
+nitrogen adsorption/desorption test
+Pores in shale of the Longmaxi Formation in Northwest
+Guizhou have various types and complex pore structure, among
+which organic pores and interparticle pores are most developed.
+Concerning that the scanning electron microscopy is just a
+qualitative reflection of the types and structures of pores, the
+range and results of our observation have some limitation.
+But on the other hand, the nitrogen adsorption/desorption is a
+favorable characterization of the micro-pores in shale (Yang
+
+Mainly cylindrical pores and
+Mainly intraparticle pores and
+organic matter pores (Yang et al., parallel plate pores (Yang et al.,
+2013a)
+2014)
+Mainly intraparticle pores and
+interparticle pores(Yang et al.,
+2014)
+
+Mainly cylindrical pores,
+amorphous pores and tapered
+plate pores (Yang et al., 2014)
+
+et al., 2013b). Therefore, the characteristics of the nitrogen
+adsorption/desorption curves at low temperature were also
+analyzed. Hence, structures of the micro-pores in shale were
+characterized both qualitatively and quantitatively.
+
+5.1 Nitrogen adsorption/desorption test
+In order to better characterize the structures of shale pores,
+the nitrogen adsorption and desorption test at low temperature
+was performed on 12 drilling shale samples of the Longmaxi
+Formation. At present, classification of the adsorption/desorption
+curve is commonly used from Brunauer (Yan et al., 1979).
+
+197
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+Adsorption
+curve
+
+Adsorption capacity
+
+Relative pressure
+(a) Cylindrical pore with both opening ends
+
+At a relative pressure of 0.4-0.6, an obvious inflection point
+appears in the desorption curve; when the relative pressure
+is over 0.6, the separation between the adsorption curve and
+the desorption curve is large under the effect of capillary
+condensation; when the relative pressure is lower than 0.4, both
+curves nearly coincide, indicating large adsorption volume.
+This type of shale pores are mainly regular cylindrical pores
+with both opening ends, narrow parallel-plate pores, and some
+amorphous pores, such as tapered tube pores with both opening
+ends or ink-bottle-shaped pores.
+
+Adsorption
+curve
+
+Relative pressure
+(b) Narrow parallel-plate pore
+
+Desorption
+curve
+
+Adsorption
+curve
+
+Desorption
+curve
+
+Adsorption
+curve
+
+Relative pressure
+(c)Tapered tube pore with both opening ends
+
+Desorption
+curve
+
+Adsorption
+curve
+
+Relative pressure
+(e)Tube with wide body or ink-bottle-shaped pore
+
+Classification of adsorption-desorption hysteresis curves and their characterization on
+corresponding pore structures (Yan et al., 1979)
+
+(2) Type B (Figs. 7f-i)
+It has similar curve shape to that of type A with a smoother
+inflection point; when the relative pressure is lower than 0.4,
+there is also separation between the adsorption and desoprtion
+curves, which may be caused by the strong capillary condensation
+occurring in a certain number of micro-pores in shale, and has to
+be overcome with lower relative pressure; the adsorption volume
+is large. This type of curves correspond to narrow parallel-plate
+pores, as well as some tapered plate pores with four opening sides
+and the tapered tube pores with both opening ends.
+(3) Type C (Figs. 7j-l)
+The inflection point is not obvious, adsorption and desorption
+curves are nearly parallel with small separation, indicating small
+adsorption volume. This type of curves corresponds to tapered plate
+pores with four opening sides and a few narrow parallel-plate pores.
+The above analysis of adsorption and desorption curves
+demonstrates that the pores in shale of the Longmaxi Formation in
+
+198
+
+(1) Type A (Figs. 7a-e).
+
+Desorption
+curve
+
+Relative pressure
+(d)Tapered plate pore with four opening sides
+
+Fig.6
+
+different samples, and divided the adsorption/desorption curves
+of the 12 shale samples from the Longmaxi Formation into three
+types as follows.
+
+Adsorption capacity
+
+Desorption
+curve
+
+Adsorption capacity
+
+Adsorption capacity
+
+Adsorption capacity
+
+Through comparison, the curve of the Longmaxi Formation
+shale is a reverse S, which is very close to the typical adsorption/
+desorption curve for harmonic multi-layer adsorption. However,
+considering diversity and complexity of the types of shale
+pores, the real curve is not the characterization of a single
+type of pore structure, but the complicated superposition of
+different typical curves (Chen et al., 2012), indicating that the
+adsorption of shale is a combined action of multiple adsorption
+states. The adsorption and desorption curves exhibit separation
+characteristic, implying that there is capillary agglomeration
+in shale pores, and there is no saturated adsorption when the
+balance pressure reaches the saturated vapor pressure because
+of the meso-pores and large pores in shale. By studying the
+relationship between the curves and pore types (Fig. 6), the
+authors further studied differences in the shape of the curves for
+
+Northwest Guizhou are mainly open pores because closed pores
+do not have a desorption curve, and that the open pores are mainly
+cylindrical pores and parallel-plate pores. Further analysis of the
+adsorption and desorption curves in conjunction with the analysis
+of the mineral constituents in shale, it is found that cylindrical
+pores or tapered tube pores are mainly organic matter pores and
+interparticle pores, while parallel-plate pores and tapered plate
+pores are related to interlayer intraparticle pores or microfractures
+in clay minerals. Therefore, it can be deduced that pores in shale
+of the Longmaxi Formation are mainly organic matter pores and
+interparticle pores, with development of some intraparticle pores
+and microfractures between the layers of clay minerals, which is in
+accordance with characteristics of pores observed using SEM.
+
+5.2 Specific surface area, volume and diameter
+distribution of pores
+Using BET adsorption isotherm equation, the specific surface
+area of Longmaxi Formation shale is 10.735-24.646 m 2/g with
+an average of 17.764 m2/g (Table 4).
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+10
+
+Adsorption
+Desorption
+
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption capacity/(mL·g -1 )
+
+12
+
+12
+
+10
+
+10
+8
+6
+
+Adsorption
+Desorption
+
+4
+2
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+8
+6
+
+Adsorption
+Desorption
+
+4
+2
+0
+
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption
+Desorption
+
+1
+0
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+Adsorption
+Desorption
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+1.2
+
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Adsorption
+Desorption
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+12
+
+Adsorption
+Desorption
+
+4
+2
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+8
+6
+
+Adsorption
+Desorption
+
+4
+2
+0
+
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+(i) XY-11
+
+14
+
+7
+6
+
+12
+
+10
+
+5
+4
+3
+
+Adsorption
+Desorption
+
+2
+1
+0
+
+1.0
+
+10
+
+8
+6
+
+0
+
+0.4
+0.6
+0.8
+Relative pressure
+
+14
+
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+(k) XY-6
+
+(j) XY-2
+
+Fig. 7
+
+0.2
+
+(h) XY-10
+
+8
+7
+
+0
+
+0
+
+(f) XY-4
+
+10
+
+5
+4
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption capacity/(mL·g -1 )
+
+1.2
+
+12
+
+(g) XY-5
+
+1.0
+
+1.2
+
+8
+6
+
+Adsorption
+Desorption
+
+4
+2
+0
+
+0
+
+0.2
+
+0.4
+0.6
+0.8
+Relative pressure
+
+1.0
+
+1.2
+
+(l) XY-8
+
+Nitrogen adsorption/desorption curves of different shale samples in the Longmaxi Formation
+
+Table 4 Pore structure of black shale in the Longmaxi Formation
+Sample
+number
+
+1.0
+
+14
+
+7
+6
+
+2
+
+2
+0
+
+(e) XY-12
+
+(d) XY-9
+
+3
+
+Adsorption
+Desorption
+
+4
+
+(c) XY-7
+
+14
+
+14
+
+6
+5
+4
+3
+2
+1
+0
+
+1.2
+
+8
+6
+
+(b) XY-3
+
+(a) XY-1
+
+0
+
+1.0
+
+Adsorption capacity/(mL·g -1 )
+
+0.2
+
+12
+
+Adsorption capacity/(mL·g -1 )
+
+0
+
+6
+5
+4
+3
+2
+1
+0
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption
+Desorption
+
+14
+
+8
+7
+
+Adsorption capacity/(mL·g -1 )
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Adsorption capacity/(mL·g -1 )
+
+Adsorption capacity/(mL·g -1 )
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+BET specific
+BJH total pore Average pore
+surface area/
+volume/(mL·g-1) diameter/nm
+2
+-1
+(m ·g )
+
+YX-1
+
+14.202
+
+0.0083
+
+42.607
+
+YX-2
+
+13.739
+
+0.0076
+
+41.216
+
+YX-3
+
+12.728
+
+0.0068
+
+38.184
+
+YX-4
+
+12.549
+
+0.0073
+
+37.647
+
+YX-5
+
+10.735
+
+0.0071
+
+32.204
+
+YX-6
+
+11.272
+
+0,0063
+
+33.815
+
+YX-7
+
+22.906
+
+0.0113
+
+68.717
+
+YX-8
+
+22.818
+
+0.0108
+
+68.454
+
+YX-9
+
+22.275
+
+0.0125
+
+66.826
+
+YX-10
+
+24.646
+
+0.0112
+
+73.937
+
+YX-11
+
+23.566
+
+0.0113
+
+70.697
+
+YX-12
+
+21.520
+
+0.0132
+
+64.560
+
+The distribution of shale pore volume and pore diameter can be
+studied using BJH model. The pore volume of shale samples is
+0.0068-0.0132 mL/g with an average of 0.0095 mL/g, while the
+average pore diameter of the samples is 32.204-73.937 nm with
+an average of 53.239 nm. The pore distribution can be obtained
+by DFT method (Fig. 8), which can reflect the contribution
+of pore diameter to pore volume. The pore diameter of the
+Longmaxi Formation shale in Northwest Guizhou is 0-64 nm
+with multiple peaks, and the major peaks mainly are at 2-6 nm.
+
+5.3 Characteristics of the micro-pores
+The BET specific surface area is a sum of the specific surface
+area (SSA) of all pores, because SSA of micro-pores cannot
+be individually characterized. BJH method is more accurate
+in characterizing the volume and diameter of meso-pores and
+macro-pores, but can have large error in characterizing micropores. Therefore, neither BET method nor BJH method can be
+used to specifically depict and characterize micro-pores. T-plot is
+commonly used in evaluating the micro-pore features of porous
+
+199
+
+YX-1
+YX-3
+
+1
+
+5
+
+YX-2
+YX-4
+
+25
+125
+Pore diameter/nm
+
+625
+
+0.016
+0.014
+0.012
+0.01
+0.008
+0.006
+0.004
+0.002
+0
+
+0.003
+YX-5
+YX-7
+
+YX-6
+YX-8
+
+YX-9
+YX-11
+
+0.025
+dv / dlgD
+
+0.016
+0.014
+0.012
+0.01
+0.008
+0.006
+0.004
+0.002
+0
+
+dv / dlgD
+
+dv / dlgD
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+0.02
+
+YX-10
+YX-12
+
+0.015
+0.01
+0.005
+
+5
+
+1
+
+(a)
+
+625
+
+25
+125
+Pore diameter/nm
+
+0
+
+1
+
+5
+
+25
+125
+Pore diameter/nm
+
+625
+
+(c)
+
+(b)
+
+dv/dlgD is the differentiation of total pore volume with respect to the logarithm of pore diameter
+
+Fig.8
+
+Diameter distribution characteristics of pores in the Longmaxi Formation shale
+
+media, including the SSA and volume of micro-pores. Generally,
+the adsorption curves are used in the nitrogen adsorption/desorption
+test. The data corresponding to relative pressure of 0-0.6 are used
+to calculate the SSA and volume of micro-pores. The JW-BK 132F
+cryogenic nitrogen adsorption analyzer was used for the test of
+the shale core samples. The means of SSA and volume of shale
+micro-pores obtained using T-plot are 6.94 m2/g and 0.003 mL/g
+respectively. Comparison between the SSA and volume obtained by
+T-plot (Table 5) shows that micro-pores can provide larger SSA at
+a given volume. DFT method is based on Tarazona state equation,
+and can be used to evaluate distribution of pore diameter within the
+testing range, but the distribution of pore diameter is wider, from
+which the micro-pore features obtained are limited. In order to
+further analyze the distribution feature of micro-pore diameter, HK
+method is used based on Horvaih-Kawazoe equation to calculate
+the micro-pore diameters and distribution. The distribution curves
+of micro-pores show that the distribution range of micro-pore
+diameter is 0.4-1.8 nm with a single peak (Fig. 9). The micro-pores
+with a diameter of 0.4-1.0 nm contribute most to the volume of
+micro-pores.
+Table 5 Micro-pore structure of the Longmaxi Formation shale
+in Well XY-1
+Sample
+number
+
+BET surface
+area/(m2·g-1)
+
+Total pore
+volume/(mL·g-1)
+
+Average
+pore
+diameter/nm
+
+YX-13
+
+4.89
+
+0.002
+
+0.884
+
+YX-15
+
+10.55
+
+0.005
+
+0.917
+
+YX-14
+
+5.37
+
+0.002
+
+0.885
+
+0.003 69
+
+Characterization of pore diameter mainly follows the classification
+standard established by International Union of Pure and Applied
+Chemistry (IUPAC) based on physical adsorption features and the
+capillary condensation theory, pore structures are mainly classified
+by pore diameter into micro-pores (<2 nm), meso-pores (2-50
+nm), and macro-pores (>50 nm) (Rouquerol et al., 1994; Xue et al.,
+2013). According to the results (testing range from 0.35 to 400 nm),
+the percentages of pore volume and SSA versus pore diameter were
+plotted (Fig. 10). The pore volume of the Longmaxi Formation
+shale is dominated by meso-pores, which take up 76.9%-92.1% with
+an average of 83.1%. Micro-pores and macro-pores take up smaller
+proportion of pore volume, for example, micro-pores account for
+3.7%-9.9% with an average of 6.5%, while the proportion of macropores is 3.5%-15.9 with an average of 10.4%. Meso-pores take the
+overwhelming part in SSA of pores, too, which is 52.3%-88.2%
+with an average of 79.3%. Meanwhile, the contribution of micropores to SSA is not neglectable, which take up 10.6%-47.4% with
+an average of 20.1%. The macro-pores has minimum contribution
+to the SSA of pores, which is 0.3%-1.2% with an average of 0.5%.
+In the shale of the Longmaxi Formation, meso-pores mainly
+contribute to the volume of nanopores, while the meso-pores with
+diameter less than 50 nm and micro-pores mainly contribute to
+SSA for the adsorption of gas.
+
+6 Discussion
+6.1 Affecting factors of nanopores in shale
+Factors controlling the development of nanopores in shale are
+0.018 45
+
+0.005 22
+
+0.003 32
+
+0.016 61
+
+0.004 70
+
+0.002 58
+0.002 21
+
+0.003 65
+0.003 13
+
+0.001 48
+
+0.002 61
+
+1.0
+1.4
+0.6
+Pore diameter/nm
+(a) YX-13
+
+1.8
+
+0.012 92
+
+0.004 18
+
+0.001 85
+0.2
+
+0.014 76
+dv / dD
+
+dv / dD
+
+0.002 95
+dv / dD
+
+5.4 Distribution features of shale pores
+
+0.011 07
+0.009 23
+0.007 38
+0.005 54
+0.003 69
+
+0.2
+
+1.0
+1.4
+0.6
+Pore diameter/nm
+(b) YX-14
+
+1.8
+
+0.001 85
+
+0.2
+
+1.0
+1.4
+0.6
+Pore diameter/nm
+(c) YX-15
+
+dv/dlgD is the differentiation of total pore volume with respect to the logarithm of pore diameter
+
+Fig. 9
+
+200
+
+Diameter distribution curves of micro-pores in the Longmaxi Formation shale
+
+1.8
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+80
+
+80
+Percentage/%
+
+100
+
+<2nm
+2-50nm
+>50nm
+
+60
+40
+20
+1
+
+3
+
+2
+
+Fig. 10
+
+4
+
+8
+7
+6
+5
+Sample number
+(a) Pore volume
+
+9
+
+10
+
+0
+
+Pore volume/(mL·g -1 )
+
+Specific surface area/(m 2 ·g -1 )
+
+25
+20
+15
+10
+5
+2
+
+3
+4
+TOC / %
+
+5
+
+6
+
+7
+
+10
+
+11
+
+12
+
+0.008
+0.006
+
+(d)
+
+6.2 Gas accumulation characteristics of shale
+pores
+
+The isothermal adsorption experiment was conducted on part
+of the core samples. Based on the amount of adsorbed methane
+versus pressure, the amount of adsorbed gas in shale can be
+calculated using the Langmuri isothermal adsorption equation.
+
+0.008
+0.006
+0.004
+0.002
+0
+
+0
+
+1
+
+2
+
+3
+4
+TOC / %
+
+5
+
+6
+
+7
+
+30
+25
+20
+15
+10
+5
+0
+
+0
+
+25
+
+30
+25
+20
+15
+10
+5
+0
+
+0
+
+0.4 0.6
+0.2
+0.8
+1.0
+Content of clay minerals/%
+
+(e)
+
+10
+5
+15
+20
+Content of brittle minerals/%
+
+25
+
+0.4 0.6
+0.2
+0.8
+1.0
+Content of clay minerals/%
+
+1.2
+
+(c)
+
+Pore volume/(mL·g -1 )
+
+0.014
+
+10
+5
+15
+20
+Content of brittle minerals/%
+
+or micro-pores. Besides, the SSA of quartz is less than 20 m 2/
+g (Kennedy et al., 2002), which might account for insignificant
+relations of brittle minerals versus the volume and SSA of pores.
+The SSA of montmorillonite in clay minerals can reach 800
+m 2/g, while the SSA of illite is only 30 m 2/g, and the SSA of
+kaolinite and chlorite are usually less than 10 m2/g. Therefore,
+montmorillonite contributes most to the SSA. Because the SSA
+of clay minerals is low in the Longmaxi Formation shale which
+is dominated by illite, and the illite particles are large enough
+to form the interparticle pores and interlayered pores at nanoto micro-scale (Bowker, 2007; Ji et al., 2012), micro-scale
+pores also have a considerable contribution to the SSA and pore
+volume, which might have weaken the effect of clay minerals on
+the SSA and volume of nanopores.
+
+0.014
+
+Specific surface area/(m 2 ·g -1 )
+
+Pore volume/(mL·g -1 )
+
+8
+9
+7
+5 6
+4
+Sample number
+(b) Specific surface area
+
+(b)
+
+0.012
+0.010
+
+Fig. 11
+
+3
+
+2
+
+0.012
+0.010
+
+(a)
+
+0.004
+0.002
+00
+
+1
+
+Percentages of SSA and total pore volume of different pore diameters in the Longmaxi
+Formation shale
+
+30
+
+1
+
+40
+
+11
+
+complicated. Studies have been conducted on the relations of
+TOC, clay minerals, and brittle minerals versus nanopores.
+Many researchers hold that TOC has obvious effect on
+nanopores, while others propose that clay minerals also have
+some effect on pore volume and SSA (Yan et al., 1979; Loucks
+and Ruppel, 2007; Ross and Marc, 2009). Through analysis of
+relations of pore volume and SSA versus TOC, clay minerals,
+and brittle minerals, TOC is well positively correlated with
+volume and SSA of nanopores (Figs. 11a-b), with 0.870 and
+0.796 of correlation coefficients respectively. TOC and the
+maturity of organic matter are both high, organic pores and
+micro-pores in the polymeric form of kerogen macromolecules
+are commonly developed (Yang et al), which contributes a lot
+to the SSA and pore volume, indicating that TOC is the major
+factor affecting development of nanopores in the Longmaxi
+Formation shale. Relations of brittle minerals and clay minerals
+versus pore volume and SSA are not obvious (Figs. 11c-f).
+Brittle minerals are dominated by quartz, which is favorable
+to the development of fractures. Considering that this study
+mainly tests the pores with a diameter of no larger than 400
+nm, brittle minerals may contribute significantly larger pores
+
+0
+
+<2nm
+2-50nm
+>50nm
+
+20
+
+0
+
+0
+
+60
+
+Specific surface area/(m 2 ·g -1 )
+
+Percentage/%
+
+100
+
+1.2
+
+0.014
+0.012
+0.010
+0.008
+0.006
+0.004
+0.002
+0
+
+0
+
+(f)
+
+Relations of pores in the Longmaxi Formation shales versus TOC, brittle minerals and clay minerals
+
+201
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+when the pore diameter reaches 50 nm, the interaction between
+methane molecules or between molecules and the wall of
+pores can change the thermodynamic state of gas, causing the
+movement of molecules in pores to get rid of the adsorbed state
+(Krishna, 2009). Pores within the testing range are likely to
+be dominated by the occurrence in the form of free gas, which
+may be the major reason of the unobvious relationship between
+porosity and the gas adsorption capacity. Organic carbon has
+great adsorption capacity, which provides material basis for
+the adsorption of gas (Han et al., 2013), meanwhile massivelydeveloped organic pores also provide plenty of space for gas
+occurrence, so TOC is perfectly positively correlated with the
+gas adsorption capacity. The SSA and pore volume of nanopores
+in shale are also positively correlated with gas adsorption
+capacity (Fig. 12), with 0.889 and 0.805 of cor relation
+coefficients respectively. Micro-pores with a diameter of 2-62
+nm have very strong gas adsorption capacity. Combining
+the testing range of pore diameter and the distribution
+characteristics, it can be concluded that adsorption is the main
+occurrence of gas in the micro-pores of shale. On this basis, the
+gas accumulation capacity of shale is directly related to the size
+of pore throat and the pore diameter, specifically, bigger pore
+throat is more favorable for the migration of methane molecules.
+The adsorption of gas molecules is not monolayer adsorption,
+greater pore diameter can not only lead to larger SSA, but also
+provide more space for multilayer adsorption. Therefore, the
+SSA and pore volume of the nanopores in shale, have good
+positive correlation with the gas adsorption capacity (Fig. 13).
+
+The gas adsorption capacity of the Longmaxi Formation shale is
+0.60-3.84 m3/t with an average of 2.18 m3/t (Fig. 12). In order to
+study the factors affecting the gas adsorption capacity of shale,
+correlation analysis was carried out over gas adsorption capacity
+relative to porosity, TOC, SSA of BET, and total pore volume
+of BJH method. In order to reduce the influence of TOC on gas
+adsorption capacity and better reflect the relationship between
+porosity and gas adsorption capacity, correlation analysis of
+porosity and the adsorbed gas of unit TOC was done, indicating
+insignificant correlation. In terms of the porosity test of shale,
+the effective testing diameter in current method is quite large,
+which is generally of micron grade. Related study shows that
+
+Adsorbed gas capacity/(m 3 ·t -1 )
+
+4
+
+YX-1
+
+YX-2
+
+YX-3
+
+YX-8
+
+YX-4
+
+YX-12
+
+YX-9
+
+YX-11
+
+3
+
+2
+
+1
+
+0
+
+0
+
+2
+
+4
+
+6
+Pressure/MPa
+
+8
+
+10
+
+12
+
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+Adsorbed gas capacity/(m 3 ·t -1 )
+
+Adsorbed gas capacity/(m 3 ·t -1 )
+
+1.4
+
+0
+
+2
+
+1
+
+3
+Porosity/%
+
+y=0.251x+2.353
+
+3.0
+
+R2=0.889
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+
+20
+10
+Specific surface area /(m 2 ·t -1 )
+
+(c)
+
+Fig.13
+
+y=0.559x+0.446
+
+3.5
+
+R2=0.9021
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+
+1
+
+3
+
+2
+
+4
+TOC/%
+
+6
+
+5
+
+7
+
+(b)
+
+4.0
+3.5
+
+4.5
+4.0
+
+0
+
+(a)
+
+4.5
+
+0
+
+202
+
+4
+
+5
+
+Adsorbed gas capacity/(m 3 ·t -1 )
+
+Adsorbed gas capacity/(m 3 ·t -1 )
+
+Fig.12 Adsorption isotherms of methane in the Longmaxi
+Formation shale
+
+30
+
+4.5
+4.0
+3.5
+
+y=491.0x+2.585
+
+3.0
+
+R2=0.805
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+
+0
+
+2
+
+3
+Pore volume/(mL·t -1 )
+
+4
+
+(d)
+
+Relations of gas adsorption capacity versus porosity, TOC, SSA, and total pore volume
+of the Longmaxi Formation shale
+
+5
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+Micro-pores can not only provide large space of occurrence for
+gas, but also enhance the adsorption capacity of pores. Different
+types of pores have different characteristics in occurring state
+and migration mode of gas. Interparticle pores are mostly large
+with a diameter of micron grade. These are ideal places for
+accumulation of free natural gas which can migrate by means
+of seepage or diffusion. Intraparticle pores, which are mostly
+of nanoscale, are usually developed in clay minerals to provide
+occurrence space for the adsorbed natural gas. Besides, due to
+small pore diameter, gas in intraparticle pores mainly migrate
+by diffusion. High TOC and high maturity of organic matter
+in the marine shale of the Longmaxi Formation, which organic
+matter pores are well developed and the adsorption capability
+of organic matter is large, provide a favorable reserving space
+for adsorbed natural gas; the organic pores are mainly of nanoscale, where diffusion is the major means of gas migration.
+Compared with intraparticle pores, organic matter pores in the
+continuous organic framework are relatively interconnected and
+can form effective pore systems so as to become the dominant
+flow path. Intercrystalline pores and dissolution pores are
+commonly developed inside or between mineral particles,
+which can provide some space for occurrence of free natural
+gas. Large-sized microfractures are massively developed in
+the Longmaxi Formation shale, which is the major site for
+occurrence of free natural gas and also provide effective micro
+paths for its seepage. The pores in shale of the Longmaxi
+Formation have various types with complicated internal
+structures, and are interconnected each other to form dense
+network of seepage, enabling micro-migration and occurrence
+of gas, and improving the gas-bearing capacity of shale.
+
+7 Conclusions
+(1) Pores in the Longmaxi Formation shale can be divided into
+seven types, including interparticle pores, intraparticle pores,
+intercrystalline pores, fossil pores, dissolution pores, organic
+matter pores, and microfractures; the organic matter pores are
+best developed under effect of high maturity; among inorganic
+pores, the interparticle pores are relatively well developed, the
+interlayer intraparticle pores are also developed due to high
+content of clay minerals.
+(2) The adsorption/desorption experiment shows that pores in the
+Longmaxi Formation shale are mostly open, mainly including
+cylindrical pores with both opening ends, narrow parallel-plate
+pores and tapered plate pores with four opening sides, as well
+as some tapered tube pores with both opening ends and inkbottle-shaped pores. The diameter of micro-pores ranges from
+2 to 64 nm and mainly concentrates at 2-6 nm. The micro-pore
+diameter ranges from 0.4 to 1.8 nm, and the micro-pores with a
+diameter of 0.4-1.0 nm contribute most to the volume of micropores.
+
+(3) The volume of pores in the Longmaxi Formation shale is
+dominated by meso-pores with a percentage of 83.1%, while
+micro-pores and macro-pores accounts for much smaller
+proportions, i.e., 6.5% and 10.4%, respectively. Meso-pores also
+take an overwhelming dominance in pore SSA with a proportion
+of 79.3%. Besides, the contribution of micro-pores to the pore
+SSA should not be discounted with a proportion of 20.1%. In
+contrast, macro-pores have least contribution to SSA with a
+proportion of 0.5% only.
+(4) TOC is the major factor controlling the development of
+nanopores in the Longmaxi Formation shale. Different types
+of pores have different characteristics in the gas occurrence
+state and migration mode. The intraparticle pores and organic
+pores provide space for the occurrence of adsorbed natural gas,
+where gas migrates mainly by diffusion. Interparticle pores
+and microfractures are ideal places for the accumulation of free
+natural gas, where gas migrates by seepage-diffusion. Nanopores can provide favorable conditions for the micro-migration
+and the occurrence of gas in shales.
+
+Acknowledegments
+This work was funded by National Natural Science Foundation
+(Grant No. 41102088) and Project of Department of Land and
+Resources of Guizhou Province (Grant No. 2012GYYQ-001)
+
+References
+Bennett R H, O’Brien N R, Hulbert M H. Determinants of clay and shale
+microfabric signatures:processes and mechanisms. New York: Springer
+Verlag, 1991, 5-32.
+Bowker K A. Barnett Shale gas production, Fort Worth Basin: issues and
+discussion. AAPG Bulletin, 2007, 91(4): 523-533.
+Brunauer S, Emmett P H, Teller E. Adsorption of gases in multimolecular
+layers. Journal of the American Chemical Society, 1938, 60(2): 309-319.
+Chalmers G R, Bustin R M, Power I M. Characterization of gas shale pore
+systems by porosimetry,pycnometry,surface area,and field emission
+scanning electron microscopy/transmission electron microscopy image
+analyses: examples from the Barnett, Woodford, Haynesville, Marcellus, and Doig units. AAPG Bulletin, 2012, 96(6): 1099-1119.
+Chen S B, Zhu Y M, Wang H Y, et al. Structure characteristics and accumulation significance of nanopores in Longmaxi shale gas reservoir in
+the southern Sichuan Basin. Journal of China Coal Society, 2012, 37(3):
+438-444 (in Chinese with English abstract).
+Chen Y M, Wei X L, Xu H. Suggestions from the research of pore types of
+shale gas reservoir in North America. Complex Hydrocarbon Reservoirs, 2012, 5(4): 19-22 (in Chinese with English abstract).
+Dow W G. Kerogen studies and geological interpretations. Journal of Geochemical Exploration, 1977, 7: 79-99.
+Gao X Y, Liu L F, Shang X Q, et al. Characterization of Jurassic shale
+reservoirs and the geological background of shale gas accumulations
+in Tarim Basin. Acta Petrolei Sinica, 2013, 34 (4): 647-659 (in Chinese
+with English abstract).
+
+203
+
+B.Xue et al./Petroleum Research (2016) 2,191-204
+
+Guo S B, Wang Y G. Shale gas accumulation conditions and exploration
+potential of Carboniferous Benxi Formation in Ordos Basin. Acta
+Petrolei Sinica, 2013, 34(3): 445-452 (in Chinese with English abstract).
+Guo T L, Zhang H R. Formation and enrichment mode of Jiaoshiba shale
+gas field,Sichuan Basin. Petroleum Exploration and Development, 2014,
+41(1): 28-36.
+Han S B, Zhang J C, Yang C, et al. The characteristics of nanoscale pore
+and its gas storage capability in the Lower Cambrian shale of southeast
+Chongqing. Journal of China Coal Society, 2013, 38(6): 1038-1043 (in
+Chinese with English abstract).
+Huang Z K, Chen J P, Wang Y J, et al. Characteristics of micropores in mudstones of the Cretaceous Qingshankou Formation, Songliao Basin. Acta
+Petrolei Sinica, 2013, 34(1): 30-36 (in Chinese with English abstract).
+Ji L M, Qiu J L, Xia Y Q, et al. Micro pore characteristics and methane
+adsorption properties of common clay minerals by electron microscope
+scanning. Acta Petrolei Sinica, 2012, 33(2): 249-256 (in Chinese with
+English abstract).
+Jia C Z, Zheng M, Zhang Y F. Four important theoretical issues of unconventional petroleum geology. Acta Petrolei Sinica, 2014, 35(1): 1-10 (in
+Chinese with English abstract).
+Kennedy M J, Pevear D R, Hill R J. Mineral surface control of organic carbon in black shale. Science, 2002, 295(5555): 657-660.
+Krishna R. Describing the diffusion of guest molecules inside porous structures. The Journal of Physical Chemistry C, 2009, 113(46): 1975619781.
+Lee J O, Kang I M, Cho W J. Smectite alteration and its influence on the
+barrier properties of smectite clay for a repository. Applied Clay Science, 2010, 47 (1/2): 99-104.
+Loucks R G, Reed R M, Ruppel S C, et al. Spectrum of pore types and networks in mudrocks and a descriptive classification for matrix related
+mudrock pores. AAPG Bulletin, 2012, 96(6): 1071-1098.
+Loucks R G, Ruppel S C. Mississippian Barnett Shale:lithofacies and depositional setting of a deep water shale gas succession in the Fort Worth
+Basin, Texas. AAPG Bulletin, 2007, 91(4): 579-601.
+Nelson P H. Pore throat sizes in sandstones, tight siltstones, and shale.
+AAPG Bulletin, 2009, 93(3): 329-340.
+Nie H K, Zhang J C. Types and characteristics of shale gas reservoir: a
+
+204
+
+case study of Lower Paleozoic in and around Sichuan Basin. Petroleum
+Geology ＆ Experiment, 2011, 33(3): 219-225 (in Chinese with English
+abstract).
+Ross D J K, Bustin R M. Shale gas potential of the Lower Jurassic Gordondale Member,northeastern British Columbia, Canada. Bulletin of Canadian Petroleum Geology, 2007, 55(1): 5l-75.
+Ross D J K, Marc B R. The importance of shale composition and pore
+structure upon gas storage potential of shale gas reservoirs. Marine and
+Petroleum Geology, 2009, 26(6): 916-927.
+Rouquerol J, Avnir D, Fairbridge C W, et al. Recommendations for the characterization of porous solids. Pure and Applied Chemistry, 1994, 66(8):
+1739-1758.
+Slatt R M, O’Neal N R. Pore types in the Barnett and Woodford gas
+shale:contribution to understanding gas storage and migration pathways
+in fine grained rocks. AAPG Bulletin, 2011, 95(12): 2017-2030.
+Xiao J F, He X Q, Wang S Y, et al. The study on the Nanhuan Silurian sequence stratigraphy in central Guizhou. Guizhou Geology, 2005, 22(2):
+90-97 (in Chinese with English abstract).
+Xue H Q, Wang H Y, Liu H L, et al. Adsorption capability and aperture distribution characteristics of shales: taking the Longmaxi Formation shale
+of Sichuan Basin as an example. Acta Petrolei Sinica, 2013, 34 (5): 826832 (in Chinese with English abstract).
+Yan J M, Zhang Q Y. Adsorption and condensation:the surface and pore of
+solid. Beijing: Science Press, 1979 (in Chinese).
+Yang C, Zhang J C, Li W J, et al. Microscopic pore characteristic of Sha-3
+and Sha-4 shale and their accumulation significance in Liaohe depression. Oil ＆ Gas Geology, 2014, 35(2): 286-294.
+Yang C, Zhang J C, Tang X. Microscopic pore types and its influence on
+storage and permeability of continental shale gas, Ordos Basin. Earth
+Science Frontiers, 2013, 20(4): 240-250 (in Chinese with English abstract).
+Yang F, Nin Z F, Zhang S D, et al. Charaterization of pore structures in
+shales through nitrogen adsorption experiment. Nature Gas Industry,
+2013, 33(4): 135-140 (in Chinese with English abstract).
+Yu B S. Classification and characterization of gas shale pore system. Earth
+Science Frontiers, 2013, 20(4): 211-220 (in Chinese with English abstract).
+
+

@@ -1,0 +1,947 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/315743518
+
+Journal of Petroleum Research & Studie
+Article · July 2013
+
+CITATIONS
+
+READS
+
+0
+
+599
+
+4 authors, including:
+Mohammad Abid
+
+Mohamed Ibrahim
+
+University of Technology, Iraq
+
+T.C. Süleyman Demirel Üniversitesi
+
+26 PUBLICATIONS 157 CITATIONS
+
+10 PUBLICATIONS 72 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Shakir Mahmood Ahmed
+ministry of oil - Iraq
+7 PUBLICATIONS 15 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Synthesis of Nanocatalyst for Hydrodesulfurization of Gasoil Using Laboratory Hydrothermal Rig View project
+Simultaneous Spectrophotometric Determination of Binary and Ternary Mixtures Using Derivative Spectrophotometric and Some Chemometric Techniques View
+project
+
+All content following this page was uploaded by Mohammad Abid on 02 April 2017.
+The user has requested enhancement of the downloaded file.
+
+Journal of Petroleum Research & Studies
+Improvement of Antiknocking Characteristics of Iraqi Gasoline
+
+Abstract
+
+Mohammad Fadhil Abid*, Mohammad Ibrahim*, Ahlam Saaid*,
+and Shakir Mahmood Ahmed**
+* Chemical Engineering Department- University of Technology
+** Ministry of Oil- SCOP
+
+Tetraethyl lead (TEL), which is a common additive to the Iraqi pool gasoline,
+is usually classified- among the most toxic selective additive even when it is added
+at low doses (~ 1.5-2.0 %v/v). The present work was devoted to prepare and
+investigate the effect of phenyl tert-butyl ether as an alternative selective additive to
+the Iraqi pool gasoline produced in Doura Refinary-Midland Refineries Co.
+Comparing with other additives-except TEL-, it was found that phenyl tert-butyl
+ether increased RON of Doura pool gasoline by (5.7 to 10%) at a dose of 5%v/v
+and it increased RON by (4.5 to 11.9%) at a dose of 8%v/v. Moreover, it appears to
+have no adverse human health effects which make the suggested additive promising
+for increasing the anti-knocking characteristic of Iraqi gasoline.
+Keywords: Antiknock, Iraqi gasoline, additives, octane number.
+
+‫الخالصه‬
+, ‫ يستخدم حاليا في رفع العدد االوكتاني لمنتوج الكاازولين مان م اافي الانف العراقيا‬, ‫رابع اثيالت الرصاص‬
+)%1.5 -2 ( ‫يعتبرمن اخطرالمضافات سمية وتاثيرا على البيئة الحياتية حتى عند اضافت بنسب حجمية قليلاة‬
+‫ ولهاا‬-‫ صاديقة للبيئاة‬-‫ الدراسة الحالية تهدف الى تحضايرمادة مضاافة‬.‫وخاصة في المدن المزدحمة بالسيارات‬
+-‫ فنيال تارت بيوتايال ايثار‬-‫ تام تحضاير ماادة‬.‫كفائة عا لياة نسابيا فاي رفاع العادد االوكتااني للكاازولين العراقاي‬
+‫ تام اضاافتها بنساب حجمياة مختلفاة‬، ‫ لتحديد كفائاة الماادة‬.‫واجراء كافة التحليالت لتحديد المواصفات الفيزياوية‬
+‫الى الكازولين الحوضي المنتج في م فى الدورة ومقارنتها مع كفائة بعض المضافات المجربة على الكازولين‬
+)%10 - 5.7( ‫ وجد ان العـاـدد االوكتااني للكاازولين العراقـاـي يــاـزداد بنسبــــاـة‬.‫الحوضي لم فى الــــدورة‬
+E 10
+
+Journal of Petroleum Research & Studies
+‫ حجماا تتحقا‬%8 ‫ وعناد اضاافة‬.‫ حجماا‬%5 ‫ عناد اضاافة‬-‫عدا اثيالت الرصاص‬-‫اكثر من المضافات االخرى‬
+‫ ان المادة المحضارة تعتبار‬.‫ عدا رابع اثيالت الرصاص‬-‫ ) اكثر من المضافات االخرى‬%11.9 –4.5 ( ‫زيادة‬
+.‫واعدة االستخدام كون تاثيراتها البيئية قليلة جدا اضافة الى كفائتها العالية‬
+
+Introduction:
+Since World War II, gasoline, as a main fuel for personal vehicles, becomes
+one of the most important resources in the world. In the early of 20th century,
+automotive engineers discovered that engines with no knock would operate
+smoother and more efficient. In 1916, Thomas Midgely a research scientist working
+for the Dayton Research Laboratories of Dayton Ohio, discovered that the addition
+of iodine to gasoline substantially reduced engine knocks. In a joint research work
+in 1917, Charles Kettering (inventor of electric self-starter) and Thomas Midgley
+blended ethyl alcohol (grain alcohol) with gasoline and concluded that alcohols
+mixed with gasoline could produce a suitable motor fuel. Manufacturing of tetra
+ethyl lead (TEL) began in 1923 with small operation in Dayton, Ohio that produced
+about 600L of TEL per day. One liter of TEL was enough to treat 1150 liter of
+gasoline [1]. Around the time of TEL production, William Mansfield Clark, a
+laboratory director in the United States Public Health Service (USPHS), warned of
+widespread use of TEL usage in gasoline. He stated that each liter of gasoline
+burned would emit 1 g of lead oxide that would build up to dangerous level along
+heavily traveled roads. Such a poor decision at that time did not allow a
+comprehensive understanding of the real dangers posed by TEL and lack of
+scientific research and evidence allowed the use of TEL for a few decades after its
+discovery. The use of leaded gasoline for highway vehicles was banned in the
+United States as of January 1, 1996 [2]. The comprehensive national Health and
+Nutrition Examination survey by the US Center for Disease Control and Prevention
+confirmed that the average blood lead levels in the United States decreased from 16
+mg dl-1 to 3 mg dl-1 from 1976 to 1990 respectively. This is the period when the use
+E 11
+
+Journal of Petroleum Research & Studies
+of leaded gasoline fell from its peak to near zero in the United States [2].
+Widespread use of oxygenates in gasoline dates to 1979, when methyl tert-butyl
+ether (MTBE) was added to gasoline to substitute TEL and to increase the octane
+rating of the fuel. As part of the Clean Air Act Amendments of 1990, and through
+an intensive negotiation between the USEPA, state officials, oil and automobile
+industry representatives, gasoline retailers, oxygenate suppliers, environmental
+organizations, and consumer groups, the federal government introduce the
+reformulated gasoline (RFG) program in two phases into United States most
+polluted cities. Both phases of the program require that RFG contain 2% by weight
+oxygen. This program was aimed at reducing the level of highly toxic aromatics
+(such as benzene, toluene, ethyl benzene and xylenes) from gasoline and increasing
+the oxygen content of gasoline by adding larger quantities of oxygenates. Addition
+of oxygen to gasoline had a two-fold objective, to enhance the octane rating of
+internal combustion engines and to reduce air pollution (summer time smog, winter
+time carbon monoxide, and year-round air toxics) with provision of more complete
+fuel combustion in the engines [3]. The addition of oxygenates to gasoline offers
+many advantages, among which: more complete combustion and reduction of
+carbon monoxide emission, being a renewable energy source, increased octane
+number, and increased volatility [4]. Octane rating or octane number is a standard
+measure of the performance of a motor or aviation fuel. The higher the octane
+number, the more compression the fuel can withstand before detonating. In broad
+terms, fuels with a higher octane rating are used in high-compression engines that
+generally have higher performance. The most common type of octane rating
+worldwide is the Research Octane Number (RON). RON is determined by running
+the fuel in a test engine with a variable compression ratio under controlled
+conditions, and comparing the results with those for mixtures of iso-octane and nheptane. There is another type of octane rating called Motor Octane Number
+(MON), or the aviation lean octane rating, which is a better measure of how the fuel
+behaves when under load, as it is determined at 900 rpm engine speed, instead of
+E 12
+
+Journal of Petroleum Research & Studies
+the 600 rpm for RON [5]. Figure (1) depicts RON of families of pure hydrocarbons
+as function of their boiling points. Three of the more common oxygenated fuel
+additives that have been used with unleaded gasoline are methanol, ethanol, and
+methyl tertiary-butyl ether (MTBE). Methanol is obtained from petroleum (from
+methane or by reacting carbon monoxide and water); ethanol is obtained from corn
+by fermentation; and MTBE is made synthetically from petroleum feed stocks. The
+choice of which of the compounds commonly used in oxygenated fuels to use is
+dependent on region, cost of production, and availability of raw materials, table (1)
+shows properties of some gasoline active additives. The Table depicts the
+dependency of RON on %O2 of the active additive.
+
+Fig. (1) Research Octane Number of pure hydrocarbons from different
+families [6,7]
+
+E 13
+
+Journal of Petroleum Research & Studies
+
+Table (1) Properties of some Active Additives [8].
+Methanol
+Ethanol
+IPA
+TBA
+MTBE
+ETBE
+TAME
+
+Sp. Gr(kg/L)
+0.796
+0.794
+0.789
+0.791
+0.744
+0.770
+0.770
+
+%O2(wt)
+49.9
+34.7
+26.6
+21.6
+18.2
+15.7
+15.7
+
+RON
+130
+115
+117
+100
+110
+112
+105
+
+MON
+100
+100
+100
+90
+100
+100
+100
+
+Toxicity or "hazard" of gasoline of interest to those reading a toxicity profile varies
+tremendously with the exact gasoline in question. Table (2) shows the exposure
+limits of some active additives. It indicates that the most hazardous materials are
+Benzene and TEL. The object of this study is to provide a method of preparing a
+selective additive, which is an environmental friendly additive, and blending with
+gasoline pool produced in Al Doura Refinery to enhancing the octane number.
+Other objects will be apparent to that who skilled-in-the-arts.
+Theoretical Aspects
+MON Correlation
+Once clear RON is known, clear MON can be estimated from the following
+correlation derived from the correlation proposed by [9] for olefin free fuels.
+MON 22.5, 0.83 RON 20.0 SG………………………………………. (1)
+Blended Values
+The blended value of an active additive is calculated by adding it to the RON of the
+gasoline which is to be treated, the change in RON is calculated by dividing the
+volume% of additive added. The Blending Value is a measure of affectivity of an
+additive [10].
+BV = [BASE RON] + [Δ RON/vol% added] ………………………………………. (2)
+E 14
+
+Journal of Petroleum Research & Studies
+
+Table (2) exposures limits guidelines
+
+Governing
+Body
+
+ALKYLATE
+BENZENE
+BENZENE
+BENZENE
+BENZENE
+BUTANE
+ETHYL ALCOHOL
+ETHYL ALCOHOL
+ISOPENTANE
+ISOPENTANE
+ISOPENTANE
+N-HEXANE
+N-HEXANE
+TOLUENE
+TOLUENE
+TOLUENE
+ETHYLBENZENE
+ETHYLBENZENE
+xylenes
+TETRAETHYL LEAD
+TETRAETHYL LEAD
+MTBE
+
+Sunoco
+ACGIH
+OSHA
+ACGIH
+OSHA
+ACGIH
+ACGIH
+OSHA
+Sunoco
+ACGIH
+Sunoco
+ACGIH
+OSHA
+NIOSH
+ACGIH
+OSHA
+ACGIH
+ACGIH
+OSHA
+ACGIH
+OSHA
+ACGIH
+
+Exposure Limits
+
+TWA
+STEL
+STEL
+TWA
+TWA
+TWA
+TWA
+TWA
+STEL
+TWA
+TWA
+TWA
+TWA
+STEL
+TWA
+TWA
+STEL
+TWA
+TWA
+TWA
+TWA
+TWA
+
+100
+2.5
+5
+0.5
+1
+1000
+1000
+1000
+750
+600
+600
+50
+500
+150
+20
+200
+125
+100
+100
+0.1
+0.075
+50
+
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+ppm
+mg/m3
+mg/m3
+ppm
+
+Octane Number Sensitivity
+Fuels with lower sensitivity are desirable. Because the two test methods use
+different test conditions, especially the intake mixture temperatures and engine
+speeds, fuel that is sensitive to changes in operating conditions will have a larger
+difference between the two rating methods. Modern fuels typically have
+sensitivities around 10. Equation 3 was used to estimate octane number sensitivity
+[11].
+E 15
+
+Journal of Petroleum Research & Studies
+RON - MON = Sensitivity..................................................... (3)
+Iraqi Pool Gasoline
+Gasoline Pool Production in Al Doura Refinery
+Two units operated in Al Doura Refinery to improve octane number of gasoline,
+one is called Reformer unit, the feed for this unit is a mixture of 30%LSRN and
+70% HSRN, and the product is Reformate. The other unit is Power Former, feed is
+HSRN and the product is Power Formate. Gasoline production in Al Doura
+Refinery included many streams such as :
+•LSRN (RON =69.2).
+•Reformate (RON= 90.5) (from Reforming a mixture of 30%LSRN and
+70%HSRN).
+•Power Formate (RON=89.3) (from Reforming HSRN).
+All feeds and products of Reformer and Power Former units were tested by ASTM
+standards and IROX analyzer. Table (3) shows Octane number of petroleum cuts,
+pool, and leaded gasoline of Al Doura Refinery by ZX-101C (Zeltex, Inc.,
+Hagerstown, MD) measurements.
+
+Table (3) Octane numbers of petroleum cuts, pool, leaded gasoline produced
+by Al Doura Refinery measured by ZX-101C [12].
+Components
+Light Naphtha
+Heavy Naphtha
+Reformate
+Power Formate
+Pool
+Leaded Gasoline
+
+RON
+69.0
+57.0
+90.0
+88.6
+80.0
+82.3
+
+MON
+60.5
+51.8
+85.5
+84.3
+76.0
+78.3
+
+Table (4) shows the properties of Al- Doura pool gasoline as recorded by Lab-Tests.
+
+E 16
+
+Journal of Petroleum Research & Studies
+Table (4) Summarized Lab-Tests of AL-Doura Refinery pool gasoline [13].
+Properties
+Sp. Gr. (kg/L)
+RVP (bar)
+Water content (ppm)
+Sulfur content (ppm)
+MON
+RON
+Aromatics
+Olefins
+Paraffins & Naphthenes
+
+Test methods
+IROX
+ASTM D323
+ASTM D4928
+ASTM D4294
+ASTM D2700
+ASTM D2699
+IROX
+IROX
+IROX
+
+Al-Doura pool
+0.715
+0.6
+131.95
+43.8
+80
+84.5
+24.25
+0
+75.75
+
+RON of blended gasoline is shown in table (5). As expected none of the alcohols
+achieve the target specification. Isopropanol at 10% is the best at approaching RON
+≈90. However, for Isopropanol at 10%, the RVP value is well over the 60 kPa target
+and even exceeds 60 kPa at 5%. At 10% Isopropanol l, oxygen is well over the
+2.7% limit but the heating value of the fuel is only marginally less than the base
+stock. Using alcohols, sensitivity declines slightly and none of the alcohols achieve
+the 85 MON target.
+
+Table (5) RON of pool gasoline of Al-Doura Refinery after blended with
+selective additives [12].
+Vol.%
+Selective
+additive
+TEL
+Isopropanol
+Methanol
+Isopropyl
+Ether
+Xylene
+
+0.0
+
+0.5
+
+83.0 88.0
+83.0 -----83.0
+83.0 -----83.0 ------
+
+1.0
+
+1.5
+
+5.7
+
+8.3
+
+10.7
+
+91.5 94
+------- ------------ ------ ------ 85.0
+------ ------ ------ 84.0
+------ ------ ------ 83.5
+
+------86.5
+85.0
+84.2
+
+------88.0
+85.8
+84.5
+
+------90.5
+87.5
+85.6
+
+------
+
+88.7
+
+90.0
+
+91.0
+
+------
+
+2.0
+
+2.9
+
+------ 86.3
+
+Materials and Methods
+In present work, materials used to prepare selective additive (i.e., phenyl-t-butyl
+ether) are shown in table (6).
+
+E 17
+
+Journal of Petroleum Research & Studies
+Table (6). Chemical materials for preparation of the selective additive.
+Item
+
+Material
+
+1
+
+Nitrogen
+
+2
+3
+4
+
+5
+6
+
+Chemical
+Structure
+N2
+
+state
+
+Purity
+
+gas
+
+99%min.
+
+Magnesium
+Mg
+metal turnings
+bromobenzene C6H5Br
+Enhydrous
+C4H10O
+Ether
+
+solid
+
+98%min.
+
+liquid
+liquid
+
+98.5%min.
+98%
+
+Magnesium
+Sulfate
+Hydrochloric
+acid
+
+crystalline
+solid
+liquid
+
+98%min.
+
+MgSO4
+HCl
+
+37%
+
+Supplier
+Al-Mansour
+Factory/Baghdad
+Sigma Chemical
+Co.
+Pvt. Ltd/India
+Advanced
+Scientific &
+Chemical Inc.
+Fluka
+Sigma Chemical
+Co.
+
+* Preparation of the selective additives
+As it is known to that skilled in-the-art, the octane number of gasoline may be
+increased by the addition of various aliphatic ethers which have no environmental
+impact. The phenyl-t-butyl ether which may be used an octane appreciator of the
+process of this study may not readily available; therefore, it is prepared as here
+under.
+Experimental set-upFigure (2) represents a schematic diagram of the experimental apparatus that used to
+prepare phenyl-t-butyl ether.
+A three-necked, round-bottomed flask equipped with a magnetic stirrer, a reflux
+condenser, and a 500-ml of what. Pressure-equalized dropping funnel is arranged
+for conducting a reaction in an atmosphere of nitrogen by fitting into the top of the
+condenser a T-tube attached to a low-pressure supply of nitrogen and to a mercury
+bubbler.
+
+E 18
+
+Journal of Petroleum Research & Studies
+Method of PreparationThe detail of the preparation method of phenyl t-butyl ether (PTBE) is found
+elsewhere [14].The flask is dried by warming it with a soft flame as a slow stream
+of nitrogen is passed through the system. In the cooled flask a solution of
+phenylmagnesiumbromide is prepared from 13 g. (0.53 g. atoms) of magnesium
+turnings, 79 g. (0.5 moles, 53.6 ml.) of bromobenzene, and 200 ml. of anhydrous
+ether. After the preparation of phenylmagnesium bromide is complete, the ethereal
+solution is cooled in an ice bath and 200 ml. of anhydrous ether is added. A solution
+of 58.3 g. (0.3 mole, 56 ml.) of t-butyl perbenzoate in 120 ml.
+
+of anhydrous ether
+
+is added, dropwise, with stirring over a 30-minute period, and the stirring is
+continued for an additional 5 minutes. The reaction mixture is poured carefully into
+a cold solution of 40 ml. of concentrated hydrochloric acid in 1:1 of water. The
+ethereal layer is separated, and the aqueous layer is extracted twice with 150-ml.
+portions of ether. The combined organic layers are extracted with three 25-ml.
+portions of 2Msodium hydroxide solution, washed with water until the washings are
+neutral, and then dried over anhydrous magnesium sulfate. The dried solution is
+concentrated and the product distilled under reduced pressure, B.P. 58–
+60°C/8.6mm. The yield of phenyl t-butyl ether is 34–36 g. (76–81%).
+
+E 19
+
+Journal of Petroleum Research & Studies
+
+Fig. (2) Experimental setup.
+Results and discussion
+The prepared additive was analyzed using standard methods. Table (7) presents the
+physical properties measured by advanced laboratory instruments.
+
+Table (7) Analysis of phenyl t-butyl etherused in the present work.
+Property
+Boiling point (0C)1
+Density (g/cc)2
+Refractine index3
+(C,H,O)4
+(RON)5
+
+183.6
+0.92(at 25 0C)
+1.481
+79.2%, 9.4%, 10.55%
+117
+
+1- Measured using melting point and boiling point instrument type M-565 from
+Buchi.
+2- Measured using DDM 2910 densitometer from Rudolph Research Analytical.
+3- Measured by Abbe refractometer type 2WAJ from Optika SRL.
+4- Measured by elmental analyzer type 2400 series II from Perkin Elmer.
+5- Measured by octane meter type: SX-200 from Shatox.
+E 20
+
+Journal of Petroleum Research & Studies
+
+To identify the functional groups in the prepared additive, an analysis was carried
+out using FTIR- Type TENSOR 27 from BRUKER. Figure (3) illustrates such
+identification-before distillation step. The plot depicts several absorptions in the
+fingerprint region. The most prominent band is C-H stretch 1300-1000 cm-1phenyl
+alkyl ethers which gives two strong bands at about 1158.20 to 1233.68cm-1[15].
+
+Fig. (3) Idetification of functional groups in phenyl t-butyl ether.
+
+In present work, the selective component was added to Al-Doura pool gasoline
+at different vol% as follows:
+1- RON and other related properties of pool gasoline were measured using octane
+meter type: SX-200 from Shatoxthen pool gasoline was added to five glass
+containers of 250 ml each.
+
+E 21
+
+Journal of Petroleum Research & Studies
+2-The selective additive was added in different concentrations to each container
+with shaking by using pipette.
+3-The blended mixture was evaluated by measuring the required properties.
+Table (8) shows RON of pool gasoline of Al-Doura Refinery after blended
+with different concentrations of phenyl t-butyl ether additive.
+Table (8) RON of pool gasoline of Al-Doura Refinery after blended with
+different concentrations of phenyl t-butyl ether additive.
+Vol%
+item
+phenyl t-butyl
+ether
+
+0
+
+2
+
+5
+
+8
+
+10
+
+83.0
+
+86.4
+
+93.1
+
+94.3
+
+95.2
+
+Table (9) depicts the additive affectivity (BV) of some selective additive volumes
+blended with pool gasoline of AL-Doura Refinery.
+Table (9) Comparison of additive affectivity (BV) of some selective additives
+blended with pool gasoline with that of present work.
+
+Vol.%
+Selective
+additive
+TEL
+Xylene
+PTBE
+
+0.5
+
+1.0
+
+1.5
+
+2
+
+2.9
+
+5.7
+
+10.7
+
+References
+
+1083.0
+--------
+
+933.0
+--------
+
+816.3
+--------
+
+-------------253
+
+-------193.0
+--------
+
+------125.1
+267
+
+-------113.8
+200.75
+
+[12])
+[12]
+Present
+work
+
+Figure (4) illustrates the variation of gasoline RON against %vol added of some
+selective additives. As can be seen, phenyl t-butyl ether (PTBE) could be
+considered as a superior octane appreciator. Moreover, it has no environmental
+impact which makes it a candidate additive.
+Figure (5) plots the variation of additive affectivity against %vol addition of some
+selective additives. Figure (5) shows an interesting image which represents the
+magnitude of the regression slope of each additive verses proportional of its ability
+to increase the octane number of that additive.
+E 22
+
+Journal of Petroleum Research & Studies
+
+96
+94
+92
+90
+
+TEL
+
+88
+
+XLY
+PTBE
+
+86
+84
+82
+0
+
+2
+
+4
+
+6 V%
+
+8
+
+10
+
+12
+
+Fig. (4) Variation of RON of pool gasoline blended with different vol% of
+selective additives.
+1200
+1000
+
+BV
+
+800
+600
+
+TEL
+
+400
+
+XLY
+PTBE
+
+200
+0
+0
+
+5
+
+10
+
+15
+
+Fig. (5) Variation of additive affectivity against different vol% of selective
+additive.
+
+E 23
+
+Journal of Petroleum Research & Studies
+Conclusion:
+The present work is devoted to prepare and examine a novel fuel additive as an
+alternative to the most toxic additive that used to improve antiknock characteristics
+of gasoline produced in Iraqi Refineries.
+From the results of the present study, one may conclude the following:
+ The prepared material (i. e., phenyl t-butyl ether) increases RON of gasoline
+pool from 4.5 to 11.9% which is more than does any other oxygenators
+literary scanned in the present work- except TEL-.
+ It appears that this additive has no effects to human health which makes it a
+candidate additive.
+
+Nomenclature:
+ACGIH
+
+American Conference of Governmental Industrial Hygienists.
+
+BV
+
+Blended value.
+
+HSRN
+
+Heavy straight-run naphtha.
+
+LSRN
+
+Light straight-run naphtha.
+
+MON
+
+Motor Octane Number.
+
+NIOSH
+
+National Institute of Occupational Safety and Health
+
+OSHA
+
+U.S. Occupational Safety & Health Administration.
+
+RON
+
+Research Octane Number
+
+RVP
+
+Reid vapor pressure (kPa)
+
+SG
+
+Specific gravity of the fuel at 15.5 oC.
+
+STEL
+
+Short-Term Exposure Limit (generally 15 minutes).
+
+Sunoco
+
+Sun Company Inc. (American petroleum and petrochemical
+
+manufacturer).
+TWA
+USPHS
+
+Time Weighted Average (8 hr.).
+United States Public Health Service.
+E 24
+
+Journal of Petroleum Research & Studies
+
+References
+1. Lincoln K. J., The secret history of lead special report, The Nation, March, 11-45,
+2000.
+2. Thomas V.M., The elimination of lead in gasoline, Annual Review of Energy and
+Environment 20, 301-324, 1995.
+3. Nadim F., Zack P.,and Hoag G.E.,United States Experience with Gasoline
+Additives 2001.
+4. McNair H.M., Chair, andMarand H., Extraction of Alcohols from Gasoline using
+solid phase micro-extraction (SPME), 2001.
+5. Werner Dabelstein, Arno Reglitzky, Andrea Schütze and Klaus Reders,
+"Automotive Fuels" in Ullmann's Encyclopedia of Industrial Chemistry, 2007,
+Wiley-VCH.
+6. Albahri, T.A.; M.R. Riazi and A.A Alqattan, octane number and aniline point of
+petroleum, fuel chemistry division reprints,47(2), 711(2002).
+7. roy j. irwin, "environmental contaminants encyclopedia gasoline additives entry",
+water resources divisions, water operations branch, fort collins, colorado, 1997.
+8. Seddon D., and Ptyltd A, Octane Enhancing Petrol Additives/Products, 2000.
+9. Jenkins, G.I. Journal of Institute of Petroleum, 1968, 54, 14.
+10. Michael Golombok, Jacques de Bruijn, Catalysts for producing high octaneblending value olefins for gasoline, Applied Catalysis A: General 208 (2001) 47–
+53.
+11. Annual Book of ASTM Standard, Standard Specification for Automotive Spark
+Ignition Engine Fuel, ASTM D4814-940. V .05, 05.ISBN, 0-8031-2218-7, 1995.
+12. Sheet, E.A., Improvement of gasoline octane number by blending gasoline with
+selective compounds, M. Sc. Thesis, Chemical Engineering Department-University
+of Technology, Baghdad, 2008.
+13. Central Laboratory-Doura Refinery-Midland Refinieries Company, 2008.
+E 25
+
+Journal of Petroleum Research & Studies
+14. Christer Frisell and Sven-Olov Lawesson, phenyl t-butyl ether,Organic
+Syntheses, Coll. Vol. 5, p.924 (1973).
+15. John Coates, Interpretation of Infrared Spectra: A Practrical Approach,
+Encyclopedia of Analytical Chemistry R.A. Meyers (Ed.), pp. 10815-10837, John
+Wiley & Sons Ltd., Chichester (2000).
+
+E 26
+View publication stats
+
+

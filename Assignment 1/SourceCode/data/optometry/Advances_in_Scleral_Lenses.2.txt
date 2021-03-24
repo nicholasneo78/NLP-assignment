@@ -1,0 +1,338 @@
+GUEST EDITORIAL
+
+Advances in Scleral Lenses
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+The specialty lens landscape has dramatically changed in my
+short career as an optometrist (Fig. 1).1 When I graduated from
+an optometry school in 2011, corneal gas-permeable lenses were
+the long-standing modality of choice for correcting complicated refractive errors, and most practitioners were reserving scleral lenses
+for only their most challenging cases. However, now with many
+more manufacturers producing scleral lenses and with the advent
+of safe, highly customizable scleral lenses, this modality is quickly
+becoming a treatment of choice for patients with irregular astigmatism and advanced refractive errors and for patients who need a
+long-term bandage lens for chronic dry eye–related conditions;
+some practitioners are now even prescribing scleral lenses for uncomplicated refractive errors, including presbyopia.1
+This newfound interest in scleral lens technology has resulted in
+the creation of the Scleral Lens Education Society (https://
+sclerallens.org/), which is an international society focused on
+teaching “contact lens practitioners the science and art of prescribing scleral contact lenses.” This organization invites and educates everyone interested in scleral lenses. The Scleral Lens
+Education Society also has a fellowship program for practitioners
+who have demonstrated advanced knowledge of scleral lenses.
+The Scleral Lens Education Society provides resources and scleral
+lens–related updates to keep the community fully aware of the latest and greatest advances in the field. These exciting developments have all contributed to the creation of this feature issue,
+which highlights the cutting-edge research that is being conducted. Furthermore, this feature issue showcases the diversity
+and international interest in scleral lenses, with articles originating
+from Australia, Canada, China, Germany, India, Iran, Italy, the
+Netherlands, Nigeria, Portugal, Spain, the United Kingdom, the
+United States, and 29 different institutions. Of note, this issue also
+highlights the work of many women who are innovatively leading
+advancements in the scleral lens field.
+A number of themes emerged as articles were reviewed for this
+special issue. One prominent theme, which has been a challenge
+with scleral lenses since their introduction, is ocular compatibility.2 Some of the ocular compatibility issues discussed in this feature issue include tear film interactions with lenses,3,4 physical
+and optical interaction between the eye and the lens,5–10 and oxygen availability.11–16 Oxygen availability has been an issue with
+scleral lenses since their inception because the first lenses were
+made of glass, which is impermeable to oxygen, and because of
+this, scleral lenses were worn for only short periods.2 The advent
+of gas-permeable scleral lenses in 1983 dramatically alleviated
+this issue,17 although many investigators still question whether
+scleral lenses allow for sufficient oxygen to meet the metabolic demands of the cornea.18,19 Corneal oxygenation may still be an issue
+with scleral lenses because the tears trapped between the lens and
+eye are a greater barrier to oxygen than the lens itself.18–20 Dhallu
+et al.11 in this issue demonstrated that all scleral lenses, in normal
+participants, regardless of their oxygen permeability, induce some
+mild stromal corneal swelling, although oxygen consumption was
+www.optvissci.com
+
+optimized when the tested lenses had a Dk of ≥125. Tse et al.12
+furthermore found no changes in corneal epithelial barrier function, nerve fiber, or dendritic cell densities in normal participants
+who wore scleral lenses for 3 months. Nevertheless, in normal participants, Fisher et al.13 found that corneal edema increases with
+increasing central tear reservoir thicknesses, although this increase
+in edema was only 2.12% when lenses had central tear reservoir
+thicknesses between 600 and 800 μm.
+Another theme related to the tear reservoir is midday fogging.20
+This bothersome issue, unique to scleral lens wear, results in blurry
+vision from a particulate matter that has yet to be fully characterized, although there is some evidence that fogging results from a
+buildup of tear lipids, tear proteins, or inflammatory cells.20,21 Fogt
+et al.3 investigated if this fogging could be mitigated by a novel saline solution that mimics human tears. Although the authors found
+that the novel saline solution improved ocular symptoms, they did
+not find a significant difference in fogging when comparing this optimized saline solution with the participants' habitual solution. This
+exciting result provides evidence suggesting that we should be testing new saline formulation that better mimics the tears, so we can
+further increase scleral lens ocular compatibility and decrease
+scleral lens issues such as midday fogging.
+Although the aforementioned articles suggest that scleral lenses
+are safe in normal patients, safety may still be an issue in patients
+who have compromised corneas because these corneas may have
+less of an ability to deal with decreased oxygenation.16 Kumar
+et al.16 report in this issue that participants who have undergone
+penetrating keratoplasty have greater scleral lens–induced corneal
+edema than do normal participants, although the amount of edema
+detected in this study is likely to be within an acceptable amount
+based on the Holden-Mertz criteria.22 The use of scleral lenses in
+participants who have undergone penetrating keratoplasty is also
+supported in this issue by a case study by Gulmiri and Jawanda,15
+which found that scleral lenses have the potential to stave off the
+need for corneal regrafting. Yeung et al.14 alternatively evaluated
+the effect of limbal clearance rather than central clearance on ocular signs and symptoms in patients with keratoconus and found
+that when participants were fit in lenses with higher (~167 μm)
+limbal clearances, they found the lenses to be more comfortable
+than lower (~124 μm) limbal clearances, although there were no
+differences in limbal or bulbar hyperemia. The result from the study
+by Yeung et al. in a patient with keratoconus suggests that limbal
+clearance studies in other populations should be conducted to determine if higher limbal clearances likewise improve comfort in
+these patient groups.
+Because scleral lenses rest on the sclera/episclera, they may increase intraocular pressure (IOP) by altering aqueous humor dynamics. This is a particularly important issue because some
+scleral lens wearers have glaucoma, which could be exacerbated
+by IOP spikes induced by scleral lens wear. Management of glaucoma in patients wearing scleral lens is complicated by the fact that
+IOP cannot be easily monitored via conventional methods during
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+658
+
+Guest Editorial
+
+FIGURE 1. Andrew D. Pucker, OD, PhD, FAAO.
+
+lens wear. Therefore, pressure measurements need to either be conducted either before and after scleral lens wear or via a scleral measurement rather than a corneal measurement. In this issue, Fogt
+et al.23 compared IOP measurements in normal eyes taken by two
+different devices (pneumatonometry and transpalpebral tonometry)
+and found that the two instruments yielded significantly different
+measurements, which indicates that IOP measurements are not
+straightforward and that using different instruments may result in
+different study conclusions. Walker et al.24 alternatively found no
+difference in IOP in normal eyes when evaluating IOP with the iCare
+(iCare USA, Raleigh, NC) and Diaton devices (Diaton, DevelopAll
+Inc.). The authors also found little effect on IOP or optic nerve head
+morphology when comparing lens wearing eyes with non–lens-wearing eyes after 6 hours of lens wear.24 Obinwanne et al.25 similarly
+found no clinically meaningful changes in IOP before, during, or after scleral lens wear with the Schiotz tonometer in a normal African
+population. Therefore, although scleral lens wear seems to have a
+small impact on IOP that is device dependent, the current literature
+suggests that scleral lens wear is unlikely to make glaucoma worse.
+Nevertheless, more work is needed to fully understand how scleral
+lenses may alter the eye's ability to regulate IOP and subsequently
+lead to glaucomatous optic nerve changes.
+Because scleral lenses rest on tissue containing goblet cells,
+constant mechanical interaction between the ocular surface and
+lenses may potentially negatively impact these important cells.
+Scleral lens–induced alterations in mucin production may promote
+long-term tissue changes that could destabilize the tear film and
+lead to contact lens–induced dry eye disease.26 Fortunately,
+Macedo-de-Araújo et al.4 found in this issue no regional (inferior
+vs. superior bulbar conjunctiva) differences in goblet cell densities
+or mucin cloud amplitudes in lens wearers, which provides evidence
+
+www.optvissci.com
+
+that scleral lenses are unlikely to make dry eye worse through goblet
+cell damage. This is an important finding because scleral lenses are
+a key means for treating recalcitrant dry eye.27–29 Prospective, longitudinal studies are still needed to fully understand the benefits of
+scleral lenses for dry eye disease.
+Corneal irregularity is a primary indication for scleral lens wear1;
+however, even with standard scleral lenses, higher-order aberrations may decrease the quality of vision in patients with corneal irregularity. Incorporation of correction for these aberrations onto
+various contact lens platforms has been considered for many years,
+but the translational and rotational stability of scleral lenses may finally allow this technology to come to fruition. Correction of
+higher-order aberrations has the potential to improve the acuity
+and visual perception of patients who may be unhappy with the
+quality of their vision even if they have normal Snellen acuity. Several studies included in this issue report on scleral lens technology
+that is able to mitigate higher-order aberrations. Rijal et al.5 demonstrate in this issue that customizing the lens location of the optical design for each participant is better than adopting a fixed lens
+location for scleral lenses that have wavefront-guided optics.
+Assadpour et al.6 found that scleral lenses were able to reduce
+higher-order aberrations to a similar extent to that of hybrid lenses
+in participants with keratoconus. The case report by Nguyen et al.7
+demonstrates the clinical applicability of this concept; quality of vision
+in a patient with bilateral keratoconus improved with wavefront-guided
+scleral lenses, even though he was already able to achieve 20/20 visual acuity with his habitual correction. The final study related to optical performance of scleral lenses by Wilting et al.8 shows that a year's
+worth of lens cleaning does not have a clinically meaningful impact on
+optical aberrations or scleral lens shape.
+Obtaining an optimal lens fit may also maximize lens performance, which is one of the likely next big areas of scleral lens research. Studies on fit optimization should investigate how lens fit
+influences ocular health, contact lens optics, and lens designs
+and how they all interact with each other to provide the optimal
+scleral lens–wearing experience. Barnett et al.10 provide a retrospective study that found that quadrant-specific scleral lenses resulted in better visual acuity and a reduced need for midday
+contact lens removal compared with their habitual correction.
+Fadel and Ezekiel30 also provided a review in this issue that describes the history, indications, and fitting strategies of fenestrated
+scleral lenses. Early studies of scleral contour have used full-field
+ocular surface topography for lens fitting. In this issue, Banditz
+et al.9 found that Fourier-based profilometry and Scheimpflug imaging yield different sagittal height and toricity measurements; this
+suggests that these two technologies are not interchangeable. Imaging devices such as these are now commonly being used to help
+design quadrant-specific or freeform scleral lenses.
+This issue provides additional evidence related to the efficacy of
+scleral lenses. In a 12-month study, Macedo-de-Araújo et al.31
+found that visual acuity with scleral lenses was better than that
+which was provided by previous habitual correction in participants
+who had either regular or irregular corneas, although they found
+that participants with irregular corneas experienced greater improvements. Shorter et al.32 also found that scleral lens wearers
+with keratoconus demonstrated greater visual and comfort satisfaction compared with participants who wear corneal gas-permeable
+lenses. These data provide additional justification for considering
+scleral lenses as the first treatment of choice for complicated refractive errors. Nevertheless, the community is still lacking largescale, longitudinal studies related to scleral lens safety. This lack
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+659
+
+Guest Editorial
+
+of information is currently being addressed by a new, international
+study group called the Consortium for Research in Scleral Lenses,
+which is open to all practitioners who are interested in scleral lens research. Thus, exciting research on this timely topic is forthcoming.
+Another hot topic within the vision science community is controlling myopic progression.33 This issue features an article by
+Peguda et al.,34 who used scleral lenses, which generally have little
+movement while on the eye, to model the optical effects of two different optic zones for orthokeratology-based myopia management.
+The authors provide data indicating that a 4-mm optic zone may provide more desirable myopia control optics than a 6-mm optic zone.
+Although scleral lenses themselves have not been routinely used
+as a myopia management strategy, work by Peguda et al.34 suggests
+that scleral lenses have the optical potential to slow the progression
+of myopia, especially in progressing myopes who are unable to wear
+other more commonly used contact lenses because of advanced re-
+
+REFERENCES
+1. Nau CB, Harthan J, Shorter E, et al. Demographic
+Characteristics and Prescribing Patterns of Scleral Lens
+Fitters: The Scope Study. Eye Contact Lens 2018;44
+(Suppl. 1):S265–72.
+2. van der Worp E, Barnett M, Johns L. Scleral Lenses:
+History & Future. Cont Lens Anterior Eye 2018;41:243–4.
+3. Fogt JS, Karres M, Barr JT. Changes in Symptoms of
+Midday Fogging with a Novel Scleral Contact Lens Filling Solution. Optom Vis Sci 2020;97:690–6.
+4. Macedo-de-Araújo RJ, Serramito-Blanco M, van der
+Worp E, et al. Differences Between Inferior and Superior
+Bulbar Conjunctiva Goblet Cells in Scleral Lens Wearers:
+A Pilot Study. Optom Vis Sci 2020;97:726–31.
+5. Rijal S, Hastings GD, Nguyen LC, et al. The Impact of
+Misaligned Wavefront-guided Correction in a Scleral
+Lens for the Highly Aberrated Eye. Optom Vis Sci
+2020;97:732–40.
+
+fractive errors, ocular surface disease, or discomfort that is associated with other more commonly used contact lens modalities.
+The amount of enthusiasm and interest in this feature issue was
+exciting and highlighted by the many outstanding articles we received. The creation of this issue could not have been possible
+without the help of the guest editors and the many reviewers who
+volunteered their time to bring the most current, high-quality
+scleral lens–related research together. I sincerely hope that you enjoy this issue. I am sure that it will help shape your practice and scientific pursuits.
+
+12. Tse V, Zhou Y, Truong T, et al. Corneal Health during
+Three Months of Scleral Lens Wear. Optom Vis Sci 2020;
+97:676–82.
+13. Fisher D, Collins MJ, Vincent SJ. Fluid Reservoir
+Thickness and Corneal Edema during Open-eye Scleral
+Lens Wear. Optom Vis Sci 2020;97:683–9.
+14. Yeung D, Murphy PJ, Sorbara L. Objective and Subjective Evaluation of Clinical Performance of Scleral
+Lens with Varying Limbal Clearance in Keratoconus.
+Optom Vis Sci 2020;97:703–10.
+15. Gulmiri A, Jawanda A. Case Report: Managing a
+Postgraft Keratoconus Patient with Scleral Lenses. Optom
+Vis Sci 2020;97:821–5.
+16. Kumar M, Shetty R, Khamar P, et al. Scleral Lens–
+Induced Corneal Edema after Penetrating Keratoplasty.
+Optom Vis Sci 2020;97:697–702.
+
+Andrew D. Pucker, OD, PhD, FAAO
+University of Alabama at Birmingham
+School of Optometry
+Birmingham, AL
+
+Measurements of Intraocular Pressure during Scleral
+Lens Wear. Optom Vis Sci 2020;97:711–9.
+24. Walker MK, Pardon LP, Redfern R, et al. IOP and
+Optic Nerve Head Morphology during Scleral Lens Wear.
+Optom Vis Sci 2020;97:661–8.
+25. Obinwanne CJ, Echendu DC, Agbonlahor O, et al.
+Changes in Scleral Tonometry and Anterior Chamber Angle after Short-term Scleral Lens Wear. Optom Vis Sci
+2020;97:720–5.
+26. McMonnies CW. An Amplifying Cascade of Contact
+Lens–related End-of-day Hyperaemia and Dryness
+Symptoms. Curr Eye Res 2018;43:839–47.
+27. Kok JH, Visser R. Treatment of Ocular Surface Disorders and Dry Eyes with High Gas-permeable Scleral
+Lenses. Cornea 1992;11:518–22.
+
+17. Ezekiel D. Gas Permeable Haptic Lenses. J Br Contact Lens Assoc 1983;6(158):60–1.
+
+28. Romero-Rangel T, Stavrou P, Cotter J, et al. Gaspermeable Scleral Contact Lens Therapy in Ocular Surface Disease. Am J Ophthalmol 2000;130:25–32.
+
+18. Michaud L, van der Worp E, Brazeau D, et al.
+Predicting Estimates of Oxygen Transmissibility for
+Scleral Lenses. Cont Lens Anterior Eye 2012;35:
+266–71.
+
+29. Jacobs DS, Rosenthal P. Boston Scleral Lens
+Prosthetic Device for Treatment of Severe Dry Eye
+in Chronic Graft-versus-host Disease. Cornea
+2007;26:1195–9.
+
+19. Kim YH, Tan B, Lin MC, et al. Central Corneal
+Edema with Scleral-lens Wear. Curr Eye Res 2018;43:
+1305–15.
+
+30. Fadel D, Ezekiel DF. Fenestrated Scleral Lenses:
+Back to the Origins? Review of Their Benefits and Fitting
+Techniques. Optom Vis Sci 2020;97:807–20.
+
+8. Wilting SM, Hastings GD, Nguyen LC, et al. Quantifying the Optical and Physical Consequences of Daily
+Cleaning on Conventional and Wavefront-guided Scleral
+Lenses. Optom Vis Sci 2020;97:754–60.
+
+20. Walker MK, Bergmanson JP, Miller WL, et al. Complications and Fitting Challenges Associated with
+Scleral Contact Lenses: A Review. Cont Lens Anterior
+Eye 2016;39:88–96.
+
+31. Macedo-de-Araújo RJ, Faria-Ribeiro M, McAllinden
+C, et al. Optical Quality and Visual Performance for
+One Year in a Sample of Scleral Lens Wearers. Optom
+Vis Sci 2020;97:775–89.
+
+9. Bandlitz S, Esper P, Stein M, et al. Corneoscleral Topography Measured with Fourier-based Profilometry and
+Scheimpflug Imaging. Optom Vis Sci 2020;97:766–74.
+
+21. Postnikoff CK, Pucker AD, Laurent J, et al. Identification of Leukocytes Associated with Midday Fogging in
+the Post-lens Tear Film of Scleral Contact Lens Wearers.
+Invest Ophthalmol Vis Sci 2019;60:226–33.
+
+32. Shorter E, Schornack M, Harthan J, et al.
+Keratoconus Patient Satisfaction and Care Burden with
+Corneal Gas-permeable and Scleral Lenses. Optom Vis
+Sci 2020;97:790–6.
+
+22. Holden BA, Mertz GW. Critical Oxygen Levels to
+Avoid Corneal Edema for Daily and Extended Wear Contact Lenses. Invest Ophthalmol Vis Sci 1984;25:
+1161–7.
+
+33. Smith MJ, Walline JJ. Controlling Myopia Progression in Children and Adolescents. Adolesc Health Med
+Ther 2015;6:133–40.
+
+6. Assadpour M, Nabovati P, Hashemi H, et al. Comparison of Corneal Higher-order Aberrations between Miniscleral
+and Hybrid Lenses in Keratoconus. Optom Vis Sci 2020;
+97:749–53.
+7. Nguyen LC, Kauffman MJ, Hastings GD, et al. Case
+Report: What Are We Doing for Our “20/20 Unhappy”
+Scleral Lens Patients? Optom Vis Sci 2020;97:826–30.
+
+10. Barnett M, Carrasquillo KG, Schornack MM. Clinical
+Outcomes of Scleral Lens Fitting with a Data-driven,
+Quadrant-specific Design: Multicenter Review. Optom
+Vis Sci 2020;97:761–5.
+11. Dhallu SK, Huarte ST, Bilkhu PS, et al. Effect of
+Scleral Lens Oxygen Permeability on Corneal Physiology.
+Optom Vis Sci 2020;97:669–75.
+
+www.optvissci.com
+
+23. Fogt JS, Nau CB, Schornack M, et al. Comparison of
+Pneumatonometry and Transpalpebral Tonometry
+
+34. Peguda R, Kang P, Swarbrick HA. Manipulation of
+Front-Surface Profile of Scleral Contact Lenses to Alter
+Peripheral Refraction. Optom Vis Sci 2020;97:797–806.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+660
+
+

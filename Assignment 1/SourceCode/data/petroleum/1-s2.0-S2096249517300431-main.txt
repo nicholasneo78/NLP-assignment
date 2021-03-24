@@ -1,0 +1,1602 @@
+Petroleum Research (2016) 2,205-212
+
+Shale gas accumulation conditions and gas-bearing
+characteristics of the Lower Cambrian Niutitang
+Formation in Well Changye-1 in northwestern Hunan
+Province
+Tuo Lin1,2*, Shujing Bao1, Jinchuan Zhang3, Zhi Zhou1, Kun Yuan1, Bo Li 4 and Shengyu Yang3
+Oil and Gas Survey, China Geological Survey, Beijing 100037, China
+Key Laboratory of Tectonics and Petroleum Resources of Ministry of Education, Wuhan 430074, China
+3
+School of Energy Resources, China University of Geoscience, Beijing 100083, China
+4
+China Huadian Engineering Co., Ltd., Beijing 100035, China
+Received February 22, 2016; Accepted September 28, 2016
+1
+2
+
+Abstract: To evaluate the accumulation conditions and gas-bearing properties of shale gas in the
+Lower Cambrian Niutitang Formation, northwestern Hunan Province, the first shale gas parameter
+well (Well Changye-1) that takes the Niutitang Formation as the target horizon in the Hunan Province
+was selected preferably and drilled, cumulatively revealing the thickest dark shale horizon of the
+Niutitang Formation among the single-well drillings in China, with a true vertical thickness of
+674.5m. Through analyzing the core samples in terms of organic geochemistry, rock mineralogy and
+reservoir properties, the black shale horizons in the Niutitang Formation of Well Changye-1 have
+high organic carbon content (average 3.9%), moderate maturity (equivalent Ro average 2.6%), high
+brittle mineral content (quartz content average 50.1%), low clay mineral content (average 32.4%),
+low porosity (1.7%) and low permeability (1.32×10-3mD), and well-developed meso to micro-pores
+and fractures, indicating good conditions for shale gas accumulation. Field desorption and laboratory
+isothermal adsorption measurements on core samples show that Well Changye-1 has good gasbearing properties, and gas content generally increases with depth. The black shale horizons at the
+depth of 1100-1250m have an average organic carbon content up to 10.1%, total gas content of 0.52.1m3/t and 3.7-6.4m3/t, and this is the most favorable depth for shale gas development, indicating
+that the Niutitang Formation has good a prospect for shale gas exploration. Due to huge sedimentary
+thickness, the black shale in the middle-lower part of the Niutitang Formation should be given
+priority for exploration.
+
+Key words: shale gas; gas-bearing properties; Niutitang Formation; Well
+Changye-1; northwestern Hunan
+
+1 Introduction
+Sichuan Basin and its peripheral areas have good geological
+conditions and resource potential for shale gas formation
+
+(Zhang et al., 2008; Chen et al., 2010; Zou et al., 2010; Dong et
+al., 2012; Li et al., 2012). However, there is still rare research
+on northwestern Hunan neighbored with Sichuan Basin, also
+belonging to the Middle-Upper Yangtze Plate. In Lower
+
+* Corresponding author. Email: everdeer@163.com
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+205
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+Cambrian Niutitang Formation, black shale is developed widely
+with large thickness and high abundance of organic matter
+(Zhao et al., 2001; Nie et al., 2009; Nie et al., 2011; Xiao et al.,
+2012; Wang et al., 2013). Thus northwestern Hunan is regarded
+as the key breakthrough area for exploring the shale gas of
+Niutitang Formation in southern China. Accordingly, based on
+field geological investigation, the first shale gas parameter well
+(Well Changye 1) that takes Niutitang Formation as the target
+horizon in Hunan Province was selected and drilled. Through
+dense sampling, test and analysis, on-site desorption and other
+methods, this study systematically investigates the relevant
+indicators of black shale gas content in the Niutitang Formation
+of Well Changye 1, and quantitatively analyze the shale gas
+accumulation conditions and gas-bearing characteristics in the
+Niutitang Formation, thus providing an important parameter
+basis for evaluating the regional shale gas resource potential of
+northwestern Hunan.
+
+2 Geological background
+Geologically the northwestern Hunan area belongs to the
+Middle-Upper Yangtze Plate. From Sinian to Early Paleozoic,
+the area was part of a craton marine basin with a series of
+sedimentary marine strata (Ma et al., 2004; Ma et al., 2007).
+At the beginning of the Triassic, the basin experienced tectonic
+inversion due to regional tectonic evolution, forming a series of
+thrust nappe structures and para-foreland basins. The current
+NNE and NE trending fold and fracture system were mainly
+developed during the Jurassic and the Himalayan Orogeny
+(BGMRHP, 1988), and the topography is mostly shown as
+overlapping ridges and peaks, and as well as deep valleys (Fig. 1).
+Among the Early Paleozoic sedimentary marine strata in the
+northwestern Hunan area, the Lower Cambrian Niutitang
+Formation is dominated by black shale, carbonaceous shale
+
+H
+Hefeng
+
+H
+
+ub
+
+ei
+
+Pr
+
+ov
+
+in
+
+ce
+
+N
+
+Laifeng
+
+f
+He
+
+en
+
+g
+
+t
+an
+
+ic
+
+lin
+
+i
+or
+
+um
+
+Sangzhi
+
+Chongqing Municipality
+
+Pr
+
+ov
+
+in
+
+ce
+
+Cili
+
+Hunan Province
+
+Sang
+
+zh
+
+icli
+i ant
+
+nori
+
+Well Changye - 1
+
+Zhangjiajie
+
+um
+
+Changde
+Taoyuan
+
+Baojing
+Huayuan
+
+Guzhang
+Yuanlin
+Luxi
+
+G
+Pr uizh
+on ou
+inc
+e
+
+Jishou
+
+Fig. 1
+
+Hu
+
+na
+
+nP
+rov
+
+Anticline
+
+Fault
+
+inc
+
+e
+
+0
+
+Chenxi
+
+Fenghuang
+
+Location Provincial boundary Well site
+
+206
+
+ei
+
+Shimen
+
+Longshan
+
+Yongshun
+
+uB
+
+Shallow clastic shelf
+
+Deep clastic shelf
+
+50km
+Bathyal-abyssal facies
+
+Regional geological background and location of Well Changye-1 in northwestern Hunan
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+and siliceous black shale, classified as deep shelf or bathyalabyssal sediments, and widely distributed with deep burial and
+great sedimentary thickness. It is the main set of hydrocarbon
+generation horizons in the Middle-Upper Yangtze Plate (Wang,
+1985; Guo et al., 1999; Zhao et al., 2002).
+
+3 Sampling and measurements
+To investigate the shale gas resource potential in the Lower
+Cambrian Niutitang Formation in the northwestern Hunan
+area, through field geological survey, a favorable drilling area
+was selected for Well Changye-1, i.e., the west wing of the
+Taiyangshan anticline with a bathyal-abyssal paleo-geographic
+environment, flat terrain and no large faults on the surface.
+
+shale (Schmoker, 1981; Jarvie et al., 2003; Bowker, 2007). The
+changes of organic carbon content in a stratigraphic profile
+can thus largely reflect the variations of shale gas content.
+Cluster sampling was carried out on the black shale interval of
+the Niutitang Formation in Well Changye-1 (with a sampling
+interval of about 1m). In total, 584 experimental samples were
+analyzed using a carbon and sulfur analysis. The analytical
+results show that the total organic carbon (TOC) is 0.03%17.60%, with an average of 3.9%. The highest TOC is 17.60% at
+the depth of 1130.0m.
+In Well Changye-1, TOC content increases with depth. It begins
+to increase significantly at the depth of 1100m. In the intervals
+of 1103-1224m and 1288-1344m, the average TOC is 10.1%
+and 8.2%, respectively, far greater than the defined threshold
+for shale gas commercial development. When compared with
+marine shales in the United States and its neighboring areas in
+the Sichuan Basin, the black shale provides an excellent material
+base for hydrocarbon generation (Table 2).
+
+During the drilling of Well Changye-1, after the initial 17.5 m of
+the Quaternary sediments, the Lower Cambrian Tanxi Formation
+was encountered (with the main lithology of grey thin-layer finegrain dolomite, interlayered with a small number of dark gray
+banded argillaceous limestone), and followed by the Lower
+Cambrian Qingxudong Formation at the depth of 300.2m (with
+the main lithology of dark grey thin-layer marl and dark gray
+banded argillaceous limestone). The Niutitang Formation was
+encountered at the depth of 535.5m. After the interbedding layer
+of calcareous and carbonaceous shale was drilled at the upper
+part, fine-grain limestone was encountered at the depth of 684.8m,
+which was followed by the middle-lower part of the Niutitang
+Formation, consisting mainly of black shale, carbonaceous
+shale and siliceous shale at the depth of 742m. The bottom
+of this formation was at the depth of 1344.1m. The well was
+completed in the Sinian siliceous rocks at the depth of 1377.7m.
+Well Changye-1 revealed the thickest black shale horizons of the
+Niutitang Formation among the single-well drillings in China,
+with the true vertical thickness of 674.5m.
+
+The solid bitumen reflectance (Rb) of 30 samples was measured
+by using organic maceral analysis method, and they were
+converted to the equivalent vitrinite reflectance (equivalent Ro)
+according to the empirical formula proposed by Feng (R o =
+0.6569 Rb + 0.3364) (Feng and Chen, 1988). The organic matters
+of more than half of the samples have been carbonized, unable to
+provide morphological organic matter and maturity information.
+For those samples from the depth interval of 1103-1224m with
+maximum TOC, organic matter maturity (Ro equivalent) are
+measured in the range of 2.02%-3.13% with an average value of
+2.6%, consistent with the analytical results of regional outcrop
+samples (Ro equivalent of 2.10%-3.24%, averaged at 2.8%).
+
+To analyze the gas accumulation conditions and gas-bearing
+characteristics of the black shale horizon (535.5-1344.1m)
+in the Niutitang Formation of Well Changye-1, a total of 30
+samples were collected from the black shale. Measurements on
+the organic carbon content, organic matter maturity, mineral
+composition, reservoir physical properties, pore size and specific
+surface area were carried out according to the international
+relatively general technical index (Wu et al., 2011). In
+addition, laboratory isothermal adsorption and field desorption
+measurements were also conducted. Sampling intervals were
+appropriately increased or decreased depending on the need
+(Table 1).
+
+In the main shale gas production areas in North America, the
+marine shale maturity is 0.4%-4.0%. This is particular the case
+in the Upper Devonian shale in Appalachia Basin where the
+maturity is generally greater than 1.3%, and some are up to
+4.0%. In the northwestern Guizhou and southeastern Chongqing
+regions, the black shale in the Niutitang Formation has an
+average organic matter maturity of 2.7%, comparable with that
+of Well Changye-1. The shale gas can only be produced in the
+areas with high maturity (Milici and Swezey, 2006; Pollastro
+et al., 2007). Due to the high maturity of the Lower Palaeozoic
+marine shales in southern China, the maturity of Well
+Changye-1 was relatively moderate.
+
+4 Accumulation conditions of shale gas
+
+4.3 Mineral composition
+
+4.1 Organic carbon content
+Generally speaking, the amount of absorbed gas in shale is
+positively related to the organic carbon content within the
+
+4.2 Organic matter maturity
+
+X-ray diffraction analysis of 19 samples indicates that the black
+shale contains 32%-78% quartz (averaged at 50.1%); 10%-48%
+clay mineral content (averaged at 32.4%); minor potassium feldspar
+with an average value of 1.1%. The average contents of plagioclase,
+
+207
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+Table 1 Major measurement results of the back shale in the Niutitang Formation of Well Changye-1
+Quartz Clay mineral
+Total pore
+Specific
+Pore
+Porosity Permeability
+content
+content
+volume
+surface area / diameter
+-3
+/%
+/(×10 mD)
+/%
+/%
+/(×10 -3mL∙g-1)
+(m2∙g-1)
+/nm
+
+Depth
+/m
+
+TOC
+/%
+
+Ro
+/%
+
+513.1
+537.7
+548.9
+563.0
+579.0
+752.0
+772.0
+794.5
+803.9
+822.0
+840.0
+866.5
+887.5
+903.0
+926.0
+956.0
+977.0
+995.0
+1017.6
+1043.5
+1068.2
+1085.5
+1118.0
+1130.0
+1166.0
+1203.9
+1230.6
+1258.7
+1287.9
+1320.4
+1334.1
+1344.0
+
+0.36
+0.26
+0.32
+3.86
+2.48
+3.68
+1.01
+0.22
+0.03
+1.40
+0.66
+1.31
+2.67
+1.77
+2.19
+1.10
+1.47
+1.16
+1.66
+1.93
+2.32
+2.16
+5.45
+17.60
+8.98
+12.4
+8.17
+6.12
+2.62
+9.89
+0.75
+1.69
+
+—
+1.76
+1.68
+2.13
+—
+—
+1.56
+—
+
+39
+37
+52
+16
+45
+62
+39
+34
+
+29
+34
+25
+8
+25
+21
+20
+40
+
+—
+—
+—
+—
+—
+0.97
+—
+—
+—
+2.02
+—
+—
+—
+—
+
+40
+47
+43
+60
+45
+44
+42
+47
+45
+51
+57
+65
+47
+58
+
+48
+41
+43
+26
+40
+40
+40
+36
+39
+32
+30
+29
+40
+34
+
+2.20
+2.09
+3.07
+3.13
+2.98
+1.73
+—
+1.68
+
+72
+32
+78
+26
+91
+50
+94
+84
+
+12
+34
+10
+6
+5
+19
+3
+8
+
+1.5
+
+0.01
+
+Isothermal
+adsorption
+/(m3∙t-1)
+
+8.05
+
+2.12
+
+13.09
+
+0.82
+
+6.21
+
+6.12
+
+4.54
+
+1.23
+
+3.88
+4.77
+
+2.19
+3.58
+
+6.94
+5.62
+
+2.08
+2.38
+
+4.26
+
+1.36
+
+11.46
+
+4.85
+
+1.70
+
+11.12
+
+3.31
+
+2.50
+
+5.89
+
+0.54
+
+1.6
+
+—
+
+3.97
+
+2.18
+
+7.79
+
+1.6
+
+3.7
+
+2.34
+
+2.07
+
+5.62
+
+1.2
+
+—
+
+6.61
+
+4.82
+
+5.42
+
+0.69
+
+1.7
+
+1.5
+
+3.68
+11.6
+
+1.90
+7.35
+
+8.80
+6.49
+
+3.73
+
+16.1
+
+10.88
+
+5.72
+
+5.84
+
+7.12
+2.34
+1.83
+1.49
+1.3
+2.54
+
+4.24
+1.22
+1.07
+1.22
+0.80
+1.26
+
+6.63
+6.91
+6.46
+5.47
+5.83
+7.51
+
+1.8
+
+0.01
+
+1.2
+
+—
+
+“—”represents no results, the blank represents samples untested.
+
+0.64
+
+3.87
+6.48
+0.82
+0.87
+
+Table 2 Comparison of hydrocarbon-generating parameters between the black shales of Well Changye-1 and other gas-generating
+shales in different basins
+Basin
+
+Appalachia
+
+Michigan
+
+Illinois
+
+northwestern
+Guizhou
+
+southeastern
+Chongqing
+
+Well Changye 1
+
+Strata
+
+Upper Devonian
+
+Upper Devonian
+
+Upper Devonian
+
+Lower Cambrian
+
+Lower Cambrian
+
+Lower Cambrian
+
+Marine deep
+water
+
+Deep shelf
+
+Deep shelf
+
+Bathyal-abyssal
+environment
+
+Sedimentary
+environment
+
+Marine deep water Marine deep water
+
+Thickness/m
+
+9-31
+
+21-37
+
+6-37
+
+20-80
+
+30-130
+
+674.5
+
+TOC/%
+
+0.5-23
+
+0.3-24
+
+1-25
+
+0.50-6.96/3.5
+
+0.16-9.62
+/ (average 3.4)
+
+0.03-17.60
+/ (average 3.9)
+
+Ro/%
+
+0.4-4.0
+
+0.4-0.6
+
+0.4-1.3
+
+2.3-3.62/2.7
+
+Porosity/%
+
+2-11
+
+2-10
+
+5-15
+
+Partial data from Schmoker, 1989; Curtis，2002; Montgomery er al., 2005; Milici and Swezey, 2006
+
+208
+
+1.60-3.55
+/ (average 2.7)
+
+0.4-2.7
+/ (average 1.5)
+
+2.02-3.13
+/ (average 2.6)
+1.2-1.9
+/ (average 1.6)
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+Quartz content is generally increased with depth and the lithology
+is gradually changes from black shale and carbonaceous shale to
+siliceous shale and the Sinian siliceous rocks at the bottom of the
+Niutitang Formation. Reservoirs with high contents of siliceous
+shale can produce more natural fractures under tectonic stress,
+which are favorable for storage of shale gas (Li et al., 2007; Chen et
+al., 2011; Wang et al., 2012). Effective tectonic or induced alteration
+of shale reservoirs to certain extent may be beneficial to shale
+gas exploitation. Effective alteration of gas shale requires enough
+brittle minerals in favour of fractures (Wang et al., 2012; Yuan et
+al., 2013). Based on the successful experience in exploring shale
+gas in China and overseas, the brittle mineral content required for
+effective extraction is generally greater than 40%. In the black shale
+interval of Well Changye-1, the average brittle mineral (primarily
+quartz) content accounts for 55.4% with the maximum of 80.2%.
+The brittle mineral content shows an obvious increase over the
+interval below 1100m, indicating good reservoir alterability.
+
+4.4 Reservoir physical properties
+In Well Changye-1, the porosity and permeability of seven
+samples show very low effective porosities of 1.2%-1.9%
+(averaged at 1.6%) and permeabilities of 0.01×10 -3 -3.75×10 3
+mD (averaged at 1.32×10-3mD). In contrast, for the black shale
+and carbonaceous shale in the interval of 1056.3-1258.7m, the
+porosity is relatively large, but still no more than 2.0%.
+
+4.5 Pore characteristics
+The pore structures of 19 samples were measured using
+mercury injection method in combination with specific surface
+measurement. Analytical results show that in the Niutitang
+Formation of Well Changye-1, the micro-pore volume is 0.02×
+10 -3-0.91×10 -3mL/g (averaged at 0.3×10 -3mL/g); the meso-pore
+volume is 1.03×10-3mL/g-15.19×10-3mL/g (averaged at 4.2×10-3 mL/g);
+and the macro-pore volume is 0.01×10-3mL/g-1.60×10-3mL/g(averaged
+at 0.5×10 -3mL/g). The total pore volume is 1.3×10 -3mL/g-16.1×
+10-3mL/g (averaged at 5.1×10-3mL/g). The BET specific surface area
+is 0.80-10.88m2/g (averaged at 3.1m2/g). The pore diameters range
+from 4.54nm to 13.09nm with an average of 7.2nm. The shale from
+the interval of 1100-1250m has the largest total pore volumes and
+specific surface areas.
+Tight shale also exists in the major shale gas producing basins
+of eastern United States. Shale gas production rate is directly
+related to the degree and characteristics of shale pore volumes
+and structures. The nano-scale micro pores are able to increase
+the specific surface area of the gas shale, and thus allow the
+adsorption of more gas (Curtis, 2002; Montgomery et al., 2005; Ji
+et al., 2012; Tian et al., 2012; Yang et al., 2013). Among the pores
+of the black shale in Well Changye-1, the micro-meso pores with
+
+sizes less than 50 nm appear to have the largest contribution to
+the total pore volume, averagely accounting for 88.2% of the total
+pore volume (Fig. 2). The average pore diameter is 7.2nm. Under
+the premise of similar porosity, shales consisting predominantly
+meso-micro pores can result in large specific surface areas, and
+thus provide favorable conditions for adsorbing more gas.
+
+Sampling depth /m
+
+calcite, dolomite and pyrite are 5.4%, 2.1%, 3.3% and 4.7%,
+respectively. Some samples also contain minor siderites.
+
+0
+513.1
+548.9
+579.0
+752.0
+794.5
+840.0
+926.0
+977.0
+1017.6
+1056.3
+1085.5
+1118.0
+1166.0
+1230.6
+1258.7
+1288.0
+1320.4
+1334.1
+1341.0
+
+20
+
+Micro-pore percentage
+
+Fig. 2
+
+Pore volume ratios /%
+40
+60
+
+Meso-pore percentage
+
+80
+
+100
+
+Macro-pore percentage
+
+Distribution of pore volume ratios of black shale in
+Niutitang Formation of Well Changye 1
+
+4.6 Fracture development
+Fractures play an important role in reservoir reconstruction
+(Curtis, 2002; Horsfield and Schulz, 2012). In Well Changye-1,
+the core of the black shale is disintegrated in the Lower Cambrian
+Niutitang Formation, and the disintegration of core is most serious
+in the mid-lower part of this well (Fig. 3a). Moreover, fractures are
+well developed, including extensional fractures, shear fractures
+and compressional fractures (Fig. 3b). The well developed
+structural fractures show that the black shale in the Niutitang
+Formation is greatly influenced by structural deformation, which
+is favorable to develop natural fractures for storage of free gas.
+
+5 Shale gas-bearing characteristics
+5.1 Field desorbed gas content
+In this study, field desorption measurement was carried out on
+63 samples, and no gas was desorbed from a part of samples in
+the experimental process. According to the analytical results
+of the desorbed gas and residual gas contents, the non-linear
+regression method was used to calculate the gas loss volume,
+so as to obtain the total gas content (Table 3). It is an accurate
+method that can maximally reduce the error caused by escaping
+gases (Tang et al., 2011).
+According to the standard practice of shale gas exploration and
+development in China, the commercial development of shale
+
+209
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+0
+
+20cm
+
+0
+
+576.3 -584.1m
+
+0
+
+0
+
+20cm
+
+2cm
+
+943.0 -950.6m
+
+20cm
+
+0
+
+1116.3-1128.0m
+
+(a)
+
+Fig. 3
+
+0
+
+2cm
+
+579.0m
+
+20cm
+
+0
+
+1239.3 -1249.7m
+
+953.3m
+
+0
+
+2cm
+1164.5m
+
+2cm
+1203.9m
+
+(b)
+
+Photographs of shale core and fractures in Well Changye-1
+
+Table 3 Gas contents of shale in Well Changye-1 through field desorption experiments
+Gas
+Gas
+Gas
+Gas
+Gas
+Gas
+Depth/
+Depth/
+Depth/
+Depth/
+Depth/
+Depth/
+content
+content
+content
+content
+content
+content
+m
+m
+m
+m
+m
+m
+/(m3∙t-1)
+/(m3∙t-1)
+/(m3∙t-1)
+/(m3∙t-1)
+/(m3∙t-1)
+/(m3∙t-1)
+
+Depth/
+m
+
+Gas
+content
+/(m3∙t-1)
+
+563
+
+—
+
+766
+
+0.12
+
+840
+
+0.04
+
+915
+
+0.2
+
+1025
+
+0.39
+
+1126
+
+0.38
+
+1268
+
+0.05
+
+565
+
+—
+
+772
+
+0.06
+
+848
+
+0.19
+
+926
+
+0.07
+
+1035
+
+0.08
+
+1151
+
+2.1
+
+1278
+
+0.06
+
+568
+
+—
+
+782
+
+0.24
+
+852
+
+0.13
+
+936
+
+0.13
+
+1044
+
+0.38
+
+1156
+
+1.62
+
+1288
+
+0.15
+
+575
+
+0.18
+
+788
+
+0.09
+
+867
+
+0.11
+
+956
+
+0.63
+
+1056
+
+0.26
+
+1165
+
+0.06
+
+1299
+
+0.12
+
+579
+
+0.09
+
+794
+
+0.16
+
+876
+
+0.17
+
+962
+
+0.57
+
+1068
+
+0.19
+
+1166
+
+2.09
+
+1310
+
+0.06
+
+587
+
+—
+
+803
+
+0.17
+
+881
+
+0.28
+
+977
+
+0.51
+
+1077
+
+0.09
+
+1204
+
+0.98
+
+1320
+
+0.11
+
+589
+
+—
+
+811
+
+0.13
+
+888
+
+0.09
+
+989
+
+0.51
+
+1086
+
+0.25
+
+1231
+
+0.97
+
+1337
+
+0.23
+
+680
+
+0.07
+
+822
+
+0.06
+
+896
+
+0.36
+
+1002
+
+0.38
+
+1094
+
+0.49
+
+1237
+
+0.68
+
+1340
+
+0.09
+
+752
+
+0.2
+
+828
+
+0.05
+
+903
+
+0.21
+
+1018
+
+0.17
+
+1104
+
+0.27
+
+1259
+
+0.28
+
+1344
+
+0.03
+
+gas will be viable only when the lower limit of the adsorbed gas
+content is 0.5m3/t (Zhang et al., 2012). In Well Changye-1, in
+the shallow intervals (less than 950m), the adsorbed gas content
+is generally low, and some samples yielded no desorbed gas,
+indicating no commercial development value. The desorbed gas
+content increases gradually with depth. The black shale at the
+depth of 956-989m has a relatively high adsorbed gas content
+of 0.50-0.63m 3/t and an organic-rich shale thickness of 33m.
+This interval has reached the lower limit of gas content for
+commercial development. The black shale and carbonaceous
+shale at the depth of 1067-1250m have a maximum gas content
+of 0.50-2.1m3/t with a thickness of up to 183m. Therefore this
+interval has a good commercial development value.
+
+5.2 Gas isothermal adsorption capability
+To evaluate the gas adsorption capacity of the black shale, 14
+samples were selected for isothermal adsorption experiment.
+Eight equilibrium pressure points were measured, i.e., 0MPa,
+0.35MPa, 1.07MPa, 2.25MPa, 4.31MPa, 6.24MPa, 8.72MPa
+and 11.13MPa. It took about 12h for each pressure point to reach
+
+210
+
+equilibrium and then the pressure was increased to the next
+designated value. The results were fitted with the Langmuir
+Equation to form isothermal adsorption curve and further
+calculate the saturated gas adsorption volume. The results show
+that the saturated gas adsorption volumes of samples are in the
+range of 0.69-7.61m3/t with an average value of 2.79m3/t (Table 2);
+the Langmuir pressure constants are in the range of 1.04-3.29MPa
+with an average of 2.19MPa. All 14 samples have saturated gas
+adsorption volumes greater than 0.5m3/t, including 6 samples with
+the saturated gas adsorption volumes greater than 3m3/t. In the
+interval of 1056-1320m, the isothermally adsorbed gas volume is
+3.7-6.4m3/t, with the largest methane adsorption volume.
+
+5.3 Favorable gas-bearing horizons
+The most favorable interval for shale gas accumulation in well
+Changy-1 is at the depth of 1100-1250m. In this interval, the black
+shale has very high organic carbon content, medium maturity as
+well as the maximum volume of micro, meso and macro-pores,
+total pore volumes and specific surface areas. The quartz content
+is relatively high, advantageous to reservoir fracturing; clay
+
+Depth / m
+
+Lithology
+
+Micro-pore volume
+/(10 - 3 mL·g - 1 )
+
+0
+
+GR/API
+
+800
+
+0
+
+TOC/%
+
+20
+
+0.01
+
+100
+
+0.01
+
+100
+
+0.01
+
+100
+
+Meso-pore volume
+/(10 - 3 mL·g - 1 )
+
+Macro-pore volume
+/(10 - 3 mL·g - 1 )
+
+Average pore diameter
+/nm
+0
+
+15
+
+0
+
+15
+
+BET specific surface area
+/(m 2 ·g - 1 )
+Total pore volume
+/(10 - 3 mL·g - 1 )
+
+0.01
+
+100
+
+Total content of
+field desorbed gas
+/(m 3 ·t -1 )
+
+Clay mineral content
+/%
+0
+
+100
+
+Quartz content
+/%
+0
+
+100
+
+0
+
+3
+
+Isothermally adsorbed
+gas content
+/(m 3 ·t -1 )
+0
+
+7
+
+Ediacaran
+
+1300
+
+1200
+
+1100
+
+1000
+
+900
+
+Niutitang Formation
+
+Lower Cambrian
+
+800
+
+700
+
+600
+
+Series
+
+Formation
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+Dengying
+Fm.
+
+Grey black silty shale
+
+Fig. 4
+
+Grey finely
+Grey calcareous shale
+crystalline limestone
+
+Grey chert
+
+Gray siliceous shale
+
+Black silty shale
+
+Black siliceous shale
+
+Black shale
+
+Black carbonaceous shale
+
+Comprehensive analysis of gas-bearing characteristics for the black shale in the Niutitang Formation of
+Well Changye-1
+
+mineral content is moderate; the field desorbed gas content and
+isothermally adsorbed gas content are also maximal. Therefore,
+this interval is the most favorable for shale gas development in
+Well Changye-1 (Fig. 4).
+
+6 Conclusions
+(1) It is revealed that the black shale horizon in the Niutitang
+Formation of Well Changye-1 has a true vertical thickness of
+674.5m, which is the thickest black shale interval among the
+single-well drillings in China.
+(2) In Well Changye-1, the black shale of the Niutitang
+Formation is characterized by large thickness, high organic
+ca rbon content (averaged at 3.9%), moderate matur ity
+(equivalent Ro averaged at 2.6%), high brittle mineral content
+(average quartz content of 50.1%), low content of clay minerals
+(averaged at 32.4%), low porosity and permeability (averaged
+at 1.7% and 1.32×10 -3mD, respectively). It is also featured by
+the development of meso-micro pores and fractures. Well
+Changye-1 has good accumulation conditions for shale gas.
+(3) The Niutitang Formation in Well Changye-1 has good gas-
+
+bearing properties. Generally, the gas content increases with
+the depth. In the interval of 1100-1250m, the average organic
+carbon content of black shale is up to 10.1%; the total content
+of field desorbed gas is 0.5-2.1m3/t; the isothermally adsorbed
+gas content is 3.7-6.4m3/t. Therefore, this interval is the most
+favorable unit for shale gas development.
+(4) The Lower Cambrian Niutitang Formation is widely
+distributed in the northwestern Hunan area as an marine shale.
+The analysis results indicate the Niutitang Formation in Well
+Changye-1 has a good shale gas exploration potential, further
+confirming that the northwestern Hunan has a good development
+prospect for shale gas resource.
+
+References
+Bowker K A. Barnett shale gas production, Fort Worth Basin: issues and
+discussion. AAPG Bulletin, 2007, 91(4): 523-533.
+Bureau of Geology and Mineral Resources of Hunan Province (BGMRHP).
+Regional geology of Hunan Province. Beijing: Geological Publishing
+House, 1988 (in Chinese).
+Chen S B, Zhu Y M, Wang H Y, et al. Characteristics and significance of
+mineral compositions of Lower Silurian Longmaxi Formation shale gas
+
+211
+
+T.Lin et al./Petroleum Research (2016) 2,205-212
+
+reservoir in the southern margin of Sichuan Basin. Acta Petrolei Sinica,
+2011, 32(5): 775-782 (in Chinese with English abstract).
+Chen S B, Zhu Y M, Wang H Y, et al. Research status and trends of shale
+gas in China. Acta Petrolei Sinica, 2010, 31(4): 689-694 (in Chinese
+with English abstract).
+Curtis J B. Fractured shale-gas systems. AAPG Bulletin, 2002, 86(11): 19211938.
+Dong D Z, Zou C N, Yang H, et al. Progress and prospects of shale has
+exploration and development in China. Acta Petrolei Sinica, 2012,
+33(S1): 107-114 (in Chinese with English abstract).
+Feng G X , Chen S J. Relationship between the reflectance of bitumen and
+vitrinite in rock. Natural Gas Industry, 1988, 8(2): 20-25(in Chinese
+with English abstract).
+Guo C X, Zhu ZD, Jin T, et al. Event sediments of Cambrian in Yangjiaping,
+Northwest Hunan. Oil & Gas Geology, 1999(1): 41-47 (in Chinese with
+English abstract).
+Horslield B, Schulz H M. Shale gas exploration and exploitation. Marine and
+Petroleum Geology, 2012, 31: 1-2.
+Jarvie D M, Hill R J, Pollastro R M, et al. Evaluation of unconventional
+natural gas prospects, the Barnett shale fractured shale gas model:
+European Association of International Organic Geochemists Meeting.
+Poland: Krakow, 2003.
+Ji L M, Q J L, Xia Y Q, et al. Micro-pore characteristics and methane
+adsorption properties of common clay minerals by electron microscope
+scanning. Acta Petrolei Sinica, 2012, 33(2): 249-256 (in Chinese with
+English abstract).
+Li J Z, Zheng M, Zhang G S, et al. Potential and prospects of conventional
+and unconventional natural has resource in China. Acta Petrolei Sinica,
+2012(S1): 89-98 (in Chinese with English abstract).
+Li X J, Hu S Y, Cheng K M. Suggestions from the development of fractured
+shale gas in North America. Petroleum Exploration and Development,
+2007, 34(4): 392-400 (in Chinese with English abstract).
+Ma L, Chen H J, Gan K W, et al. Geotectonics and petroleum geology of
+marine sedimentary rocks in southern China. Beijing: Geological
+Publishing House, 2004 (in Chinese).
+Ma L Q, Dong Y, Tu X L, et al. Petroleum prospect of marine sequences
+in South China. Acta Petrolei Sinica, 2007, 28(3): 1-7 (in Chinese with
+English abstract).
+Milici R C, Swezey C S. Assessment of Appalachian Basin oil and gas
+resources: Devonian shale-middle and Upper Paleozoic total petroleum
+system. United States Geological Survey, 2006.
+Montgomery S L, Jarvie D M, Bowker K A, et al. Mississippian Barnett
+shale, Fort Worth Basin, North-central Texas: gas-shale play with multitrillion cubic foot potentia. AAPG Bulletin, 2005, 89(2): 155-175.
+Nie H K, Tang X, Bian R K. Controlling factors for shale gas accumulation
+and prediction of potential development area in shale gas reservoir of
+South China. Acta Petrolei Sinica, 2009, 30(4): 484-491 (in Chinese
+with English abstract).
+Nie H K, Zhang J C, Li Y X. Accumulation conditions of the Lower
+Cambrian shale gas in the Sichuan Basin and its periphery. Acta Petrolei
+Sinica, 2011, 32(6): 959-967 (in Chinese with English abstract).
+Pollastro R M, Jarvie D M, Hill R J, et al. Geologic framework of the
+Mississippian Barnett Shale, Barnett-Paleozoic total petroleum
+system, Bend arch–Fort Worth Basin, Texas. American Association of
+
+212
+
+Petroleum Geologists Bulletin, 2007, 91(4): 405-436.
+Schmoker J W. Determination of organic matter content of Appalachian
+Devonian shales from gamma-ray logs. AAPG Bulletin, 1981, 65(7):
+1285-1298.
+Tang Y, Zhang J C, Liu Z T, et al. Use and improvement of the desorption
+method in shale gas content tests. Natural Gas Industry, 2011, 31(10):
+108-112.
+Tian H, Zhang S C, Liu S B, et al. Determination of organic rich shale pore
+features by mercury injection and gas adsorption methods. Acta Petrolei
+Sinica, 2012, 33(3): 419-427 (in Chinese with English abstract).
+Wang H Z. Atlas of the palaeogeography of China. Beijing: Cartographic
+Pressing House, 1985.
+Wang Y, Zhu Y M, Chen S B, et al. Formation conditions of shale gas in
+Lower Cambrian Niutitang Formation, northwestern Hunan. Journal
+of China University of Mining & Technology, 2013, 42(4): 586-594 (in
+Chinese with English abstract).
+Wang Y H, Lu Y J, Li Y P, et al. Progress and application of hydraulic
+fracturing technology in unconventional reservoir. Acta Petrolei Sinica,
+2012, 33(S1): 149-158 (in Chinese with English abstract).
+Wang Y M, Dong D Z, Li J Z, et al. Reservoir characteristics of shale gas
+in Longmaxi Formation of the Lower Silurian, Southern Sichuan. Acta
+Petrolei Sinica, 2012, 33(4): 551-561 (in Chinese with English abstract).
+Wu Q H, Li X B, Liu H L, et al. Log interpretations and the application of
+core testing technology in the shale- gas: taking the exploration and
+development of the Sichuan Basin as an example. Acta Petrolei Sinica,
+2011, 32(3): 484-488 (in Chinese with English abstract).
+Xiao Z H, Yang R F, Feng T, et al. Reservoir-forming conditions and
+exploration potential of shale gas in Lower Cambrian Niutitang
+Formation, Northwestern Hunan. Journal of Hunan University of
+Science and Technology: Natural Science Edition, 2012, 27(1): 50-54 (in
+Chinese with English abstract).
+Yang F, Ning Z F, Hu C P, et al. Characterization of microscopic pore
+structures in shale reservoirs. Acta Petrolei Sinica, 2013, 34(2): 301-311
+(in Chinese with English abstract).
+Yuan J L, Deng J G, Zhang D Y, et al. Fracability evaluation of shale-gas
+reservoirs. Acta Petrolei Sinica, 2013, 34(3): 523-527 (in Chinese with
+English abstract).
+Zhang J C, Lin L M, Li Y X, et al. The method of shale gas assessment:
+probability volume method. Earth Science Frontiers, 2012, 19(2): 184191 (in Chinese with English abstract).
+Zhang J C, Xu B, Nie H K, et al. Exploration potential of shale gas resources
+in China. Natural Gas Industry, 2008, 28(6): 136-140 (in Chinese with
+English abstract).
+Zhao Z J, Feng J L, Chen X S, et al. Discovery of Dengying formation fossil
+pool in Cili, Hunan and its significance. Oil & Gas Geology, 2001,
+22(2): 114-118 (in Chinese with English abstract).
+Zhao Z J, Zhu Y, Wang G H, et al. The studying method of petroleum
+system in superposition basin-as an example by analyzing Mesozoic and
+Paleozoic in southern China. Acta Petrolei Sinica, 2002, 23(1): 11-18 (in
+Chinese with English abstract).
+Zou C N, Dong D Z, Wang S J, et al. Geological characteristics, formation
+mechanism and resource potential of shale gas in China. Petroleum
+Exploration and Development, 2010, 37(6): 641-653 (in Chinese with
+English abstract).
+
+

@@ -1,0 +1,700 @@
+ORIGINAL INVESTIGATION
+
+IOP and Optic Nerve Head Morphology during Scleral Lens Wear
+Maria K. Walker, OD, MS, FAAO,1* Laura P. Pardon, OD, MS, FAAO,1 Rachel Redfern, OD, PhD, FAAO,1
+and Nimesh Patel, OD, PhD, FAAO1
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/31/2020
+
+SIGNIFICANCE: Scleral lenses (SLs) are increasing in scope, and understanding their ocular health impact is imperative. The unique fit of an SL raises concern that the landing zone causes compression of conjunctival tissue
+that can lead to resistance of aqueous humor outflow and increased intraocular pressure (IOP).
+PURPOSE: This study aimed to assess changes in optic nerve head morphology as an indirect assessment of IOP
+and evaluate other IOP assessment methods during SL wear.
+METHODS: Twenty-six healthy adults wore SL on one randomly selected eye for 6 hours, whereas the fellow eye
+served as a control. Global minimum rim width (optical coherence tomography) and IOP (Icare, Diaton) were measured at baseline, 2 and 6 hours after SL application, and again after SL removal. Central corneal thickness, anterior chamber depth, and fluid reservoir depth were monitored.
+RESULTS: Minimum rim width thinning was observed in the test (−8 μm; 95% confidence interval [CI], −11 to
+−6 μm) and control (−6 μm; 95% CI, −9 to −3 μm) eyes after 6 hours of SL wear (P < .01), although the magnitude
+of thinning was not significantly greater in the lens-wearing eyes (P = .09). Mean IOP (Icare) significantly increased
++2 mmHg (95% CI, +1 to +3 mmHg) in the test eyes (P = .002), with no change in the control eyes. Mean IOP
+changes with Diaton were +0.3 mmHg (95% CI, −0.9 to +3.2 mmHg) in the test eyes and +0.4 mmHg (95%
+CI, −0.8 to +1.7 mmHg) in the control eyes. However, Diaton tonometry showed poor within-subject variation
+and poor correlation with Icare. No clinically significant changes were observed in central corneal thickness or anterior chamber depth.
+CONCLUSIONS: This study suggests that SLs have a minimal effect on IOP homeostasis in the normal eye during
+SL wear and an insignificant impact on the optic nerve head morphology in healthy adult eyes.
+
+Author Afﬁliations:
+1
+University of Houston College of
+Optometry, Houston, Texas
+*mkwalker@central.uh.edu
+
+Optom Vis Sci 2020;97:661–668. doi:10.1097/OPX.0000000000001567
+Copyright © 2020 American Academy of Optometry
+
+Scleral lens use has become increasingly widespread to correct
+vision and provide ocular surface protection for diseased eyes, with
+the benefits well established by the visual quality and comfort they
+provide.1–5 Although examples of visual success are acclaimed
+with scleral lens wear and the capacity to rehabilitate the ocular
+surface is proven,6–9 alongside these successes are accounts of adverse events and an increasing concern for potential adverse
+effects.10–16 Accordingly, there is an increasing interest in the effects of these custom devices on the ocular surface and adnexa.17,18 With evidence of adverse effects and considering the
+diseased eyes for which they are indicated,2,19–25 it is imperative
+to understand both the positive and negative ocular health impacts
+of scleral lenses.
+The scleral lens fit is unique, vaulting over the cornea and landing on the conjunctival tissue adjacent to the limbus. The position
+of the lens on the eye is driven by a subatmospheric pressure beneath the lens,26,27 which forces the scleral lens against the conjunctiva and causes compression as great as approximately
+50 μm.28 Beneath the conjunctiva lie the episcleral veins, and beneath that are the trabecular meshwork, canals, ducts, and channels
+of the aqueous humor outflow pathway. A disruption of aqueous dynamics could have an effect on intraocular pressure (IOP), a major
+risk factor for glaucoma. The landing of scleral lenses over these important structures has been a growing concern over the fact that
+scleral lens can create resistance to aqueous humor outflow and lead
+
+www.optvissci.com
+
+to increased IOP.27,29 Furthermore, greater amounts of scleral lens
+settling would in theory lead to greater suction force that could exacerbate an increase in IOP.27
+Measuring IOP during scleral lens wear presents a challenge because most clinical methods of measurement make direct contact
+with the cornea, which is covered by the scleral lens. To manage
+this challenge, investigators have measured IOP using several different techniques: (1) by measuring the pressure over the cornea immediately after lens removal,30–33 (2) by using a corneal-calibrated
+device against the conjunctival tissue,30 and (3) by using a transpalpebral tonometer that measures IOP through the eyelids.34 The first
+modern study, conducted by Nau et al.,30 used both the first and
+second techniques with a pneumotonometer, calibrated for customary use against the cornea. IOP was measured over the cornea
+before and after 2 hours of scleral lens wear, and no difference was
+found before, during, or after scleral lens wear with either technique. A small pilot study by Vincent et al.32 found no significant
+increase in IOP after 3 or 8 hours of lens wear using the Ocular Response Analyzer (Reichert, Buffalo, NY) and a noncontact tonometer (TX-20P; Canon, Amstelveen, the Netherlands), respectively.
+Another more recent study by Aitsebaomo et al.31 used Icare (Icare
+Finland Oy, Vantaa, Finland) immediately after lens removal, and a
+study by Michaud et al.34 used a transpalpebral tonometer (Diaton;
+DevelopAll Inc., Staten Island, NY) just before lens removal.
+Shahnazi et al.33 measured IOP after lens removal in patients with
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+661
+
+IOP during Scleral Lens Wear — Walker et al.
+
+ocular surface disease, using a Tono-Pen (Tono-Pen AVIA Tonometer;
+Reichert Technologies, Depew, NY). Each of these studies has variation in type of scleral lenses worn, sample size, hours of lens wear,
+and technique used to measure IOP, which creates a challenge when
+comparing results from one study to the next.
+The optic nerve head is a relatively weak point in the otherwise
+rigid corneoscleral shell and, as a result, is particularly susceptible
+to the effects of IOP.35 Accordingly, in response to acute IOP elevation with ophthalmodynamometry, changes in optic nerve head
+structure (e.g., pre-laminar tissue and neuroretinal rim thickness)
+can be detected.36–39 Minimum rim width, quantified using optical
+coherence tomography, is a robust measure of the neuroretinal rim
+that has demonstrated excellent repeatability40–43 and is sensitive
+for detecting subtle changes in the optic nerve head structure
+caused by IOP increase. Changes in IOP can result in thinning of
+the minimum rim width in as little as 5 minutes after IOP increase
+in primate models, although it takes approximately 2 hours to see
+the maximum change.44 Although not typically measured during
+minimal (<10 mmHg) changes in IOP, the dose-dependent nature
+of minimum rim width thinning is suggestive that even with small
+increases in IOP (e.g., 5 mmHg) there would be changes to the
+minimum rim width after a prolonged increase. In this study,
+changes in the minimum rim width are measured to indirectly assess fluctuations in IOP during scleral lens wear.
+The goals of the present study were to (1) assess changes in
+minimum rim width during 6 hours of scleral lens wear to indirectly
+determine whether scleral lens wear influences IOP and (2) compare two techniques (Diaton and Icare) for measuring IOP during
+scleral lens wear and determine their relationship to the minimum
+rim width findings.
+
+METHODS
+This study was done in compliance with the tenets of the Declaration of Helsinki and was approved by the institutional review
+board at the University of Houston College of Optometry. A total
+of 27 healthy scleral lens neophytes were recruited (26 completed), and all subjects signed an informed consent form before
+enrollment. Sample size was determined for ANOVA using a moderate effect size of f (0.3) with α = 0.05 and power of 0.8. Potential
+subjects were excluded if they had a personal history of ocular hypertension or glaucoma, if their IOP measured greater than
+20 mmHg in either eye on the day of enrollment, or if they had a
+history of ocular surgery (including refractive surgery such as laser
+in situ keratomileusis) that could affect IOP readings.
+The first study visit determined eligibility and selected the lens
+to be used on the experimental day. IOP was measured using the
+Icare Finland Oy rebound tonometry. A scleral lens fitting set
+(Zenlens RC for regular corneas; Alden Optical, Rochester, NY)
+was used to fit one randomly selected eye with a 15.4-mm diagnostic
+scleral lens. Lenses were selected to vault the cornea by approximately
+250 μm and provide clearance over the limbus, landing without obvious compression of the conjunctival blood vessels. All transition zone
+radii and landing zone radii had spherical curvatures for this study.
+On the day of the experiment, subjects arrived at 7:30 AM.
+Biomicroscopy and visual acuity were evaluated to confirm normal
+ocular health. After initial baseline testing, a scleral lens was applied to the test eye at approximately 8:30 AM and worn for a total
+of 6 hours. Measurements were taken at baseline (before and after
+scleral lens application), after 2 and 6 hours of scleral lens wear,
+www.optvissci.com
+
+and again immediately after lens removal. The two principal data
+collected were IOP and optical coherence tomography–derived
+minimum rim width (primary outcome); in addition, anterior chamber
+depth and corneal thickness were measured (Lenstar LS900; HaagStreit, Koeniz, Switzerland), as well as scleral lens fluid reservoir depth
+(Spectralis OCT2; Heidelberg Engineering, Heidelberg, Germany).
+
+Intraocular Pressure (IOP) Measurement
+During the experimental visit, IOP was measured with the Icare
+rebound tonometer and the Diaton transpalpebral tonometer.
+Icare, which requires contact with the cornea, was used only before
+and after scleral lens wear on the test eyes (control eyes were measured at each time point) and was measured within 5 seconds of
+scleral lens removal when applicable. Measurements were repeated three times at each session and averaged for the final
+values. Diaton was used on both eyes at all time points while subjects laid in a supine position and were instructed to look at a target
+approximately 45° down toward their feet. The instrument probe
+was placed posterior to the eyelash margin just above where the
+scleral lens edge would land. Each instrument output represented
+a series of measurements analyzed and averaged by the instrument,
+and two measurements were obtained and averaged for each time
+point. The agreement of the two instruments was compared using
+a total of 100 matched measurements taken on the same eyes.
+
+Minimum Rim Width Measurement
+Optical coherence tomography (Spectralis OCT2; Heidelberg
+Engineering) was used to measure the change in minimum rim
+width during 6 hours of scleral lens wear. Global minimum rim
+width was measured in both eyes at baseline (pre- and post-lens application for test eyes), at the 2- and 6-hour time points, and again
+in the test eye after scleral lens removal. The Spectralis OCT system
+used for this study has a theoretical resolution of 7 μm. However,
+this axial resolution is for a single A-scan, and thickness measures
+are an average of several A-scans. Hence, with rigorous manual
+segmentation, it is possible to detect changes smaller than the theoretical axial resolution. Minimum rim width has demonstrated excellent repeatability with a within-subject standard deviation
+between approximately 1 to 2 μm.45,46
+To quantify minimum rim width, defined as the minimum distance from Bruch's membrane opening to the internal limiting
+membrane, a 24-line (15°) radial scan centered on the optic nerve
+head was acquired, and Bruch's membrane opening and the inner
+limiting membrane were automatically identified (Glaucoma Module Premium Edition, version 6.0; Heidelberg Engineering; Fig. 1).
+The software will occasionally fail to correctly locate Bruch's membrane opening, which can then be manually reselected for the software to calculate rim width. Each scan was carefully inspected
+during this manual segmentation process and adjusted as needed
+by a single investigator (MKW) and then verified by a second investigator (NP). Manual correction of automated segmentation is an
+essential step in analysis to ensure accurate Bruch's membrane
+opening detection; however, pre- and post-segmentation correction
+values for global minimum rim width still have excellent agreement
+as shown in other studies.43,46 To minimize magnification effects
+with scleral lens wear, all scans subsequent to the initial pre-lens
+baseline were obtained using the AutoRescan feature.
+
+Statistical Analysis
+Normality of the data was tested using the D'Agostino-Pearson
+normality test. Mean IOP and minimum rim width were compared
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+662
+
+IOP during Scleral Lens Wear — Walker et al.
+
+FIGURE 1. Acquisition of radial scans at the optic nerve head to measure minimum rim width. At each imaging session, the test and control eyes
+underwent a 24-line radial scan of the optic nerve head. (A) A fundus image shows the placement of the scan lines. (B) Each of the 24 scan lines is
+an optical coherence tomography section at the nerve, shown with the minimum rim width detection arrows in blue. The detection arrows can be manually adjusted as needed,43 and the program software automatically measures the length of the arrows for each scan. The global (average of all scans)
+minimum rim width value was used for this study.
+
+between eyes before, during, and after scleral lens wear using
+repeated-measures ANOVA, paired t test, and the nonparametric
+equivalents when appropriate. Linear regression and Pearson correlation analyses were done to determine if there were associations
+between change in minimum rim width, change in IOP, and change
+in the fluid reservoir depth. To compare these variables of different
+scales, values were normalized by calculating them as their percent change from baseline.
+To assess the performance of Icare and Diaton, a total of 100
+IOP measurements taken on the same eyes with both instruments were compared using Bland-Altman analysis, linear regression, and Pearson correlation coefficient. In addition, repeatability
+was calculated for each instrument. All statistical analyses were
+completed using GraphPad Prism 7 (GraphPad Software, Inc., La
+Jolla, CA).
+
+RESULTS
+A total of 26 adults (81% female) between the ages of 23 and
+33 years with normal ocular health and no history of scleral lens
+wear were included in this study. Mean central fluid reservoir
+depths were 221 μm (95% confidence interval, 192 to 251 μm)
+at initial application and 148 μm (95% confidence interval, 121
+to 175 μm) after 6 hours of lens wear, settling an average of
+73 μm (95% confidence interval, 56 to 91 μm). Before scleral lens
+application, mean central corneal thickness in the test eyes was
+540 μm (95% confidence interval, 520 to 559 μm) and in the control eyes was 535 μm (95% confidence interval, 513 to 557 μm),
+showing no difference between the eyes (P = .18). After 6 hours of
+scleral lens wear and measured within 5 minutes of lens removal,
+mean corneal thicknesses were 537 μm (95% confidence interval,
+517 to 557 μm) in the test eyes and 523 μm (95% confidence interval, 501 to 544 μm) in the control eyes, showing a significantly
+greater value in the test eyes (P = .0001) but reduced from baseline in both eyes. Anterior chamber depth remained unchanged
+www.optvissci.com
+
+in the test and control eyes throughout the experimental visit:
+3.133 mm (95% confidence interval, 2.900 to 3.366 mm) in
+the test eyes and 3.039 mm (95% confidence interval, 2.937 to
+3.141 mm) in the control eyes (P = .50) at baseline, and 3.062 mm
+(95% confidence interval, 2.953 to 3.172 mm) in the test eyes
+and 3.010 mm (95% confidence interval, 2.905 to 3.115 mm)
+in the control eyes (P = .24) after lens removal.
+
+Intraocular Pressure (IOP)
+Mean IOP (Icare) on the morning of the experimental visit was
+14 mmHg (95% confidence interval, 12 to 15 mmHg) in both
+the test and control eyes. At the 2-hour, 6-hour, and post-lens time
+points, average IOP in the control eyes was 13 mmHg (95% CI at
+6 hours, 12 to 14 mmHg), showing no significant change after
+6 hours (P = .19). Mean IOP in the test eyes, only measured again
+after scleral lens removal, was 16 mmHg (95% confidence interval,
+14 to 18 mmHg), showing a +2-mmHg (95% confidence interval,
++1 to +3 mmHg) increase in IOP from baseline (P = .002; Fig. 2).
+IOP measured with Diaton was 14 mmHg (95% confidence interval, 12 to 16 mmHg) in both the test and the control eyes before scleral lens application. After 6 hours of scleral lens wear
+(pre-removal), IOPs were 15 mmHg (95% confidence interval,
+13 to 18 mmHg) in the test eyes and 14 mmHg (95% confidence
+interval, 12 to 16 mmHg) in the control eyes, not significantly different from each other (P = .35) or from their respective baseline
+measurements (P = .11 for the test eyes, P = .71 for the control
+eyes). After scleral lens removal, the mean test eye measurement
+returned to 14 mmHg (95% confidence interval, 12 to 16 mmHg).
+The mean IOP changes with Diaton were +0.3 mmHg (95% confidence interval, −0.9 to +3.2 mmHg) in the test eyes and +0.4 mmHg
+(95% confidence interval, −0.8 to +1.7 mmHg) in the control eyes,
+showing no difference between the two eyes (P = .90).
+A comparison of means between Icare and Diaton for 100 IOP
+measurements showed no significant difference (Diaton, 15 mmHg
+[95% confidence interval, 13 to 15 mmHg]; Icare, 14 mmHg
+[95% confidence interval, 14 to 15 mmHg]; P = .35). The
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+663
+
+IOP during Scleral Lens Wear — Walker et al.
+
+FIGURE 2. Mean IOP and changes during 6 hours of scleral lens wear, measured using Icare and Diaton. The mean IOP of the test and that of control
+eyes are plotted as the mean with 95% confidence interval at each time point for Icare (A) and Diaton (C). The change in IOP (Δ IOP) from baseline is
+shown for Icare (B) and Diaton (D) measured after scleral lens removal for the test and control eyes. Positive values indicate pressure increased from
+baseline. A dotted line indicates minimal time passed between measurements. IOP measured with Icare was significantly increased in the test eye after
+6 hours of scleral lens wear (P = .02).
+
+within-subject standard deviation was calculated (square root of
+the variance) and then multiplied by 2.77 to determine repeatability.47 For Diaton, the repeatability was 8 mmHg versus Icare, which
+had a repeatability of 2 mmHg. The instruments were also compared using Bland-Altman analysis, which showed poor agreement
+and correlation of the instruments (regression slope = 0.22,
+R2 = 0.03, Y intercept = 10.00, P = .07; Fig. 3).
+
+Minimum Rim Width
+The mean minimum rim widths at baseline, measured between
+8 AM and 9 AM, were 351 μm (95% confidence interval, 330 to
+372 μm) in the test eyes and 344 μm (95% confidence interval,
+323 to 365 μm) in the control eyes. Intrasubject values were highly
+correlated with each other at baseline (R2 = 0.76; P < .001). After
+6 hours and before scleral lens removal, minimum rim widths were
+www.optvissci.com
+
+343 μm (95% confidence interval, 323 to 363 μm) in the test eyes
+and 338 μm (95% confidence interval, 318 to 358 μm) in the control eyes. This was a significant amount of minimum rim width
+change from baseline in both the test (−8 μm; 95% confidence interval, −11 to −6 μm) and the control eyes (−6 μm; 95% confidence
+interval, −9 to −3 μm; P < .01; Fig. 4). The difference in minimum
+rim width change between eyes, calculated by subtracting the control
+eye thinning from the test eye thinning for each subject, was on average −2 μm (95% confidence interval, −5 to 0 μm), indicating a
+slightly greater amount of thinning in the test eyes; however, this
+difference was not statistically significant (P = .09). After scleral
+lens removal, minimum rim width was repeated in test eyes and
+did not change significantly from the pre-scleral lens removal measurements taken at 6 hours (P = .88; Fig. 4).
+There was individual variation observed in these data. Although
+on average there was not a significant difference in the minimum
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+664
+
+IOP during Scleral Lens Wear — Walker et al.
+
+FIGURE 3. Comparison graphs showing the Bland-Altman and correlation plots comparing Icare and Diaton. A total of 100 measurements, all taken with
+Icare and Diaton on eyes that were not wearing scleral lenses, were compared. (A) The Bland-Altman plot indicates a poor agreement between Diaton and
+Icare. (B) Each measurement was plotted against each other in the linear regression plot, which has a shallow slope that also shows poor agreement between the instruments. The 95% limits of agreement for each plot are shown by the dashed lines.
+
+rim width with scleral lens wear, eight test eyes (31%) and seven
+control eyes (27%) had greater than 10 μm of minimum rim width
+thinning during the 6-hour period. Most of the subjects with high
+amounts of thinning showed relatively symmetrical thinning between the eyes, although there was a trend of approximately 3- to
+5-μm greater thinning in test eyes for several subjects (n = 10).
+Only two eyes, both test eyes, showed greater than 20-μm thinning
+during the test period, but both fellow control eyes also showed
+higher-than-average amounts of thinning.
+
+Linear regression and correlation analyses were done to evaluate
+associations between changes in minimum rim width, IOP, and fluid
+reservoir depth. Change in minimum rim width was not correlated
+with change in IOP (regression slope = 0.01, R2 = 0.02, Y intercept = −0.02, P = .50) or change in fluid reservoir depth (regression
+slope = 0.002, R2 = 0.0005, Y intercept = −0.02, P = .91). In addition, there was no correlation between change in IOP (measured
+with Icare after lens removal) and change in fluid reservoir depth
+(regression slope = 0.31, R2 = 0.11, Y intercept = 0.3, P = .10).
+
+FIGURE 4. Mean MRW changes during 6 hours of scleral lens wear, measured with optical coherence tomography. Subjects wore a lens on one randomly
+selected eye for 6 hours, and the fellow eye acted as the control. (A) Mean change in MRW from baseline (Δ MRW) is plotted as the mean with 95%
+confidence interval at each time point for the test and control eyes (a dotted line for test group plot indicates minimal time passed between measurements). (B) The total change from baseline at 6 hours (before scleral lens removal) is also shown as a scatterplot of each test and control eye, with whiskers showing the 95% confidence interval for each group. Negative values indicate thinning of the MRW. Minimum rim width in the test eyes shows a
+slightly greater amount of thinning, although not representative of a significant difference (P = .09). MRW = minimum rim width.
+
+www.optvissci.com
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+665
+
+IOP during Scleral Lens Wear — Walker et al.
+
+DISCUSSION
+In this study, the effect of scleral lens wear on the optic nerve
+head minimum rim width and IOP were evaluated. Although there
+was a trend for increased thinning of the minimum rim width in test
+eyes, the change for the 6 hours of scleral lens wear was not statistically significant for these healthy eyes. However, there was a
+trend of greater thinning in the eyes wearing scleral lenses, which
+suggests certain individuals may be experiencing changes to the
+optic nerve head structure due to an increase in IOP. Individuals
+in this study with the greatest magnitude of minimum rim width
+thinning of the test or control eye were of greatest interest, as in
+theory they would be more likely to be sensitive to changes in
+IOP. However, in these individuals, the magnitude of minimum
+rim width thinning was similar between the eyes.
+Almost all eyes showed minimum rim width thinning, regardless
+of scleral lens wear. The normal eye exhibits diurnal changes in
+minimum rim width throughout the day, on average showing approximately 8 μm of thinning between 7 AM and 7 PM in young,
+healthy individuals without contact lens wear. However, there is
+considerable individual variability over a 12-hour period (range,
+−31 to +1 μm).45 Therefore, this study used a control eye from
+the same individual to help reduce the effect of inter-subject variability. Ultimately, a normal eye appears to be quite capable of
+wearing a fitted scleral lens and maintaining a balance in IOP
+within limits that does not create significant mechanical stress at
+the optic nerve head.
+It is not surprising that we do not see a significant difference in
+minimum rim width thinning between eyes, because normal individuals are quite capable of managing long-term IOP stress. The
+natural homeostasis of IOP is constantly tested by forces such as
+fluid intake, medications, body orientation, alcohol consumption,
+respiration, heart rate, exercise, and diurnal rhythms.48 In response, the trabecular meshwork is capable of sensing a transient
+increase in outflow resistance and will respond by increasing pulsatile flow or reducing upstream resistance to avoid prolonged IOP increases that can create stress at the optic nerve head.49–52
+However, glaucomatous eyes are often unable to self-regulate these
+stresses on IOP52–54; therefore, it is essential that these experiments
+be repeated in that population. Furthermore, individuals with collagen diseases such as keratoconus, a population with a high incidence of scleral lens wear, may show a different response than
+seen with the normal eye.55
+IOP was measured using two different methods. Diaton, able to
+measure IOP as indicated during scleral lens wear, seemed desirable to use but exhibited questionable reliability. This was in agreement with other studies that showed poor comparability to the
+criterion-standard Goldmann applanation tonometry.56–59 Icare, a
+validated instrument that is reasonably comparable to Goldmann
+applanation tonometry,60–62 was in part used here to offer potential
+validation of Diaton. Our assessment of the instruments showed a
+large variability of Diaton, which had a repeatability of 8 mmHg.
+Conversely, Icare showed a better repeatability of 2 mmHg. There
+was also poor correlation between Icare and Diaton, suggesting
+poor accuracy of Diaton, a conclusion that is in agreement with
+other studies.56–58 We propose that the inconsistencies of Diaton
+are in part due to variation in eyelid morphology between subjects,
+such as eyelid thickness, elasticity, and other mechanical tissue
+properties. The Diaton data in this study also did not agree with
+the study by Michaud et al.,34 which showed an approximately
+www.optvissci.com
+
+5-mmHg increase after several hours of lens wear. Ultimately,
+Diaton cannot be considered an accurate and reliable instrument
+for IOP assessment during scleral lens wear.
+After removal of the scleral lenses, the Icare IOP was significantly greater in the test eyes than in the control eyes. This is in relative agreement with the study by Aitsebaomo et al.,31 which also
+used Icare, although they saw an average increase about three
+times greater. However, the Icare data here do not agree with several studies that have used different methods of measuring IOP.
+Nau et al.30 found no increase using corneal pneumotonometry
+after 2 hours of scleral lens wear, Vincent et al.32 saw a slight reduction after several hours of lens wear when measuring with an
+ocular response analyzer and a noncontact tonometer, and
+Shahnazi et al.33 also observed a slight decrease when measuring with Tono-Pen in ocular surface disease patients. The discrepancies in the studies may be due to the instruments used,
+the durations of scleral lens wear (which were 2, 3 to 8, and 1
+to 8 hours, respectively, for the studies mentioned), or differences in the exact protocol for measuring IOP after scleral lens
+removal (i.e., how long after removal was IOP measured?). If
+an increase in IOP is true, either due to scleral lens wear or from
+the process of removing the lens itself, McMonnies27 and
+McMonnies and Boneham63 would predict that at removal the
+IOP would almost instantly return to baseline. This study measured IOP within 5 seconds of scleral lens removal, so it may
+have still been able to capture an increase during SL wear, although this is ultimately unknown. The remaining questions
+are whether the increased Icare measurements are true, and if
+so, are they caused by prolonged IOP increase during scleral
+lens wear or caused by the process of lens removal itself?
+This study, although novel in technique, had several limitations
+that should be considered when designing similar studies. This
+study was short term and in normal subjects; long-term studies in
+diseased eyes may show different results, and this type of study
+should be repeated in individuals with glaucoma and keratoconus
+specifically. Another limitation is that normal diurnal changes in
+minimum rim width were not evaluated in the test eyes in the absence of a scleral lens. However, the test eyes would be expected
+to follow a similar diurnal pattern to that of the control eyes for a
+given individual, especially given the high correlation of minimum rim width between eyes at baseline. In addition, the duration of IOP increase measured with Icare after lens removal was
+not determined, and future studies should measure IOP for several minutes or longer after lens removal. Future studies may
+also benefit from careful biomicroscopic assessment of the anterior segment aqueous and episcleral veins beneath the scleral
+lens landing zone, which can sometimes be observed for pulsatile blood flow patterns.50,51 Lastly, a direct and accurate measure of IOP was still not obtained during scleral lens wear,
+although we are not aware of an instrument that can safely accomplish this task.
+This is the first study, to our knowledge, that evaluates the sensitive optic nerve head tissue as an indirect measure of IOP during
+scleral lens wear. This study suggests that scleral lenses have a relatively small effect on IOP in the normal eye and that any impacts
+of pressure fluctuation on the optic nerve are likely not significant
+for young, healthy eyes. This conclusion is supported by the insignificant difference in optic nerve head minimum rim width change
+in scleral lens–wearing eyes. The long-term effects of scleral lenses
+on IOP and optic nerve head structure, especially in susceptible
+eyes, should be investigated.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+666
+
+IOP during Scleral Lens Wear — Walker et al.
+
+ARTICLE INFORMATION
+Submitted: December 31, 2019
+Accepted: June 6, 2020
+Funding/Support: This work was supported by National
+Institutes of Health Grant P30 EY007551 and a University
+of Houston GEAR grant.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest.
+Study Registration Information: ClinicalTrials.gov, NCT03926975.
+Author Contributions and Acknowledgments: Conceptualization:
+MKW, NP; Data Curation: MKW, NP; Formal Analysis:
+MKW, LPP; Funding Acquisition: NP; Investigation: MKW,
+LPP; Methodology: MKW, NP; Project Administration:
+MKW, RR; Resources: RR, NP; Software: NP; Supervision:
+RR, NP; Validation: RR, NP; Writing – Original Draft:
+MKW, LPP; Writing – Review & Editing: MKW, RR, NP.
+The authors would like to acknowledge Bausch & Lomb
+Specialty Vision Products, whose diagnostic fitting set
+was used for this study.
+
+13. Michaud L. For a Better Understanding of Scleral
+Contact Lens–related Pathophysiology. Invest Ophthalmol
+Vis Sci 2014;55:6430.
+14. Compañ V, Aguilella-Arzo M, Edrington TB, et al.
+Modeling Corneal Oxygen with Scleral Gas Permeable
+Lens Wear. Optom Vis Sci 2016;93:1339–48.
+15. Nixon AD, Barr JT, VanNasdale DA. Corneal Epithelial Bullae After Short-term Wear of Small Diameter Scleral Lenses. Cont Lens Anterior Eye 2017;
+40:116–26.
+16. Isozaki VL, Chiu GB. Transient Corneal Epithelial
+Bullae Associated with Large Diameter Scleral Lens
+Wear: A Case Series. Cont Lens Anterior Eye 2018;
+41:463–8.
+17. Povedano-Montero FJ, Álvarez-Peregrina C, Hidalgo
+Santa Cruz F, et al. Bibliometric Study of Scientific Research on Scleral Lenses. Eye Contact Lens 2018;44
+(Suppl. 2):S285–91.
+18. Davies I. Scleral Publications & Contact Lens Category Growth. Cont Lens Anterior Eye 2019;42:234–5.
+19. Rathi VM, Mandathara PS, Taneja M, et al. Scleral
+Lens for Keratoconus: Technology Update. Clin Ophthalmol
+2015;9:2013–8.
+
+REFERENCES
+1. Visser ES, Visser R, van Lier HJ, et al. Modern Scleral
+Lenses Part I: Clinical Features. Eye Contact Lens 2007;
+33:13–20.
+2. Dimit R, Gire A, Pflugfelder SC, et al. Patient Ocular
+Conditions and Clinical Outcomes Using a PROSE
+Scleral Device. Cont Lens Anterior Eye 2013;36:
+159–63.
+3. Bergmanson JP, Walker MK, Johnson LA. Assessing
+Scleral Contact Lens Satisfaction in a Keratoconus Population. Optom Vis Sci 2016;93:855–60.
+4. Laballe R, Vigne J, Denion E, et al. Preclinical Assessment of Scleral Lens as a Reservoir-based Ocular Therapeutic System. Cont Lens Anterior Eye 2016;39:394–6.
+5. van der Worp E, Bornman D, Ferreira DL, et al. Modern Scleral Contact Lenses: A Review. Cont Lens Anterior Eye 2014;37:240–50.
+6. Visser ES, Van der Linden BJ, Otten HM, et al. Medical Applications and Outcomes of Bitangential Scleral
+Lenses. Optom Vis Sci 2013;90:1078–85.
+7. Alipour F, Kheirkhah A, Jabarvand Behrouz M. Use of
+Mini Scleral Contact Lenses in Moderate to Severe Dry
+Eye. Cont Lens Anterior Eye 2012;35:272–6.
+
+20. Barnett M, Mannis MJ. Contact Lenses in the Management of Keratoconus. Cornea 2011;30:1510–6.
+21. Pullum KW, Whiting MA, Buckley RJ. Scleral
+Contact Lenses: The Expanding Role. Cornea 2005;
+24:269–77.
+22. Severinsky B, Behrman S, Frucht-Pery J, et al.
+Scleral Contact Lenses for Visual Rehabilitation After
+Penetrating Keratoplasty: Long Term Outcomes. Cont
+Lens Anterior Eye 2014;37:196–202.
+23. Bavinger JC, DeLoss K, Mian SI. Scleral Lens Use
+in Dry Eye Syndrome. Curr Opin Ophthalmol 2015;
+26:319–24.
+24. Takahide K, Parker PM, Wu M, et al. Use of Fluidventilated, Gas-permeable Scleral Lens for Management
+of Severe Keratoconjunctivitis Sicca Secondary to Chronic
+Graft-versus-host Disease. Biol Blood Marrow Transplant
+2007;13:1016–21.
+25. Schornack MM, Baratz KH, Patel SV, et al. Jupiter
+Scleral Lenses in the Management of Chronic Graft versus Host Disease. Eye Contact Lens 2008;34:302–5.
+26. Miller D, Carroll JM, Holmberg A. Scleral Lens Cling
+Measurement. Am J Ophthalmol 1968;65:929–30.
+
+8. Visser ES, Visser R, van Lier HJ, et al. Modern Scleral
+Lenses Part II: Patient Satisfaction. Eye Contact Lens
+2007;33:21–5.
+
+27. McMonnies CW. A Hypothesis that Scleral Contact
+Lenses Could Elevate Intraocular Pressure. Clin Exp
+Optom 2016;99:594–6.
+
+9. Heur M, Bach D, Theophanous C, et al. Prosthetic Replacement of the Ocular Surface Ecosystem Scleral
+Lens Therapy for Patients with Ocular Symptoms of
+Chronic Stevens-Johnson Syndrome. Am J Ophthalmol
+2014;158:49–54.
+
+28. Alonso-Caneiro D, Vincent SJ, Collins MJ. Morphological Changes in the Conjunctiva, Episclera and Sclera
+Following Short-term Miniscleral Contact Lens Wear in
+Rigid Lens Neophytes. Cont Lens Anterior Eye 2016;
+39:53–61.
+
+10. Walker MK, Bergmanson JP, Miller WL, et al. Complications and Fitting Challenges Associated with
+Scleral Contact Lenses: A Review. Cont Lens Anterior
+Eye 2016;39:88–96.
+
+29. Fadel D, Kramer E. Potential Contraindications
+to Scleral Lens Wear. Cont Lens Anterior Eye 2019;
+42:92–103.
+
+11. Fernandes M, Sharma S. Polymicrobial and
+Microsporidial Keratitis in a Patient Using Boston
+Scleral Contact Lens for Sjogren's Syndrome and Ocular
+Cicatricial Pemphigoid. Cont Lens Anterior Eye 2013;
+36:95–7.
+12. Rathi VM, Mandathara PS, Vaddavalli PK, et al.
+Fluid Filled Scleral Contact Lens in Pediatric Patients:
+Challenges and Outcome. Cont Lens Anterior Eye
+2012;35:189–92.
+
+www.optvissci.com
+
+30. Nau CB, Schornack MM, McLaren JW, et al. Intraocular Pressure After 2 Hours of Small-diameter Scleral
+Lens Wear. Eye Contact Lens 2016;42:350–3.
+
+33. Shahnazi KC, Isozaki VL, Chiu GB. Effect of Scleral
+Lens Wear on Central Corneal Thickness and Intraocular
+Pressure in Patients with Ocular Surface Disease [published
+online October 24, 2019]. Eye Contact Lens 2019. doi:
+10.1097/ICL.0000000000000670.
+34. Michaud L, Samaha D, Giasson CJ. Intra-ocular
+Pressure Variation Associated with the Wear of Scleral
+Lenses of Different Diameters. Cont Lens Anterior Eye
+2019;42:104–10.
+35. Downs JC. Optic Nerve Head Biomechanics in Aging
+and Disease. Exp Eye Res 2015;133(4):19–29.
+36. Fazio MA, Johnstone JK, Smith B, et al. Displacement of the Lamina Cribrosa in Response to Acute Intraocular Pressure Elevation in Normal Individuals of
+African and European Descent. Invest Ophthalmol Vis
+Sci 2016;57:3331–9.
+37. Bedggood P, Tanabe F, McKendrick AM, et al. Optic
+Nerve Tissue Displacement during Mild Intraocular
+Pressure Elevation: Its Relationship to Central Corneal
+Thickness and Corneal Hysteresis. Ophthalmic Physiol
+Opt 2018;38:389–99.
+38. Agoumi Y, Sharpe GP, Hutchison DM, et al. Laminar
+and Prelaminar Tissue Displacement during Intraocular
+Pressure Elevation in Glaucoma Patients and Healthy
+Controls. Ophthalmology 2011;118:52–9.
+39. Tun TA, Atalay E, Baskaran M, et al. Association of
+Functional Loss with the Biomechanical Response of
+the Optic Nerve Head to Acute Transient Intraocular
+Pressure Elevations. JAMA Ophthalmol 2018;136:
+184–92.
+40. Gupta L, Rahmatnejad K, Gogte P, et al. Reproducibility of Minimum Rim Width and Retinal Nerve Fibre
+Layer Thickness Using the Anatomic Positioning System in Glaucoma Patients. Can J Ophthalmol 2019;
+54:335–41.
+41. Enders P, Bremen A, Schaub F, et al. Intraday Repeatability of Bruch's Membrane Opening–based
+Neuroretinal Rim Measurements. Invest Ophthalmol
+Vis Sci 2017;58:5195–200.
+42. Schrems-Hoesl LM, Schrems WA, Laemmer R, et al.
+Precision of Optic Nerve Head and Retinal Nerve Fiber
+Layer Parameter Measurements by Spectral-domain
+Optical Coherence Tomography. J Glaucoma 2018;27:
+407–14.
+43. Park K, Kim J, Lee J. Reproducibility of Bruch Membrane Opening–minimum Rim Width Measurements
+with Spectral Domain Optical Coherence Tomography.
+J Glaucoma 2017;26:1041–50.
+44. Pardon LP, Harwerth RS, Patel NB. Neuroretinal
+Rim Response to Transient Changes in Intraocular Pressure in Healthy Non-human Primate Eyes. Exp Eye Res
+2020;193:107978.
+45. Pardon L, McAllister F, Cheng H, et al. Minimum
+Rim Width Decreases over a 12-hour Daytime Period in
+Healthy Individuals. Optom Vis Sci 2018;95:180035.
+46. Almobarak FA, O'Leary N, Reis AS, et al. Automated
+Segmentation of Optic Nerve Head Structures with Optical
+Coherence Tomography. Invest Ophthalmol Vis Sci 2014;
+55:1161–8.
+47. Bland JM, Altman DG. Measurement Error. Br Med J
+1996;313:744.
+
+31. Aitsebaomo A, Wong-Powell J, Miller WL, et al.
+Influence of Scleral Lens on Intraocular Pressure.
+J Contact Lens Res Sci 2019;3:e1–9.
+
+48. Abu-Hassan DW, Acott TS, Kelley MJ. The Trabecular Meshwork: A Basic Review of Form and Function.
+J Ocul Biol 2014;2.
+
+32. Vincent SJ, Alonso-Caneiro D, Collins MJ. Evidence
+on Scleral Contact Lenses and Intraocular Pressure. Clin
+Exp Optom 2017;100:87–8.
+
+49. Roy Chowdhury U, Hann CR, Stamer WD, et al.
+Aqueous Humor Outflow: Dynamics and Disease. Invest
+Ophthalmol Vis Sci 2015;56:2993–3003.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+667
+
+IOP during Scleral Lens Wear — Walker et al.
+50. Johnstone M, Martin E, Jamil A. Pulsatile Flow into
+the Aqueous Veins: Manifestations in Normal and
+Glaucomatous Eyes. Exp Eye Res 2011;92:318–27.
+
+Approach to Patient Care. New York, NY: Springer;
+2010:65–78.
+
+51. Xin C, Wang RK, Song S, et al. Aqueous Outflow
+Regulation: Optical Coherence Tomography Implicates
+Pressure-dependent Tissue Motion. Exp Eye Res
+2017;158:171–86.
+
+55. Loukovitis E, Sfakianakis K, Syrmakesi P, et al. Genetic Aspects of Keratoconus: A Literature Review Exploring
+Potential Genetic Contributions and Possible Genetic
+Relationships with Comorbidities. Ophthalmol Ther 2018;
+7:263–92.
+
+52. Carreon T, van der Merwe E, Fellman RL, et al.
+Aqueous Outflow—A Continuum from Trabecular
+Meshwork to Episcleral Veins. Prog Retin Eye Res 2017;
+57:108–33.
+
+56. Li Y, Shi J, Duan X, et al. Transpalpebral Measurement of Intraocular Pressure Using the Diaton Tonometer
+versus Standard Goldmann Applanation Tonometry. Graefes
+Arch Clin Exp Ophthalmol 2010;248:1765–70.
+
+53. Acott TS, Kelley MJ, Keller KE, et al. Intraocular
+Pressure Homeostasis: Maintaining Balance in a
+High-pressure Environment. J Ocul Pharmacol Ther
+2014;30:94–101.
+
+57. Doherty MD, Carrim ZI, O'Neill DP. Diaton Tonometry: An Assessment of Validity and Preference against
+Goldmann Tonometry. Clin Exp Ophthalmol 2012;40:
+e171–5.
+
+54. Johnstone M, Jamil A, Martin E. Aqueous Veins and
+Open Angle Glaucoma. In: Schacknow PN, Samples JR,
+eds. The Glaucoma Book: A Practical, Evidence-based
+
+58. Wisse RP, Peeters N, Imhof SM, et al. Comparison of
+Diaton Transpalpebral Tonometer with Applanation Tonometry in Keratoconus. Int J Ophthalmol 2016;9:395–8.
+
+www.optvissci.com
+
+59. Toker MI, Vural A, Erdogan H, et al. Central Corneal
+Thickness and Diaton Transpalpebral Tonometry.
+Graefes Arch Clin Exp Ophthalmol 2008;246:881–9.
+60. Suman S, Agrawal A, Pal VK, et al. Rebound Tonometer: Ideal Tonometer for Measurement of Accurate Intraocular Pressure. J Glaucoma 2014;23:
+633–7.
+61. Li BZ, Hong J, Peng RM, et al. Comparison of Icare
+Rebound Tonometer and Goldmann Applanation Tonometer After Descemet's Stripping with Automated Endothelium Keratoplasty. Zhonghua Yan Ke Za Zhi 2013;
+49:257–62.
+62. Pronin S, Brown L, Megaw R, et al. Measurement of
+Intraocular Pressure by Patients with Glaucoma. JAMA
+Ophthalmol 2017;135:1030–6.
+63. McMonnies CW, Boneham GC. Experimentally Increased Intraocular Pressure Using Digital Forces.
+Eye Contact Lens 2007;33:124–9.
+
+Optom Vis Sci 2020; Vol 97(9)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+668
+
+

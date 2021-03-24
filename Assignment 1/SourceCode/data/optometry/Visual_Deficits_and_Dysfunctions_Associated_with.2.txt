@@ -1,0 +1,2340 @@
+META-ANALYSIS
+
+Visual Deficits and Dysfunctions Associated with Traumatic Brain
+Injury: A Systematic Review and Meta-analysis
+Natalya Merezhinskaya, PhD,1,2 Rita K. Mallia, OD, MPA,3 DoHwan Park, PhD,4 Daniel W. Bryden, PhD,3 Karan Mathur, BS,3
+and Felix M. Barker, II, OD, MS, FAAO1,2*
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/31/2020
+
+SIGNIFICANCE: This study reports prevalence data combined independently for accommodative dysfunction, convergence insufficiency, visual field loss, and visual acuity loss in patients with traumatic brain injury in the absence
+of eye injury.
+OBJECTIVE: The objective of this study was to conduct a systematic review and meta-analysis to determine the
+prevalence rates of accommodative dysfunction, convergence insufficiency, visual field loss, and visual acuity loss
+in TBI patients without concomitant eye injury.
+DATA SOURCES: The data sources used in this study were PubMed, EMBASE, EBSCO, and Cochrane Library.
+STUDY APPRAISAL AND SYNTHESIS METHODS: Publications reporting the prevalence of diagnosed accommodative dysfunction, convergence insufficiency, visual field loss, or visual acuity loss to the level of legal blindness in
+TBI patients of any age were included. Univariate metaregression analyses and subgroup analyses were performed
+to account for statistical heterogeneity.
+RESULTS: Twenty-two eligible publications were identified across the four visual conditions. Random-effects
+models yielded combined prevalence estimates: accommodative dysfunction (42.8; 95% confidence interval
+[CI], 31.3 to 54.7), convergence insufficiency (36.3%; 95% CI, 28.2 to 44.9%), visual field loss (18.2%; 95%
+CI, 10.6 to 27.1%), and visual acuity loss (0.0%; 95% CI, 0.0 to 1.1%). Metaregression and subgroup analyses
+revealed that visual field loss was significantly more prevalent in moderate to severe (39.8%; 95% CI, 29.8 to
+50.3%) compared with mild TBI (6.6%; 95% CI, 0 to 19.5%).
+CONCLUSIONS AND IMPLICATIONS OF KEY FINDINGS: This study demonstrates that accommodative dysfunction, convergence insufficiency, and visual field loss are common sequelae of TBI. Prospective longitudinal research with rigorous and uniform methodology is needed to better understand short- and long-term effects of
+TBI on the vision system.
+Optom Vis Sci 2019;96:542–555. doi:10.1097/OPX.0000000000001407
+Written work prepared by employees of the Federal Government as part of their official duties is, under the U.S. Copyright Act, a
+“work of the United States Government” for which copyright protection under Title 17 of the United States Code is not
+available. As such, copyright does not extend to the contributions of employees of the Federal Government.
+Supplemental Digital Content: Direct URL links are provided within the text.
+
+Traumatic brain injury is defined as an alteration in brain function or other evidence of brain pathology caused by an external
+force.1 In 2013 alone, an estimated 2.8 million people in the
+United States sustained a traumatic brain injury, most commonly
+from falls, being struck by or against an object, and motor vehicle
+accidents.2 In the military, more than 375,000 cases of traumatic
+brain injury were reported in service members since 2000,3 many
+of them as a result of powerful explosive blast events. Retrospective
+studies show that 65 to 79% of traumatic brain injury patients report subjective visual complaints4–9; however, prevalence of the
+underlying visual dysfunctions attributed to self-reported symptoms varies substantially between these studies for reasons including inconsistent diagnostic and reporting methods, varying sample
+population demographics, and the many possible mechanisms of
+injury. Given the limitations of available retrospective data and
+the dearth of studies that prospectively recruit unbiased patient
+samples, this study was undertaken to obtain more accurate prevalence estimates. Thus, the purpose of this study is to use available
+published scientific data to estimate the prevalence of four visual
+outcomes often considered to be associated with traumatic brain
+injury: accommodative dysfunction, convergence insufficiency, visual field loss, and visual acuity loss.10–16 Furthermore, univariate
+www.optvissci.com
+
+Author Afﬁliations:
+1
+Vision Center of Excellence, Defense
+Health Agency, Department of Defense,
+Bethesda, Maryland
+2
+Department of Veterans Affairs,
+Washington, District of Columbia
+3
+Contractor in support of Vision Center of
+Excellence, Bethesda, Maryland
+4
+Department of Mathematics and
+Statistics, University of Maryland,
+Baltimore County, Baltimore, Maryland
+*felix.barker@va.gov
+
+metaregression and subgroup analyses were performed to better
+account for the observed heterogeneity.
+
+METHODS
+Systematic Literature Search
+Four databases (PubMed, EMBASE, EBSCO, and Cochrane Library) were queried for relevant literature published before August
+2, 2017. Although settings and interfaces varied between these
+databases, an identical search strategy was adapted for each database. The complete search strategy can be found in the Appendix
+(available at http://links.lww.com/OPX/A408). Briefly, search
+terms were organized into four concepts: (1) prevalence, (2) head
+injury, (3) vision, and (4) deficit/dysfunction. Terms within each
+category were separated by the Boolean operator “OR,” and each
+category was parenthesized and separated by the operator
+“AND.” When possible, Medical Subject Heading terms or the “explode” qualifier was used to expand the search language. All citations were imported and managed using EndNote X7.7.1 (Clarivate
+Analytics, Philadelphia, PA). Two authors of the current study (DWB,
+KM) worked independently to screen title and abstracts for relevant
+
+Optom Vis Sci 2019; Vol 96(8)
+
+542
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+articles; arbitration of disagreements was performed by an independent
+third author (RKM). Two authors (DWB, RKM) then worked independently to review full-text articles of all articles marked relevant to confirm
+eligibility; arbitration of disagreements was performed by two authors of
+the current study (FMB, NM). Recent systematic reviews on the topic
+were scanned for appropriate literature10,14,17; bibliographies of all included articles were scanned for relevant references.
+
+To the extent possible, an individual patient was represented
+only once for each visual outcome calculation. When necessary,
+study authors were contacted to determine the existence or degree
+of patient overlap between their publications. In instances of cohort overlap between two or more studies, the larger or more recent
+publication was chosen for inclusion14; some notable studies were
+excluded as a result of this process.5,6,19–21
+
+Inclusion and Exclusion Criteria
+
+Data Extraction
+
+The criteria for literature inclusion were as follows: (1) traumatic
+brain injury or comparable head injury was diagnosed by a trained
+medical professional; (2) screening and/or diagnostic testing for
+accommodative dysfunction (insufficiency or infacility), convergence insufficiency, visual field loss, or visual acuity loss (visual
+acuity equal to 20/200 or worse) was performed by an eye care provider; and (3) the article was published in English in a peer-reviewed
+journal, and full text was available. There were no restrictions for
+period or patient age, with the exception that accommodation
+was only measured in nonpresbyopic traumatic brain injury populations 40 years or younger.
+Studies were excluded based on the following criteria: (1)
+single-case report design was used; (2) the sample population
+was artificially selected for one of the visual outcomes (i.e., patients were recruited because of visual symptoms likely secondary
+to the visual outcome); (3) the sample population was previously diagnosed as having a chronic (or other) eye condition (e.g., glaucoma
+and diabetic retinopathy); (4) brain injury was acquired in a manner
+unrelated to trauma (e.g., stroke and infection); and (5) either traumatic brain injury or visual outcomes were self-reported or otherwise
+not clinically diagnosed. Efforts were made to remove the impact of
+ocular/orbital injury on visual diagnoses: patients/publications were
+excluded if there was evidence of eye injury (e.g., intraocular hemorrhage and open globe injury) that could explain visual symptoms. Applicable data were restricted to traumatic brain injury patients
+diagnosed as having one or more of these four visual outcomes.
+These data did not include baseline prevalence comparisons, calculation of risk statistics, or assessment of the effectiveness of interventions for these outcomes. Review articles rarely reported
+original data and were therefore excluded from statistical analysis;
+however, reviews were used as resources to find relevant literature.
+
+Prevalence statistics of the four visual outcomes were extracted
+directly from tables or the reported text. Initial data extraction was
+performed by two authors who worked together (DWB, RKM); arbitration of disagreements was performed through discussion with
+two additional authors (FMB, NM). A second review of data extraction was performed by one author (RKM) with any issues resolved
+through discussion with two additional authors (FMB, NM). Confidence intervals were estimated according to the Clopper-Pearson
+method22 at the 95% level. When available, additional contextual
+data extracted from each study included the following: geographic
+location (by country), age of participants, participant sex ratio, target population (i.e., defining characteristics of the recruited population), causes of traumatic brain injury (i.e., mechanism of injury),
+time elapsed from the traumatic brain injury until the eye
+examination/screening, severity of traumatic brain injury, study design, and visual deficit/dysfunction testing criteria.
+
+Study Selection
+Reported data regarding the prevalence of accommodative dysfunction, convergence insufficiency, visual field loss, and visual acuity loss were gathered by conducting the systematic literature search
+described previously. All reported accommodative dysfunction data
+reflect accommodative measures relative to age-related thresholds.
+Visual field loss was defined as any type of diagnosed visual field defect consistent with post-chiasmal injury such as hemianopia,
+quadrantanopia, or scotoma; visual field defects attributed to prechiasmal optic nerve or retinal damage were excluded. Visual acuity
+loss was defined as a Snellen visual acuity estimate or comparable
+measure at the level of “legal blindness” (20/200 or worse).18
+Duplicate articles were removed, and the remaining publications were screened by title and abstract for possible inclusion. A
+thorough full-text review of all remaining articles was subsequently
+completed. Additional articles were added to the initial list after review of bibliographies contained in the included articles. All steps
+were performed independently by two reviewers (DWB, KM); arbitration of disagreements was performed by an independent third
+reviewer (RKM).
+www.optvissci.com
+
+Statistical Analysis
+All statistical analyses were conducted using R statistical software (3.4.2)23 and its “meta” and “metafor” package.24 Prevalence rates were calculated by dividing the number of individuals
+with traumatic brain injury diagnosed with the visual outcome by
+the total number of individuals diagnosed as having traumatic
+brain injury. These rates were transformed via Freeman-Tukey's25
+double-arcsine method, as it best accounts for extreme values
+(near 0 or 1) and is appropriate for meta-analyses of prevalence.26
+Studies were weighted per their effect size using the reciprocal of
+variance (i.e., inverse variance) of the transformed proportions. A
+continuity correction of 0.5 was applied to all prevalence estimates
+of zero.27 Forest plots of each visual outcome were presented as
+back-transformed data (i.e., raw prevalence) using the “metaprop”
+and “forest” commands. Variances were combined using the
+DerSimonian-Laird28 random-effects model. Between-study variance (τ2) was estimated using the restricted maximal likelihood
+method,29 as it best accommodates metaregression analyses, and
+heterogeneity was assessed using Cochran Q test and Higgins I2 (I2
+values <40, 30 to 60, 50 to 90, and ≥75% were deemed low, moderate, substantial, and considerable heterogeneity, respectively).30
+Cochran Q has demonstrated low power under certain circumstances
+and was therefore deemed statistically significant at P values less
+than .10.31 An iterative influence analysis using the leave-one-out
+method was performed for each outcome to determine whether any
+single study was disproportionately influential in any of the respective combined prevalence estimates.32,33 Subgroup analysis was
+performed for four moderators: (1) study design (prospective vs. retrospective), (2) traumatic brain injury severity, (3) diagnostic
+criteria, and (4) risk of bias to compare the prevalence rates among
+different levels of moderators by considering the meta-analysis result
+from each group separately. Methodological risk of bias of each
+study was appraised via criteria validated by Hoy et al.34 Upon assessment of methodological risk of bias,34 studies ranged from 0
+to 6 (Table 1). The overall risk-of-bias score for each study was
+
+Optom Vis Sci 2019; Vol 96(8)
+
+543
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+TABLE 1. Risk-of-bias tool matrix
+
+Study
+
+Was the study's
+population
+a close
+Was some
+representation
+Was the
+form of
+of the national sampling frame random
+Was the
+population in a true or close selection
+relation to
+representation used to likelihood of
+your relevant
+of the target select the nonresponse
+variable?
+population?
+sample? bias minimal?
+
+Was the study
+instrument
+that measured
+Was an the parameter
+Were data acceptable of interest
+shown to have
+collected
+case
+reliability
+directly definition
+and validity
+from the
+used in
+subjects? the study? (if necessary)?
+
+Was the
+same mode
+of data
+collection
+used for all
+subjects?
+
+Were the
+Was the
+length of the numerator(s)
+and
+shortest
+prevalence denominator(s)
+for the
+period for the
+parameter
+parameter of
+of interest
+interest
+appropriate? appropriate?
+
+Alvarez
+et al.35
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Brahm
+et al.4
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Bulson
+et al.36
+
+No (1)
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+CapóAponte
+et al.7
+
+No (1)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+CapóAponte
+et al.37
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Ciuffreda
+et al.38
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Cohen
+et al.39
+
+Yes (0)
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Goodrich
+et al.9
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Hellerstein
+et al.40
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Jackowski
+et al.41
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Lemke
+et al.42
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Magone
+et al.43
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Master
+et al.44
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Padula
+et al.45
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Poggi
+et al.46
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Sabates
+et al.47
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Schrupp
+et al.48
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Shokunbi
+and
+Agbeja49
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Stelmack
+et al.8
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0) for Yes (0)
+AD, CI
+for AD, CI
+
+Yes (0) for AD,
+CI, VAL
+
+Yes (0)
+
+Yes (0)
+
+No (1)
+for VFL
+
+No (1) for VFL
+
+No (1)
+for VFL
+
+Storey
+et al.50
+
+No (1)
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Suchoff
+et al.51
+
+No (1)
+
+No (1)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Van Stavern
+et al.52
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+Yes (0)
+
+No (1) for CI
+
+Yes (0)
+
+Yes (0)
+
+No (1) for CI No (1) for CI
+Yes (0)
+for VFL
+
+Yes (0) for VFL Yes (0) for VFL
+
+Yes (0) represents low risk of bias; No (1), high risk of bias. Subcategories: low risk, 0 to 3 score for risk of bias; moderate risk, 4 to 6 score for risk of bias;
+high risk, 7 to 9 score for risk of bias. AD = accommodative dysfunction; CI = convergence insufficiency; VAL = visual acuity loss; VFL = visual field loss.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+544
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+grouped into low risk of bias (score of 0 to 3), medium risk of bias
+(score of 4 to 6), and high risk of bias (score 7 to 9); a higher score
+indicates greater risk of bias.34 All of the studies in this article
+ranged from low to medium risk of bias.
+Univariate metaregression analyses of prevalence by several
+moderators were conducted to investigate the sources of heterogeneity in each of the four visual outcomes. The moderators
+were considered as categorical variables with mostly binary outcomes. The risk-of-bias moderator was a binary outcome with
+low and moderate categories of risk of bias, and severity of traumatic brain injury was a binary outcome with mild (Glasgow
+Coma Scale score 13 to 15) and moderate-to-severe (Glasgow
+Coma Scale score 3 to 12) categories.
+When Glasgow Coma Scale, or comparable metric, was not reported, explicit attribution of mild or moderate/severe traumatic
+brain injury in the publication text was considered; for this analysis,
+sports concussions were not considered mild traumatic brain injury. Study authors were contacted when traumatic brain injury severity distinctions were unclear. Many individual publications
+reported visual outcome prevalence statistics stratified by traumatic
+brain injury severity, which provided an opportunity to use subpopulations from a single article in more than one category.4,35,42 Statistics reported for metaregression analyses were the test statistic for
+
+the omnibus test of coefficients (i.e., the test for the effect of a
+moderator; Cochran Q), percentage of heterogeneity accounted
+for R2, and Higgins I2 for individual subgroups.
+Bonferroni correction for multiple comparisons was applied to
+metaregression analyses such that Cochran Q was deemed statistically significant at less than 0.025.
+
+RESULTS
+Search Results
+Database searches yielded 2104 unique publications. Of these,
+2082 publications were excluded primarily because of a sample
+population comprising non–traumatic brain injury patients, lack
+of measurements for pertinent visual outcomes or being preselected
+for visual symptoms consistent with the visual outcome, not examined by an eye care provider, missing data, or being a foreignlanguage article. After title and abstract screening and full-text
+review, 22 publications met the criteria for inclusion.4,7–9,35–51
+The selection process summarized in Fig. 1 is in accordance with
+standardized Preferred Reporting Items for Systematic Reviews
+and Meta-analyses guidelines.54 On several occasions, data on
+more than one visual outcome were extracted from the same
+
+FIGURE 1. Flow diagram of the systematic literature search process according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses.53
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+545
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+publication. Taking these into account, 11 publications reported
+accommodative dysfunction data,4,7–9,35–38,43–45 14 reported
+convergence insufficiency data,4,7–9,35,37–41,43,44,50,52 14 reported visual field loss data,4,7–9,35–37,42,46–49,51,52 and 6 reported visual acuity loss data.4,7,8,35,41,43
+
+Study Characteristics
+Characteristics of the included studies can be found in Table 2.
+The studies were predominantly conducted in the United States
+(86.3%), but patients from Africa, Asia, and Europe were also represented. Patients ranged in age from 7 months to 91 years and
+were generally recruited from one of three subpopulations: (1) military service members and/or veterans, (2) athletes, or (3) the
+catchment area surrounding local hospitals; female patients were
+underrepresented, particularly among military groups. The most
+commonly reported mechanisms of traumatic brain injury were motor vehicle accidents, blast-related injuries, sports-related injuries,
+and falls.
+
+Accommodative Dysfunction
+The combined sample represents 1271 traumatic brain injury
+patients who were screened for accommodative dysfunction. The
+methods of assessing accommodation varied among the studies
+(Table 2); tests for accommodative insufficiency, infacility, or both
+were most common. Prevalence of accommodative dysfunction
+ranged from 13 to 80.0% across the included studies with a combined prevalence of 42.8% (95% confidence interval, 31.3 to
+54.7%; Fig. 2). This estimate was considerably heterogeneous (Q
+[10] = 115.64; P < .0001; I2 = 91.35%), although no single study
+was disproportionately influential. None of the four metaregression
+analyses (study design, traumatic brain injury severity, diagnostic
+criteria, and risk of bias) accounted for a significant portion of heterogeneity. The combined prevalence estimate of studies explicitly
+reporting on mild traumatic brain injury patients, the most common
+form of traumatic brain injury, was 43.2% (95% confidence interval, 29.2 to 57.7%).
+
+Convergence Insufficiency
+Across all studies, 2140 traumatic brain injury patients were
+screened for convergence insufficiency. Other convergence dysfunctions were sought, but only one study evaluated for convergence excess,7 and none evaluated for convergence infacility.
+Testing methods for convergence involved the current state of the
+commonly used clinical criteria accepted by the field; hence, either
+the singular use of near point of convergence or any combination of
+near point of convergence, fusional vergence, and eye alignment
+testing was used (Table 2); diagnostic cutoffs for the near point
+of convergence test varied from 6 to 12.7 cm (5 inches). The estimated prevalence in each study ranged from 14.7 to 71.4%. The
+combined prevalence was 36.3% (95% confidence interval,
+28.2 to 44.9%; Fig. 3); these data were considerably heterogeneous (Q[13] = 129.20; P < .0001; I2 = 89.94%), but influence
+analysis did not specify any single study as disproportionately influential. None of the four metaregression analyses (study design,
+traumatic brain injury severity, diagnostic criteria, and risk of bias)
+accounted for a statistically significant portion of the reported heterogeneity (R2 < 0.21; P > .03). The combined prevalence estimate of the studies explicitly reporting on mild traumatic brain
+injury patients, the most common form, was 37.2% (95% confidence interval, 24.3 to 51.1%).
+www.optvissci.com
+
+Visual Field Loss
+In the combined sample, 2106 patients underwent visual field
+testing. The specific types of visual field loss experienced by these
+patients, when reported, included homonymous or nonhomonymous
+hemianop(s)ia,4,35,42,47,49,51 quadrantanop(s)ia,4,35,42,47 visual
+field constriction/tunnel vision,4,47,51 and central or paracentral scotoma.4,47,51 Two publications in the included literature presented
+diagnoses of cortical blindness resulting from damage to the occipital region of the brain causing visual acuity and visual field loss.47,49
+The authors did not comment on the extent of visual impairment
+(i.e., partial or complete) or the visual acuity estimate associated
+with cortical blindness; therefore, cortical blindness was treated as
+a post-chiasmal visual field defect rather than a loss of visual acuity.
+Visual fields were most often assessed via confrontation and/or a
+handheld perimeter; however, Goldmann and automated perimetry
+were also used. Individual publications presented prevalence estimates between 0.0 and 50.5%. The combined prevalence estimate
+was 18.2% (95% confidence interval, 10.6 to 27.1%; Fig. 4);
+statistical heterogeneity was considerable (Q[13] = 177.22;
+P < .0001; I2 = 92.67%), but influence analysis did not reveal
+any single study as disproportionately driving the combined estimate. Metaregression analyses revealed that traumatic brain injury severity accounted for a significant portion of the observed
+heterogeneity. Patients with mild traumatic brain injury demonstrated visual field loss at a rate of 6.6% (95% confidence interval, 0 to 19.5%), whereas patients with moderate to severe
+traumatic brain injury had visual field loss at 39.8% (95% confidence interval, 29.8 to 50.3%; R2 = 64.80; P = .0006). Risk of
+bias, study design, and diagnostic criteria were not statistically
+significant moderators (R2 = 0.22; P > .06).
+
+Visual Acuity Loss
+Visual acuity was measured in 1333 traumatic brain injury patients. All studies used a Snellen chart/card or comparable metric
+to assess visual acuity (Table 2); therefore, an analysis comparing
+diagnostic testing criteria was not performed. Prevalence of visual
+acuity loss at increasingly worse levels was reported, but inconsistent reporting methods across the studies made combined
+prevalence estimates untenable. However, data regarding the
+prevalence of visual acuity worse than or equal to 20/200 (i.e., legal blindness)18 were available and ranged from 0.0 to 3.4%. This
+degree of visual acuity loss is rare; the combined prevalence estimate was 0.0% (95% confidence interval, 0.0 to 1.1%; Fig. 5);
+this estimate exhibited lower heterogeneity (Q[5] = 13.21;
+P < .02; I2 = 62.2%) compared with previous cases, and no single
+study was disproportionately influential. The current study was unable to confirm a single case of visual acuity loss in mild traumatic
+brain injury patients (0.0%; 95% confidence interval, 0.0 to
+0.0%), whereas moderate-to-severe traumatic brain injury patients
+experienced this deficit at a rate of 3.2% (95% confidence interval, 0.3 to 9.3%). The result needs to be interpreted with caution
+because only one study with moderate-to-severe data was available
+for the analysis.
+
+DISCUSSION
+Accommodative dysfunction and convergence insufficiency
+are the most prevalent of the four visual outcomes examined in
+this study, occurring in 42.8 and 36.3% of traumatic brain injury patients, respectively. The accommodation and convergence
+
+Optom Vis Sci 2019; Vol 96(8)
+
+546
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+TABLE 2. Characteristics of included studies
+
+Study
+
+Geographic
+location
+
+Age (y), mean
+age ± SD
+Proportion,
+(range)
+female (%)
+
+Target
+population
+
+Causes of TBI
+
+Risk of bias
+Study design
+(0–10)
+
+Visual deficit/
+dysfunction
+testing criteria
+
+Time since TBI
+
+Severity
+
+Alvarez
+et al.35
+
+USA
+
+40.3 ± 17.4
+(5–89)
+
+39
+
+General
+MVA, fall,
+population
+strike or blow
+to the head
+from or
+against an
+object, sport
+
+N/R
+
+N/R
+
+Brahm
+et al.4
+
+USA
+
+Inpatient:
+28.6
+Outpatient:
+30.5
+
+4
+
+Military
+
+Blast, MVA,
+gunshot, or
+fall
+
+N/R
+
+Bulson
+et al.36
+
+USA
+
+29.9
+(21–55)
+
+1
+
+Military
+
+Blast, MVA,
+fall
+
+N/R
+
+N/R
+
+Retrospective Moderate
+
+AD: visual acuity, cover
+test, further binocular
+testing performed at
+discretion of provider
+(including PRA/NRA,
+FCC, accommodative
+facility/amplitude,
+phorias, and ranges);
+VFL: confrontation
+
+CapóAponte
+et al.7
+
+USA*
+
+29.33 ± 8.14
+
+9
+
+Military
+
+Blast, fall,
+MVA rollover,
+blunt force
+
+42 ± 343 d
+
+Mild
+
+Retrospective
+
+Low
+
+AD: PRA, NRA;
+CI: NPC (no amount
+specified), fusional
+vergence, cover test,
+worth-4-dot, fixation
+disparity;
+VFL: confrontation;
+VAL: Snellen chart,
+Snellen card,
+refractive error
+
+CapóAponte
+et al.37
+
+USA
+
+31.2 ± 7.36
+
+10
+
+Military
+
+Blast
+
+15–45 d
+
+Mild
+
+Prospective
+
+Low
+
+AD: AC/A ratio, minus
+lens, facility tests with
+lens flippers;
+CI: NPC (no amount
+specified), fusional
+vergence, cover test,
+worth-4-dot,
+fixation disparity;
+VFL: confrontation;
+VAL: Snellen chart,
+refraction
+
+Ciuffreda
+et al.38
+
+USA
+
+44.9 ± 15.8
+(8–91)
+
+N/R
+
+General
+population
+
+N/R
+
+N/R
+
+Retrospective
+
+Low
+
+AD: refraction, visual
+acuity, “binocular and
+oculomotor evaluation,”
+accommodation,
+version, vergence,
+facility testing;
+CI: accommodation,
+version, vergence,
+binocular and
+oculomotor evaluation
+
+Cohen
+et al.39
+
+Israel
+
+Inpatient:
+30 ± 18.1
+Outpatient:
+29 ± 9.9
+
+N/R
+
+General
+population
+
+N/R
+
+4.5 y
+(0.1–43)
+
+Inpatient: 3 y
+Outpatient:
+3 mo
+
+Moderate
+to severe;
+mild
+
+Severe
+
+Retrospective
+
+Low
+
+AD: NPA, NRA, PRA,
+AC/A ratio, cover test,
+Maddox rod test;
+CI: NPC (no amount
+specified), fusional
+vergence, cover test;
+VFL: confrontation,
+Humphrey visual field,
+OKN nystagmus drum;
+VAL: Snellen chart,
+retinoscopy
+
+Retrospective
+
+Low
+
+AD: pull-away method,
+cover test;
+CI: NPC (7 cm),
+cover test;
+VFL: confrontation,
+Goldmann;
+VAL: Feinbloom chart,
+Teller Acuity Cards,
+OKN drum, retinoscopy/
+refraction
+
+Prospective
+
+Moderate
+
+CI: NPC (RAF near-point
+rule; no amount
+specified)
+
+Continued
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+547
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+TABLE 2. Continued
+
+Study
+
+Geographic
+location
+
+Age (y), mean
+age ± SD
+Proportion,
+(range)
+female (%)
+5
+
+Target
+population
+Military
+
+Causes of TBI
+Blast, MVA,
+fall, assault
+
+Time since TBI
+
+Severity
+
+Moderate
+Nonblast:
+to severe;
+0.32 ± 0.52 y
+mild
+(0.02–3.13)
+Blast:
+1.01 ± 1.18 y
+(0.03–4.79)
+
+Low
+
+AD: pull-away method,
+monocular
+accommodative
+amplitude;
+CI: NPC (8 cm), cover
+test, Hirschberg test;
+VFL: confrontation,
+tangent screen, arc,
+Goldmann
+
+Mild
+
+Prospective
+
+Low
+
+CI: fusional vergence,
+refraction, cover, test,
+stereopsis, NPC, relative
+accommodation, PRA,
+NRA (if able to be
+performed)
+
+N/R
+
+Prospective
+
+Low
+
+CI: NPC (12.7 cm);
+VAL: refraction
+
+Prospective
+Mild;
+moderate;
+severe;
+penetrating
+
+Low
+
+VFL: automated perimetry
+
+Retrospective
+
+Low
+
+AD: amplitude of
+accommodation;
+CI: NPC (8 cm), fusional
+vergence, cover test;
+VAL: Snellen chart
+
+N/R
+
+Prospective
+crosssectional
+study
+
+Low
+
+AD: visual acuity,
+amplitude (push-up),
+accommodative facility;
+CI: NPC (6 cm),
+fusional vergence, eye
+alignment testing
+(modified Thorington
+test), vergence facility
+
+N/R
+
+Prospective
+
+Low
+
+AD: bell and book
+retinoscopy, visual
+acuity (with Feinbloom
+and Lighthouse), NPC,
+cover test, refraction
+
+Prospective
+
+Low
+
+VFL: Goldmann, ring
+perimeter, Crothers test
+
+N/R
+
+Retrospective
+
+Low
+
+VFL: Goldmann, tangent
+screen
+
+6.2 y
+(11 mo–22 y)
+
+Mild
+
+Prospective
+
+Moderate
+
+VFL: N/R
+
+N/R
+
+N/R
+
+Retrospective Moderate
+
+VFL: N/R
+
+USA
+
+Nonblast: 24
+(19–63)
+Blast: 26
+(19–55)
+
+Hellerstein
+et al.40
+
+USA
+
+38.88
+
+N/R
+
+General
+population
+
+N/R
+
+Jackowski
+et al.41
+
+USA
+
+37.29 ± 4.3
+(29–42)
+
+57
+
+General
+population
+
+N/R
+
+0.4–10.5 y
+
+Lemke
+et al.42
+
+USA
+
+Median, 25
+(19–45)
+
+5
+
+Military
+
+Blast
+
+Median, 2 mo
+(2 wk–6 y)
+
+Magone
+et al.43
+
+USA
+
+30.5 ± 8.3
+
+6
+
+Military
+
+Blast
+
+50.5 ± 19.8 mo
+(16–91)
+
+Mild
+
+Master
+et al.44
+
+USA
+
+14.5
+(13.5–14.8)
+
+58
+
+Pediatric
+
+<1 mo; 1–3 mo;
+>3 mo
+
+Padula
+et al.45
+
+USA
+
+24
+(22–46)
+
+30
+
+General
+MVA, fall
+population
+
+N/R
+
+Poggi
+et al.46
+
+Italy
+
+Median, 6.8
+(0.5–12.1)
+
+34
+
+Pediatric
+
+Sabates
+et al.47
+
+USA
+
+31
+(5–74)
+
+30.9
+
+8.5 mo
+General
+MVA, direct
+(3 wk–3 y)
+population
+trauma to the
+skull, fall,
+bicycle accident,
+mountain
+climbing, blast
+
+Schrupp
+et al.48
+
+USA
+
+42 ± 12
+(18–59)
+
+71.4
+
+General
+MVA, fall, blow
+population
+to the head,
+and unknown
+
+MVA, fall
+
+Visual deficit/
+dysfunction
+testing criteria
+
+Retrospective
+
+Goodrich
+et al.9
+
+Sports, fall
+
+Risk of bias
+Study design
+(0–10)
+
+N/R
+
+Median, 3.2 mo Moderate
+(0.4–107.6)
+to severe
+
+Nigeria
+
+84.5 ±
+57.3 mo
+(7 mo–16 y)
+
+36
+
+Pediatric
+
+MVA, fall,
+miscellaneous
+
+Stelmack
+et al.8
+
+USA
+
+31
+
+8
+
+Military
+
+Military
+(OEF/OIF)
+
+<30 d
+
+N/R
+
+Retrospective Low (AD, CI, AD: accommodative
+facility, refraction;
+and VAL),
+moderate CI: fusional vergence, eye
+alignment test, vergence
+(VFL)
+facility, refraction;
+VFL: N/R;
+VAL: refraction
+
+Storey
+et al.50
+
+USA
+
+5–18 y
+
+N/R
+
+Pediatric
+
+Sport, fall,
+recreation
+
+N/R
+
+N/R
+
+Retrospective
+
+Low
+
+CI: NPC (6 cm)
+
+Suchoff
+et al.51
+
+USA
+
+N/R
+
+General
+population
+
+N/R
+
+Retrospective
+
+Low
+
+VFL: confrontation, static
+or kinetic perimetry
+
+Shokunbi
+and
+Agbeja49
+
+44.9 ± 15.8
+(8–91)
+
+N/R
+
+4.5 y
+(0.1–42)
+
+Continued
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+548
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+TABLE 2. Continued
+
+Study
+Van
+Stavern
+et al.52
+
+Geographic
+location
+USA
+
+Age (y), mean
+age ± SD
+Proportion,
+(range)
+female (%)
+30
+(2–86)
+
+37
+
+Target
+population
+
+Causes of TBI
+
+General
+MVA, fall,
+population
+bicycle
+accidents,
+projectile,
+pedestrian
+accident,
+and others
+
+Time since TBI
+
+Severity
+
+73.5 ± 291.8 d
+(3 d–12 y)
+
+N/R
+
+Risk of bias
+Study design
+(0–10)
+Retrospective
+
+Low
+
+Visual deficit/
+dysfunction
+testing criteria
+CI: N/R;
+VFL: Goldmann,
+Humphrey
+visual field
+
+Risk of bias is based on 10 criteria formulated and validated by Hoy et al.,34 where a higher score indicates greater bias; two scores are presented in some
+cases because of insufficient reporting of diagnostic criteria for some but not all visual outcomes. Information presented in the “visual deficit/dysfunction
+testing criteria” column is discretized by the visual condition. *Evaluation was done by an American at Landstuhl Regional Medical Center, Germany. AC/
+A = accommodative convergence per unit of accommodation; AD = accommodative dysfunction; CI = convergence insufficiency; MVA = motor vehicle
+accident; NPA = near point of accommodation; NPC = near point of convergence; N/R = not reported; NRA = negative relative accommodation; OEF = Operation Enduring Freedom; OIF = Operation Iraqi Freedom; PRA = positive relative accommodation; TBI = traumatic brain injury; UK = United Kingdom;
+USA = United States; VAL = visual acuity loss; VFL = visual field loss.
+
+pathways rely on a decentralized and extensive neural architecture
+involving mesencephalic brainstem nuclei, premotor and motor
+cortex, cerebellum, and oculomotor, abducens, and trochlear
+nerves. Focal damage to a critical component of this system, diffuse or shearing forces along the visual pathway, or intracranial
+edema, hematoma, or hemorrhage therefore can commonly lead
+to deficient ability of the eyes to accommodate and/or converge,55
+which is usually independent of any decrement in visual acuity.
+The variety of damaging events that can lead to accommodative
+dysfunction and/or convergence insufficiency provides plausible
+reasoning for the high prevalence rates reported in this study.
+Visual field loss occurs in approximately 18.2% of traumatic
+brain injury patients according to this study. The assessment of visual field loss in a traumatic brain injury patient is complicated by
+the varied nature of head injuries and the probability of an associated ocular injury. Individuals can demonstrate visual field loss
+by sustaining a direct ocular injury and/or an injury to the intracranial visual pathways resulting in damage to segments of the visual
+pathway ranging from the retina to the occipital cortex.56,57 To ensure that the results of the current study were based solely on the
+impact of a brain injury and not ocular injury, only visual field loss
+secondary to post-chiasmal injury was considered. Such defects
+are often perceived bilaterally by the patient (e.g., hemianopia
+and quadrantanopia)57 and are considered to occur secondary to
+an injury to the intracranial portion of the visual pathway. The current study indicates that visual acuity loss at the level of legal blindness is rarely associated with only traumatic brain injury. A
+probable explanation is that visual sequelae resulting from ocular,
+retinal, or optic nerve damage were excluded from this analysis.
+In most cases, traumatic visual acuity loss is related to prechiasmal damage and occurs in the setting of severe head trauma
+associated with loss of consciousness.58 The relatively low prevalence of visual acuity loss due to neurologic consequences of traumatic brain injury suggests that the test for visual acuity, which is
+the most commonly performed measure of the visual system, is
+an insufficient stand-alone surrogate for overall visual health. In
+fact, most traumatic brain injury patients in the current study had
+little if any loss of acuity; three studies reported that all patients
+with mild forms of traumatic brain injury had better than or equal
+to 20/25 vision.7,37,43 Therefore, patients with a history of head injury should be evaluated by an eye care provider (i.e., optometrist or
+ophthalmologist) who can render a comprehensive eye examination
+www.optvissci.com
+
+to look for these subtle changes in visual function, including direct
+injuries to the eye, which were not included in this study but are
+known to be commonly associated with head injuries and traumatic
+brain injury.59 Such a comprehensive examination would include
+the following: medical history, visual acuity, measurement of refractive error, external examination, pupillary testing, distance
+and near cover testing, visual field testing, extraocular muscle
+movement assessment including version and vergence functions,
+accommodative assessment, tonometry, slit-lamp biomicroscopy,
+binocular indirect ophthalmoscopy, and gonioscopy. The current
+study did not use comparative baseline rates of the studied visual
+outcomes in otherwise healthy individuals that would allow for risk
+metrics to be calculated. Although baseline rates or control groups
+were infrequently reported in the literature collected here, prevalence statistics for visual outcomes in populations with no history
+of head injury have been reported previously. Rates of accommodative dysfunction in otherwise healthy individuals were reported to
+be between 5.8 and 32.4%,37,60–64 which is lower than 42.8% reported in the current study. Convergence insufficiency was previously reported in 4.2 to 31.4% of otherwise healthy
+populations11,37,61,63–67 compared with 36.3% reported in traumatic brain injury patients here. Baseline visual field loss data
+are rare and generally measured in older adults; however, CapóAponte et al.37 reported 0% visual field loss in otherwise healthy
+military personnel aged 20 to 43 years, and Ramrattan et al.68 reported a prevalence of 3% in civilians aged 55 to 64 years. These
+estimates are notably lower than 18.2% in the current study.
+Lastly, baseline rates of visual acuity loss to the level of legal blindness were reported at less than 1%,60,69,70 which is comparable
+with the approximately 0% reported in traumatic brain injury
+patients here.
+
+Prevalence Stratified by Traumatic Brain
+Injury Severity
+The prevalence estimates harvested from each study included
+in the current analysis varied substantially. It was hypothesized
+that this heterogeneity could be partially explained by the severity
+of traumatic brain injury. To address this question, the prevalence
+of the four studied visual outcomes was stratified into either mild
+traumatic brain injury or moderate-to-severe traumatic brain injury
+categories, and metaregression analyses and subgroup analyses
+
+Optom Vis Sci 2019; Vol 96(8)
+
+549
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+FIGURE 2. Forest plot of accommodative dysfunction prevalence in traumatic brain injury patients. Each data (square) and error band (horizontal line)
+represent mean prevalence and 95% confidence interval (CI), respectively. “Events” refer to the number of patients with a positive diagnosis of accommodative dysfunction; “total” is the sample size of each study. Weights and combined prevalence are calculated using the DerSimonian-Laird randomeffects model. Sizes of the gray boxes are in proportion to the reported weights. Mean prevalence is presented as a broken vertical line. Asterisk indicates
+statistically significant heterogeneity (P < .10).
+
+were performed (Fig. 6). The prevalence of accommodative dysfunction and convergence insufficiency did not differ in patients
+with mild versus moderate to severe traumatic brain injury according to the current analysis. However, the data for accommodative
+dysfunction need to be interpreted with caution because only one
+study with moderate-to-severe traumatic brain injury data was
+
+available for the analysis. This study comparison combined data
+across studies frequently using different diagnostic approaches
+(Table 2) and often did not stratify prevalence by the types of accommodative issues (e.g., accommodative insufficiency and
+infacility). However, the study findings comport with Brahm et al.4
+and Alvarez et al.,35 who did report these traumatic brain injury
+
+FIGURE 3. Forest plot of convergence insufficiency prevalence in traumatic brain injury patients. All conventions as in Fig. 2.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+550
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+FIGURE 4. Forest plot of visual field loss prevalence in traumatic brain injury patients. All conventions as in Fig. 2. The x axis is truncated for clarity.
+
+severity comparisons using their respective, internally consistent,
+diagnostic methodologies and found no differences in visual dysfunctions between traumatic brain injury severity levels. It should
+also be noted that the specific neurological abnormalities responsible for accommodative and convergence issues are rarely investigated in individual cases. More detailed research is likely to shed
+greater light on this issue.
+In contrast, post-chiasmal visual field loss demonstrated significance for higher prevalence associated with moderate to severe
+traumatic brain injury (39.8%) compared with mild traumatic brain
+injury (6.6). This observation is consistent with previous research
+showing that more severe forms of traumatic brain injury, particularly with distributed cerebral pathology involving the occipital
+lobe, optic radiations, or optic tract, lead to higher rates of postchiasmal visual field loss.57,71
+When the prevalence of visual acuity loss (legal blindness equal
+to or worse than 20/200) was stratified by the severity of traumatic
+brain injury, no cases were reported in mild traumatic brain injury
+
+patients compared with 3.2% in moderate to severe traumatic
+brain injury, but these data need to be interpreted with caution because only one reference with moderate to severe traumatic brain
+injury was found. Although disparate visual acuity categorization
+presented in the existing literature precluded a comparison of visual acuity at less severe levels in the current study, one study
+did report infrequent moderate visual acuity loss (worse than 20/
+100) in Polytrauma Network Site outpatients (1.6%) compared
+with Polytrauma Rehabilitation Center inpatients (12.7%).4
+
+Other Moderating Variables and Their Relationship
+with Visual Outcome Prevalence
+In addition to traumatic brain injury severity, the studies were
+evaluated on the association of the prevalence rates with risk of bias,
+diagnostic criteria, and study design (prospective vs. retrospective).
+Methodological risk of bias was used not only to assess the literature
+at large but also to determine if biased studies impacted reported
+
+FIGURE 5. Forest plot of visual acuity loss (at the level of legal blindness) prevalence in traumatic brain injury patients. The x axis is truncated for clarity.
+All other conventions as in Fig. 2.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(8)
+
+551
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+FIGURE 6. Forest plot of visual field loss prevalence in moderate-to-severe TBI compared with mild TBI. All other conventions as in Fig. 2. TBI = traumatic brain injury.
+
+prevalence rates in a meaningful way. Criteria validated by Hoy
+et al.34 were used to appraise the studies on the recruited sample
+population, the types of recruitment used, study instruments and
+measurement validation, and statistical approach. The general population was represented at higher rates (63%) than service members
+and/or veterans (37%), which decreased the bias of recruited samples. The studies used for the analysis had either low or medium risk
+of bias, with overall risk of bias in the low category (mean, 3.18/10).
+Most studies used validated screening/diagnostic criteria for
+both traumatic brain injury and visual outcome assessment (although some were not transparent about the tools used), and all
+used appropriate statistical procedures. The screening/diagnostic
+criteria for the visual dysfunctions varied significantly between different studies. Despite this variability, we did not observe an association between the screening/diagnostic methodology and the
+prevalence rates for all four visual outcomes. No association was
+observed between the type of study (prospective vs. retrospective)
+and the prevalence rates.
+
+Traumatic Brain Injury Resulting from Blast versus
+Nonblast Events
+Prevalence rates for the four studied visual outcomes may depend on the mechanism by which the brain injury was acquired.
+Of particular interest is whether head injuries resulting from an explosive blast event (i.e., due to the blast overpressure wave and/or
+head injury secondary to events of the blast) were related to differential visual dysfunction rates when compared with head injuries
+resulting from nonblast events (e.g., sports-related trauma, falls,
+and motor vehicle accidents). Several of the included publications
+provided descriptions of the type(s) of injuring event that resulted
+in traumatic brain injury (Table 2). Although the data for these parameters are very limited, our study did not show that the prevalence
+www.optvissci.com
+
+for the four visual outcomes is different in blast versus nonblast traumatic brain injury events.
+Trauma secondary to direct, blunt, or penetrating injury to the
+brain, as well as damage resulting from brain displacement (e.g.,
+coup-contrecoup injury), can occur both in explosive blast or
+nonblast scenarios.
+Animal studies, computational analyses, and human brain pathology research have been used to examine whether the physical impact
+of the blast overpressure wave, the only component unique to blast,
+produces specific brain injuries separate from other traumatic brain
+injury mechanisms of injury.53,72–77 In recent work, Tagge et al.73
+compared the effects of the blast overpressure wave with direct head
+impacts using computational simulation. This research showed that
+direct impact generated high-pressure force loading onto a focused
+contact area, whereas blast wave impact caused distributed, lowermagnitude force loading. Direct impact produced sevenfold greater
+peak shear stress to the brain as compared with the blast wave.
+Therefore, any effects due purely to blast overpressure on the visual
+system are likely to be subtle and may be obscured by the more powerful effects of direct impact during the same blast event.
+Indeed, Capó-Aponte et al.78 studied the isolated effects of
+blast overpressure in Marine Corps “breachers” who encounter repetitive subconcussive blast exposure as part of their training. Although the results were suggestive of detrimental effects of the
+low-level repetitive blast on corneal endothelial cell count, near
+vertical phoria, and visual field sensitivity, all test results in the experimental group were within or only slightly lower than normative
+value ranges. No differences were found in convergence, accommodation, or visual acuity measures.
+Nevertheless, it should be acknowledged that, although the current study and others did not detect a difference between blast and
+nonblast events in visual symptoms measures, recent publications
+suggest that blast events may evoke specific cellular and molecular
+
+Optom Vis Sci 2019; Vol 96(8)
+
+552
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+effects in brain tissue. Shively et al.72 described a distinct pattern
+of interface astroglial scarring in tissues adjacent to cerebrospinal
+fluid at junctions between gray and white matter and around blood
+vessels in brain specimens from military service members who
+experienced blast exposure. Comparable glial deposition patterns were not observed in brain specimens from individuals
+with a history of impact (i.e., nonblast) and traumatic brain injury or control cases with no history of traumatic brain injury. Future
+research is needed to establish whether these neuropathological
+findings are associated with specific short- and/or long-term
+clinical manifestations.
+It should also be noted that little is known about the visual complications that arise from the other possible mechanisms of traumatic brain injury (e.g., falls and assaults), as stratification by the
+mechanism of injury in the literature is rare (however, see Alvarez
+et al.,35 who did stratify visual outcomes by specific etiology including motor vehicle accidents, falls, and sports injuries).
+
+Persistence of Visual Dysfunctions Secondary to
+Traumatic Brain Injury
+There is also conjecture in the field of vision science regarding
+the persistence of visual dysfunctions after an individual sustains
+a traumatic brain injury. Studies assessing a traumatic brain injury
+patient's visual status at numerous time points during recovery are
+infrequent and use subjective visual symptom data rather than administering comprehensive eye examinations.79,80 Despite the
+lack of optimal evidence, a small number of publications, which
+are included in the analyses previously, address the extent to which
+visual outcomes are diagnosed in the long-term (i.e., chronic)
+phase. Capó-Aponte et al.7 compared three cohorts whose constituents received diagnostic eye examinations at different periods
+(i.e., ≤45 days, between 46 and 365 days, or >365 days) after
+their traumatic brain injury. Although the small number of studies
+did not allow for the generalization of the conclusion, this study
+found no difference in the prevalence of accommodative dysfunction, convergence insufficiency, and visual field loss between the
+three groups. In addition, Kowal81 documented the prevalence of
+accommodative dysfunction (16%) and convergence insufficiency
+(14%) in 161 patients shortly after head injury. Most patients with
+accommodation and convergence issues were followed up for more
+than 1 year, and at least 58 and 35% of these patients, respectively, experienced persisting symptoms. Despite the paucity of evidence explicitly addressing the prevalence of visual outcomes in
+the chronic versus acute phase of traumatic brain injury recovery,
+it is evident that traumatic visual dysfunctions can and do persist
+in a substantial proportion of traumatic brain injury patients past
+1 year after the injuring event.
+
+Limitations
+The nature of meta-analyses requires the combination of data
+collected from various locations, sources, and authors. There are,
+therefore, inherent limitations that should be acknowledged. A
+primary limitation of the current study is the extent of statistical
+heterogeneity in the data for accommodative dysfunction, convergence insufficiency, and visual field loss. Each of these combined prevalence estimates (Figs. 2 to 5) was associated with a
+significantly high I2 statistic (each >90%). To further account
+for some of the reported heterogeneity, univariate metaregression
+analyses were performed.
+www.optvissci.com
+
+Limitations were apparent in the traumatic brain injury severity
+analysis; it was common that either publications did not report the
+severity of traumatic brain injury, or the patient sample was populated with individuals who sustained varying degrees of traumatic
+brain injury. The traumatic brain injury severity analysis was further
+complicated by the diagnosis of “concussion” in several publications,44,50 which lacks the same accepted severity distinctions
+used in traumatic brain injury and is often but not always82,83
+deemed synonymous with mild traumatic brain injury. For these
+reasons, many publications were excluded from metaregression
+analyses, which reduced the power and generalizability of subsequent conclusions. Similar challenges restricted the utility of the
+screening/diagnostic testing criteria moderator.
+Categorization of disparate approaches into logical categories
+was exceedingly difficult; for example, testing criteria in a distinct
+category necessarily overlapped with those of neighboring categories.
+This problem is magnified by some studies not providing sufficient
+methodological detail for their testing criteria. Additional attempts
+were made to account for differences between studies based on age
+of participants, sex ratio, target population, geographic location, and
+year of study, but these factors largely failed to explain variability
+among visual outcome prevalence estimates (data not shown). The
+metaregression analyses suggest that no single factor was responsible
+for the observed statistical heterogeneity.
+
+Recommendations
+Traumatic brain injury is a time-related process involving injury,
+short-term change, and longer-term recovery, which can persist
+chronically, all processes that are not well understood. A carefully
+constructed prospective trial with a large sample and consistent
+evaluation techniques would have a tremendous impact on the
+field and would address the various limitations outlined previously.
+An ideal trial would recruit unbiased samples of consecutive patients from hospitals, emergency departments, military treatment facilities, and/or Veterans Affairs; record demographic
+characteristics (e.g., age, sex, and occupation) and injury specifics (e.g., etiology, severity, comorbid conditions such as eye
+injuries, and imaging results); would require complete examinations from eye care providers within a restricted time after injury
+and additional follow-up, regardless of overt visual symptoms;
+would mandate application of consistent diagnostic testing
+criteria for each visual outcome; and would maintain detailed records of dosage, use, and compliance information for prescribed
+drugs, devices, or interventions. Furthermore, to better understand chronicity, recovery, and management outcomes, this
+study should be extended to incorporate a natural history design
+over a longitudinal timeline.
+The current study clearly shows that traumatic brain injury
+damages the visual system in many ways and that, because visual
+acuity is often unaffected, these visual outcomes are frequently
+undetected. Therefore, all service members, veterans, and/or civilians who have experienced a traumatic brain injury should seek
+(or be referred to) an eye care provider for a comprehensive eye examination as specified by the Veterans Health Administration Notice 2017-3584 and the Vision Center of Excellence Clinical
+Recommendations for the Eye Care Provider. Further detail regarding the detection and management of traumatic brain injury–
+associated visual dysfunctions is available in the Department of
+Defense– and Veterans Affairs–approved Vision Center of Excellence clinical recommendations.85–87
+
+Optom Vis Sci 2019; Vol 96(8)
+
+553
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+
+ARTICLE INFORMATION
+Supplemental Digital Content: The Appendix, available at
+http://links.lww.com/OPX/A408, demonstrates the search
+strategy used for searching the databases PubMed,
+EMBASE, EBSCO, and Cochrane Library to identify candidate literature articles for this meta-analysis.
+Submitted: May 1, 2018
+Accepted: May 4, 2019
+Funding/Support: The Vision Center of Excellence.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest.
+Author Contributions and Acknowledgments: Conceptualization:
+FMB; Data Curation: RKM, DWB, KM; Formal Analysis:
+RKM, DP; Funding Acquisition: FMB; Investigation: NM,
+RKM, DWB, KM, FMB; Methodology: NM, RKM, DWB,
+KM, FMB; Project Administration: FMB; Resources: NM,
+RKM, DWB, KM; Software: DP; Supervision: NM, RKM,
+FMB; Validation: NM, RKM, DP, DWB, KM, FMB;
+Visualization: RKM, DWB; Writing – Original Draft: DWB;
+Writing – Review & Editing: NM, RKM, DP, FMB.
+The views expressed in this article reflect the results of
+research conducted by the authors and do not
+necessarily reflect the official policy or position of the
+Defense Health Agency, Department of Defense,
+Department of Veterans Affairs, or the U.S. government.
+
+REFERENCES
+1. Menon DK, Schwab K, Wright DW, et al. Position
+Statement: Definition of Traumatic Brain Injury. Arch
+Phys Med Rehabil 2010;91:1637–40.
+2. Taylor CA, Bell JM, Breiding MJ, et al. Traumatic
+Brain Injury–related Emergency Department Visits, Hospitalizations, and Deaths—United States, 2007 and
+2013. MMWR Surveill Summ 2017;66:1–16.
+3. Department of Defense (DoD). Worldwide Numbers
+for TBI. Defense and Veterans Brain Injury Center;
+2017. Available at: http://dvbic.dcoe.mil/files/tbinumbers/worldwide-totals-2000-2017_feb-14-2018_
+v1.0_2018-03-08.pdf. Accessed April 20, 2018.
+
+the Veteran Population. Department of Veterans Affairs,
+VHA Office of Patient Care Services, Technology Assessment Program 2009. Available at: https://www.va.gov/
+OPTOMETRY/docs/VISTBI-Vision-tbi-final-report-9-09.pdf.
+Accessed April 2018.
+11. Cooper J, Jamal N. Convergence Insufficiency—A
+Major Review. Optometry 2012;83:137–58.
+12. Hunt AW, Mah K, Reed N, et al. Oculomotor-based
+Vision Assessment in Mild Traumatic Brain Injury: A Systematic Review. J Head Trauma Rehabil 2016;31:252–61.
+13. Kapoor N, Ciuffreda KJ. Vision Disturbances Following Traumatic Brain Injury. Curr Treat Options Neurol
+2002;4:271–80.
+14. O'Neil M, Gleitsmann K, Motu'apuaka M, et al. Visual
+Dysfunction in Patients with Traumatic Brain Injury: A Systematic Review. VA Evidence-based Synthesis Program
+Reports. Washington, DC: U.S. Department of Veterans
+Affairs; 2014.
+15. Schlageter K, Gray B, Hall K, et al. Incidence and
+Treatment of Visual Dysfunction in Traumatic Brain Injury. Brain Inj 1993;7:439–48.
+16. Thiagarajan P, Ciuffreda KJ, Ludlam DP. Vergence
+Dysfunction in Mild Traumatic Brain Injury (MTBI): A
+Review. Ophthalmic Physiol Opt 2011;31:456–68.
+17. Barker F, Ciuffreda K, Jacobs R, et al. Development of Traumatic Brain Injury Detection Using Oculomotor and Eye Movement Tracking. Ft. Detrick, MD:
+Non-Invasive Neurologic Device Integrated Product
+Team, U.S. Army Medical Research and Materiel
+Command; 2013.
+18. Social Security Administration. If You're Blind or
+Have Low Vision—How We Can Help. Social Security
+Administration; 2018. Available at: https://www.ssa.
+gov/pubs/EN-05-10052.pdf. Accessed April 20, 2018.
+19. Ciuffreda KJ, Rutner D, Kapoor N, et al. Vision
+Therapy for Oculomotor Dysfunctions in Acquired
+Brain Injury: A Retrospective Analysis. Optometry 2008;
+79:18–22.
+20. Lemke S, Cockerham GC, Glynn-Milley C, et al.
+Visual Quality of Life in Veterans with Blast-induced
+Traumatic Brain Injury. JAMA Ophthalmol 2013;131:
+1602–9.
+
+4. Brahm KD, Wilgenburg HM, Kirby J, et al. Visual Impairment and Dysfunction in Combat-injured Service
+members with Traumatic Brain Injury. Optom Vis Sci
+2009;86:817–25.
+
+21. Uzzell BP, Obrist WD, Dolinskas CA, et al. Relation
+of Visual Field Defects to Neuropsychological Outcome
+after Closed Head Injury. Acta Neurochir 1987;86:
+18–24.
+
+5. Goodrich GL, Kirby J, Cockerham G, et al. Visual
+Function in Patients of a Polytrauma Rehabilitation Center: A Descriptive Study. J Rehabil Res Dev 2007;44:
+929–36.
+
+22. Clopper CJ, Pearson ES. The Use of Confidence or
+Fiducial Limits Illustrated in the Case of the Binomial.
+Biometrika 1934;26:404–13.
+
+6. Lew HL, Poole JH, Vanderploeg RD, et al. Program
+Development and Defining Characteristics of Returning
+Military in a VA Polytrauma Network Site. J Rehabil
+Res Dev 2007;44:1027–34.
+7. Capó-Aponte JE, Jorgensen-Wagers KL, Sosa JA,
+et al. Visual Dysfunctions at Different Stages after Blast
+and Non-blast Mild Traumatic Brain Injury. Optom Vis
+Sci 2017;94:7–15.
+8. Stelmack JA, Frith T, Van Koevering D, et al. Visual
+Function in Patients Followed at a Veterans Affairs
+Polytrauma Network Site: An Electronic Medical Record
+Review. Optometry 2009;80:419–24.
+9. Goodrich GL, Flyg HM, Kirby JE, et al. Mechanisms of
+TBI and Visual Consequences in Military and Veteran
+Populations. Optom Vis Sci 2013;90:105–12.
+10. Adams E. Visual Problems in Traumatic Brain Injury:
+A Systematic Review of Sequelae and Interventions for
+
+www.optvissci.com
+
+23. R: A Language and Environment for Statistical Computing: Release 2012 [Computer Program]. Vienna,
+Austria: R Foundation for Statistical Computing; 2012.
+Available at: http://www.R-project.org/. Accessed April
+20, 2018.
+
+28. DerSimonian R, Laird N. Meta-analysis in Clinical
+Trials. Control Clin Trials 1986;7:177–88.
+29. Thompson SG, Sharp SJ. Explaining Heterogeneity
+in Meta-analysis: A Comparison of Methods. Stat Med
+1999;18:2693–708.
+30. Schünemann H, Brożek J, Guyatt G, et al. The Grade
+Handbook. London, UK: Cochrane Collaboration; 2013.
+Available at: http://gdt.guidelinedevelopment.org/app/
+handbook/handbook.html. Accessed June 5, 2019.
+31. Huedo-Medina TB, Sanchez-Meca J, MarinMartinez F, et al. Assessing Heterogeneity in Metaanalysis: Q Statistic or I2 Index? Psychol Methods
+2006;11:193–206.
+32. Lau J, Schmid CH, Chalmers TC. Cumulative Metaanalysis of Clinical Trials Builds Evidence for Exemplary
+Medical Care. J Clin Epidemiol 1995;48:45–57.
+33. Treadwell JR, Tregear SJ, Reston JT, et al. A System
+for Rating the Stability and Strength of Medical Evidence. BMC Med Res Methodol 2006;6:52.
+34. Hoy D, Brooks P, Woolf A, et al. Assessing Risk of
+Bias in Prevalence Studies: Modification of an Existing
+Tool and Evidence of Interrater Agreement. J Clin
+Epidemiol 2012;65:934–9.
+35. Alvarez TL, Kim EH, Vicci VR, et al. Concurrent
+Vision Dysfunctions in Convergence Insufficiency
+with Traumatic Brain Injury. Optom Vis Sci 2012;89:
+1740–51.
+36. Bulson R, Jun W, Hayes J. Visual Symptomatology
+and Referral Patterns for Operation Iraqi Freedom and
+Operation Enduring Freedom Veterans with Traumatic
+Brain Injury. J Rehabil Res Dev 2012;49:1075–82.
+37. Capó-Aponte JE, Urosevich TG, Temme LA, et al. Visual Dysfunctions and Symptoms During the Subacute
+Stage of Blast-induced Mild Traumatic Brain Injury.
+Mil Med 2012;177:804–13.
+38. Ciuffreda KJ, Kapoor N, Rutner D, et al. Occurrence
+of Oculomotor Dysfunctions in Acquired Brain Injury:
+A Retrospective Analysis. Optometry 2007;78:155–61.
+39. Cohen M, Groswasser Z, Barchadski R, et al. Convergence Insufficiency in Brain-injured Patients. Brain Inj
+1989;3:187–91.
+40. Hellerstein LF, Freed S, Maples WC. Vision Profile of
+Patients with Mild Brain Injury. J Am Optom Assoc
+1995;66:634–9.
+41. Jackowski MM, Sturr JF, Taub HA, et al. Photophobia in Patients with Traumatic Brain Injury: Uses of
+Light-filtering Lenses to Enhance Contrast Sensitivity
+and Reading Rate. NeuroRehabilitation 1996;6:
+193–201.
+42. Lemke S, Cockerham GC, Glynn-Milley C, et al. Automated Perimetry and Visual Dysfunction in Blastrelated Traumatic Brain Injury. Ophthalmology 2016;
+123:415–24.
+
+24. Schwarzer G, Carpenter JR, Rücker G. Metaanalysis with R. Switzerland: Springer International
+Publishing; 2015.
+
+43. Magone MT, Kwon E, Shin SY. Chronic Visual Dysfunction after Blast-induced Mild Traumatic Brain Injury. J Rehabil Res Dev 2014;51:71–80.
+
+25. Freeman MF, Tukey JW. Transformations Related to
+the Angular and the Square Root. Ann Math Stat 1950;
+21:607–11.
+
+44. Master CL, Scheiman M, Gallaway M, et al. Vision
+Diagnoses Are Common after Concussion in Adolescents. Clin Pediatr 2016;55:260–7.
+
+26. Barendregt JJ, Doi SA, Lee YY, et al. Meta-analysis
+of Prevalence. J Epidemiol Community Health 2013;
+67:974–8.
+
+45. Padula WV, Argyris S, Ray J. Visual Evoked Potentials (VEP) Evaluating Treatment for Post-trauma Vision
+Syndrome (PTVS) in Patients with Traumatic Brain Injuries (TBI). Brain Inj 1994;8:125–33.
+
+27. Sankey SS, Weissfeld LA, Fine MJ, et al. An Assessment of the Use of the Continuity Correction for Sparse
+Data in Meta-analysis. Commun Stat Simul Comput
+1996;25:1031–56.
+
+Optom Vis Sci 2019; Vol 96(8)
+
+46. Poggi G, Calori G, Mancarella G, et al. Visual Disorders after Traumatic Brain Injury in Developmental Age.
+Brain Inj 2000;14:833–45.
+
+554
+
+Visual Dysfunctions in TBI — Merezhinskaya et al.
+47. Sabates NR, Gonce MA, Farris BK. Neuroophthalmological Findings in Closed Head Trauma.
+J Clin Neuroophthalmol 1991;11:273–7.
+48. Schrupp LE, Ciuffreda KJ, Kapoor N. Foveal versus
+Eccentric Retinal Critical Flicker Frequency in Mild
+Traumatic Brain Injury. Optometry 2009;80:642–50.
+49. Shokunbi T, Agbeja A. Ocular Complications of
+Head Injury in Children. Child Nerv Syst 1991;7:147–9.
+50. Storey EP, Master SR, Lockyer JE, et al. Near Point
+of Convergence after Concussion in Children. Optom Vis
+Sci 2017;94:96–100.
+51. Suchoff IB, Kapoor N, Ciuffreda KJ, et al. The Frequency of Occurrence, Types, and Characteristics of
+Visual Field Defects in Acquired Brain Injury: A Retrospective Analysis. Optometry 2008;79:259–65.
+52. Van Stavern GP, Biousse V, Lynn MJ, et al.
+Neuro-ophthalmic Manifestations of Head Trauma.
+J Neuroophthalmol 2001;21:112–7.
+53. McKee AC, Cairns NJ, Dickson DW, et al. The First
+NINDS/NIBIB Consensus Meeting to Define Neuropathological Criteria for the Diagnosis of Chronic Traumatic
+Encephalopathy. Acta Neuropathol 2016;131:75–86.
+54. Moher D, Liberati A, Tetzlaff J, et al. Preferred
+Reporting Items for Systematic Reviews and Metaanalyses: The PRISMA Statement. PLoS Med 2009;
+6:e1000097.
+
+in Tamil Nadu: Report 2 of Band Study. Clin Exp Optom
+2017;100:642–8.
+64. Davis AL, Harvey EM, Twelker JD, et al. Convergence Insufficiency, Accommodative Insufficiency, Visual Symptoms, and Astigmatism in Tohono O'odham
+Students. J Ophthalmol 2016;2016:6963976.
+65. Scheiman M, Gallaway M, Frantz KA, et al.
+Nearpoint of Convergence: Test Procedure, Target Selection, and Normative Data. Optom Vis Sci 2003;80:
+214–25.
+66. Rouse MW, Borsting E, Hyman L, et al. Frequency of
+Convergence Insufficiency among Fifth and Sixth
+Graders. The Convergence Insufficiency and Reading
+Study (CIRS) Group. Optom Vis Sci 1999;76:643–9.
+67. Wajuihian SO, Hansraj R. Vergence Anomalies in a
+Sample of High School Students in South Africa.
+J Optom 2016;9:246–57.
+68. Ramrattan RS, Wolfs RC, Panda-Jonas S, et al. Prevalence and Causes of Visual Field Loss in the Elderly and
+Associations with Impairment in Daily Functioning:
+The Rotterdam Study. Arch Ophthalmol 2001;119:
+1788–94.
+69. Bourne RR, Jonas JB, Flaxman SR, et al. Prevalence
+and Causes of Vision Loss in High-income Countries and
+in Eastern and Central Europe: 1990–2010. Br J
+Ophthalmol 2014;98:629–38.
+
+55. Green W, Ciuffreda KJ, Thiagarajan P, et al. Accommodation in Mild Traumatic Brain Injury. J Rehabil Res
+Dev 2010;47:183–99.
+
+70. Vijaya L, George R, Asokan R, et al. Prevalence and
+Causes of Low Vision and Blindness in an Urban Population: The Chennai Glaucoma Study. Indian J Ophthalmol
+2014;62:477–81.
+
+56. Barnett BP, Singman EL. Vision Concerns after Mild
+Traumatic Brain Injury. Curr Treat Options Neurol 2015;
+17:329.
+
+71. Zhang X, Kedar S, Lynn MJ, et al. Homonymous
+Hemianopias: Clinical-anatomic Correlations in 904
+Cases. Neurology 2006;66:906–10.
+
+57. Bruce BB, Zhang X, Kedar S, et al. Traumatic Homonymous Hemianopia. J Neurol Neurosurg Psychiatry
+2006;77:986–8.
+
+72. Shively SB, Horkayne-Szakaly I, Jones RV, et al.
+Characterisation of Interface Astroglial Scarring in the
+Human Brain after Blast Exposure: A Post-mortem Case
+Series. Lancet Neurol 2016;15:944–53.
+
+58. Atkins EJ, Newman NJ, Biousse V. Post-traumatic
+Visual Loss. Rev Neurol Dis 2008;5:73–81.
+59. Cockerham GC, Lemke S, Rice TA, et al. Closedglobe Injuries of the Ocular Surface Associated with
+Combat Blast Exposure. Ophthalmology 2014;121:
+2165–72.
+60. Dougherty AL, MacGregor AJ, Han PP, et al. Visual
+Dysfunction Following Blast-related Traumatic Brain Injury from the Battlefield. Brain Inj 2011;25:8–13.
+61. Hokoda SC. General Binocular Dysfunctions in an
+Urban Optometry Clinic. J Am Optom Assoc 1985;56:
+560–2.
+62. Porcar E, Martinez-Palomera A. Prevalence of General Binocular Dysfunctions in a Population of University
+Students. Optom Vis Sci 1997;74:111–3.
+63. Hussaindeen JR, Rakshit A, Singh NK, et al. Prevalence of Non-strabismic Anomalies of Binocular Vision
+
+www.optvissci.com
+
+73. Tagge CA, Fisher AM, Minaeva OV, et al. Concussion, Microvascular Injury, and Early Tauopathy in
+Young Athletes after Impact Head Injury and an Impact
+Concussion Mouse Model. Brain 2018;141:422–58.
+74. Goldstein LE, Fisher AM, Tagge CA, et al. Chronic
+Traumatic Encephalopathy in Blast-exposed Military
+Veterans and a Blast Neurotrauma Mouse Model.
+Sci Transl Med 2012;4:134ra60.
+75. Bricker-Anthony C, Hines-Beard J, Rex TS. Eyedirected Overpressure Airwave-induced Trauma Causes
+Lasting Damage to the Anterior and Posterior Globe:
+A Model for Testing Cell-based Therapies. J Ocul
+Pharmacol Ther 2016;32:286–95.
+76. Guley NH, Rogers JT, Del Mar NA, et al. A Novel
+Closed-head Model of Mild Traumatic Brain Injury Using
+Focal Primary Overpressure Blast to the Cranium in
+Mice. J Neurotrauma 2016;33:403–22.
+
+Optom Vis Sci 2019; Vol 96(8)
+
+77. Rossi T, Boccassini B, Esposito L, et al. Primary
+Blast Injury to the Eye and Orbit: Finite Element Modeling. Invest Ophthalmol Vis Sci 2012;53:8057–66.
+78. Capó-Aponte JE, Jurek GM, Walsh DV, et al. Effects
+of Repetitive Low-level Blast Exposure on Visual System
+and Ocular Structures. J Rehabil Res Dev 2015;52:
+273–90.
+79. Yeates KO, Taylor HG, Rusin J, et al. Longitudinal
+Trajectories of Postconcussive Symptoms in Children
+with Mild Traumatic Brain Injuries and Their Relationship to Acute Clinical Status. Pediatrics 2009;123:
+735–43.
+80. Andersson EE, Bedics BK, Falkmer T. Mild Traumatic Brain Injuries: A 10-year Follow-up. J Rehabil
+Med 2011;43:323–9.
+81. Kowal L. Ophthalmic Manifestations of Head Injury.
+Aust N Z J Ophthalmol 1992;20:35–40.
+82. McCrory P, Meeuwisse WH, Aubry M, et al. Consensus Statement on Concussion in Sport: The 4th International Conference on Concussion in Sport Held in
+Zurich, November 2012. Br J Sports Med 2013;47:
+250–8.
+83. Sharp DJ, Jenkins PO. Concussion Is Confusing Us
+All. Pract Neurol 2015;15:172–86.
+84. Department of Veterans Affairs. VHA Notice 2017-35:
+Rescission of VHA Directive 2008-065, Performance of
+Traumatic Brain Injury Specific Ocular Health and Visual
+Functioning Examinations for Polytrauma Rehabilitation
+Center Patients. Department of Veterans Affairs; 2017.
+Available at: https://www.va.gov/OPTOMETRY/docs/VHA_
+Notice_2017-35_Recission_of_VHA_Directive_2008065.pdf. Accessed April 20, 2018.
+85. Vision Center of Excellence. Clinical Recommendations for the Eye Care Provider: Eye and Vision Care Following Blast Exposure and/or Possible Traumatic Brain
+Injury. DoD/VA; 2015. Available at: https://vce.health.
+mil/Resources/Products/Additional-Resources/TBI-CRPhoto. Accessed April 20, 2018.
+86. Vision Center of Excellence. Clinical Recommendation for the Eye Care Provider: Assessment and Management of Oculomotor Dysfunctions Associated with
+Traumatic Brain Injury. DoD/VA. Available at: https://
+vce.health.mil/~/media/Files/VCE/Products/Clinical%
+20 Rec om menda ti ons/Oc ul om ot or /VCE _OM S_
+OculomotorDysfunction-CR_13Dec2016_revert.ashx.
+Accessed January 30, 2019.
+87. Vision Center of Excellence. Clinical Recommendation for the Eye Care Provider and Rehabilitation Specialists. Rehabilitation of Patients with Visual Field
+Loss Associated with Traumatic or Acquired Brain Injury. DoD/VA; 2016. Available at: https://vce.health.
+mil/~/media/Files/VCE/Products/Clinical%
+20Recommendations/VFL/VCE_OMS_VisualFieldLoss
+%20CR.ashx. Accessed April 20, 2018.
+
+555
+
+

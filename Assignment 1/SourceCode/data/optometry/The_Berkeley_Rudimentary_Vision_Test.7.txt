@@ -1,0 +1,669 @@
+1040-5488/12/8909-1257/0 VOL. 89, NO. 9, PP. 1257–1264
+OPTOMETRY AND VISION SCIENCE
+Copyright © 2012 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+The Berkeley Rudimentary Vision Test
+Ian L. Bailey*, A. Jonathan Jackson†, Hasan Minto‡, Robert B. Greer‡, and Marlena A. Chu§
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+ABSTRACT
+Purpose. Very poor visual acuity often cannot be measured with letter charts even at close viewing distances. The
+Berkeley Rudimentary Vision Test (BRVT) was developed as a simple test to extend the range of visual acuity measurement beyond the limits of letter charts by systematically simplifying the visual task and using close viewing distances to
+achieve large angular sizes. The test has three pairs of hinged cards, 25 cm square. One card-pair has four Single
+Tumbling E (STE) optotypes at sizes 100 M, 63 M, 40 M, and 25 M. Another card-pair has four Grating Acuity (GA) targets
+at sizes 200 M, 125 M, 80 M, and 50 M. The third card-pair has a test of White Field Projection (WFP) and a test of Black
+White Discrimination (BWD). As a demonstration of feasibility, a population of subjects with severe visual impairment
+was tested with the BRVT.
+Methods. Adults with severe visual impairments from a wide variety of causes were recruited from three different
+rehabilitation programs. Vision measurements were made on 54 eyes from 37 subjects; test administration times were
+measured.
+Results. For this population, letter chart visual acuity could be measured on 24 eyes. Measurements of visual acuity for
+STE targets were made for 18 eyes and with GA targets, for two eyes. Five eyes had WFP, and one had BWD. Four had
+light perception only. The median testing time with the BRVT was 2.5 min.
+Discussion. The BRVT extends the range of visual acuity up to logMAR ⫽ 2.60 (20/8000) for STEs, to logMAR ⫽ 2.90
+(20/16,000) for gratings and includes the WFP and BWD tests.
+Conclusions. The BRVT is a simple and efficient test of spatial vision that, with 13 increments, extends the range of
+measurement from the limits of the letter chart up to light perception.
+(Optom Vis Sci 2012;89:1257–1264)
+Key Words: visual acuity, low vision, severe visual impairment, clinical tests, visual task complexity
+
+T
+
+he clinical measurement of visual acuity has been made traditionally with a “Snellen chart”1 of optotypes, usually letters, presented at a standard distance (commonly 6 meters
+or 20 feet) with the patient’s task being to recognize the letters as
+they read down the chart from large letters to small. When the
+visual acuity is so poor that the largest optotypes cannot be named,
+generally the clinician brings the chart closer to the patient, but
+rarely closer than 1 meter. If the largest optotype cannot be read at
+the close distance, testing visual acuity with optotypes is abandoned and the usual practice is for the clinician to next ask the
+patient to count the fingers on a hand held at a close distance. If the
+fingers cannot be counted, the next step is to determine whether
+
+*OD, MS, FAAO
+†
+PhD, MCOptom, FAAO
+‡
+OD, FAAO
+§
+OD
+School of Optometry, University of California, Berkeley, Berkeley, California,
+(ILB, RBG, MAC), Australian College of Optometrists, Melbourne, Victoria, Australia (AJJ), Royal Victoria Hospital, Belfast, Northern Ireland (AJJ), and International Center for Eyecare Education, Islamabad, Pakistan (HM).
+
+the patient can identify when the clinician’s hand is moving. The
+procedures for the “Count Fingers” (CF), and “Hand Motion”
+(HM) vision tests are not standardized.2 Viewing distances, the
+magnitude of HM, and the size of the target hand and its contrast
+with respect to the background are rarely mentioned or specified
+by clinicians. There is no well-organized or widely accepted process
+for extending the range of visual acuity measurement beyond the
+limit imposed by the size of the chart’s largest optotypes at the
+standard viewing distance. There is no “standard” closest distance
+for viewing the “Snellen Chart.” The Berkeley Rudimentary Vision Test was designed to provide a rational system for quantifying
+very poor levels of visual acuity (i.e., spatial vision) with methods
+that are simple and easy to apply in any clinical environment, using
+reasonably fine systematic increments down to the practical limits
+of spatial vision.
+Traditionally “Snellen Charts” have one or, sometimes, two
+optotypes of the largest size at the top of the charts, and as the
+optotypes progressively become smaller from one row to the next,
+there are more optotypes per row. The size progression sequence
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+1258
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+and the spacing between adjacent optotypes can vary significantly
+between charts. Bailey and Lovie (1976)3 introduced a set of principles for chart design that ensure that the visual task remains the
+same at each size level. This means that size remains the only
+significant variable from one size level to the next. Achieving this
+standardization of task requires a certain combination of chart
+design features. At each size level there must be the same number of
+optotypes; the spacings between optotypes and between rows are
+proportional to the size of the optotype; and the progression of size
+must follow a constant ratio. Care should be taken to ensure that
+there are no significant variations in the difficulty of the optotype
+sets at the different size levels. Also introduced with these chart
+design principles was the method of designating visual acuity
+scores in terms of logMAR, the common logarithm of the Minimum Angle of Resolution (MAR). Landolt rings, Tumbling Es,
+and most sets of letters that are used as optotypes are constructed so
+that the width of the stroke and the spacings between strokes is
+one-fifth of the letter height. The MAR is commonly taken to be
+the angular size of one-fifth of the height of the optotype and it is
+specified in minutes of arc. When the size progression proceeds in
+0.10 log unit steps (ratio ⫽ 1.26x) and there are 5 optotypes per
+row, then each letter can be assigned a value of 0.02 log units. This
+facilitates scoring methods that give extra credit for each additional
+optotype3– 6 that is recognized correctly.
+Early Treatment of Diabetic Retinopathy (ETDRS) charts7 follow the Bailey-Lovie design principles, and today, most research
+studies involving the measurement of visual acuity use the ETDRS
+chart. Following the recommendations of the NAS/NRC Committee on Vision, Working group 39,8 the ETDRS chart chose the
+family of 10 Sloan letters as its optotype and 4 meters as its standard testing distance. The Sloan letters are C, D, H, K, N, O, R, S,
+V, and Z drawn to specific dimensions.8,9 The ETDRS chart has
+rows of 5 letters, the spacing of letters within a row is equal to one
+letter height, the spacing between one row and the next is equal to
+the height of the letters in the smaller row, and the size progression
+ratio is equal to 0.1 log unit (⫽ 1.26x). The layout is centerjustified. There are 14 different sizes ranging from the largest size of
+40 M-units (58.2 mm) at the top of the chart down to the smallest
+size of 2.0 M-units (2.9 mm). At the recommended viewing distance of 4 meters, the visual acuity range is from logMAR 1.00 to
+⫺0.30 (20/200 to 20/10, 6/60 to 6/3, 4/40 to 4/2, 0.1 to 2.0).
+There are many different visual acuity charts that follow the same
+chart design principles but use different optotypes such as Landolt
+Rings, Tumbling Es, numbers, pictorial symbols, and characters
+and letters from different alphabets.
+The ETDRS chart has become the “gold standard.” The recommended protocol provides for shortening the viewing distance to 1
+meter when the largest row cannot be read at 4 meters.10 This
+extends the range of angular size by a factor of four-fold to logMAR ⫽ 1.60. The visual task on the ETDRS chart is to read across
+each row. The largest row and the smallest row on the chart differ
+from the other 12 rows in that they have only one neighboring row,
+and this makes the visual task easier. Thus, if an acuity score is to
+represent performance at a task that is the same at each size level,
+the patient should be able to read the top row on the chart and
+unable to read the bottom row, and then the visual acuity limit will
+lie within the embrace of the chart’s range of sizes.
+
+There are practical upper limits to the angular sizes of individual
+optotypes and rows of optotypes. Very large angular sizes require
+very large letters and/or very close viewing distances. At close viewing distances, positioning large charts is difficult, and the process
+can be claustrophobic and intimidating to the patient. At extremely large angular sizes, head movements or even changes in
+body posture can be required to shift attention from one end of the
+row to the other, or from one part of a target letter to another. To
+extend the range of visual acuity measurement beyond the limits of
+the letter chart, it becomes necessary to simplify the visual task, and
+to achieve very large angular sizes, very close viewing distances may
+be required.
+Several automated computer-based tests have been developed
+for the purpose of measuring acuity in patients with very low
+vision. Bach and his colleagues developed the Freiburg Visual Acuity and Contrast Test (FrACT),11 which is an efficient automated
+procedure using single optotypes and selectable psychophysical
+protocols for determining visual acuity thresholds. In its original
+form, the Landolt Ring was the optotype and subsequent versions
+of the test provide the option of using Tumbling Es or letters. The
+test also allows the determination of contrast sensitivity. Bittner
+and colleagues recently developed a Grating Acuity Test (GAT)
+and a Grating Contrast Sensitivity Test,12 with square wave gratings in a 37-cm circular field, with 4 orientation options. To test
+other functions of vision, Bach’s group developed the “Basic Assessment of Light and Motion test” (BaLM).13 The BaLM battery
+includes a test of basic light perception, requiring identification of
+whether the light display is turned on; a test of temporal resolution,
+requiring discrimination of double flash from a single flash; a location test, requiring the identification of the location of a large
+area of light; and a motion test, requiring identification of the
+direction of motion of a large structured pattern. These various
+automated tests have been developed for use in clinical trials, and
+they have important applications in studies involving prosthetic
+vision devices or in other studies concerned with changes in visual
+abilities in persons with severe visual impairment.
+
+THE BERKELEY RUDIMENTARY VISION TEST
+Our goal was to develop a simple method for testing visual
+resolution in patients with very poor vision. We wanted a test that
+could quickly provide reasonably precise measures of vision, and
+which could easily be used by non-technical support personnel in
+almost any setting without requiring power or technological display systems. The test should be an attractive and more quantitative alternative to the counting fingers and hand motion methods
+of categorizing visual ability once the clinician has abandoned the
+use of the letter chart. For such a test, it is necessary to systematically simplify the visual task and to use very close viewing distances
+when the visual resolution abilities become very poor. After considerable experimentation, the Berkeley Rudimentary Vision Test
+(BRVT) was developed.
+Within the BRVT, there is a three-level hierarchy of task complexity.14 Recognition of a single isolated optotype is a less complex visual task than reading across rows of letters on an ETDRS or
+similar chart.15,16 The Single Tumbling E (STE)was chosen as the
+single optotype for the BRVT because it is easy to administer
+regardless of the patient’s language or literacy skills. Only one
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+target is needed at each size and its orientation can easily be
+changed. The patient identifies whether the legs of the E point up,
+down, right, or left. Compared with the Landolt ring optotype, the
+Tumbling E presents a slightly more complex visual task, and it
+seems a more natural intermediate step between the letter chart
+task and a grating acuity (GA) task. For the recognition of a STE,
+localization of visual attention is required and the patient needs to
+identify both the orientation of the 3-bar grating component of the
+E as well as the location of the cross bar.
+The second step in the BRVT sequence of task simplification is to
+measure GA. Recognition of grating orientation is a simpler visual task
+than recognizing the orientation of a STE. For the grating task, fixation control and localization of the point of attention are relatively
+unimportant. The patient simply has to recognize that, somewhere
+within the display field, there is a periodic pattern with a discernible
+orientation. When the coarsest grating patterns cannot be recognized,
+even more basic tests of spatial vision are required.
+The third level of task complexity in the BRVT battery is a test
+of basic spatial vision function. It tests whether the patient can
+detect and localize large white fields and also determines whether
+the patient can tell whether a large display field is black or white.
+The Berkeley Rudimentary Vision Test consists of three card
+pairs. Each card-pair has two 25-cm square cards hinged together
+so that there are four panel faces for each of the three card-pairs.
+These are shown in Fig. 1.
+The STE card pair is used for measuring visual acuity with single
+optotypes. Each STE card-pair has 4 STEs whose sizes in M-units
+are 100 M, 63 M, 40 M and 25 M. (in millimeters, 145mm, 92
+mm, 58 mm, and 36 mm). The visual task is to identify the direction to which the legs of the E are pointing: up, down, right, or left.
+The STE cards are hinged so that when the 100 M and 25 M Es are
+on the outside faces, the intermediate 63 M and 40 M Es are on the
+inside faces. For these STE targets, the visual acuity demand, the
+MAR, is determined by the stroke widths (or the spacing between
+parallel strokes) in arc-minutes. For a viewing distance of 100 cm,
+the visual acuity demands for these 4 optotypes are, in logMAR
+terms, logMAR ⫽ 2.00, 1.80, 1.60, and 1.40 (equivalent to 20/
+
+1259
+
+2000, 20/1250, 20/800, and 20/500). For a viewing distance of 25
+cm, the angular sizes increase by 0.6 log units to become logMAR ⫽ 2.60, 2.40, 2.20, and 2.00 (equivalent to 20/8000, 20/
+5000, 20/3200, and 20/2000).
+The GA card-pair is used for measuring visual acuity with grating targets. The GA card-pair has 4 square-wave gratings of different spatial frequencies, and the gratings fill the area of the 25-cm
+square panels. The widths of the black and white stripes on the 4
+different graftings are 60, 38, 24, and 15 mm. Similar to the
+Tumbling E targets, the stripe widths of the gratings have been
+taken to represent the visual acuity demand. For a viewing distance
+of 25 cm, the visual acuity values of the four grating targets are
+logMAR ⫽ 2.90, 2.70, 2.50 and 2.30 (equivalent to 20/16,000,
+20/10,000, 20/6,300, and 20/4,000) The M-unit values given to
+the gratings are the distances in meters at which the stripe widths
+subtend 1 min of arc, and for these 4 gratings these are 200 M, 125
+M, 80 M, and 50 M. For a 25 cm viewing distance, the 25 cm
+square test cards subtend an angle of 53°. The patient’s task is to
+identify whether the stripes are oriented horizontally or vertically.
+The GA cards are hinged so that when the 200 M and 50 M
+gratings are on the outside faces, the intermediate 125 M and 80 M
+gratings are on the inside.
+The Basic Vision card-pair tests two different aspects of basic
+spatial vision. There is a test of spatial localization called White
+Field Projection (WFP). Two card faces are used for this test. One
+card is black with a white quadrant. The other card is divided into
+a black half and a white half. The visual task is to identify the
+location of the large white area. When presented at 25 cm, the
+quad-field subtends 26° ⫻ 26° and the hemi-field area is 26° ⫻
+53°. The other test of basic vision function is called Black White
+Discrimination (BWD). One of the two card faces is all black, the
+other all white. The patient’s task is to tell whether the card being
+presented is black or white. With the cards at 25 cm from the eye,
+the black and white fields of the BWD test subtend 53° ⫻ 53°. The
+Basic Vision card-pair is hinged so that when the quad-field and
+hemi-field panels for the WFP test are on the outside, the black and
+white panels for the BWD test are on the inside. The WFP and the
+
+FIGURE 1.
+The BRVT has three pairs of hinged cards that are 25 cm square.
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+1260
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+BWD tests of the Basic Vision card-pair are similar to the basic
+light perception test and the location test components of the computer-based BaLM test.13
+
+BRVT Testing Sequence
+The testing sequence with the BRVT is simple and intuitive.
+The sequence is shown in Fig. 2.
+Testing with the BRVT standard protocol begins with the STE
+card-pair at a viewing distance of 100 cm. The smallest STE (25
+M) is presented first.
+If the orientation of the 25 M STE can be readily recognized at
+100 cm, then it is likely that visual acuity will be measurable with
+an ETDRS chart or similar at 100 cm, given that the largest optotype size on the ETDRS chart (40 M) is larger than the 25 M STE.
+If the 25 M STE cannot be recognized at 100 cm, then the 100
+M STE is presented at 100 cm. If the 100 M STE can be recognized at 100 cm, then the visual acuity measurement can be completed at 100 cm with the STE card-pair. If the 100 M STE cannot
+be recognized at 100 cm, the visual acuity for STEs is less than
+logMAR ⫽ 2.0 (equivalent to 20/2000), then the viewing distance
+should be reduced to 25 cm. Because the cards are 25 cm square, it
+is convenient to use the card itself as a measuring stick to check that
+the eye-to-card distance is 25 cm. If the 100 M STE can be recognized at 25 cm, the visual acuity for STEs is at least logMAR ⫽
+2.60, (equivalent to 20/8,000), and the visual acuity determination
+can be completed with STEs. While the 25 cm viewing distance
+does create a ⫹4.00 D accommodation demand, it is not important that adjustments be made to the refractive correction. The
+visual acuity demand for the smallest STE target at 25 cm is logMAR ⫽ 2.0. Smith’s analyses17 of defocus and visual acuity indicate
+that ⫹4.00 D of error reduces visual acuity only to about logMAR ⫽
+1.20. If the 100 M STEs cannot be recognized at 25 cm, then testing
+with STEs is abandoned, and the GA card-pair is used next.
+The GA test begins with the largest grating (200 M) being
+presented at 25 cm. If the grating orientation can be recognized
+
+then the GA is at least logMAR ⫽ 2.90 (equivalent to 20/16,000),
+and GA can be measured using the finer grating targets. If the
+orientation of coarsest grating target (200 M) cannot be recognized
+at 25 cm, then visual acuity measurement is abandoned, and then
+the Basic Vision tests card-pair is used.
+The Basic Vision Tests are presented at a viewing distance of 25
+cm. For the WFP test, the quad-field card and the hemi-field card
+should each be shown at least once in each of the 4 card orientations. If the location of the white quad-field or hemi-field cannot
+be reliably identified, then the BWD test is administered. If the
+patient is unable to discriminate black from white with the BWD
+test, then a test of “Light Perception” is conducted using a penlight
+shone at the eye from a close distance.
+
+Number of Target Presentations
+Initially, there is a screening process in which the clinician
+makes a preliminary estimate of the patient’s spatial vision abilities.
+Following the sequence described earlier, two presentations are
+made with each acuity target (STE or Grating) that is used. Usually
+some targets will be very easy to see, and the patient gives quick and
+confident correct responses. Other targets may be far too difficult
+to see, and then the patient is likely to give a prompt response
+indicating that they think this task is impossible. This screening
+process provides a quick estimate of the visual threshold and indicates whether testing should proceed with the letter chart, the STE
+card-pair, the GA card-pair or the Basic Vision card-pair.
+Once an initial estimate has been made through the screening
+process, more target presentations are made with the target sizes
+concentrated in the region of the patient’s threshold. For the STE
+targets, at least four target presentations should be made at each
+size level, jumbling the order of the different target orientations.
+For four presentations, all four being correctly identified indicates
+that the target size is at, or larger than, the visual acuity threshold.
+For six or more presentations, a success rate ⬎50% meets this
+criterion. For the GA task, at least 6 target presentations should be
+
+FIGURE 2.
+The standard testing sequence for using the BRVT for screening to obtain an initial estimate of the patient’s visual abilities. The STE acuity is used at
+100 cm for the range STE logMAR ⫽ 1.40 to 2.00, and at 25 cm for STE logMAR ⫽ 2.00 to 2.60. The GA test is used at 25 cm for grating acuities in
+the range GA logMAR ⫽ 2.30 to 2.90. The WFP and the BWDB tests are presented at 25 cm.
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+made at each size. A 100% success rate for 6 presentations, or a
+success rate of 80% or better for 8 or more presentations indicate
+that the grating is at, or larger than, the visual acuity threshold. The
+reliability of the patient’s responses, the clinician’s strategy for
+determining threshold, and the precision being sought, all influence the number of additional presentations at the different levels
+of angular size. For the WFP test, at least one new presentation
+should be made at each of the four orientations for both the quadfield and hemi-field targets. For the BWD test at least 6 presentations should be made.
+
+TESTING VISUALLY IMPAIRED POPULATIONS
+WITH THE BRVT METHODS
+As a demonstration of the practicality of the BRVT, we tested the
+vision of 37 severely visually impaired subjects recruited from the
+California School for the Blind, the Orientation Center for the Blind,
+and the Lighthouse for the Blind and Visually Impaired in San Francisco. All subjects were adult volunteers who gave informed consent.
+The protocols for this study followed the tenets of the Declaration of
+Helsinki and were approved by the Committee for the Protection of
+Human Subjects of the University of California, Berkeley.
+Within their own visually impaired communities, all subjects were
+considered to have very poor vision. The 18 subjects from the California School for the Blind were all students and the mean age was
+19.8 ⫾ 1.1 years. The 9 subjects from the Orientation Center were all
+enrolled in the OCB’s residential rehabilitation program, and the average age was 41.9 ⫾ 15.6 years The 10 visually impaired subjects
+from the Lighthouse in San Francisco were either staff members or
+clients and the mean age was 40.2 ⫾ 14.9 years. Within each of the 3
+groups, there was a wide diversity in the causes of low vision. Optic
+nerve atrophy and congenital disorders were predominant in the CSB
+group. In the OCB group, the visual impairments were acquired in
+adult life, and retinitis pigmentosa, glaucoma, and diabetic retinopathy were the most prevalent disorders. Almost half of the Lighthouse
+group had impaired vision since childhood.
+A battery of vision tests was completed for all 37subjects. This
+included a brief case history and measurements of visual acuity, contrast sensitivity, and visual fields. Note was made of the time taken to
+complete the various tests. Only the visual acuity results are reported
+here. Most subjects within these groups had access to ocular and vision
+care but their medical records were not readily available. Subjects wore
+their best available optical distance-vision correction during the testing
+and no additional lenses were used for testing at 100 cm or 25 cm. For
+17 subjects with dissimilar levels of vision loss in the two eyes, the
+visual acuity measurements for both eyes are reported so that the
+results come from 54 eyes from 37 subjects.
+For most subjects, testing with the BRVT followed the recommended sequence. A few subjects reported that their vision was
+“light perception” only, and for them testing began with the Basic
+Vision card-pair. When visual acuity was being measured with the
+ETDRS letter chart, visual acuity was scored in logMAR units
+giving 0.02 log units credit for every additional letter read.3– 6
+When visual acuity was being measured with the STE card pair,
+testing began at the size estimated by the screening procedure, and
+four presentations were made at that size. Subjects were not obliged
+to guess but they were encouraged to guess if they were not quite
+certain. Systematically larger and smaller sizes were presented to
+
+1261
+
+establish the range over which the success rate extended from 4 of
+4 to 1 of 4. For the GATs, the testing established the range over
+which the success rate ranged from 6 of 6 to 1 of 6. For the WFP
+test, first there were 4 different orientations presented for both the
+quad-field and hemi-field cards, and if there was any success (2 of
+8 or better), the process was repeated. For the BWD test, there were
+at least 4 presentations with both the black and white cards.
+
+RESULTS
+The frequency distribution of the visual acuity scores and the
+basic vision results are shown in Fig. 3. Visual acuity scores could
+be obtained with the letter chart for 24 of the eyes tested. Of these
+24, 20 measurements were made with 100 cm viewing distance,
+and 4 were made at 4 meters. For 18 eyes, visual acuity was measured with the STE card-pair, with 16 eyes tested at 100 cm with
+STE acuities ranging from logMAR ⫽ 1.4 to 2.0, and the 2 eyes
+tested at 25 cm had acuities of logMAR ⫽ 2.2 and 2.6. For 12 of
+the 54 eyes, visual acuity could not be measured with the letter
+chart or the STEs. Two of these had measurable GA with the
+logMAR values being 2.3 and 2.7.
+Of the 10 eyes for which visual acuity scores could not be obtained, 5 successfully showed WFP, one showed only BWD and 4
+eyes had light perception only.
+The median time taken to test each eye was 120 s. For letter
+chart acuities, the median time was 97 s. For eyes tested with the
+BRVT, the median time was 152 s and the average was 171 s.
+There was substantial diversity in the testing times. For 12 eyes, the
+testing time exceeded 3 min, and for 3 of these, the testing time
+exceeded 5 min. Most of the very slow testing times were a result of
+impaired motor or communication abilities in some students from
+the California School for the Blind.
+
+DISCUSSION
+Our subjects were selected because they had been identified as having substantial vision impairments. For over half of the eyes tested, a
+visual acuity could not be obtained with a letter chart at 1 meter. In
+such circumstances, the common clinical practice is to assess vision
+using “Counting Fingers” or “Hand Motion.” The BRVT offers 13
+incremental steps for quantifying or characterizing spatial vision abilities when they are beyond the limit of the letter chart but better than
+“Light Perception” only. For 26 eyes, the BRVT results were scattered
+broadly across this range. Twenty had visual acuity scores from testing
+with the STE (n ⫽ 18) or GA (n ⫽ 2) targets. It is reasonable to
+assume that all of these would have had either “Count Fingers” or
+“Hand Motion” if tested by usual clinical procedures. Because there is
+no standard way of performing the tests for CF and HM, visual acuity
+scores cannot be used to predict which eyes would be classified as CF
+and which would be HM.18,19 There were 6 eyes that showed either
+WFP (n ⫽ 5) or BWD (n ⫽ 1), and one would expect that these
+would have been classified as having HM but not CF. Four eyes had
+light perception only. These results give a practical demonstration that
+the BRVT readily provides more increments when assessing spatial
+visual abilities beyond the limits of testing with letter charts. The test is
+obviously portable, easy to use, and typically it takes ⬍3 min to test an
+eye. The visually impaired population used for this study was diverse,
+but unique. The results reported here should not be taken as being
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+1262
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+FIGURE 3.
+The frequency distribution of the BRVT results from testing 54 eyes in a population of severely visually impaired adult patients recruited from three
+different agencies that serve the blind and visually impaired. Letter chart acuity could be measured on only 24 eyes. Twenty eyes achieved visual acuity
+scores with the STE (n ⫽ 18) or GA (n ⫽ 2) targets. These would have normally been classified as either “CF” or “HM.” For six eyes, the vision was
+classified as WFP (5) or BWD (1) and these normally would have probably been classified as “HM.” Four eyes had light perception only.
+
+representative of results to be expected in other low vision populations
+or subgroups. There are on-going studies to examine test-retest reliability using the BRVT in selected low vision populations and to
+compare the results of the BRVT and the FrACT tests.
+The sequence of testing at different levels of BRVT is logical
+and intuitive. However, the number of presentations made at
+each size in both the screening and the measurement phases can
+be a matter of choice. For 95% confidence that STE target is
+recognized, at least 4 correct out of 6 presentations, or 5 of 8 are
+recommended criteria. Because the GA test is a 2-choice task,
+more presentations are required and recommended criteria are
+at least 7 of 8 or 8 of 10. For research studies, testing procedures
+should be more rigidly specified.
+Different approaches can be taken for deciding the value that is
+taken to be the threshold visual acuity.6 It can be the smallest target
+at which the success rate is sufficient to provide a 95% confidence
+that targets of that angular size can be recognized. A more analytical and mathematical approach would be to record the success
+rates over different size levels and prepare a plot of the probability
+of seeing as a function target size. For a 50% probability of seeing,
+the success rate for the 4-choice STE test should be at 62.5%, and
+for the 2-choice GA test, the required success rate is 75%. A third
+alternative is to make the same number of presentations at each size
+level, and assign a value to each presentation, and the value will be
+equal to the size of the increments divided by the number of presentations.5 For the STE test, the size increments are 0.2 log units
+and if there are 8 presentations, the value for each presentation is
+0.025 log units. For example, if the STE card pair was presented at
+100 cm, the targets sizes available would be logMAR ⫽ 2.00, 1.80,
+
+1.60 and 1.40. If the success rates were respectively 8 of 8, 6 of 8,
+3 of 8, 0 of 8, then the logMAR score would become 1.775. This
+gives credit for 9 presentations correctly identified after logMAR ⫽
+2.00.
+The size increments for the STE and GA card-pairs are in steps
+of 0.20 log units (size ratio ⫽ 6⫻) and this is a coarser scale than
+the 0.1 increments (ratio 1.26⫻) used on the letter charts. Precision can be improved simply by taking more measurements making more presentations at each size in the region of threshold.
+Modifying the viewing distance changes the angular size, and careful changes in viewing distance can achieve intermediate angular
+sizes and thereby improve measurement precision. For example,
+changing the viewing distance from 100 to 80 cm will cause the
+angular size of the 100 M STE target to change from a logMAR
+value of 2.00 to 2.10. And for the 100 M STE target at 125 cm,
+logMAR ⫽ 1.90.
+The WFP test only produces a qualitative result, and there is not
+a recommended set of criteria or rules for success at the WFP test.
+The clinician makes a qualitative judgment as to whether the patient can identify the location of the white areas with reasonable
+consistency. One impediment to developing a scoring method is
+that for both the quad-field and hemi-field components of the test,
+there can be partial successes. For example, if the perfectly correct
+response for the quad-field test is up and right, two partially correct
+responses would be up or right. For the hemi-field test, if the
+perfectly correct response is up, there are 4 partially correct responses, namely, up-right, up-left, left, or right. Fixation is not
+constrained during this test, and this can contribute to response
+inconsistencies. The practice we recommend is to make one pre-
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+sentation at each of the 4 orientations for both the quad-field and
+the hemi-field targets. A very high success rate would indicate that
+the patient has very reliable WFP. If there is a moderate success
+rate, the clinician might gather an impression that the patient has
+some ability to locate the white field when it is located in a given
+direction. This hypothesis should then be put to the test by repeating the 8 presentations. The WFP test is passed only when the
+clinician becomes convinced that the patient can reliably identify
+the location of the white field consistently, at least in one direction.
+With the progressive simplification of the tasks in the acuity
+tests within the BRVT, it is inevitable that sometimes the logMAR
+visual acuity score from a simpler test will be significantly better
+than the logMAR value that was failed on the more complex test.
+Visual acuity scores should identify the nature of the vision test
+task. For example, a patient might not be able to read across the
+largest row of five letters at the top of the ETDRS chart at 100 cm
+so, on the letter chart, they fail to achieve a Letter Chart logMAR ⫽
+2.00. However, the STE presents a much easier task, and the STE
+acuity in logMAR terms might be found to be 1.80, 1.60, or even
+1.40. Patients with central scotomas and patients with amblyopia
+are very like to have significantly better acuities when the target is
+an isolated optotype, but how much better is individualistic and
+difficult to predict. Similarly, GA targets are only used when the
+patient fails to achieve a STE logMAR of 2.60. Because the GA
+visual task is much simpler, the acuity with gratings may be significantly better than logMAR ⫽ 2.60 value that was failed with the
+STE targets. Some patients who fail the Single Tumbling E acuity
+task for STE logMAR ⫽ 2.60 will be able to identify the 80M or
+50M GA targets at 25 cm giving GA logMAR scores of 2.50 or
+2.30. It sometimes occurs that a patient will be unable to see the
+largest STE target at 25 cm (STE logMAR ⫽ 2.60) but able to see
+the finest of the grating targets at 25cm (GA logMAR ⫽ 2.30). In
+such circumstances, the available range of grating acuities can be
+extended by increasing the viewing distance in order to reduce the
+angular size of the grating stripes. The 50 M GA target presented at
+25 cm has a logMAR value of 2.3, but changing the viewing distance to 40 cm, 63 cm, or 100 cm, (steps of 0.20 log units) will
+cause logMAR value for the 50 M GA target to become 2.10, 1.90,
+or 1.70, respectively.
+With the BRVT, the range of visual acuity measurements made
+with the STE targets presented at either 100 cm or 25 cm extends
+from STE logMAR ⫽ 1.40 to STE logMAR ⫽ 2.60 (equivalent to
+20/500 to 20/8000) in 7 steps of 0.20 log units. The GA test is
+presented at 25 cm, and this allows a GA range from GA logMAR ⫽ 2.3 (20/4000) up to GA logMAR ⫽ 2.90 (20/16,000) in
+4 steps separated by 0.20 log units. The WFP test and the BWD
+add two more qualitative levels of vision between GA logMAR ⫽
+2.90 and light perception.
+When visual acuity scores are reported, it is important that the
+visual task be identified. The visual acuity score on one task is not
+necessarily a reliable predictor of the visual acuity scores that would
+be obtained on alternative test tasks.14 The computer-based tests
+designed to measure very low levels of visual acuity use the one
+kind of visual task across a very wide range of sizes. Having one task
+for the widest practical range of sizes is critically important for
+studies identifying and quantifying changes in acuity, but the task
+should be specified as an integral part of reporting the visual acuity
+scores. The FrACT test11 usually measures visual acuity for single
+
+1263
+
+Landolt Rings, and the GAT test12 measures visual acuity for gratings. When visual acuity is measured with letter charts, the reports
+of results should identify which kind of letter chart was used. With
+the BRVT, any visual acuity scores should specify whether they
+came from the STE or the GA tests.
+
+CONCLUSIONS
+The BRVT is a simple, low-tech, and efficient test for measuring
+visual acuities and basic spatial vision in very low vision. It provides
+a large number of reasonably fine increments (n ⫽ 13) to cover the
+range between the limits of letter chart visual acuity and light
+perception. The BRVT should be most valuable for low vision
+clinicians, but it could be useful for all optometrists and ophthalmologists who sometimes encounter patients who would otherwise
+have their vision recorded as “CF” or “HM.” Recent developments
+in prosthetic vision devices and biological interventions20,21 to
+restore or enhance vision in persons with profound vision loss have
+raised the clinical community’s awareness of the need for better
+methods for testing vision at the very poor vision end of the scale.
+The BRVT has already found application in the measurement and
+classification of vision in athletes participating in sports for the
+blind and visually impaired.
+
+ACKNOWLEDGMENTS
+The Regents of the University of California holds the copyright for the Berkeley
+Rudimentary Vision Test. Any royalties will be used to support research in low
+vision in the School of Optometry at the University of California, Berkeley.
+During this project AJJ was supported by a Northern Ireland Research &
+Development Office Sabbatical Grant. MAC received support from a grant to
+the School of Optometry from the Bernard A. Newcombe Foundation.
+Received February 8, 2012; accepted May 14, 2012.
+
+REFERENCES
+1. Snellen H. Letterproeven tot Bepaling der Gezigtsscherpte 1862. (van
+der Weijer PW, Utrecht), cited by Bennett AG. Ophthalmic test
+types. A review of previous work and discussions on some controversial questions. Br J Physiol Opt 1965;22:238–71.
+2. Lim LT, Frazer DG, Jackson AJ. Clinical studies: visual acuities beyond Snellen. Br J Ophthalmol 2008;92:153.
+3. Bailey IL, Lovie JE. New design principles for visual acuity letter
+charts. Am J Optom Physiol Opt 1976;53:740–5.
+4. Bailey IL. Designation of visual acuity in logarithmic units. Optom
+Monthly 1980;71:80–5.
+5. Bailey IL. Measurement of visual acuity: towards standardization. In:
+Baldwin WR, ed. Vision Science Symposium: a Tribute to Gordon
+G. Heath. Bloomington, IN: Indiana University, 1988:215–30.
+6. Carkeet A, Lee L, Kerr JR, Keung MM. The slope of the psychometric function for Bailey-Lovie letter charts: defocus effects and implications for modeling letter-by-letter scores. Optom Vis Sci 2001;78:
+113–21.
+7. Ferris FL, 3rd, Kassoff A, Bresnick GH, Bailey I. New visual acuity
+charts for clinical research. Am J Ophthalmol 1982;94:91–6.
+8. National Academy of Sciences/National Research Council (NAS-NRC),
+Committee on Vision. Recommended standard procedures for the clinical measurement and specification of visual acuity: Report of Working
+Group 39: 1979. Adv Ophthalmol 1980;41:103–48.
+9. Sloan LL. New test charts for the measurement of visual acuity at far
+and near distances. Am J Ophthalmol 1959;48:807–13.
+10. Age-related Eye Disease Study (AREDS). Manual of Operations:
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+1264
+
+11.
+12.
+13.
+
+14.
+15.
+16.
+17.
+18.
+
+The Berkeley Rudimentary Vision Test—Bailey et al.
+
+2000. Chapter 7: Examination procedures. Available at: https://web.
+emmes.com/study/areds/mopfiles/chp7_mop.pdf. Accessed June 14,
+2012.
+Bach M. The Freiburg Visual Acuity test–automatic measurement of
+visual acuity. Optom Vis Sci 1996;73:49–53.
+Bittner AK, Jeter P, Dagnelie G. Grating acuity and contrast tests for
+clinical trials of severe vision loss. Optom Vis Sci 2011;88:1153–63.
+Bach M, Wilke M, Wilhelm B, Zrenner E, Wilke R. Basic quantitative assessment of visual performance in patients with very low vision.
+Invest Ophthalmol Vis Sci 2009;51:1255–60.
+Kitchin JE, Bailey IL. Task complexity and visual acuity in senile
+macular degeneration. Aust J Optom 1981;63:235–42.
+Flom MC, Weymouth FW, Kahneman D. Visual resolution and
+contour interaction. J Opt Soc Am 1963;53:1026–32.
+Flom MC. Contour interaction and the crowding effect. Prob Optom 1991;3:237–57.
+Smith G. Relation between spherical refractive error and visual acuity. Optom Vis Sci 1991;68:591–8.
+Schulze-Bonsel K, Feltgen N, Burau H, Hansen L, Bach M. Visual
+acuities “hand motion” and “counting fingers” can be quantified with
+
+the Freiburg visual acuity test. Invest Ophthalmol Vis Sci 2006;47:
+1236–40.
+19. Lange C, Feltgen N, Junker B, Schulze-Bonsel K, Bach M. Resolving
+the clinical acuity categories “hand motion” and “counting fingers”
+using the Freiburg Visual Acuity Test (FrACT). Graefes Arch Clin
+Exp Ophthalmol 2009;247:137–42.
+20. Chader GJ, Weiland J, Humayun MS. Artificial vision: needs, functioning, and testing of a retinal electronic prosthesis. Prog Brain Res
+2009;175:317–32.
+21. Schwartz SD, Hubschman JP, Heilwell G, Franco-Cardenas V, Pan
+CK, Ostrick RM, Mickunas E, Gay R, Klimanskaya I, Lanza R.
+Embryonic stem cell trials for macular degeneration: a preliminary
+report. Lancet 2012;379:713–20.
+
+Optometry and Vision Science, Vol. 89, No. 9, September 2012
+
+Ian L. Bailey
+University of California, Berkeley
+School of Optometry
+415 Minor Hall
+Berkeley, California 94720-2020
+e-mail: ibailey@berkeley.edu
+
+

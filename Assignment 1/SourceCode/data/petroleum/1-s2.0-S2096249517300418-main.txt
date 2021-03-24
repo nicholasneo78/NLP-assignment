@@ -1,0 +1,2916 @@
+Petroleum Research (2016) 2,178-190
+
+Reservoir characteristics and well-logging
+evaluation of the Lower Cambrian shales in
+southeast Chongqing, China
+Xiaomeng Cao1,2, Bingsong Yu2*, Xintong Li3, Mengdi Sun2 and Ling Zhang4
+State Key Laboratory of Biogeology and Environment Geology, Beijing 100083, China
+School of Earth Sciences and Resources, China University of Geosciences, Beijing 100083, China
+3
+Geoscience Center, CNPC Greatwall Drilling Company, Beijing 100101, China
+3
+Well Logging Company, CNPC Daqing Drilling and Exploration Engineering Corporation, Daqing 163412, China
+Received January 10, 2016; Accepted June 25, 2016
+1
+2
+
+Abstract: To accurately identify the reservoir characteristics and main controlling factors of the
+Cambrian Niutitang black shale in the southeast Chongqing, a series of systematic measurements
+were conducted on core samples from Well Yuke-1 and Well Youke-1. The measurements include
+clay mineral analysis, XRD analysis, petrophysical properties, specific surface area, pore diameter
+and TOC, as well as Ro and maceral compositions. The Niutitang shale reservoir contains detrital
+minerals and clay minerals averagely of 51.34% and 32.74%, respectively. The average effective
+porosity and permeability are 1.2% and 8.0×10-3mD, respectively, typically of ultra-low porosity
+and permeability. Mesopores are dominant, accounting for approximately 73% of the total pore
+volume. The average BET specific surface area is 7.75m2/g and the average pore diameter is 5.3nm.
+The average TOC is 2.29% and the average Ro is 3.12%, indicating that the organic matter is in
+over-maturity stage. Statistical analyses of the measurements show that the micropore volume is
+positively correlated with TOC but negatively correlated with the total content of clay minerals; the
+mesopore volume is positively correlated with TOC, the total content of clay minerals and the content of carbonate minerals; the macropore volume is positively correlated with TOC and the content of carbonate minerals, weakly positively correlated with the content of detrital minerals but
+negatively correlated with the total content of clay minerals. The porosity and TOC of the Niutitang shale are computed using the conventional well-logging method for the Yuke-1 and Youke-1
+wells, and the porosities are quite consistent with the core analysis resultsr, but in the shallow reservoir that contains no oil and gas, the TOC exhibits no correlation with the core analysis results.
+
+Key words: shale; reservoir characteristics; well logging; multiple linear
+regression; Niutitang Formation
+
+1 Introduction
+Shale gas in natural fractures and intergranular pores is generally in the form of free gas, or absorbed gas in kerogens and
+clay particles, or dissolved in kerogens asphalts (Curtis, 2002).
+These organic-rich shales are both source rocks and reservoirs
+(Martini et al., 1998). Shale gas resources are abundant on a
+global scale. In addition to North America, many countries including China, the UK, India and New Zealand also announced
+* Corresponding author. Email: yubs@cugb.edu.cn
+
+discoveries of shale gas (Dong et al., 2012). On March 1, 2012,
+the Chinese Ministry of Land and Resources disclosed for the
+first time that the geological and recoverable shale gas resources in mainland China excluding the Qinghai-Xizang region
+amounted to 134.4×1012 m3 and 25.08×1012 m3, respectively (Yu,
+2012). According to Energy Information Administration (EIA,
+2013), China possesses the most abundant shale gas resources
+in the world with a recoverable shale gas resource up to 31.57
+×1012 m3 and has great potentials in the exploitation and utiliza-
+
+© 2017 Chinese Petroleum Society. Publishing Services by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+178
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+The Lower Paleozoic marine shales are extensively developed
+in the southeast Chongqing area, mainly including the Lower
+Cambrian Niutitang Formation and the Lower Silurian Longmaxi Formation. These shales are featured by a wide distribution, shallow buried depth, a great thickness and a good fracture
+development (Zhang et al., 2009; Dong et al., 2010). The shales
+are collected from the Niutitang Formation in Well Yuke-1 and
+Well Youke-1 (Fig. 1).
+N
+
+10 km
+
+Hu
+
+0
+
+be
+iP
+rov
+inc
+e
+
+Qianjiang District
+
+Xinglong
+Muye
+
+Chetian
+
+Miaoxi
+
+Heishui
+
+Shuangquan
+
+Ganxi
+Tushi
+
+Yiju
+
+Keda
+
+Tianba
+
+Cangling
+Gongtan
+Liangzeng
+Tianguan
+
+Daxi
+Pianbai
+
+Yudi
+Huatian
+
+Laozhai
+
+Wufu
+
+Mawang
+
+Youchou
+Houxi
+
+Zhongduo
+
+Well Youke-1
+
+Youyang Tujia and Miao Autonomous County
+Qingquan
+
+Tonggu
+
+Dingshi
+
+Banxi
+
+Houping
+
+Banqiao
+
+Wanmu
+
+Hunan Province
+
+Maoba
+Langping
+
+Longtan
+Huifeng
+
+Well Yuke-1
+
+Guanqing Nanmu
+
+Gui
+
+Lixi
+
+zho
+u Pr
+ovin
+ce
+
+China has recently made important progress in the basic geological theory and understandings regarding the geological features
+of organic-rich shales, the geological conditions for the formation
+and enrichment of shale gas and the optimal selection of shale-gas
+prospect zones, etc. The assessments on shale-gas reservoirs are
+mainly conducted in terms of five aspects including: distribution of
+organic-rich shale intervals, mineral compositions, characteristics
+of micro-nano pores in shale reservoirs, petrophysical properties
+and gas-bearing capacity of gas shales (Chen et al., 2010; Nie et al.,
+2011). In particular, the pore structures of shale-gas reservoirs have
+drawn a wide attention (Chen et al., 2011; Zou et al., 2012). Shale
+is an ultra-tight reservoir formation, of which the pore sizes may
+be down to several nanometers and are far smaller than those of
+sandstone and carbonate reservoirs (Yang et al., 2013). By means of
+Ar-ion milling and Field Emission Scanning Electron Microscopy
+(FE-SEM), a great number of micro- and nano-scale inorganic
+and organic pores can be detected and characterized in shales. The
+shale reservoir porosity can thus be quantitatively measured (Ross
+and Bustin, 2008; Nelson, 2009). The characteristics of shale-gas
+reservoirs are mainly investigated through isothermal adsorption
+experiments, analyses of specific surface area and pore diameters
+as well as scanning electron microscopy (Xue et al., 2013). Lowtemperature nitrogen adsorption method is widely applied in measuring rocks with high contents of organic matter such as coal and
+shale (Clarkson and Bustin, 1999; Tian et al., 2012). However, less
+is known about the intrinsic relationships between the assessment
+parameters such as pore volume and methane adsorption capacity
+and the shale composition characteristics. It is clear that organic
+matter is a key factor, whose abundance is positively correlated
+with the specific surface area and adsorption capacity of gas shales
+(Xue et al., 2013). Accordingly, by using multiple linear regression
+method, this study investigates the relationships between the shale
+composition characteristics and the effective porosity, pore volume
+and BET specific surface area of shale reservoirs to determine the
+main controlling factors for the physical properties of reservoirs.
+On this basis, the reservoir assessment parameters can be indirectly
+calculated based on the shale composition characteristics.
+
+The southeastern part of Chongqing is located in the southeast
+margin of Sichuan Basin and on the northwestern side of the
+Daloushan Mountains. It lies within the Upper Yangtze Plate.
+The pre-Sinian basement is not found in this region. The cap
+rock covers from the Cambrian to the Jurassic, with a depositional thickness of up to 8951m (SPBG, 1977). Multi-phase
+tectonic movements occurred in this region, characterized by
+strong extrusions. Anticlines and fractures were mainly formed
+during the Yanshanian Orogeny of the Mesozoic Era, showing a
+NE-SW trend. These movements show apparent inheritance and
+significant modification to the previous geological structures.
+Afterwards, the geological structures in this region are basically
+established, and the whole region is uplifted to form the land (Xie
+et al., 2013).
+
+Town
+
+Fig. 1
+
+Na
+
+ny
+
+ao
+
+Xiushan Tujia and Miao
+Autonomous County
+
+jie
+
+Well location
+
+Hunan Province
+
+Currently, US have successfully exploited five shale gas-bearing
+basins commercially (Curtis, 2002). The geological accumulation theory of shale gas has been investigated deeply. The assessment technology for shale-gas reservoirs, perforation optimization technology, fracturing technology and horizontal-well
+drilling technology have been developed accordingly (Huang et
+al., 2009; Zhao and Yang, 2011).
+
+2 Geological background
+
+Pen
+g
+Au shui M
+ton
+om iao a
+ous nd
+C o Tu j i
+unt a
+y
+
+tion of shale gas. Paleozoic marine shales are mainly distributed in South China, North China and Tarim Basin. Mesozoic
+and Cenozoic continental shales are mainly distributed in the
+Songliao Basin, Bohai Bay Basin and Ordos Basin, while the
+Carboniferous-Permian marine-continental transitional shales
+are mainly distributed in northern China (Dong et al., 2012; Li
+et al., 2012).
+
+Guizhou
+Province
+
+Geographic locations of Well Yuke-1 and Well Youke-1
+
+179
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+Lower Cambrian
+
+Niutitang Formation
+
+Light black carbonaceous shales
+interbedded with carbonaceous
+mudstones at the depth of 55.65
+-55.85m,fractures filled bycalcite
+veins, locally a great number
+of specular surfaces and scratches
+
+Dark gray silty mudstones with welldeveloped fractures filled by calcite
+veins
+
+Dengying
+Fm.
+
+Light black shales interbedded with
+sandy strips locally, the irregular
+well-developed fissures filled by
+calcites or unfilled, containing
+banding pyrites, specular surfaces
+and scratches.
+Light gray limestones with welldeveloped fractures filled by calcites
+or unfilled
+
+Fig. 2
+
+30
+35
+
+50
+
+42
+62
+41
+72
+
+55
+
+39
+40
+
+60
+
+70
+75
+
+34 59
+66
+
+80
+
+70
+
+Dark gray silty mudstone
+
+Gray mudstone
+
+Light black carbonaceous shale
+
+Light gray limestone
+
+Stratigraphic histogram of Well Yuke-1
+
+Using an X-ray diffractometer, clay mineral and whole-rock
+X-ray diffraction analysis were conducted under an analytical
+temperature of 24 oC and a humidity of 35% in accordance with
+the measurement standards of SY/T5163-1995 and SY/T 598394. According to the standard of SY/T5336-1996 on Method
+of Core Routine Analysis and using an Ultrapore-200A helium
+
+180
+
+Sampling
+location
+
+1260
+1270
+
+Dark gray calcareous argillaceous
+siltstones
+
+1280
+1290
+1300
+1310
+1320
+1330
+
+Gray black silty shales
+
+38
+
+64 37
+35 53
+36
+33
+58
+32
+
+65
+
+Member 1 of Gaotian Formation
+
+25
+
+1240
+
+Lithologic
+section
+
+1250
+
+1340
+1350
+
+Gray black carbonaceous shales
+with unequal carbon contents,
+fractures filled by calcite veins,
+with well-developed pyrites
+
+1360
+1370
+1380
+
+Black carbonaceous silty shales
+with abundant carbon and a lot
+of calcites, samples are easy to dirty
+hands, cores are fractured
+
+Dengying Formation
+
+Light black carbonaceous shales
+interbedded with carbon bits and
+sandy strips locally, containing the
+banding and blockypyrites, the
+irregular fractures filled by calcites
+are well developed
+
+Lithologic
+section
+
+Depth
+/m
+
+Gray black argillaceous siltstones
+
+Ediacaran
+
+Depth
+/m
+
+Gray mudstones
+
+Cambrian
+
+45
+
+57
+
+Lithological
+description
+
+Stratum
+
+Ediacaran
+
+40
+
+Sampling
+location
+61 69
+23 71
+65 54
+68
+24
+22
+21
+20
+55
+19
+
+Lithological
+description
+
+Stratum
+
+Niutitang Formation
+
+72 and 16 core samples were collected from Well Yuke-1 and
+Well Youke-1, respectively. The encountered formations and
+sampling locations of two wells are shown in Fig. 2 and Fig. 3,
+respectively. Since the core samples collected for this study were
+freshly drilled, the measured data are basically not affected by
+weathering, and have strong reliability. In the present study, the
+analyses of minerals, total organic carbon (TOC) and Ro were
+performed using the conventional analytical methods. However,
+for some special parameters such as microscopic pore structure
+and pore volume in shales, the conventional reservoir characterization method cannot satisfy the accuracy requirements due
+to the small pores. Low-pressure nitrogen specific surface measurement method was used to ensure the reliability of measurement results.
+
+Cambrian
+
+Well Yuke-1 and Well Youke-1 were selected as target wells in
+the study. Well Yuke-1 is located in the Jinggang Village of the
+Youyang County, Chongqing. The Niutitang Formation encountered has a thickness of 60m, and exhibits many well-developed
+fractures filled by pyrites, calcites and quartzs. Well Youke-1 is
+located in the Baixiang Village of the Youyang County, Chongqing.
+
+porosimeter and an ULTRA-PERM TM 200 permeameter, the
+conventional petrophysical property analysis was conducted
+under an analytical temperature of 23oC, a humidity of 50%
+and atmospheric pressure of 0.1025MPa, when the initial
+reference cell pressure for porosity measurement was 0.07MPa.
+According to the Determination of the Specific Surface
+Area of Solids by Gas Adsorption Using the BET Method
+(GB/T 19587-2004) and using the Quadrasorb SI specific
+surface area analyser, the samples were heated for an hour at
+90oC and 5 hours at 350oC to measure the specific surface areas
+and pore diameters, respectively. The measurements of Ro and
+macerals were conducted at a temperature of 23o C ± 2 o C in
+accordance with the Method for the Measurements of Vitrinite
+Reflectance of Sedimentary Rocks (SY/T5124-1995). The
+measuring instruments include fluorescence microscope and the
+microscope photometer.
+
+Lower Cambrian
+
+3 Sampling and methods
+
+1390
+
+YK1-1
+YK1-10
+YK1-2
+YK1-3
+YK1-11
+YK1-12
+YK1-4
+YK1-5
+YK1-13
+YK1-14
+YK1-6
+YK1-7
+YK1-15
+YK1-9
+YK1-8
+YK1-16
+
+1400
+1410
+1420
+
+Gray white dolomites
+
+1430
+1440
+
+Gray black argillaceous
+siltstone
+
+1450
+Dark gray calcareous
+argillaceous siltstone
+
+Gray black silty shale
+
+Black carbonaceous
+silty shale
+
+Gray black
+carbonaceous shale
+
+Gray white dolomite
+
+Fig. 3
+
+Stratigraphic histogram of Well Youke-1
+
+4 Results
+4.1 Mineralogical characteristics
+The results obtained through clay mineral and whole-rock X-ray
+diffraction analysis are shown in Table 1. Based on the data of
+the two wells in the southeast Chongqing area, it can be found
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+Table 1 Results of clay mineral and whole-rock X-ray diffraction analysis
+Sample
+number
+18
+69
+65
+68
+20
+57
+41
+39
+38
+64
+36
+32
+66
+52
+60
+16
+15
+25
+28
+7
+6
+27
+17
+14
+56
+4
+3
+12
+11
+49
+48
+51
+46
+9
+45
+5
+26
+YK1-1
+YK1-2
+YK1-3
+YK1-4
+YK1-5
+YK1-6
+YK1-7
+YK1-8
+YK1-9
+YK1-10
+YK1-11
+YK1-12
+YK1-13
+YK1-14
+YK1-15
+YK1-16
+
+Relative content of clay
+minerals/%
+K
+
+7
+1
+
+C
+
+I
+
+I/S
+
+%S
+
+1
+1
+1
+1
+1
+1
+1
+2
+1
+
+92
+91
+83
+91
+86
+76
+88
+75
+81
+60
+91
+92
+86
+95
+78
+80
+68
+73
+78
+81
+90
+92
+64
+68
+65
+64
+63
+63
+59
+73
+71
+69
+74
+71
+75
+86
+96
+63
+68
+74
+70
+73
+62
+65
+72
+58
+76
+89
+88
+88
+73
+72
+77
+
+7
+8
+16
+8
+13
+23
+11
+23
+18
+40
+8
+7
+13
+4
+20
+5
+4
+14
+15
+10
+8
+7
+13
+6
+9
+14
+10
+16
+13
+7
+12
+13
+7
+13
+6
+5
+2
+6
+3
+1
+3
+1
+9
+8
+4
+11
+10
+6
+2
+10
+26
+21
+22
+
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+
+1
+1
+1
+1
+2
+15
+28
+13
+7
+9
+2
+1
+23
+26
+26
+22
+27
+21
+28
+20
+17
+18
+19
+16
+19
+9
+2
+31
+29
+25
+27
+26
+29
+27
+24
+31
+14
+5
+10
+2
+1
+
+Mineral content of whole rock/%
+Potassium
+Clay
+Plagioclase Calcite Dolomite Pyrite Siderite
+Quartz
+feldspar
+mineral
+23
+42
+5
+14
+12
+4
+3
+18
+78
+1
+26
+51
+10
+3
+10
+31
+42
+7
+16
+4
+26
+54
+5
+10
+5
+29
+40
+8
+3
+6
+14
+16
+58
+3
+9
+3
+5
+6
+19
+32
+5
+17
+3
+16
+8
+19
+71
+2
+3
+5
+10
+12
+1
+76
+1
+1
+10
+78
+2
+9
+14
+84
+1
+1
+21
+76
+1
+2
+4
+3
+92
+1
+18
+53
+5
+17
+7
+15
+6
+4
+62
+13
+35
+52
+4
+9
+25
+65
+2
+5
+3
+35
+41
+1
+7
+16
+44
+37
+13
+6
+36
+46
+8
+9
+1
+25
+23
+3
+49
+42
+42
+16
+37
+40
+16
+7
+48
+42
+9
+1
+48
+38
+8
+4
+2
+45
+38
+15
+2
+46
+38
+14
+2
+44
+36
+18
+2
+45
+37
+14
+4
+41
+40
+9
+8
+2
+41
+41
+10
+6
+2
+38
+40
+15
+3
+4
+42
+37
+15
+3
+3
+38
+35
+12
+5
+10
+41
+37
+8
+4
+10
+42
+36
+9
+6
+3
+4
+51
+39
+6
+1
+3
+55
+38
+4
+1
+2
+53
+36
+8
+3
+55
+36
+6
+3
+50
+39
+7
+4
+47
+41
+7
+2
+3
+51
+37
+9
+3
+55
+33
+9
+3
+49
+40
+8
+3
+26
+51
+9
+9
+5
+16
+40
+3
+2
+34
+5
+17
+56
+2
+7
+3
+9
+6
+27
+43
+4
+9
+4
+6
+7
+31
+46
+7
+6
+10
+11
+83
+1
+2
+19
+70
+1
+8
+
+K denotes the kaolinite; C denotes the chlorite; I denotes the illite; I/S denotes the illite/smectite (I/S) mixed layer mineral; %S denotes the interlaying ratio
+
+Barite
+
+3
+2
+
+181
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+Sample number
+
+that the black shales of Niutitang Formation mainly contain detrital minerals, clay minerals and a small amount of carbonate
+minerals and pyrites (Fig. 4). Specifically, the detrital minerals
+account for 3%-85%, with an average content of 51.34%, which
+are dominated by quartzs (43.19% on average) and a small quantity of feldspars (8.15% on average). Clay minerals account for
+3%-55%, with an average content of 32.74%, which are composed mainly of chlorites, illites and illite/smectite (I/S) mixedlayer minerals with illites accounting for 76.53% of the total
+YK1-16
+YK1-15
+YK1-14
+YK1-13
+YK1-12
+YK1-11
+YK1-10
+YK1-9
+YK1-8
+YK1-7
+YK1-6
+YK1-5
+YK1-4
+YK1-3
+YK1-2
+YK1-1
+26
+5
+45
+9
+46
+51
+48
+49
+11
+12
+3
+4
+56
+14
+17
+27
+6
+7
+28
+25
+15
+16
+60
+52
+66
+32
+36
+64
+38
+39
+41
+57
+20
+68
+65
+69
+18
+
+0
+
+40
+
+20
+
+Clay mineral
+
+Fig. 4
+
+Mineral content /%
+
+Quartz
+
+Feldspar
+
+80
+
+60
+Carbonate minerals
+
+100
+Pyrite
+
+Mineral components and contents of the black shales in the Lower
+Cambrian Niutitang Formation
+
+4.2 Petrophysical characteristics
+The analytical results of the conventional petrophysical properties are
+summarized in Table 2. It can be concluded that the pores, cracks and
+karst caves are not developed in shales when compared with the condition in the conventional reservoirs such as sandstone and carbonate
+reservoirs, etc. Natural gas is mainly stored in the micropores and
+micro-cracks of shales (Nie et al., 2009). The shale gas in large pores
+and cracks mainly exists in a free state. Compared with the shale gas
+absorbed on the surface of mineral particles and organic matters, the
+higher the porosity is, the higher the content of free shale gas is (Cheng
+and Huang, 2004; Mondol et al., 2007). The effective porosity of the
+shales in the Niutitang Formation ranges from 0.4% to 2.7%, with
+an average of 1.2%, which is lower than that of the shales in the top
+five shale gas producing basins in the US (Curtis, 2002). The shales
+in the Niutitang Formation also exhibit fairly low permeability, rang-
+
+182
+
+clays on average, followed by chlorites and I/S mixed-layer minerals. The interlaying ratio of I/S mixed-layer minerals is 5%,
+indicating that illites are the main component. The carbonate
+minerals account for 0-92%, with an average content of 13.02%,
+which are composed mainly of calcites, dolomites and minor
+siderites. The content of calcites is quite high in some samples
+but is low in most samples. The average content of dolomites is
+8.94%. Pyrites are rare in the black shales of the Niutitang Formation.
+
+ing from 1.3×10-3 to 8.8×10-3mD and with an average of 8.0×10-3mD.
+According to the Chinese Oil and Gas Industry Standard: Evaluating Methods of Oil and Gas Reservoirs (SY/T 6285-1997), the shale
+reservoirs have extremely low porosity and low permeability. The
+research shows that the porosity and permeability have no obvious
+correlation. Accordingly, it can be concluded that the pores are poorly
+connected in the shales, and thus the shale gas is most likely stored in
+micropores and micro-cracks.
+
+4.3 Pores, BET specific surface areas and pore sizes
+According to the classifications of pores by the International
+Union of Pure and Applied Chemistry (IUPAC) (Rouquerol et
+al., 1994), the pores with the diameter smaller than 2nm, ranging from 2 to 50nm and greater than 50nm are referred to as
+micropores, mesopores and macropores, respectively.
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+Table 2 Test results of the conventional petrophysical properties
+Sample
+number
+3
+6
+11
+15
+16
+17
+18
+20
+26
+28
+36
+38
+41
+45
+46
+48
+56
+60
+65
+66
+YK1-1
+YK1-5
+YK1-9
+YK1-10
+YK1-14
+YK1-16
+
+Rock density/
+(g·cm-3)
+2.74
+2.69
+2.74
+2.75
+2.69
+2.73
+2.62
+2.51
+2.69
+2.73
+2.68
+2.60
+2.48
+2.72
+2.74
+2.75
+2.73
+2.48
+2.58
+2.53
+2.75
+2.73
+2.73
+2.51
+2.55
+2.59
+
+Effective
+porosity/%
+0.8
+1.8
+0.9
+0.8
+0.8
+0.5
+2.7
+1.1
+2.0
+0.6
+2.6
+2.0
+0.9
+0.9
+0.5
+0.4
+0.7
+0.8
+1.2
+1.1
+0.8
+1.3
+1.4
+1.8
+1.1
+2.5
+
+Permeability/
+(10 -3 mD)
+5.8
+8.2
+4.6
+4.9
+5.4
+6.9
+8.8
+4.9
+7.2
+5.9
+4.9
+5.6
+5.4
+5.9
+5.7
+5.3
+5.7
+6.3
+6.7
+5.2
+42.3
+4.7
+11.1
+16.3
+13.1
+1.3
+
+Table 3 lists the measurement results of BET specific surface areas and pore sizes. In the Niutitang shale, the average volumes of
+micropore, mesopore and macropore are 0.69×10-3, 5.99×10-3 and
+1.45×10 -3mL/g, respectively, and the average total pore volume
+is 8.1×10-3mL/g. Mesopores take up a majority of the total pore
+volume, up to 73%, followed by macropores, while the micropore volume is the smallest. The BET specific surface area of
+the shales in the Niutitang Formation exhibits a wide variation
+from 1.73 to 27.77m 2/g, with an average of 7.75m 2/g. The pore
+diameter ranges from 3.1 to 8.0nm, with an average of 5.3nm.
+
+4.4 Organic geochemical characteristics
+Table 4 lists the organic carbon analysis and measurement
+results of shales. Table 5 shows the measurement results of
+solid bitumen reflectance and the calculated results of vitrinite
+reflectance in accordance with two empirical formulas proposed
+by Zhou and Jacob, i.e., (R o(1) = 0.6569R b + 0.3364 and (R o(2)
+= 0.618R b + 0.4)) (Zhou and Pan, 1992). Among the 35 rock
+core samples analyzed in the study, the organic matters can
+be observed in 16 samples. As shown in Table 4, the TOC of
+the Niutitang shale ranges between 0.04% and 9.93%, with
+an average of 2.29%, which is similar to that of the Devonian
+shale in the Appalachian Basin, Ohio, USA (Curtis, 2002).
+Some core samples have very high TOC, which are comparable
+to the Barnett Shale in the gas generation window collected
+from the Fort Worth Basin, America (Jarvie et al., 2007). For
+
+Table 3 Results of BET specific surface area and pore size
+Sample
+number
+
+Micropore
+volume/
+(10 -3mL·g-1)
+
+Mesopore volume/
+(10 -3mL·g-1)
+
+Macropore
+volume/
+(10 -3mL·g-1)
+
+18
+65
+20
+41
+38
+36
+66
+60
+15
+28
+6
+17
+56
+3
+11
+48
+46
+45
+26
+YK1-1
+YK1-5
+YK1-9
+YK1-10
+YK1-14
+YK1-16
+
+0.82
+0.79
+1.65
+2.96
+0.33
+0.46
+0.50
+2.04
+0.33
+0.21
+0.19
+0.37
+0.48
+0.17
+0.46
+0.35
+0.25
+0.14
+0.02
+0.31
+0.23
+0.11
+1.68
+1.97
+0.31
+
+12.89
+11.61
+16.95
+16.64
+1.57
+1.56
+3.88
+10.96
+2.04
+3.17
+3.48
+3.04
+2.37
+3.38
+2.75
+2.62
+3.42
+3.35
+6.31
+2.89
+4.59
+3.56
+15.02
+7.11
+4.48
+
+2.30
+1.60
+4.40
+4.40
+0.20
+0.78
+0.72
+5.30
+0.43
+0.23
+0.33
+0.19
+0.35
+0.15
+0.19
+0.34
+0.03
+1.11
+0.77
+0.30
+0.48
+0.53
+3.10
+6.92
+1.02
+
+Total pore volume/ BET specific surface
+(10 -3mL·g-1)
+area/(m2·g-1)
+16.0
+14.0
+23.0
+24.0
+2.1
+2.8
+5.1
+18.3
+2.8
+3.6
+4.0
+3.6
+3.2
+3.7
+3.4
+3.3
+3.7
+4.6
+7.1
+3.5
+5.3
+4.2
+19.8
+16.0
+5.8
+
+12.60
+14.06
+24.94
+27.77
+1.73
+2.80
+4.30
+22.14
+2.63
+2.99
+3.23
+2.62
+2.06
+2.05
+2.61
+2.16
+2.77
+2.41
+4.62
+1.97
+3.44
+2.35
+22.39
+20.33
+2.87
+
+Average pore
+diameter/nm
+5.0
+4.1
+3.6
+3.4
+4.8
+4.0
+4.8
+3.3
+4.2
+4.9
+4.9
+5.6
+6.3
+7.2
+5.1
+6.1
+5.2
+7.6
+6.1
+7.1
+6.2
+7.2
+3.5
+3.1
+8.0
+
+183
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+the collected core samples, the bitumen reflectance (Rb) ranges
+from 3.68% to 5.19%, with an average of 4.31%; the vitrinite
+reflectance (R o(1)) calculated using the empirical formula of
+Zhou ranges from 2.75% to 3.75%, with an average of 3.17%,
+which is slightly higher than the R o(2) value calculated from
+the empirical formula of Jacob, which gives a range of 2.67%
+to 3.61% with an average of 3.07%. Overall, there is little
+difference in the vitrinite reflectance calculated by the above
+two empirical formulas. The overall average vitrinite reflectance
+is approximately 3.12%, suggesting that the shales are presently
+in an over-mature stage. The Ro values are higher than those
+of the shales from the five top shale gas bearing basins in USA
+(Curtis, 2002). The maceral compositions of source rocks
+were also investigated, and the results show that the vitrinite
+is dominated by a large amount of fragmental and massive
+asphalt, and is off-white under the oil-immersed reflected light.
+Moreover, no intertinite, exinite and mineral bituminous matrix
+can be observed. Based on the organic petrological studies and
+microscopic and florescence characteristics of the samples, it
+can be concluded that the organic matter abundance is quite
+high in some samples.
+Table 4 Results of organic carbon
+Sample
+number
+
+TOC/%
+
+Sample
+number
+
+TOC/%
+
+18
+
+3.76
+
+11
+
+0.13
+
+69
+
+3.66
+
+20
+
+6.23
+
+41
+
+9.83
+
+38
+
+1.15
+
+68
+57
+
+39
+
+2.73
+7.75
+
+48
+
+0.07
+
+45
+
+0.18
+
+46
+5
+
+26
+
+YK1-1
+
+0.17
+
+0.10
+1.19
+
+0.31
+
+7.92
+
+YK1-2
+
+0.67
+
+YK1-4
+
+0.40
+
+0.51
+
+YK1-6
+
+0.32
+
+0.10
+
+YK1-8
+
+16
+
+0.04
+
+YK1-10
+
+28
+
+0.21
+
+YK1-12
+
+0.05
+
+YK1-14
+
+64
+36
+
+0.36
+
+66
+
+2.81
+
+60
+
+9.74
+
+32
+52
+
+15
+6
+
+17
+
+0.09
+0.13
+
+56
+
+0.04
+
+12
+
+0.15
+
+3
+
+184
+
+1.43
+
+65
+
+0.12
+
+YK1-3
+
+YK1-5
+YK1-7
+
+0.34
+
+0.30
+
+0.30
+0.38
+
+0.29
+
+YK1-9
+
+0.27
+
+YK1-11
+
+6.79
+
+5.69
+7.79
+
+YK1-13
+
+6.37
+
+YK1-15
+
+1.20
+
+YK1-16
+
+9.93
+
+1.03
+
+Table 5 Results of vitrinite reflectance
+Sample number
+
+Rb/%
+
+Ro(1)/%
+
+Ro(2)/%
+
+65
+
+4.27
+
+3.14
+
+3.04
+
+60
+41
+45
+66
+26
+18
+20
+69
+57
+39
+68
+YK1-5
+YK1-9
+YK1-10
+YK1-14
+
+4.36
+4.05
+3.94
+4.92
+4.28
+3.68
+4.32
+4.21
+5.19
+4.37
+4.31
+3.87
+3.91
+4.25
+5.06
+
+3.20
+3.00
+2.93
+3.57
+3.15
+2.75
+3.17
+3.10
+3.75
+3.21
+3.17
+2.88
+2.91
+3.13
+3.66
+
+3.09
+2.90
+2.84
+3.44
+3.05
+2.67
+3.07
+3.00
+3.61
+3.10
+3.06
+2.79
+2.82
+3.03
+3.53
+
+5 Analysis of main controlling factors
+Using the stepwise regression method of multiple linear
+regression, the linear relationships between multiple independent
+variables and dependent variables were analyzed to investigate
+the main controlling factors of physical properties for shalegas reservoirs and their effects. Four independent variables
+were used in the present study including the content of detrital
+minerals (including quartz and feldspar), the total content of clay
+minerals, the content of carbonate minerals (including calcite,
+dolomite and siderite) and TOC. For any of these variables, if
+the probability F value is smaller than the preset value (defaulted
+as 0.05), it can be included in the regression equation; if the
+probability F value is greater than the preset value (defaulted
+as 0.1), it should be excluded from the regression equation.
+Generally, significance tests should be conducted on the
+regression equation (mainly including the test of goodness of fit
+and F test) and regression coefficients. It should be noted that
+the stepwise regression method is employed. This means that
+the F test on the regression equation and the significance test
+on the regression coefficients are included during the regression
+process and the acquired regression results have passed the tests.
+Therefore, only the test of goodness of fit is required. Table
+6 summarizes the correlation coefficients between the shale
+mineral compositions and reservoir properties, and the Pearson
+correlation coefficients between independent variables and
+dependent variables. Table 7 lists the statistics from regression
+models and the variance analysis results, and the multiple
+correlation coefficients, sample coefficients of determination,
+which are the square of multiple correlation coefficients that
+can be used to judge the fitting degree of linear regression
+and illustrate how the variations of dependent variables can
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+be explained by independent variables, Table 7 also lists the
+multiple determination coefficients, the corrected determination
+coefficients are used to eliminate the effects induced by the
+
+number of explanatory variables, the F value and significance
+probability for each regression model.
+
+Table 6 Correlation coefficients between the mineral compositions and reservoir properties
+Effective
+porosity/%
+
+Micropore
+volume/
+(mL·g-1)
+
+Mesopore
+volume/
+(mL·g-1)
+
+Macropore
+volume/
+(mL·g-1)
+
+Total pore
+volume/
+(mL·g-1)
+
+BET specific
+surface area/
+(m2·g-1)
+
+TOC
+
+0.018
+
+0.950
+
+0.790
+
+0.960
+
+0.904
+
+0.943
+
+Total content of total clay
+minerals
+
+-0.490
+
+-0.523
+
+-0.447
+
+-0.466
+
+-0.489
+
+-0.506
+
+Content of detrital minerals
+
+0.305
+
+0.254
+
+0.060
+
+0.091
+
+0.093
+
+0.150
+
+Content of carbonate
+minerals
+
+0.224
+
+0.268
+
+0.424
+
+0.360
+
+0.418
+
+0.367
+
+Table 7 Statistics of the regression models and the variance analysis
+
+1
+2
+
+3
+4
+
+5
+
+6
+
+Multiple correlation
+coefficient
+
+Sample determination
+coefficient
+
+0.490
+0.951
+
+0.790
+
+0.240
+
+0.207
+
+0.624
+
+0.608
+
+0.817
+
+0.800
+
+0.903
+
+0.960
+
+0.922
+
+0.943
+
+0.889
+
+0.904
+
+Multiple determination
+coefficient
+
+5.1 Main controlling factors of the effective
+porosity
+As shown in Table 6, the total content of clay minerals is
+negatively correlated with the effective porosity. Due to the fact
+that the clay minerals have small particles, the pores in clay
+minerals and clay aggregates are generally smaller than those
+in detrital minerals such as quartz and contribute little to the
+effective porosity (Fig. 5). The content of detrital minerals is
+positively correlated with the effective porosity because the
+detrital minerals have large particles and the intergranular pores
+of the large particles are generally large. These characteristics
+can also be found in the Barnett shale from the Fort Worth
+Basin, USA. Additionally, the content of carbonate minerals
+shows a weakly positive correlation with the effective porosity,
+while TOC is uncorrelated with the effective porosity.
+In the model 1, as shown in Table 7, the multiple determination
+coefficient is 0.207 and the significance probability is 0.013,
+smaller than 0.05, which suggests that this model has passed the
+significance test. The regression equation can be expressed as:
+y=-0.028x + 2.167
+
+(1)
+
+Where y denotes the effective porosity (%) and x denotes the total
+
+F value
+7.272
+
+0.895
+
+102.960
+
+0.919
+
+272.006
+
+0.878
+
+87.721
+
+38.176
+
+49.092
+
+Significance probability
+0.013
+0
+0
+
+0
+
+0
+
+0
+
+content of clay minerals (%). The content of detrital minerals
+is not included in eq. (1), because it has been eliminated in the
+stepwise regression method. The content of the detrital minerals
+is negatively correlated with the total content of clay minerals,
+with the Pearson correlation coefficient being -0.782.
+
+2.5
+
+Effective porosity/%
+
+Model
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+10
+20
+To ta l c
+o
+
+30
+n te n t o
+
+40
+60 80
+f c la y m 50
+in e ra l/
+%
+
+40
+50
+60
+s /%
+al
+70
+er
+in
+m
+l
+o f d et ri ta
+C o n te n t
+
+Fig. 5 Three-dimensional scatter plot of the total content of
+clay minerals, the content of detrital minerals VS the effective
+porosity
+
+185
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+5.2 Main controlling factors of the pore volume
+
+5.2.2 Mesopore volume
+
+5.2.1 Micropore volume
+
+As shown in Fig. 7, TOC is positively correlated with the
+mesopore volume, which is consistent with the findings of Li
+et al (2012). The Pearson correlation coefficient between the
+total content of clay minerals and mesopore volume is negative,
+because the Pearson correlation coefficient only considers the
+correlation between two parameters but neglects the effects
+of the other factors. Compared with the clay minerals, TOC
+imposes more significant controlling effects on the mesopore
+volume. Because TOC is negatively correlated with the total
+content of clay minerals (with the Pearson correlation coefficient
+of -0.546), the increase of TOC corresponds to the decrease of
+clay minerals, thus leading to the increase of mesopore volume
+that can make up the decrease of mesopore volume caused by
+the decline in clay minerals. Accordingly, the total content of
+clay minerals is negatively correlated with the mesopore volume.
+For the same TOC, the mesopore volume increases with an
+increase in the total content of clay minerals. Such an increasing
+tendency is quite obvious when TOC is less than 2%. When
+TOC is high, the content of organic matters is the principal
+factor that controls the development of mesopores, while the
+total content of clay minerals has little effects. The content
+of carbonate minerals is positively correlated with mesopore
+volume and the content of detrital minerals is uncorrelated with
+the mesopore volume.
+
+As shown in Fig. 6, TOC exhibits a strongly positive correlation
+with the micropore volume. Among the main controlling factors,
+TOC imposes the strongest effects on the micropore volume.
+The reason lies in the fact that when the organic matters are
+in a highly thermal maturation stage ( samples with an average
+Ro of 3.12%), micropores would be produced in the diagenesis
+reconstruction process, thus reducing the non-uniformity of
+pore surface (Ross and Bustin, 2009). The total content of clay
+minerals is negatively correlated with the micropore volume.
+For the same TOC, the micropore volume is reduced with an
+increase in the total content of clay minerals. This conclusion
+is consistent with the findings of Ross and Bustin (2009), as
+well as Yu et al (2012). For shales with poor organic matters
+but abundant clay minerals, the micropore volume is not
+subject to the content of organic matters but affected by the
+content of clay minerals. For shales with poor clay minerals,
+the micropore volume depends mainly on the TOC content. In
+the present study, the average content of clay minerals in the
+shale is 32.74%, much less than the content of detrital minerals.
+Additionally, the contents of carbonate minerals and detrital
+minerals have no obvious correlations with micropore volume.
+
+2.5
+
+15
+
+2.0
+
+Mesopore volume /(10 -3 mL·g -1 )
+
+Micropore volume/(10 -3 mL·g -1 )
+
+3.0
+
+1.5
+1.0
+0.5
+0
+0
+
+Fig. 6
+
+2
+
+4
+6
+T O C /%
+
+8
+
+10 60
+
+10
+20
+30
+40
+ra ls /%
+e
+in
+50
+m
+o f c la y
+o n te n t
+To ta l c
+
+5
+
+0
+0
+
+Three-dimensional scatter plot of TOC, the total content
+of clay minerals VS micropore volume
+
+In the model 2, as shown in Table 7, the multiple determination
+coefficient is 0.895 and the significance probability is close to 0,
+far smaller than 0.05, suggesting that the model has passed the
+significance test. The regression equation is highly significant
+and can be expressed as:
+y = 2×10-4 x1-4×10-7x2 +2×10-4
+
+(2)
+
+Where y denotes the micropore volume (mL/g), x1 denotes the
+TOC (%) and x2 denotes the total content of clay minerals (%).
+
+186
+
+10
+
+Fig. 7
+
+2
+
+4
+6
+T O C /%
+
+8
+
+10
+20
+30
+40
+e ra ls /%
+in
+50
+m
+y
+10 60
+o f c la
+o n te n t
+To ta l c
+
+Three-dimensional scatter plot of TOC, the total content
+of clay minerals VS mesopore volume
+
+In the model 3, as shown in Table 7, the multiple determination
+coefficient is 0.608 and the significance probability is close
+to 0, much less than 0.05, which suggests that the model has
+passed the significance test. The regression equation is highly
+significant and can be expressed as:
+y=-0.001x + 0.003
+
+(3)
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+5.2.3 Macropore volume
+As shown in Fig. 8, TOC is positively correlated with the
+macropore volume, suggesting that TOC is a main controlling
+factor for macropore volume. The total content of clay minerals
+is negatively correlated with the macropore volume. For the
+same TOC, the macropore volume decreases as the total content
+of clay minerals increases, indicating that the macropores
+are not developed in clay minerals. The content of carbonate
+minerals is positively correlated with the macropore volume.
+During late diagenesis, macropores may be formed in calcites
+and dolomites due to the dissolution effects. Additionally, the
+content of detrital minerals has a weakly positive correlation
+with the macropore volume, which is consistent with the
+findings of Yu et al (2012), Li et al (2012), Wu et al (2012) and
+Zeng et al (2013).
+In the model 4, as shown in Table 7, the multiple determination
+coefficient is 0.919, and the significance probability is close
+to 0, far less than 0.05, suggesting that the model has passed
+the significance test and the regression equation is highly
+significant. The regression equation can be expressed as:
+y = 5×10-4 x + 2×10-4
+
+(4)
+
+Where y denotes the macropore volume (mL/g) and x denotes
+the TOC (%).
+
+7
+
+Macropore volume /(10 -3 mL·g -1 )
+
+6
+5
+
+total pore volume. The Pearson correlation coefficient between
+the total content of clay minerals and total pore volume is
+negative, which is similar to the relationship between the total
+content of clay minerals and mesopore volume. TOC imposes
+greater effects on the total pore volume than the clay minerals
+does. Therefore the increase of total pore volume caused by the
+increasing TOC can offset the decrease caused by the decline
+in the total content of clay minerals. For the same TOC, the
+higher the total content of clay minerals is, the larger the total
+pore volume is. The content of carbonate minerals is positively
+correlated with the total pore volume, while the content of
+detrital minerals is slightly correlated with the total pore
+volume.
+In the model 5, as shown in Table 7, the multiple determination
+coefficient is 0.800, and the significance probability is close
+to 0. Similarly, the model has passed the significance test
+since the significance probability is far smaller than 0.05. The
+regression equation is highly significant and can be expressed as:
+y = 2×10-3x1 + 3.67×10-6 x2 + 4×10-3
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+4
+3
+
+Fig. 9
+
+2
+
+2
+
+4
+6
+T O C /%
+
+8
+
+10 60
+
+10
+20
+30
+ls /%
+40
+m in e ra
+50
+y
+la
+c
+f
+o
+o n te n t
+To ta l c
+
+Three-dimensional scatter plot of TOC, the total content
+of clay minerals VS total pore volume
+
+5.3 Main controlling factors of the BET specific
+surface area
+
+1
+0
+0
+
+Fig. 8
+
+(5)
+
+Where y denotes the total pore volume (mL/g), x1 denotes the
+TOC (%) and x2 denotes the total content of clay minerals (%).
+
+Total pore volume /(10 -3 mL·g -1 )
+
+Where y denotes the mesopore volume (mL/g) and x denotes
+TOC (%). The total content of clay minerals is not included in the
+equation because it has been removed in the stepwise regression
+process. Comparatively TOC plays a more significant role.
+
+2
+
+4
+T O C /%6
+
+8
+
+10
+20
+30
+40
+ra ls /%
+e
+50
+in
+m
+10 60
+o f c la y
+o n te n t
+To ta l c
+
+Three-dimensional scatter plot of TOC, the total content
+of clay minerals VS macropore volume
+
+5.2.4 Total pore volume
+As shown in Fig. 9, TOC has good positive correlation with the
+
+TOC shows a strongly positive correlation with the BET specific
+surface area, indicating that TOC is a main controlling factor of
+the BET specific surface area. This is because that pores are well
+developed in organic matters, resulting in a large specific surface area,
+as shown in Fig. 10. This conclusion is consistent with the findings of
+Ross and Bustin (2009). The Pearson correlation coefficient between
+the total content of clay minerals and the BET specific surface area
+is negative. As described above, TOC has more obvious and stronger
+
+187
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+controlling effects on the BET specific surface area than the clay
+minerals has. For shales with a relative low content of clay minerals
+and high TOC, the increase of the BET specific surface area induced
+by the increase of TOC can counteract the decrease of the BET
+specific surface area induced by the reduction of the total content of
+clay minerals. In other words, the total content of clay minerals is
+negatively correlated with the BET specific surface area. For the same
+TOC, the BET specific surface area tends to increase with the total
+content of clay minerals increase. This is due to the fact that the clay
+minerals generally have small particles and some clay minerals such
+as smectite have internal surfaces. The contents of carbonate minerals
+and detrital minerals show no obvious correlations with the BET
+specific surface area, because carbonate minerals and detrital minerals
+always have large particles and thus small specific surface areas.
+
+BET specific surface area /(m 2 ·g -1 )
+
+30
+25
+20
+15
+10
+5
+0
+0
+
+2
+
+4
+6
+T O C /%
+
+10
+20
+30
+40
+e ra ls /%
+in
+m
+50
+y
+10 60
+o f c la
+o n te n t
+To ta l c
+
+8
+
+Fig. 10 Three-dimensional scatter plot of TOC, the total content
+of clay minerals VS BET specific surface area
+
+GR /API
+0
+
+2200
+
+CAL /mm
+100
+
+210
+
+Depth/ m
+
+In the model 6, as shown in Table 7, the multiple determination
+RLLS / ( Ω · m )
+-200
+-50
+
+100 -200
+
+y = 2.454x1 + 0.009x2 + 1.833
+
+11000 0
+
+(6)
+
+Where y denotes the BET specific surface area (m /g), x1 denotes
+the TOC (%), and x2 denotes the total content of clay minerals (%).
+2
+
+6 Well-logging evaluation
+To further document the relationships between the characteristic
+parameters of the Niutitang shale and the geophysical
+exploration information and to explore the feasibility of welllogging method to evaluate the characteristic parameters of
+shale, logging data of Well Yuke-1 and Well Youke-1 were
+processed using a new generation of well-logging software
+CIFLog developed by PetroChina (Li et al., 2013). The primary
+computing methods refer to Reference Li (1989).
+Fig. 11 illustrates the logging interpretation results of Well Yuke1. Conventional log data are used in the study. The Niutitang shales
+have extremely shallow buried depths, indicating there is highly
+unlikely any viable oil and gas resource. The logging interpreting
+evaluation focused on the calculation of porosity, TOC and the
+total content of clay minerals. It can be observed that, although the
+Niutitang shales from Well Yuke-1 have low porosity, the calculated
+results of porosity based on the neutron log data are in good
+consistency with the core analysis results. Most significantly, it is
+more efficient to calculate the TOC using neutron log curve rather
+than using the natural gamma (GR) curve, suggesting that TOC of
+the sample from the shallow reservoir without oil and gas exhibits
+no obvious correlation with the total content of clay minerals.
+Figure 12 illustrates the logging interpretation results of Well
+Youke-1, in which the conventional log data are used. Different
+TOC 2 /%
+
+POR 2 /%
+100
+
+11000 0
+
+RLLD /(Ω·m)
+
+SP /mV
+
+coefficient is 0.878, and the significance probability is close to 0,
+far smaller than 0.05, suggesting that the regression has passed
+the test of significance. The model equation is highly significant
+and can be expressed as:
+
+TOC 1 /%
+
+POR 1 /%
+
+CN /%
+100 0
+
+5
+
+0
+70 0
+
+Lithologic section
+100
+
+50
+
+Porosity/%
+Mudstone
+content/%
+
+0
+100
+
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Dark gray silty mudstone
+
+Gray mudstone
+
+Gray black shale
+
+Light black carbonaceous shale
+
+Light gray limestone
+
+Sandy clays
+
+TOC1 and POR1 denote the calculated results of TOC and porosity based on neutron log curve, TOC2 and POR 2 denote the calculated
+results of TOC and porosity based on core analysis.
+
+Fig. 11 Comprehensive processing and interpretation results of the log data of Well Yuke-1
+
+188
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+AC /(μs·m -1 )
+
+UCGR /API
+0
+
+200
+
+0
+
+20
+
+CAL /cm
+6
+
+16
+
+Depth/m
+
+PEF
+
+1300
+
+Lithologic section
+
+130
+
+390
+
+DEN /(g·cm -3 )
+
+2000 0
+
+3 0.2
+
+2.5
+
+RXO /(Ω·m)
+
+CNL /%
+30
+
+0 0.2
+
+TOC 2 /%
+
+POR 2 /%
+
+RT /(Ω·m)
+
+POR 1 /%
+
+50
+
+TOC 1 /%
+
+50
+
+2000 0
+
+10 100
+10 0
+
+Porosity/%
+Mudstone
+content/%
+
+0
+
+100
+
+1310
+1320
+1330
+1340
+1350
+1360
+1370
+1380
+1390
+1400
+Dark gray calcareous argillaceous siltstone
+
+Gray dark silty shale
+
+Black carbonaceous silty shale
+
+Gray black carbonaceous shale
+
+TOC1 and POR1 denote the calculated results of TOC and porosity based on natural gamma curve and neutron log curve, respectively; TOC2
+and POR 2 denote the calculated results of TOC and porosity based on core analysis.
+
+Fig. 12 Comprehensive processing and interpretation results of the log data of Well Youke-1
+
+from that of Well Yuke-1, the Niutitang shales in Well Youke-1
+are located in depths of over 1300m below the ground. There is
+oil and gas shows in the Niutitang shales. However, the Niutitang
+shales in Well Youke-1 have low porosity, similar to that in Well
+Yuke-1, and the porosities calculated from neutron log data also
+have good consistency with the core analysis results. In addition,
+the calculated results of TOC based on the GR log have better
+consistency with the core analysis results than those based on the
+neutron log data, which is different from that of Well Yuke-1.
+
+7 Conclusions
+(1) The Niutitang shales in southeast Chongqing are mainly
+composed of detrital minerals and clay minerals as well as small
+amounts of carbonate minerals and pyrites. The detrital minerals occupy approximately 50%, which have a large proportion
+of quartzs and a small amount of feldspars (dominated by plagioclases); the clay minerals occupy approximately 1/3 of the
+total, in which chlorites, illites and I/S mixed layer minerals can
+be observed with illite being the main content of clay materials.
+There is a low content of carbonate minerals, mainly including
+calcites, dolomites and siderites, and pyrites are rare.
+(2) The Niutitang shales are characterized by extremely low
+porosity and permeability. The average total pore volume is 8.1
+×10 -3mL/g with the mesopore volume taking up approximately
+73% of the total pore volume, successively followed by macropores and micropores. The BET specific surface areas vary
+greatly among different samples and have an average value of
+7.75m2/g, while the average pore diameter is 5.3nm. The average
+TOC is 2.29% and the average value of Ro is 3.12%, suggesting
+that the shales are in over-maturity stage.
+(3) The total content of clay minerals is negatively correlated with
+the effective porosity. The content of detrital minerals is positively
+
+correlated with the effective porosity. The content of carbonate
+minerals exhibits a weakly positive correlation with the effective
+porosity. The micropore volume is positively correlated with TOC
+but negatively correlated with the total content of clay minerals. The
+mesopore volume is positively correlated with TOC, the contents
+of clay minerals and carbonate minerals. The macropore volume
+shows positive correlations with TOC and the content of carbonate minerals, but a weakly positive correlation with the content of
+detrital minerals and a negative correlation with the total content of
+clay minerals. The total pore volume is positively correlated with
+TOC, the total content of clay minerals and the content of carbonate minerals. In addition, the BET specific surface area is positively
+correlated with TOC and the total content of clay minerals. Most
+importantly, TOC is the main controlling factor that imposes the
+strongest effect on pore volume and BET specific surface area.
+(4) According to the well-logging evaluation results, it is feasible
+to determine the porosity and TOC of the Niutitang shales using the conventional well-logging method. The porosities of two
+wells calculated based on the neutron log data fit well with core
+analysis results. However, it should be noted that, for Well Yuke1, the calculated results of TOC based on GR curve exhibits no
+obvious correlation with core analysis results.
+
+Acknowledegments
+Cao is supported by the Chinese Scholarship Council. This
+research is supported by the National Basic Research Program
+of China(2012CB822000).
+
+References
+Chen S B, Zhu Y M, Wang H Y, et al. Characteristics and significance of
+mineral compositions of Lower Silurian Longmaxi Formation shale gas
+reservoir in the southern margin of Sichuan Basin. Acta Petrolei Sinica,
+
+189
+
+X. Cao et al./Petroleum Research (2016) 2,178-190
+
+2011, 32(5): 775-782 (in Chinese with English abstract).
+Chen S B, Zhu Y M, Wang H Y, et al. Research status and trends of shale
+gas in China. Acta Petrolei Sinica, 2010, 31(4): 689-694 (in Chinese
+with English abstract).
+Cheng A L, Huang W L. Selective adsorption of hydrocarbon gases on clays
+and organic matter. Organic Geochemistry, 2004, 35(4): 413-423.
+Clarksona C R, Bustin R M. The effect of pore structure and gas pressure
+upon the transport properties of coal: a laboratory and modeling study. 1.
+Isotherms and pore volume distributions. Fuel, 1999, 78(11): 1333-1344.
+Curtis J B. Fractured shale-gas systems. AAPG Bulletin, 2002, 86(11): 19211938.
+Dong D Z, Cheng K M, Wang Y M, et al. Forming conditions and
+characteristics of shale gas in the Lower Paleozoic of the Upper Yangtze
+region, China. Oil & Gas Geology, 2010, 31(3): 288-299 (in Chinese
+with English abstract).
+Dong D Z, Zou C N, Yang H, et al. Progress and prospects of shale gas
+exploration and development in China. Acta Petrolei Sinica, 2012,
+33(S1): 107-114 (in Chinese with English abstract).
+Huang Y Z, Huang J L, Ge C M, et al. A key factor promoting rapid
+development of shale gas in America: Technical progress. Natural Gas
+Industry, 2009, 29(5): 7-10 (in Chinese with English abstract).
+Jarvie D M, Hill R J, Ruble T E, et al. Unconventional shale-gas systems:
+The Mississippian Barnett Shale of north-central Texas as one model for
+thermogenic shale-gas assessment. AAPG Bulletin, 2007, 91(4): 475-499.
+Li J Z, Zheng M, Zhang G S, et al. Potential and prospects of conventional
+and unconventional natural gas resource in China. Acta Petrolei Sinica,
+2012, 33(S1): 89-98 (in Chinese with English abstract).
+Li J, Yu B S, Zhang J C, et al. Reservoir characteristics and their influence
+factors of the Lower Cambrian dark shale in northern Guizhou. Oil &
+Gas Geology, 2012, 33(3): 364-374 (in Chinese with English abstract).
+Li N, Wang C Z, Liu Y M, et al. CIFLog: the 3rd generation logging
+software based on Java-NetBeans. Acta Petrolei Sinica, 2013, 34(1):
+192-200 (in Chinese with English abstract).
+Li N. General forms of the resistivity porosity and resistivity-oil (gas)
+saturation relations, as well as the determination of their optimum
+approximation function types(I). Acta Geophysica Sinica, 1989, 32(5):
+580-592 (in Chinese with English abstract).
+Martini A M, Walter L M, Budai J M, et al. Genetic and temporal relations
+between formation waters and biogenic methane: Upper Devonian
+Antrim Shale, Michigan Basin, USA. Geochimica et Cosmochimica
+Acta, 1998, 62(10): 1699-1720.
+Mondol N H, Bjørlykke K, Jahren J, et al. Experimental mechanical compaction
+of clay mineral aggregates-changes in physical properties of mudstones
+during burial. Marine and Petroleum Geology, 2007, 24(5): 289-311.
+Nelson P H. Pore-throat sizes in sandstones, tight sandstones, and shales.
+AAPG Bulletin, 2009, 93(3): 329-340.
+Nie H K, Tang X, Bian R K. Controlling factors for shale gas accumulation
+and prediction of potential development area in shale gas reservoir of
+South China. Acta Petrolei Sinica, 2009, 30(4): 484-491 (in Chinese
+with English abstract).
+Nie H K, Zhang J C, Li Y X. Accumulation conditions of the Lower
+Cambrian shale gas in the Sichuan Basin and its periphery. Acta Petrolei
+Sinica, 2011, 32(6): 959-967 (in Chinese with English abstract).
+Ross D J K, Bustin R M. Characterizing the shale gas resource potential of
+Devonian Mississippian strata in the western Canada sedimentary basin:
+application of an integrated formation evaluation. AAPG Bulletin,
+
+190
+
+2008, 92(1): 87-125.
+Ross D J K, Bustin R M. The importance of shale composition and pore
+structure upon gas storage potential of shale gas reservoirs. Marine and
+Petroleum Geology, 2009, 26(6): 916-927.
+Rouquerol J, Avnir D, Fairbridge C W, et al. Recommendations for the
+characterization of porous solids, International Union of Pure and
+Applied Chemistry. Pure Applied Chemistry, 1994, 66(8): 1739-1758.
+Sichuan Provincial Bureau of Geology (SPBG). The People’s Republic of
+China regional geological survey report (mapsheet of Nanchuan). Num
+107 Geological Team, 1977 (in Chinese).
+SY/T 6285-1997. The oil and gas industry standard of the People’s Republic
+of China: Evaluating methods of oil and gas reservoirs. Beijing:
+Petroleum Industry Press, 1998(in chinese).
+Tian H, Zhang S C, Liu S B, et al. Determination of organic-rich shale pore
+features by mercury injection and gas adsorption methods. Acta Petrolei
+Sinica, 2012, 33(3): 419-427 (in Chinese with English abstract).
+U. S. Energy Information Administration(EIA). Technically Recoverable
+Shale Oil and Shale Gas Resources: An Assessment of 137 Shale
+Formations in 41 Countries Outside the United States. U. S. Department
+of Energy, 2013.
+Wu J S, Yu B S, Li Y X. Adsorption capacity of shale gas and controlling
+factors from the Well Yuye 1 at the southeast of Chongqing. Journal of
+Southwest Petroleum University: Science & Technology Edition, 2012,
+34(4): 40-48 (in Chinese with English abstract).
+Xie C, Zhang J C, Li Y X, et al. Characteristics and gas content of the Lower
+Cambrian dark shale in Well Yuke 1, Southeast Chongqing. Oil & Gas
+Geology, 2013, 34(1): 11-15 (in Chinese with English abstract).
+Xue H Q, Wang H Y, Liu H L, et al. Adsorption capability and aperture
+distribution characteristics of shales: taking the Longmaxi Formation
+shale of Sichuan Basin as an example. Acta Petrolei Sinica, 2013, 34(5):
+826-832 (in Chinese with English abstract).
+Yang F, Ning Z F, Hu C P, et al. Characterization of microscopic pore
+structures in shale reservoirs. Acta Petrolei Sinica, 2013, 34(2): 301-311
+(in Chinese with English abstract).
+Yu B S. Particularity of shale gas reservoir and its evaluation. Earth Science
+Frontiers, 2012, 19(3): 252-258 (in Chinese with English abstract).
+Yu H F. Survey and Evaluation of National Shale Gas Resource Potential
+and Favorable Area Optimization Achievement Press Conference. 1
+March, 2012< http://www.mlr.gov.cn/wszb/2012/yyqzy> (in Chinese).
+Zeng Q N, Yu B S, Li Y F. Reservoir characteristics and their controlling
+factors of the Yanchang Formation shale in southeast of Ordos Basin.
+Special Oil & Gas Reservoirs, 2013, 20(1): 23-26 (in Chinese with
+English abstract).
+Zhang J C, Jiang S L, Tang X, et al. Accumulation types and resources
+characteristics of shale gas in China. Natural Gas Industry, 2009, 29(12):
+109-114 (in Chinese with English abstract).
+Zhao Y, Yang H B. Development status and key factors of successful
+development of shale gas. Sino-Global Energy, 2011, 16(7): 47-50 (in
+Chinese with English abstract).
+Zhou Z Y, Pan C C. Sedimentary basin palaeogeothermal determination
+method and its application. Guangzhou: Guangdong Science and
+Technology Press, 1992: 1-225 (in Chinese).
+Zou C N, Zhu R K, Wu S T, et al. Types, characteristics, genesis and prospects
+of conventional and unconventional hydrocarbon accumulations: taking
+tight oil and tight gas in China as an instance. Acta Petrolei Sinica, 2012,
+33(2): 173-187 (in Chinese with English abstract).
+
+

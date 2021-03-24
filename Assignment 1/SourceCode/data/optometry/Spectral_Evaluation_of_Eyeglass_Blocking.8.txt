@@ -1,0 +1,1152 @@
+ORIGINAL INVESTIGATION
+
+Spectral Evaluation of Eyeglass Blocking Efficiency of
+Ultraviolet/High-energy Visible Blue Light for Ocular Protection
+Steven A. Giannos, MS,1* Edward R. Kraft,1 Lance J. Lyons, MD,1 and Praveena K. Gupta, OD, PhD1
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 10/31/2020
+
+SIGNIFICANCE: We investigated, for safety and awareness, ultraviolet and high-energy violet light–blocking
+protection provided by assorted types of eyewear. Ultraviolet and high-energy violet light–filtering efficiency
+varied and did not correlate with price or advertised claims. Standardization of methods and specifications for
+lens spectral transmission evaluation is recommended.
+PURPOSE: Studies have linked exposure of high-energy visible blue light to effect and damage on retinal epithelial
+cells, photoreceptors, and ganglion cells. “Blue light” is more accurately differentiated into “high-energy visible
+blue-violet light” and “circadian rhythm blue-turquoise light.” This study measured and compared spectral transmission of ultraviolet and high-energy violet light of low-, medium-, and high-priced sunglasses.
+METHODS: Sunglasses and lens blanks were obtained from the University of Texas Medical Branch Optical Shop
+and vendors. Groups were based on promotional, retail, designer sunglasses, or “blue blocker” lenses. The percent
+transmittance of ultraviolet/visible spectral scans (800 to 350 nm) was measured using an Agilent Cary 50 spectrophotometer. High-energy violet/blue light was defined as 400 to 450 nm.
+RESULTS: Promotional sunglasses (tinted polycarbonate) blocked 100% ultraviolet and 67 to 99.8% high-energy
+violet blue light. Retail sunglasses filtered out 95 to 100% ultraviolet A and 67% high-energy violet light. The
+tested designer sunglasses varied widely in their optical transmissibility with respect to their ultraviolet A and
+high-energy violet light–blocking properties, with some not blocking ultraviolet A. Clear and colorless Kodak Total
+Blue provided maximal high-energy violet protection, whereas clear Essilor Crizal Prevencia provided less highenergy violet blocking between 400 and 450 nm.
+CONCLUSIONS: The ultraviolet and high-energy violet (400 to 450 nm) light–filtering efficiency varied between
+sunglasses and clear lenses and did not correlate with price or advertised claims. Standardization of methods
+and specifications for lens spectral transmission evaluation is recommended.
+
+Author Afﬁliations:
+1
+Department of Ophthalmology and
+Visual Sciences, University of Texas
+Medical Branch, Galveston, TX
+*stgianno@utmb.edu
+
+Optom Vis Sci 2019;96:513–522. doi:10.1097/OPX.0000000000001393
+Copyright © 2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Optometry.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives
+License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+Supplemental Digital Content: Direct URL links are provided within the text.
+
+Long-term sunlight exposure is known to be associated with the
+development of skin cancer, skin aging, immune suppression, and
+eye diseases such as cataracts and age-related macular degeneration.1,2 For decades, it has been established that ultraviolet
+radiation ranging from 100 to 400 nm is harmful to the retina,
+whereas the visible spectrum of light from 400 to 700 nm is relatively safe.3–5 Ultraviolet light is electromagnetic radiation with
+wavelengths ranging from 100 to 400 nm. The earth's atmosphere
+absorbs almost all of ultraviolet C (100 to 280 nm) and most of ultraviolet B (280 to 315 nm) light. Ultraviolet A (315 to 400 nm),
+visible light (380 to 760 nm), and infrared (>760 nm) are able to
+reach the earth's surface.6
+Three critical ocular structures are affected by ultraviolet exposure: the cornea, the lens, and the retina. The cornea transmits radiant energy only at 295 nm or greater. The crystalline lens absorbs
+almost all incident energy to wavelengths of nearly 400 nm. In
+youth, a very small amount of ultraviolet A reaches the retina, but
+the lens becomes more absorbing with age.7 The absorptive characteristics of the human lens vary drastically with age. The young
+www.optvissci.com
+
+lens absorbs primarily ultraviolet A, whereas with age, there are increases in absorptions at 320 nm and out to wavelengths as long as
+550 nm.8 The cornea is responsible for absorbing and filtering the
+shortest and thus most energetic ultraviolet radiation (ultraviolet C,
+<280 nm). For radiation that penetrates through the cornea, the
+aqueous humor absorbs a moderate amount of light between
+280 and 360 nm, as well as light in the long infrared range
+(1200 to 2300 nm). This combination with pupillary constriction
+narrows the spectrum and decreases irradiance onto the intraocular tissues.9 In phakic eyes, the cornea is the dominant ultraviolet
+B–protective filter, and the lens is the dominant ultraviolet A filter
+of the retina.10 Thus, there are intraocular filters that effectively
+filter different parts of the ultraviolet spectrum and allow only of
+the order of 1% or less to actually reach the retina.7 However,
+studies are now emerging to show that the so-called nonharmful
+visible light spectrum of light can also cause retinal injury via
+photochemical damage.
+Chronic exposure to short-wavelength blue light, known as “highenergy visible” light, can potentiate harmful effects on retinal
+
+Optom Vis Sci 2019; Vol 96(7)
+
+513
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+epithelial cells,11,12 photoreceptors,13,14 and ganglion cells.15
+Much of this work has been done in vitro, in cell cultures, and at intensities and/or exposure durations that are much greater than the
+typical person is expected to experience. These results show that
+there are ocular effects from blue light, but the in vitro results
+may not fully translate to real-world conditions. However, recent
+in vivo studies have examined retinal damage from blue light in rats
+and mice,16–18 and human clinical experience is being reviewed
+and reported.19,20
+Blue light is a range of the visible light spectrum, generally recognized as having a wavelength between 400 and 495 nm. Typical
+descriptions of hue are violet for 400 to 450 nm; blue, near 470 nm;
+and blue green, 480 to 495 nm.21 The shorter wavelengths, those
+between 400 and 450 nm, have more energy, with 400 to 425 nm
+having the highest level of energy.
+In 2013, researchers with Essilor of America, Inc., and the Paris
+Vision Institute, studying narrow bands of wavelengths, found that
+blue-violet light was the most harmful to porcine retinal pigment
+epithelium cells, as it caused the most cell death.22 The Beaver
+Dam Eye Study, a population-based cohort study, measured the
+amount of sunlight exposure and incidence of age-related macular
+degeneration in 2764 subjects during a 10-year period.23 They
+found that extended sunlight exposure was associated with higher
+incidence of early age-related macular degeneration. However,
+the protective effect of sunglasses was only marginal, and the data
+were reported on a subjective basis.24 Subsequent studies have
+shown protective benefits of high-energy violet light blocking.25–30
+Age-related macular degeneration may be attributed to accumulated oxidative stress over time.12 This oxidative stress is due
+to a cumulative effect of the following factors: ultraviolet and
+high-energy visible light generating free radicals (also known as reactive oxygen species), more retinal exposure to high-energy violet
+light in ages 1 to 40 years, and increased exposure to high-energy
+visible light from electronic devices. The combination of blue light
+exposure from sunlight and low plasma concentrations of antioxidants has been found to be associated with the early stages of
+age-related macular degeneration, which are common in the population, and that blue light exposure in middle age might be more
+damaging than that in younger ages.31
+Blue light is more accurately differentiated into “high-energy
+visible blue-violet light” (400 to 450 nm) and “circadian rhythm
+blue-turquoise light” (460 to 470 nm).32–35 The spectral sensitivity of acute melatonin suppression, a marker of the circadian clock,
+ranges from 447 to 484 nm36 and peaks close to 460 nm.37 Light
+exposure and chronodisruption have been reviewed by BonmatiCarrion et al.38 In addition, a recent review of clinical studies shows
+that a 2-hour exposure to light (460 nm) in the evening suppresses
+melatonin. The maximal melatonin suppressing the effect of light
+exposure is achieved at the shortest wavelengths (424 nm).
+Melatonin concentration recovers, however, rather rapidly, within
+15 minutes from cessation of the exposure. This suggests a shortterm or simultaneous impact of the light exposure.39
+The useful range for color vision in humans is approximately
+450 to 650 nm. High-energy visible light is high-frequency, highenergy light in the violet-blue band of the visible spectrum from
+400 to 450 nm. High-energy visible light is found in sunlight as
+well as in artificial light sources such as fluorescent and lightemitting diode lighting, smartphones, tablets, laptops, televisions,
+and many other electronic devices. Several comprehensive reviews
+have described and detailed ocular phototoxicity both from sunlight and from artificial lighting.3,40–42 Epidemiological studies
+www.optvissci.com
+
+have also correlated sunlight exposure with early stages of macular
+degeneration.23,43 In addition, short-wavelength light is considered to be the most harmful light of the visible spectrum because
+it generates reactive oxygen species leading to pathogenesis of
+retinal diseases such as age-related macular degeneration.44
+Ideally, a good portion of the ultraviolet radiation is filtered by
+the ocular structures, leaving only a small amount to reach the retina. However, the so-called blue light reaches the retina if not
+obstructed by any optical devices. Early studies of protective eyewear for psoralen and ultraviolet A therapy, focusing on ultraviolet
+and visible light, were conducted by Moseley45 and Moseley et al.46
+in the 1980s. Reichow et al.47 reviewed some of the physical and
+spectral characteristics that eyewear (retail and designer) should
+have to protect the wearer from ultraviolet and high-energy violet
+light. In 2016, Chorley et al.48 studied sunglass protection for civilian pilots and found that lenses manufactured to minimally comply
+with standards for ultraviolet transmittance could result in excess
+ultraviolet exposure to a pilot based on in-flight irradiance data.
+Ophthalmic devices and intraocular implants do filter out broadband of ultraviolet/visible blue light unselectively, thus inducing
+unwanted effects on circadian rhythm or color perception. Because
+there exists limited information of specific wavelength filtering
+mechanisms, in many of such devices, people often rely on expensive eyewear thinking that they are more efficient in blocking the
+harmful short-wavelength light spectra.
+The present study investigates the optical transmissibility of
+representative low-, medium-, and high-priced sunglasses, as well
+as clear, colorless eyewear and lenses to assess the spectral wavelength cutoff. Our interests were to determine the high-energy
+violet light–protective capability of sunglasses in general and to
+test if expensive sunglasses were superior in ultraviolet and highenergy violet light protection compared with less expensive
+models. We also had the opportunity to test “blue blocker” lenses,
+as well as clear-coated lenses, marketed for high-energy violet light
+blockage, and evaluated them relative to their attenuation characteristics for the short-wavelength light visible light. We intentionally focused on the high-energy violet light wavelength range of
+400 to 450 nm, as it carries high-energy frequency and can potentiate a detrimental disruption of cellular structure.
+
+METHODS
+Sunglasses and lens blanks were obtained from the University
+of Texas Medical Branch Optical Shop and outside vendors
+(n = 28). Details were taken from each pair of sunglasses or lens
+blank, including manufacturer, model, and details of whether the
+lenses were polarized or have antireflective coating and suggested
+price (Table 1). Promotional sunglasses were obtained from Hitpromo.
+net (Largo, FL). The sunglasses and lenses were divided into five
+separate groups, as shown hereinafter. Each group represented a
+particular price category of sunglasses or lens of interest and was
+recorded as low-, medium-, or high-priced sunglasses; lens blank;
+or blue blocker lenses. An additional group, group 6, compared lens
+data collected from the previous groups that are clear and may be
+used indoors and for electronic device viewing.
+Group 1: low price (promotional sunglasses, free, $3.31)
+Group 2: medium price (retail sunglasses, $10 to 40)
+Group 3: high price (designer sunglasses, $200 to 350)
+Group 4: lens blanks (demo and display lenses)
+
+Optom Vis Sci 2019; Vol 96(7)
+
+514
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+TABLE 1. List of sunglasses and lenses tested
+Sample no. Group
+
+Type/brand
+
+Ultraviolet B/ultraviolet
+A protection claim (%) Price (U.S. $)
+
+Material
+
+Description
+
+1
+
+1
+
+Promo Black/Black
+(No. 6223 Malibu Sunglasses)
+
+Polycarbonate
+
+100/100
+
+3.31
+
+Promotional sunglasses
+
+2
+
+1
+
+Promo Black/Yellow (No. 4000
+Rubberized Sunglasses)
+
+Polycarbonate
+
+100/100
+
+3.31
+
+Promotional sunglasses
+
+3
+
+1
+
+Promo Orange/Orange
+(No. 6223 Malibu Sunglasses)
+
+Polycarbonate
+
+100/100
+
+3.31
+
+Promotional sunglasses
+
+4
+
+1
+
+Promo Black/Blue (No. 4000
+Rubberized Sunglasses)
+
+Polycarbonate
+
+100/100
+
+3.31
+
+Promotional sunglasses
+
+5
+
+1
+
+Promo Red/Red (No. 4000
+Rubberized Sunglasses)
+
+Polycarbonate
+
+100/100
+
+3.31
+
+Promotional sunglasses
+
+2, 5 Noir UV Shield 22 (Frame No. U)
+
+Polycarbonate
+
+100/100
+
+39.95
+
+Retail sunglasses
+
+6
+7
+
+2
+
+Solar Shield Night Drivers, Lumen
+Black/Yellow
+
+Polycarbonate
+
+100/100
+
+12.95
+
+Retail sunglasses
+
+8
+
+2
+
+Haven Amcon Fitover
+Optify MS-7050 Black/Gray
+
+Polycarbonate
+
+100/100
+
+35.00
+
+Retail sunglasses
+
+9
+
+2
+
+Haven Amcon Fitover
+Optify MS-7051 P Black/Gray
+
+Polycarbonate
+
+100/100
+
+35.00
+
+Retail sunglasses
+
+10
+
+3
+
+Designer Ray-Ban RB4194 Green
+
+Polycarbonate
+
+100/100
+
+145.00
+
+Designer sunglasses
+
+11
+
+3
+
+Designer Ray-Ban RB3016 Green
+
+Polycarbonate
+
+100/100
+
+235.00
+
+Designer sunglasses
+
+12
+
+3
+
+Designer Ray-Ban RB2132 P Green
+
+Polycarbonate
+
+100/100
+
+280.00
+
+Designer sunglasses
+
+13
+
+3
+
+Designer Costa Brine P Green Mirror
+
+501 glass
+
+100/100
+
+239.00
+
+Designer sunglasses
+
+14
+
+3
+
+Designer Maui Jim Peahi Redfish 202
+
+SuperThin glass
+
+100/100
+
+229.00
+
+Designer sunglasses
+
+15
+
+3
+
+Designer Prada PR 07PS Havana
+
+Polycarbonate
+
+100/100
+
+270.00
+
+Designer sunglasses
+
+16
+
+4, 6 Essilor Crizal No Glare Treated
+(clear, colorless)
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+17
+
+4, 6 Essilor Crizal No Glare Untreated
+(clear, colorless)
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+18
+
+4, 6 Essilor Crizal Prevencia
+(clear, colorless)
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+100/90
+
+Lens blank
+
+19
+20
+
+4
+
+Essilor Xperio
+
+4
+
+Essilor Xperio (Tinted)
+
+21
+
+4, 6 CR-39 Lens AR Coating
+(clear, colorless)
+
+22
+
+4, 6 Prestige Medical Safety Glasses
+(5400-F-GLA; clear, colorless)
+
+Poly(allyl diglycol carbonate)
+Polycarbonate
+
+100/100
+
+9.95
+
+Laboratory safety
+glasses
+
+Polycarbonate
+
+100/100
+
+29.95
+
+Retail sunglasses
+
+23
+
+5
+
+BluBlocker White Aviator 2699K
+
+24
+
+5
+
+BluTech Lenses Hi Impact Indoor AR
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+25
+
+5
+
+BluTech Lenses Hi Impact Outdoor AR
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+26
+
+5
+
+BluTech Lenses Polycarb Outdoor P
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+27
+
+5
+
+BluTech Lenses Polycarb Indoor
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+Polycarbonate
+
+100/100
+
+Lens blank
+
+28
+
+5, 6 Kodak Total Blue Lens
+(clear, colorless)
+
+Detailed are the type/brand of the lens, the testing group, the lens material, the manufacturer's ultraviolet A/ultraviolet B claim, the suggested sales price
+of the sunglass, and a description of the sunglass or lens blank. AR = antireflective coating; P = polarized.
+
+Group 5: blue blocker lenses (designed to filter blue light)
+Group 6: clear, colorless lenses
+
+Spectral transmission through the sample lenses was measured
+using an Agilent Cary 50 spectrophotometer (Varian, Mulgrave,
+www.optvissci.com
+
+Victoria, Australia) adapted to provide a positioning stage within
+the light beam pathway. A stage/mounting bracket was used so that
+the lens material was perpendicular to the beam path. The bracket
+provided a uniform distance between the light source and the light
+sensor, with the ability to measure three distinct positions on the
+
+Optom Vis Sci 2019; Vol 96(7)
+
+515
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+lens. Spectrophotometer baseline correction was performed from
+800 to 350 nm to negate the spectrophotometer transmission error
+measurements throughout the test range. Transmission normalization
+to 100% transmission (0% absorption) was performed at 800 nm on
+each lens before each measurement to normalize the neutral density filtering characteristics of each lens to allow for lens-to-lens
+comparison in the range of interest. Spectral scans were taken from
+800 to 350 nm with data collection points at every 1.0 ± 0.13 nm.
+Each lens was scanned at three separate, individual points on the
+lens surface, and the results were averaged for that lens. Commaseparated value data files were recorded and imported to Microsoft
+Excel (Microsoft Corporation, Redmond, WA) to prepare spectral
+scan graphs for comparison. Results are reported as percent transmission wherein 100% transmission corresponds to absorption of
+0.00 optical density.
+
+RESULTS
+The percent spectral transmission data were obtained from
+spectrophotometer scans and are reported between wavelengths
+400.03 and 449.98 nm. Appendix Table 1 (Supplemental Digital
+Content, available at http://links.lww.com/OPX/A405) shows these
+data, for the sake of brevity, at every 1.99 ± 0.0566-nm increment
+for each group as described in METHODS. Each lens, having been
+scanned at three separate, individual points on the lens surface,
+showed a variation of standard deviation of ±0.4% or less. Five promotional sunglasses, sourced from the same vendor, are shown in
+Supplemental Digital Content, Appendix Table 1, as individual scans
+and as an average with standard deviation. The wavelengths, 400 to
+450 nm, are high-energy violet light that presents the greatest
+risk to ocular tissue. This spectral range is also emphasized as a
+shaded area in the following figures.
+
+Group 1: Promotional Sunglasses
+Five promotional sunglasses (samples 1 to 5, shown in Fig. 1)
+were scanned from 800 to 350 nm. All five of the tested sunglasses
+essentially blocked 100% of ultraviolet light up to 400 nm and
+filtered an average of 72.5% (±6.1%) of the high-energy violet
+light at 426 nm, with a decreasing gradient to blocking of approximately 67.0% (±11.5%) of the high-energy violet light at 450 nm.
+
+Group 2: Retail Sunglasses
+In group 2, the four retail sunglasses tested blocked approximately 95 to 100% of the ultraviolet light with much improved
+high-energy violet light–filtering capability when compared with
+the promotional sunglasses on average (Fig. 2). Although the Solar
+Shield Night Drivers (FGX International, Smithfield, RI) provided
+the best protection for harmful light blocking, surprisingly it failed
+to block 100% of the ultraviolet light, with 0.19% transmittance at
+389 nm, increasing to 5.6% transmittance at 400 nm. When noted
+for the 400- to 426-nm range, the Solar Shield lenses were fairly
+stable to block high-energy violet light, ranging from 94.4 to
+86.2%, respectively. Also observed was that the Haven Optify
+MS-7050 (FGX International) and the Noir UV Shield 22 (Noir Medical, South Lyon, MI) provided 100% ultraviolet light blockage and
+performed similarly in the high-energy violet range of 426 nm,
+blocking 81.7 and 73.9%, respectively. At 450 nm, the Noir UV
+Shield 22 blocked 64.2%, Solar Shield Night Drivers blocked
+82.5%, Haven Optify MS-7050 blocked 75.4%, and Haven Optify
+MS-7051 P blocked 62.8%.
+
+Group 3: Designer Sunglasses
+As depicted in Fig. 3, expensive designer sunglasses varied
+widely in their optical characteristics of their ultraviolet and highenergy violet light attenuation. Of interest, the percent transmission
+of the Costa Brine P (Costa, Daytona Beach, FL) and Maui Jim Peahi
+
+FIGURE 1. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 1 (low-cost promotional sunglasses). The average
+of the five scans is shown in black. The wavelengths, 400 to 450 nm, are high-energy violet light that presents the greatest risk to ocular tissue. This
+spectral range is emphasized as a shaded area.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(7)
+
+516
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+FIGURE 2. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 2 (medium-cost retail sunglasses). The average of
+group 1 (low-cost promotional sunglasses), shown in black, is added for comparison. The wavelengths, 400 to 450 nm, are high-energy violet light that
+presents the greatest risk to ocular tissue. This spectral range is emphasized as a shaded area.
+
+Redfish (Maui Jim Lahaina, HI) showed the greatest protection,
+blocking out 100% ultraviolet A and approximately 94% high-energy
+violet light at 418 nm and a little more than 90% high-energy violet
+light at 426 nm. Ray-Ban RB2132P (Ray Ban, Luxottica Group,
+
+Milan, Italy) blocked ultraviolet A light but did not block wavelengths of 403 nm and greater. To our surprise, the remainder of
+the designer sunglasses did not absorb either ultraviolet A or highenergy violet light efficiently. Of note, Ray-Ban RB4194 and
+
+FIGURE 3. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 3 (high-cost designer sunglasses). The average of
+group 1 (low-cost promotional sunglasses), shown in black, is added for comparison. The wavelengths, 400 to 450 nm, are high-energy violet light that
+presents the greatest risk to ocular tissue. This spectral range is emphasized as a shaded area.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(7)
+
+517
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+Ray-Ban RB3016 transmitted wavelengths of 380 nm and greater,
+and Ray-Ban RB2132P and Prada PR 07PS Havana (Luxottica
+Group) blocked only 73% high-energy violet light when measured
+at 426 nm. At 450 nm, Ray-Ban RB4194 blocked only 57.4%,
+Ray-Ban RB3016 blocked 70.7%, Ray-Ban RB2132P blocked
+74.1%, Costa Brine P blocked 88.9%, Maui Jim Peahi Redfish
+blocked 90.7%, and Prada PR 07PS Havana blocked 77.0%.
+
+Group 4: Lens Blanks Series
+The percent transmissions of spectral scans of clear and demo/
+display lens blanks are shown in Fig. 4. Essilor Crizal No Glare (clear,
+treated, and untreated; Essilor of America, Inc., Dallas, TX) and
+CR-39 display lenses showed minimal blocking of ultraviolet light
+(54.7 to 58.7% transmittance at 380 nm and 90.7 to 96.8%
+transmittance at 400 nm). There was also minimal blocking of
+high-energy violet light (90 to 100% transmittance) at wavelengths
+of 400 to 426 nm. This was expected because the lenses were only
+demonstrating no-glare or antireflective coatings. The Prestige Medical Safety Glasses (laboratory safety glasses; Prestige Medical,
+Northridge, CA) did not block ultraviolet or high-energy violet light
+effectively either. Essilor Xperio Tinted lenses blocked 100% ultraviolet and 99.9 to 73.1% high-energy violet light between 400 and
+426 nm, similar to the promotional sunglasses. However, the Essilor
+Xperio lens did not block 100% ultraviolet light but blocked only
+90.7 to 59.2% high-energy violet light between 400 and 426 nm.
+The transmission of the Essilor Crizal Prevencia was interesting because it blocked 100% ultraviolet light up to only 370 nm. After
+370 nm, there was a sharp rise allowing for 0.01 to 74.6% ultraviolet light transmittance up to 400 nm. Between 400 and 426 nm,
+the transmittance increased from 74.6 to 91.7%, respectively.
+
+Group 5: Blue Blockers
+Group 5 included sunglasses and blank lenses that are purposely designed and sold as lenses that block ultraviolet and “blue
+light.” Although all of the tested lenses blocked 100% ultraviolet
+
+light and 96% high-energy violet light up to 412 nm (Fig. 5), the
+BluBlocker sunglasses (BluBlocker Corporation, Las Vegas, NV)
+blocked 100% visible light up to 495 nm. Some efficiency in blue
+light blocking was shown by Noir UV Shield 22 sunglasses that blocked
+100 to 74.3% high-energy violet light between 400 and 426 nm.
+The BluTech Hi Impact Indoor Anti-reflective lens (BluTech
+LLC, Alpharetta, GA) blocked 100 to 38.4% high-energy violet
+light between 400 and 426 nm, whereas the BluTech Hi Impact
+Outdoor Anti-reflective lens blocked 100 to 96.4% high-energy violet light between 400 and 426 nm. When compared between the
+BluTech Polycarbonate Indoor lens and the BluTech Polycarbonate
+Outdoor Polarized lens, the indoor lens blocked 100 to 52.2% highenergy violet light, whereas the outdoor lens blocked approximately
+100 to 88.2% high-energy violet light in the 400- to 426-nm range.
+The Kodak Total Blue (clear and colorless; Kodak, Signet Armorlite,
+Inc., Carlsbad, CA) blocked 100% ultraviolet light and 100 to 89%
+high-energy violet light between 400 and 420 nm and 72.9% at
+426 nm. In addition, the Kodak Total Blue lens allows for 90% or
+more transmittance of light for wavelengths greater than 450 nm.
+
+Group 6: Clear Lens Series
+Data from Figs. 4 and 5 were combined to produce Fig. 6, which
+highlights the high-energy violet light–blocking quality of various
+clear and colorless lenses. Kodak Total Blue blocked 100 to 89%
+high-energy violet light between 400 and 420 nm and 72.9% at
+426 nm. Essilor Crizal Prevencia blocked only 25.4 to 8.3%
+high-energy violet light between 400 and 426 nm. Results for the
+other lenses are described previously in group 4 lens blanks series.
+
+DISCUSSION
+The danger from ultraviolet light is well known. High-energy
+violet light is being investigated increasingly as a hazard to ocular
+tissues.11,44 It may also be a risk factor for macular degeneration
+and other pathologies.19,49
+
+FIGURE 4. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 4 (lens blanks and demo lenses). The wavelengths,
+400 to 450 nm, are high-energy violet light that presents the greatest risk to ocular tissue. This spectral range is emphasized as a shaded area.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(7)
+
+518
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+FIGURE 5. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 5 (blue blocker lenses). The wavelengths, 400 to
+450 nm, are high-energy violet light that presents the greatest risk to ocular tissue. This spectral range is emphasized as a shaded area.
+
+Most glasses and sunglasses feature a plastic (polycarbonate
+and Trivex) lens, which inherently protects the eyes from ultraviolet
+light. Most sunglass lenses absorb ultraviolet radiation to 400 nm
+(ultraviolet B, 280 to 315 nm; ultraviolet A, 315 to 400 nm) owing
+to ultraviolet light stabilizers incorporated in the plastic. The ultraviolet
+absorbers (benzotriazoles and hydroxyphenyltriazines for polycarbonate) prevent deterioration of physical properties such as loss of impact strength, changes in color, cracking, crazing, and others.50
+Protection from harmful ultraviolet light is assumed through
+international standards such as International Organization for
+
+Standardization 12311:2013 and 8980 and American National
+Standards Institute Z80.3 (2013 and 2015). The American ultraviolet
+light cutoff is 380 nm. Additional standards—European, Australian/
+New Zealand, Canadian, and Brazilian—are also available.51–53
+The European ultraviolet light cutoff is 380 nm, whereas the Canadian,
+Australian/New Zealand, and Brazilian cutoff is 400 nm. All of the
+lenses tested in this study met the general standards specification
+of blocking 100% of ultraviolet A light less than 380 nm.
+The present study was undertaken from the perspective of public health and “preventive measure,” to understand optimum lens
+
+FIGURE 6. Ultraviolet/visible spectrophotometric scans comparing the percent transmission of group 6 (clear, colorless lenses). The wavelengths,
+400 to 450 nm, are high-energy violet light that presents the greatest risk to ocular tissue. This spectral range is emphasized as a shaded area.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(7)
+
+519
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+optical filter properties that protect ocular tissues from photochemical damage. Similar studies have recently been conducted to assess sunglass filtering properties and relative cost.51,54,55 Our
+focus was to determine the spectral transmission properties of various sunglasses and eyeglass lenses and compare the wavelength
+cutoff gradient for those lenses.
+The measurement of the actual amount of a particular wavelength of light falling onto or entering the eye and reaching the retina is complicated. Various factors such as relative lens tinting,
+side transmission of stray light, lens optical grinding (with resulting
+thickness variations), and the selected eyeglass frames and position of the lens over the eye impact the temporal size of the pupil,
+which determines the amount of light entering the eye. Because
+the pupil response is most sensitive to visible light, conventional
+sunglasses may allow for pupil dilation in proportion to the darkness of the sunglasses and increased intraocular insolation.56,57
+Therefore, light transmission wavelength measurements of a specific lens material may not predict real-world conditions when the
+lens material is incorporated into the eyeglass or sunglass.
+Sunglass and clear optical lenses may comprise several spectral
+bands of light filtration. The neutral density filtering property of
+each lens dictates the overall optical filtering that determines the
+lightness or darkness of the lens over the entire spectral range.
+Additional specific wavelength-dependent long-pass cutoff filter
+dyes and coatings determine the absolute light-blocking and
+light-transmitting characteristics below and above a specific wavelength. Light transmission through a light-absorbent material is
+also thickness dependent wherein a small thickness variation from
+lens optical grinding may dictate if a particular lens restricts a specific light wavelength below a specific limit.58
+We electronically normalized the total light transmission to
+100% at 800 nm so that a comparison of filtering properties between the various lenses, regardless of thickness or whether darkened or clear, could be made in the ultraviolet and high-energy
+blue range. Comparing a specific lens material filtration to 100%
+air transmission gives a total filtration report but convolutes the
+comparison between several lens materials because of overriding
+lightness or darkness of lenses. Some of the tested lens materials
+reported more than 100% or less than 0% transmission throughout
+the testing range of 800 to 350 nm.
+Light transmission values at wavelengths different from the selected normalization wavelength (800 nm) may yield values higher
+or lower than the 100% transmission established at the normalization wavelength (800 nm). In other words, the lens filtering
+material and/or coating may allow for more or less light transmittance at wavelengths other than the normalization zeroing point of
+100% light transmission at 800 nm.
+Given that the objectives of this study were to be able to determine spectral wavelength cutoff and to compare lens to lens, we
+used a spectrophotometric measuring procedure that initiated each
+lens spectral scan at 800 nm, a wavelength that is color neutral and
+neutral density. Each lens was normalized or “zeroed” to itself. By
+following this protocol, all spectral scans of the tested lenses were
+initiated and normalized at the same beginning value. In addition,
+by scanning this way, the issue of spectral neutral density filtering
+(lightness/darkness) is normalized.
+Our investigation of the ultraviolet and high-energy blue-violet
+light–blocking properties, provided by low-, medium-, and highpriced sunglasses, blue blocker, and clear lenses, yielded unexpected results. Although most tested lenses blocked ultraviolet
+A along with a fraction of high-energy violet light from entering
+www.optvissci.com
+
+the eye, a few high-priced branded sunglasses, including a few of the
+Ray-Ban sunglasses, did not filter the light as promoted. However, the
+low-priced promotional sunglasses (tinted polycarbonate) blocked
+100% of the ultraviolet A light and 99.8 to 67% (400 to 450 nm, respectively) of the high-energy violet blue light. At 426 nm, the midrange
+of high-energy violet light, the promotional sunglasses blocked 72.5%.
+These values could be biased observations, as all the promotional
+sunglasses came from a single provider.
+In comparison, three of the retail sunglasses provided 100% ultraviolet A light protection up to 400 nm. The Solar Shield Night
+Drivers blocked only 94.4% ultraviolet A light at 400 nm. However,
+when looking at the high-energy violet value of 450 nm, the three
+retail sunglasses provided only 63 to 75% blocking protection.
+The Solar Shield Night Drivers blocked 82.5% at 450 nm.
+The tested designer sunglasses varied widely in their optical
+transmissibility with respect to their ultraviolet A and high-energy
+violet light–blocking properties, with some not blocking ultraviolet
+A. Two of the high-priced designer sunglasses, Costa Brine P and
+Maui Jim Peahi Redfish, blocked ultraviolet A light (100% at
+400 nm) and approximately 90% high-energy violet at 450 nm,
+which is ideal for protecting eyes from light hazard. Our studies do
+not undermine the optical qualities of all of the expensive or branded
+sunglasses, as we are aware that expensive designer sunglasses vary
+widely in their construction, material, and surface protection coating.
+Our observations of the blue blocker lenses varied as well. They
+all blocked 100% ultraviolet A light up to approximately 406 nm
+and blocked more than 90% of the high-energy violet light up to
+414 nm. Clear and colorless Kodak Total Blue provided approximately 73% high-energy violet light protection at 426 nm, whereas
+clear and colorless Essilor Crizal Prevencia provided only 8.3%
+high-energy violet protection at 426 nm. To their benefit, the manufacturer claims that such small narrow-band protection of the
+Essilor Crizal Prevencia is intentionally done to maintain transparency and good color vision perception through the lenses. It is also
+interesting to note that both tinted promotional sunglasses and
+clear and colorless Kodak Total Blue blocked 73% of the highenergy violet light at 426 nm.
+The sensitivity of the human eye to light, shown in Fig. 7, varies
+strongly over the wavelength range between 380 and 800 nm.60
+The average normal human eye, under daylight conditions, is most
+sensitive at a wavelength of 555 nm and less responsive to red,
+greater than 670 nm, and blue wavelengths, less than 430 nm,
+suggesting that filtration of wavelengths less than 430 nm should
+have little impact on perceived color vision.
+Removal of 94% of the blue component of light, 400 to 500 nm,
+has been shown to decrease retinal damage.18 We suggest that eyeglasses and sunglasses filter 100% of all ultraviolet and high-energy violet light up to 426 nm with a lessening gradient to 450 nm. One such
+available product is the Bluwinx lens (Bluwinx, Youngstown, OH).
+These lenses filter 71% of the 400- to 500-nm spectrum, with around
+59% of the peak digital device wavelengths (445 to 460 nm). Other
+available lenses/coatings are UV420 Clear Lens (Mitsui Chemicals,
+Tokyo, Japan), Duravision BlueProtect (Zeiss, Aalen, Germany),
+Bluemax Lens (Nova, Vision Rx Lab, Kolkata, India), and Blue
+Diamond coating (Visioneer Eyewear, Pasay City, Philippines).
+Sunglasses are usually recommended as protection against sunlight and glare, and conventional sunglasses are considered a fashion accessory. Electronic digital devices with light-emitting diode
+screens are becoming major sources of such high-energy violet exposure indoors. Evidence is mounting that chronic exposure of the visible blue light can cause oxidative damage to the ocular tissues.20,61
+
+Optom Vis Sci 2019; Vol 96(7)
+
+520
+
+Spectral Performance of Sunglasses — Giannos et al.
+
+FIGURE 7. Eye sensitivity function. Photopic eye sensitivity function has a maximal sensitivity in the green spectral range at 555 nm. The inset shows the
+blue light region, 400 to 480 nm. Drawn from Vos.59
+
+Further investigation is necessary to identify the quantity of shortwavelength light required for a physiologically functional balance,
+without causing damage to ocular tissues.
+Because optical properties greater than 380 nm are not addressed in the U.S. standards for ultraviolet protection, eye care
+providers need to provide information and educate the general
+public, to correctly purchase sunglasses or high-energy violet
+light–protective clear lenses. Testing devices that measure blue
+light–blocking lenses or self-service kiosks for testing sunglasses
+are being developed,52,62 and we suggest that retail stores selling
+eyewear provide access to ultraviolet/visible lens spectrographs to
+assess the quality of eyewear.
+We recommend that there be a standardization of procedure
+and method for the assessment of a lens' spectral transmission in
+order for eye care providers to objectively compare eyeglass lens filtering capacity. We suggest the methods used in this study to be an
+example of a uniform way to measure lenses (eyeglasses and sunglasses) to negate the issue of brightness/darkness, as well as negate the issues of lens material and thickness. Determination of
+the spectral wavelength cutoff provides important information on
+the ultraviolet and high-energy violet light–blocking capability of
+each lens tested. By using this information, eye care providers can
+
+ARTICLE INFORMATION
+Supplemental Digital Content: Appendix Table A1. Percent
+spectral transmission data obtained from spectrophotometer scans, for each lens group, as described in METHODS,
+at wavelengths 400 to 450 nm. Available at http://links.
+lww.com/OPX/A405.
+
+be better informed and then be able to recommend the best lens
+for the patient and the intended use, whether it is indoor or outdoor.
+
+CONCLUSIONS
+This study emphasizes the need for individual eyewear and sunglass assessment before the consumer purchases the eyeglasses or
+sunglasses. Expensive designer eyewear may not necessarily possess the adequate eye protection that the consumer assumes the
+product provides. Designer fashion and high-retail-price eyewear
+should not dominate the decision process of purchasing eyewear without spectral testing. In fact, more harm may come from wearing poorquality sunglasses rather than just wearing clear polycarbonate lenses.
+Based on the current literature and our study results, we suggest
+that an ideal pair of sunglasses should be able to block 100% of ultraviolet A and high-energy violet-blue wavelengths (400 to 450 nm)
+and transmit the long-wavelength blue light to preserve color perception and scotopic sensitivity and maintain sleep-wake cycle. For indoor use, our studies suggest choosing clear, colorless high-energy
+violet/blue blocker eyewear for use with light-emitting diode–related
+digital devices and computer screens.
+
+Author Contributions: Conceptualization: LJL; Data Curation:
+SAG, ERK; Formal Analysis: SAG, ERK; Investigation: SAG,
+ERK; Methodology: SAG, ERK; Resources: ERK, LJL, PKG;
+Supervision: PKG; Writing – Original Draft: SAG, ERK;
+Writing – Review & Editing: SAG, ERK.
+
+Submitted: July 13, 2018
+Accepted: February 28, 2019
+Funding/Support: None of the authors have reported
+funding/support.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest.
+
+www.optvissci.com
+
+REFERENCES
+1. Lucas RM, Repacholi MH, McMichael AJ. Is the Current Public Health Message on UV Exposure Correct?
+Bull World Health Organ 2006;84:485–91.
+
+Optom Vis Sci 2019; Vol 96(7)
+
+2. Roberts JE. Ocular Phototoxicity. J Photochem
+Photobiol B 2001;64:136–43.
+3. Majdi M, Milani B, Movahedan A, et al. The Role of
+Ultraviolet Radiation in the Ocular System of Mammals.
+Photonics 2014;1:347.
+4. Behar-Cohen F, Baillet G, de Ayguavives T, et al. Ultraviolet Damage to the Eye Revisited: Eye-Sun Protection
+Factor (E-SPF®), a New Ultraviolet Protection Label for
+Eyewear. Clin Ophthalmol 2014;8:87–104.
+5. Haigh JD. The Sun and the Earth's Climate. Living
+Rev Sol Phys 2007;4:2.
+6. Sliney DH. How Light Reaches the Eye and Its Components. Int J Toxicol 2002;21:501–9.
+
+521
+
+Spectral Performance of Sunglasses — Giannos et al.
+7. Dillon J, Zheng L, Merriam JC, et al. The Optical Properties of the Anterior Segment of the Eye: Implications
+for Cortical Cataract. Exp Eye Res 1999;68:785–95.
+8. Begaj T, Schaal S. Sunlight and Ultraviolet
+Radiation—Pertinent Retinal Implications and Current
+Management. Surv Ophthalmol 2018;63:174–92.
+9. Ambach W, Blumthaler M, Schöpf T, et al. Spectral
+Transmission of the Optical Media of the Human Eye
+with Respect to Keratitis and Cataract Formation.
+Doc Ophthalmol 1994;88:165–73.
+10. Arnault E, Barrau C, Nanteau C, et al. Phototoxic Action Spectrum on a Retinal Pigment Epithelium Model
+of Age-related Macular Degeneration Exposed to Sunlight Normalized Conditions. PLoS One 2013;8.
+11. Godley BF, Shamsi FA, Liang FQ, et al. Blue Light Induces Mitochondrial DNA Damage and Free Radical Production in Epithelial Cells. J Biol Chem 2005;280:21061–6.
+12. Ebert S, Walczak Y, Reme C, et al. Microglial Activation
+and Transcriptomic Changes in the Blue Light–exposed
+Mouse Retina. Adv Exp Med Biol 2012;723:619–32.
+13. Hammond BR, Johnson BA, George ER. Oxidative
+Photodegradation of Ocular Tissues: Beneficial Effects
+of Filtering and Exogenous Antioxidants. Exp Eye Res
+2014;129:135–50.
+14. Kuse Y, Ogawa K, Tsuruma K, et al. Damage of
+Photoreceptor-derived Cells in Culture Induced by Light
+Emitting Diode–derived Blue Light. Sci Rep 2014;4:5223.
+15. Osborne NN, Li GY, Ji D, et al. Light Affects Mitochondria to Cause Apoptosis to Cultured Cells: Possible
+Relevance to Ganglion Cell Death in Certain Optic Neuropathies. J Neurochem 2008;105:2013–28.
+16. Krigel A, Berdugo M, Picard E, et al. Light-induced
+Retinal Damage Using Different Light Sources, Protocols and Rat Strains Reveals Led Phototoxicity. Neuroscience 2016;339:296–307.
+17. Shang YM, Wang GS, Sliney DH, et al. Lightemitting-diode Induced Retinal Damage and Its Wavelength
+Dependency in Vivo. Int J Ophthalmol 2017;10:191–202.
+18. Vicente-Tejedor J, Marchena M, Ramirez L, et al.
+Removal of the Blue Component of Light Significantly
+Decreases Retinal Damage After High Intensity Exposure. PLoS One 2018;13.
+
+Evening Light–emitting Diode Screen Exposure in
+Male Teenagers. J Adolesc Health 2015;56:113–9.
+27. Lin JB, Gerratt BW, Bassi CJ, et al. Short-wavelength
+Light-blocking Eyeglasses Attenuate Symptoms of Eye
+Fatigue. Invest Ophthalmol Vis Sci 2017;58:442–7.
+28. Leung TW, Li RW, Kee CS. Blue-light Filtering Spectacle Lenses: Optical and Clinical Performances. PLoS
+One 2017;12.
+29. Colombo L, Melardi E, Ferri P, et al. Visual Function
+Improvement Using Photocromic and Selective Blueviolet Light Filtering Spectacle Lenses in Patients Affected by Retinal Diseases. BMC Ophthalmol 2017;17.
+30. Shechter A, Kim EW, St-Onge MP, et al. Blocking
+Nocturnal Blue Light for Insomnia: A Randomized
+Controlled Trial. J Psychiatr Res 2018;96:196–202.
+31. Fletcher AE, Bentham GC, Agnew M, et al. Sunlight Exposure, Antioxidants, and Age-related Macular Degeneration. Arch Ophthalmol 2008;126:1396–403.
+32. Lawrenson JG, Hull CC, Downie LE. The Effect of
+Blue-light Blocking Spectacle Lenses on Visual Performance, Macular Health and the Sleep-wake Cycle:
+A Systematic Review of the Literature. Ophthal Physiol
+Opt 2017;37:644–54.
+33. Tosini G, Ferguson I, Tsubota K. Effects of Blue
+Light on the Circadian System and Eye Physiology.
+Mol Vis 2016;22:61–72.
+34. Leid J. Blue Light: What Are the Risks to Our Eyes?
+Points de Vue: International Review Ophthalmic Optics
+2016;1–7. Available at: https://www.pointsdevue.com/
+sites/default/files/blue-light-what-are-the-risks-to-oureyes-final_0.pdf. Accessed April 2, 2019.
+35. Marshall J. The Blue Light Paradox: Problem or Panacea? Points de Vue: International Review Ophthalmic
+Optics 2017:1–8. Available at: https://www.pointsdevue.
+com/sites/default/files/the_blue_light_paradox_problem_
+or_panacea_0.pdf. Accessed April 2, 2019.
+36. Lucas RJ, Peirson SN, Berson DM, et al. Measuring
+and Using Light in the Melanopsin Age. Trends Neurosci
+2014;37:1–9.
+37. Figueiro M, Nagare R, Price L. Non-visual Effects of
+Light: How to Use Light to Promote Circadian Entrainment
+and Elicit Alertness. Light Res Technol 2018;50:38–62.
+
+19. Modenese A, Gobba F. Macular Degeneration and
+Occupational Risk Factors: A Systematic Review. Int Arch
+Occup Environ Health 2019;92:1–11.
+
+38. Bonmati-Carrion MA, Arguelles-Prieto R, MartinezMadrid MJ, et al. Protecting the Melatonin Rhythm
+through Circadian Healthy Light Exposure. Int J Mol Sci
+2014;15:23448–500.
+
+20. Yamauchi K, Nakazawa M, Kato C, et al. Transient
+Macular Damage During Smartphone Usage. Curr
+Trends Ophthalmol 2018;1:71–4.
+
+39. Tahkamo L, Partonen T, Pesonen AK. Systematic
+Review of Light Exposure Impact on Human Circadian
+Rhythm. Chronobiol Int 2018;1–20.
+
+21. Shevell SK, ed. The Science of Color, 2nd ed.
+Boston: Elsevier; 2003.
+
+40. Youssef PN, Sheibani N, Albert DM. Retinal Light
+Toxicity. Eye (Lond) 2011;25:1–14.
+
+22. Smick K, Villette T, Boulton ME, et al. Blue Light
+Hazard: New Knowledge, New Approaches to Maintaining
+Ocular Health. Report of a Round Table. Dallas, TX:
+Essilor of America; 2013.
+
+41. Wu JM, Seregard S, Algvere PV. Photochemical
+Damage of the Retina. Surv Ophthalmol 2006;51:461–81.
+
+23. Klein R, Klein BE, Knudtson MD, et al. Fifteen-year
+Cumulative Incidence of Age-related Macular Degeneration: The Beaver Dam Eye Study. Ophthalmology 2007;
+114:253–62.
+24. Wong IY, Koo SC, Chan CW. Prevention of Age-related
+Macular Degeneration. Int Ophthalmol 2011;31:73–82.
+25. Burkhart K, Phelps JR. Amber Lenses to Block Blue
+Light and Improve Sleep: A Randomized Trial.
+Chronobiol Int 2009;26:1602–12.
+26. van der Lely S, Frey S, Garbazza C, et al. Blue Blocker
+Glasses as a Countermeasure for Alerting Effects of
+
+www.optvissci.com
+
+46. Moseley H, Cox NH, Mackie RM. The Suitability
+of Sunglasses Used by Patients Following Ingestion
+of Psoralen. Br J Dermatol 1988;118:247–53.
+47. Reichow AW, Citek K, Edlich RF. Ultraviolet and
+Short Wavelength Visible Light Exposure: Why Ultraviolet Protection Alone Is Not Adequate. J Long Term Eff
+Med Implants 2006;16:315–25.
+48. Chorley AC, Lyachev A, Higlett MP, et al. Sunglass
+Filter Transmission and Its Operational Effect in Solar
+Protection for Civilian Pilots. Aerosp Med Hum Perform
+2016;87:436–42.
+49. Hunter JJ, Morgan JI, Merigan WH, et al. The Susceptibility of the Retina to Photochemical Damage from
+Visible Light. Prog Retin Eye Res 2012;31:28–42.
+50. Xanthopoulos P. UV Stabilizers for Engineering Plastics. Omnexus by SpecialChem Plastics Selection Guide.
+Available at: https://omnexus.specialchem.com/
+selection-guide/uv-stabilizers-for-engineering-plastics/uvstabilizers-for-polycarbonate#. Accessed April 11, 2018.
+51. Trang N, Lalonde G, Dube Y, et al. Short Wavelengths Filtering Properties of Sunglasses on the
+Canadian Market: Are We Protected? Can J Ophthalmol
+2018;53:104–9.
+52. Mello MM, Lincoln VA, Ventura L. Self-service Kiosk
+for Testing Sunglasses. Biomed Eng Online 2014;13:45.
+53. Masili M, Schiabel H, Ventura L. Contribution to the
+Radiation Protection for Sunglasses Standards. Radiat
+Prot Dosimetry 2015;164:435–43.
+54. Gursoy H, Basmak H, Esen H, et al. Transmittance
+Spectrum of Unbranded Sunglasses Using Spectrophotometer. Open J Ophthalmol 2015;5:1–5.
+55. Bingemann D, Mattley Y. Labmate. Sun, Safety,
+Spectroscopy—The Science of UV Measurement and
+Assessing Sun Protection; 2016. Available at: https://
+www.labmate-online.com/article/mass-spectrometryand-spectroscopy/41/dieter_bingemann_yvette_
+mattley/sun_safety_spectroscopy_-_the_science_of_
+uv_measurement_and_assessing_sun_protection/
+2097. Accessed April 2, 2019.
+56. Sliney DH. Photoprotection of the Eye—UV Radiation
+and Sunglasses. J Photoch Photobiol B 2001;64:166–75.
+57. Coroneo M. Ultraviolet Radiation and the Anterior
+Eye. Eye Contact Lens 2011;37:214–24.
+58. Ozdemir T, Saglam A, Ozdemir FB, et al. The Evaluation of Spectral Transmittance of Optical Eye-lenses.
+Optik 2016;127:2062–8.
+59. Vos JJ. Colorimetric and Photometric Properties of a 2°
+Fundamental Observer. Color Res Appl 1978;3:125–8.
+60. Wyszecki G, Stiles WS. Color Science: Concepts and
+Methods, Quantitative Data, and Formulae. Wiley Classics Library ed. New York: John Wiley & Sons; 2000.
+
+44. Marie M, Bigot K, Angebault C, et al. Light Action
+Spectrum on Oxidative Stress and Mitochondrial Damage in A2e-loaded Retinal Pigment Epithelium Cells.
+Cell Death Dis 2018;9:287.
+
+61. Martin CW. Blue Light from Digital Screens at Work:
+A Rapid Systematic Review. In: WorkSafeBC EvidenceBased Practice Group, Martin CW, ed. Blue Light from
+Digital Screens Used at Work. Richmond, BC: WorksafeBC
+Evidence-Based Practice Group; 2018. Available at:
+https://www.worksafebc.com/en/resources/health-careproviders/guides/blue-light-from-digital-screens-usedat-work?lang=en&origin=s&returnurl=https%3A%2F
+%2Fwww.worksafebc.com%2Fen%2Fsearch%23q%
+3Ddigital%2520screens%26sort%3Drelevancy%
+26f%3Alanguage-facet%3D%5BEnglish%5D.
+Accessed January 29, 2019.
+
+45. Moseley H. Ultraviolet and Visible Radiation Transmission Properties of Some Types of Protective Eyewear.
+Phys Med Biol 1985;30:177–81.
+
+62. Chen DC, Huang KL, Lee SL, et al. Blue Light
+Blocking Lenses Measuring Device. Procedia Eng 2016;
+140:17–29.
+
+42. van Norren D, Vos JJ. Light Damage to the Retina:
+An Historical Approach. Eye (Lond) 2016;30:169–72.
+43. Sui GY, Liu GC, Liu GY, et al. Is Sunlight Exposure a
+Risk Factor for Age-related Macular Degeneration? A
+Systematic Review and Meta-analysis. Br J Ophthalmol
+2013;97:389–94.
+
+Optom Vis Sci 2019; Vol 96(7)
+
+522
+
+

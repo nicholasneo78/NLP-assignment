@@ -1,0 +1,1670 @@
+ORIGINAL INVESTIGATION
+
+Impact of Dry Eye on Visual Acuity and Contrast Sensitivity:
+Dry Eye Assessment and Management Study
+Loretta B. Szczotka-Flynn, OD, PhD, FAAO,1 Maureen G. Maguire, PhD,2* Gui-shuang Ying, PhD,2 Meng C. Lin, OD, PhD, FAAO,3
+Vatinee Y. Bunya, MD,2 Reza Dana, MD, MPH,4 and Penny A. Asbell, MD, MBA,5 for the Dry Eye Assessment and
+Management (DREAM) Study Research Group
+
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+SIGNIFICANCE: Identification of the association of specific signs of dry eye disease with specific visual function
+deficits may allow for more targeted approaches to treatment.
+PURPOSE: The purpose of this study was to explore the association of dry eye signs and symptoms with visual
+acuity (VA) and contrast sensitivity in the Dry Eye Assessment and Management study.
+METHODS: Baseline data from participants in the Dry Eye Assessment and Management study were used in this
+secondary cross-sectional analysis. Standardized procedures were used to obtain results on the Ocular Surface
+Disease Index (OSDI), high-contrast logMAR VA, contrast sensitivity, tear film debris, tear breakup time (TBUT),
+corneal fluorescein staining, meibomian gland evaluation, conjunctival lissamine green staining, and Schirmer
+test scores. Generalized linear models that included age, refractive error status, and cataract status were used
+to assess the association between VA and contrast sensitivity with OSDI score and each dry eye sign. The Hochberg
+procedure was used to account for multiple comparisons.
+RESULTS: Among 487 participants (974 eyes), worse VA was associated with worse mean score on the OSDI
+vision subscale (39.4 for VA 20/32 or worse vs. 32.4 for VA 20/16 or better; adjusted linear trend, P = .02);
+scores were not associated with contrast sensitivity. Severe meibomian gland plugging and abnormal secretions
+were associated with worse mean log contrast sensitivity (1.48 for severe vs. 1.54 for not plugged [P = .04] and
+1.49 for obstructed vs. 1.57 for clear [P = .002], respectively). Longer TBUT was associated with better mean
+log contrast sensitivity (1.57 for TBUT >5 seconds and 1.51 for TBUT ≤2 seconds, P < .0001).
+CONCLUSIONS: Worse VA rather than worse contrast sensitivity drives vision-related symptoms in dry eye. Greater
+tear film instability was associated with worse contrast sensitivity.
+
+Optom Vis Sci 2019;96:387–396. doi:10.1097/OPX.0000000000001387
+Copyright © 2019 American Academy of Optometry
+Supplemental Digital Content: Direct URL links are provided within the text.
+
+Dry eye is a highly prevalent condition1–6 that significantly
+affects quality of life2,7 and is additionally a major risk factor
+for a variety of corneal and ocular surface morbidities such as
+corneal infection,8,9 thinning,10,11 and contact lens intolerance.12
+Disease definitions vary between studies, but studies that define
+dry eye based on symptoms report a prevalence ranging from 6.5
+to 52.4%, with the majority reporting a prevalence of around
+20%.3 The prevalence of disease increases with age, and women
+are more frequently affected.3 Dry eye not only results in decreased
+quality of life but also can affect visual function. In a recent natural
+history study of dry eye, blurred vision was reported as moderate
+to very severe in 58% of dry eye patients compared with only
+10.5% in healthy controls.13 Although there are many reports
+of decreased visual quality of life and symptoms in dry eye patients compared with controls,2,7,12 there is little information
+www.optvissci.com
+
+Author Afﬁliations:
+1
+Department of Ophthalmology and
+Visual Sciences, Case Western Reserve
+University, and University Hospitals of
+Cleveland Eye Institute, Cleveland, Ohio
+2
+Department of Ophthalmology,
+University of Pennsylvania,
+Philadelphia, Pennsylvania
+3
+School of Optometry,
+University of California, Berkeley,
+Berkeley, California
+4
+Department of Ophthalmology,
+Massachusetts Eye and Ear,
+Harvard Medical School,
+Cambridge, Massachusetts
+5
+Department of Ophthalmology,
+University of Tennessee
+Health Science Center,
+Memphis, Tennessee
+*maguirem@pennmedicine.upenn.edu
+
+surrounding which specific dry eye signs contribute to diminished
+visual function.
+Previous studies have assessed corneal irregularity from superficial punctate keratitis and tear film instability in their relationship
+to visual function. Central superficial punctate keratitis in dry eye
+has been associated with significant deterioration of visual function
+and optical quality measured by functional visual acuity measurements (time-wise change in continuous visual acuity14) and contrast
+sensitivity.15–17 Ocular surface damage in the central cornea has
+also been associated with increased higher-order aberrations and increased corneal backward light scatter.18 In addition, tear film instability has been associated with an irregular optical surface affecting
+visual function. For example, temporal changes in higher-order
+aberrations are associated with the tear film interface in dry eye.19
+However, additional studies are needed to understand the relationship
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+387
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+between specific dry eye signs and the corresponding effects on
+visual function, which in turn will aid clinicians in designing appropriate treatment plans for dry eye patients.
+Various methods have been used to subjectively assess visual
+function in dry eye disease including high- and low-contrast visual
+acuity, dynamic visual acuity,14 contrast sensitivity,20 and disability
+glare.15,20–22 Because standard high-contrast visual acuity is not
+sensitive enough to detect mild ocular disease in other conditions
+such as cataract and glaucoma and is known to be variable in dry
+eye disease, other measures of visual function are needed. Contrast
+sensitivity is a candidate because it is a sensitive indicator of visual
+function and ocular disease progression.23–27 However, although
+previous studies have shown that contrast sensitivity is a sensitive
+measure of the effects of dry eye on visual function,15,17 very few
+have assessed which particular clinical signs impact this measurement. To address this knowledge gap, we obtained data from the
+Dry Eye Assessment and Management study that has a large, wellcharacterized cohort with dry eye disease, including information on
+both the standardized assessment of logMAR visual acuity and
+contrast sensitivity. In addition, because Sjögren syndrome patients were included in the study, this subset allowed for an assessment of the effect of aqueous deficiency on both measures. Herein,
+we explore the association of dry eye signs and symptoms at
+baseline with best-corrected high-contrast logMAR visual acuity and
+contrast sensitivity.
+
+the Ocular Surface Disease Index, participants completed the
+Medical Outcomes Study 36-Item Short Form Health Survey (scores
+range from 0 to 100, with higher scores indicating better healthrelated quality of life), although this was not part of the eligibility
+assessment. Patients needed to have at least one eye with at least
+two of the following four signs: conjunctival lissamine green staining score ≥1 on a scale of 0 to 6, corneal fluorescein staining
+score ≥4 on a scale of 0 to 15, tear film breakup time ≤7 seconds,
+and Schirmer test with anesthesia measurement ≥1 to ≤7 mm/
+5 min at each of the screening and eligibility visits. Patients with
+a history of Sjögren syndrome were included, as were patients with
+thyroid disease, rheumatoid arthritis, or inflammatory diseases if
+they were otherwise eligible. Medications for dry eye or regular
+use of systemic medications including those known to cause ocular
+dryness was allowed if the patient committed to using them for
+the next 12 months. However, those who wore contact lens
+30 days before the screening visit were ineligible, as were those
+who had a history of laser-assisted in situ keratomileusis, ocular
+infection, recent ocular surgery, or contraindications to high-dose
+ω3 supplementation.
+
+Visual Function Testing
+Visual function testing was performed by a Dry Eye Assessment
+and Management clinician or technician who had completed a
+
+METHODS
+The Dry Eye Assessment and Management study was a multicenter, randomized, double-masked clinical trial to evaluate the
+effectiveness and safety of supplementation with ω3 fatty acids
+in relieving the symptoms of moderate to severe dry eye disease.28
+A total of 535 subjects across 27 sites in the United States were
+enrolled and followed up for 12 months in the primary trial. Eligible
+participants were randomized to receive either 3 g of fish-derived
+ω3 eicosapentaenoic and docosahexaenoic acids daily (n = 349)
+or a placebo containing 5 g of refined olive oil (n = 186). Candidates for the clinical trial were assessed at a screening visit and
+an eligibility confirmation visit, which together encompass the
+baseline data used in this secondary cross-sectional analysis. The
+study protocol was approved by the institutional review board associated with each center, carried out under an Investigational New
+Drug application for the Food and Drug Administration, conformed
+with the tenets of the Declaration of Helsinki, and registered on
+ClinicalTrials.gov (NCT02128763). All subjects provided written
+informed consent.
+
+Subjects
+The trial was designed to include a broad spectrum of symptomatic patients with moderate or severe dry eye. Eligibility criteria included age ≥18 years, dry eye–related ocular symptoms for at least
+6 months, use or desire to use artificial tears on average of two more
+times a day during the 2 weeks preceding the screening visit, and
+scores on the Ocular Surface Disease Index between 25 and 80,
+inclusive, at the screening visit and between 21 and 80, inclusive,
+at the eligibility confirmation visit. Scores on the 12-item Ocular
+Surface Disease Index range from 0 to 100, where 0 indicates no
+ocular discomfort.29 Three subscales of the Ocular Surface Disease
+Index (ocular symptoms, vision-related function, and environmental
+triggers) also provide scores between 0 and 100. In addition to
+www.optvissci.com
+
+FIGURE 1. Flowchart of participants for the analysis cohorts. Exclusions from the full-study group because of different reasons are shown.
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+388
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+TABLE 1. Characteristics of study participants (n = 487 patients,
+974 eyes)
+
+TABLE 1. Continued
+
+Participant characteristics (n = 487 patients)
+
+Ocular characteristics (n = 974 eyes)
+
+Age (y), mean (SD)
+
+57.5 (13.3)
+
+Sex, no. (%)
+Female
+
+394 (80.9)
+
+Male
+
+93 (19.1)
+
+Cataract status, no. (%)
+No cataract
+
+612 (62.8)
+
+Pseudophakic/aphakic
+
+154 (15.8)
+
+Ongoing cataract
+
+208 (21.4)
+
+OSDI = Ocular Surface Disease Index.
+
+Race, no. (%)
+White
+
+359 (73.7)
+
+Black
+
+61 (12.5)
+
+Other
+
+67 (13.8)
+
+20/16 or better
+
+239 (24.5)
+
+certification program. Visual acuity testing and contrast sensitivity
+testing were performed with correction after manifest refraction
+during the baseline visit. Monocular visual acuity testing was performed using the Early Treatment of Diabetic Retinopathy Study
+charts and technique at 3.2 m; different charts were used for the
+right and left eyes. A light meter was used to ensure that the light
+hitting the chart was 189 to 377 lux. The sum of the number of
+letters read correctly on each line was recorded. A letter score of
+85 corresponds to an approximate Snellen equivalent of 20/20.
+Contrast sensitivity was measured with the Mars Letter Contrast
+Sensitivity Test following the instructions provided from the manufacturer. Briefly, the chart was illuminated uniformly such that a
+light meter measured 189 to 377 lux on the chart. Participants
+wore the refractive correction determined by refraction with an
+add of +2.00 diopters and an occluder or patch on the untested
+eye. The participants' viewing distance to the chart was 50 cm
+(20 inches). Different charts were used for the right and left eyes.
+Each letter read on the chart was marked as correct or incorrect
+until two consecutive letters were read incorrectly by the patient.
+The number of letters read on the Mars Contrast Sensitivity Chart
+was converted to a log contrast sensitivity value where one additional letter was associated with an increase of 0.04 units.
+
+20/20
+
+251 (25.8)
+
+Clinical Examination
+
+20/25
+
+282 (29.0)
+
+20/32
+
+153 (15.7)
+
+20/40
+
+49 (5.0)
+
+A Dry Eye Assessment and Management clinician who completed a certification program for clinical assessment and grading
+examined each eye and performed an external examination and
+biomicroscopy with a slit lamp. Tear film debris was graded for
+each eye as none, mild (present in the inferior tear meniscus), moderate (present in the inferior tear meniscus and in the tear film overlying the cornea), and severe (present in the inferior tear meniscus
+and in the tear film overlying the cornea or presence of mucus
+strands in the inferior fornix or on the bulbar conjunctiva). At separate time points, 2% fluorescein dye and 1% lissamine green dye
+were instilled by placing a small pool of dye into a sterile container
+using an Eppendorf micropipette and a tip to draw up 5 μL of dye
+and placing the volume into the inferior cul-de-sac. After instillation
+of fluorescein dye in the right eye, assessment of tear breakup time
+was followed sequentially by assessment of corneal fluorescein
+staining and meibomian gland evaluation, and after instillation of
+lissamine green, staining evaluation of the interpalpebral conjunctiva was conducted; the sequence of testing was repeated for the left
+eye. Intraocular pressure was measured for each eye, and Schirmer
+test was administered to each eye simultaneously.
+Measurement of fluorescein tear breakup time began approximately 30 seconds after instillation of fluorescein dye. The clinician viewed the cornea through a slit lamp using broad-beam
+cobalt blue illumination and a yellow barrier filter. The clinician
+instructed the patient to blink and measured the time to the first
+
+Ethnicity, no. (%)
+Hispanic or Latino
+
+62 (12.7)
+
+Other
+
+425 (87.3)
+
+OSDI score (0–100), mean (SD)
+Total
+
+41.8 (15.5)
+
+Vision-related function subscale
+
+34.6 (19.0)
+
+Short Form-36 score (0–100), mean (SD)
+Physical health
+
+47.5 (9.7)
+
+Mental health
+
+52.4 (9.4)
+
+Ocular characteristics (n = 974 eyes)
+Conjunctival staining score (0–6), mean (SD)
+
+3.0 (1.5)
+
+Corneal staining score (0–15), mean (SD)
+
+3.7 (2.9)
+
+Tear breakup time (s), mean (SD)
+
+3.2 (1.8)
+
+Schirmer test (mm), mean (SD)
+
+9.8 (7.2)
+
+Visual acuity, no. (%)
+
+Mean (SD), in letters
+
+82.5 (6.1)
+
+Log contrast sensitivity score, no. (%)
+1.72–1.92
+
+300 (30.8)
+
+1.56–1.68
+
+207 (21.3)
+
+1.44–1.52
+
+237 (24.3)
+
+0.84–1.40
+
+230 (23.6)
+
+Mean (SD)
+
+1.6 (0.2)
+
+Refractive error, no. (%)
+Myopia >6 to 11.5 diopters
+
+40 (4.1)
+
+Myopia >3 to ≤6 diopters
+
+88 (9.0)
+
+Myopia >0.5 to ≤3 diopters
+
+277 (28.4)
+
+Emmetropia
+
+325 (33.4)
+
+Hyperopia >0.5 to ≤1.5 diopters
+
+124 (12.7)
+
+Hyperopia >1.5 to 5.5 diopters
+
+120 (12.3)
+
+Mean (SD; diopters)
+
+−0.7 (2.7)
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+389
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+discontinuity in the tear film with a stopwatch. The measurement
+was repeated two more times. The average of the three measurements of tear breakup time per eye was used for analysis. The central
+five meibomian glands of the lower lid were assessed after application of pressure to the lower eyelid below the lashes using the
+Meibomian Gland Evaluator (Johnson & Johnson [previously Tear
+Science], Jacksonville, FL). The number of plugged glands was
+counted, and secretions were graded as clear liquid oil, mild haze/
+cloudy liquid, paste (toothpaste consistency), or obstructed (no
+secretion, including capped orifices). Assessment of corneal
+staining under the same viewing conditions as those for tear
+breakup time began approximately 2 to 3 minutes after the fluorescein dye instillation. The staining of the central cornea and
+four surrounding sectors was each scored from 0 (no staining)
+to 3 (dense staining). The central cornea was defined as a circular area
+encompassing approximately one-fifth of the corneal surface with superior, nasal, inferior, and temporal quadrants extending from the central circular zone to the periphery of the cornea, each encompassing
+another one-fifth of the corneal surface. Grading of conjunctival staining began 1 to 2 minutes after instillation of lissamine green dye. The
+clinician viewed the temporal and nasal conjunctiva through a slit
+lamp using white light and graded punctate staining from 0 (no staining) to 3 in each area. The sum of the scores from all sectors per eye
+was used for corneal and conjunctival staining; in addition, only the
+central corneal staining score was assessed for association with visual
+acuity and contrast sensitivity. Approximately 5 minutes after instillation of a topical anesthetic, Schirmer test strips were hung onto the
+lower conjunctival sac in the temporal one-third of the eyelid.
+The patient was instructed to close both eyes. After 5 minutes, as
+measured by a stopwatch, the strips were removed, and the length
+of wetting of the strip was recorded in millimeters.
+
+Statistical Analysis
+Participants were excluded from analysis if their visual acuity
+scores in at least one eye were worse than 0.44 logMAR (approximate Snellen equivalent of 20/50) or if there was a history of
+
+diabetic retinopathy in one or both eyes because ocular pathology
+other than dry eye would be more likely to be responsible for their
+decreased vision. We performed descriptive analyses using mean
+(standard deviation) for continuous measures and percentages for
+categorical measures. Baseline values for the Ocular Surface Disease Index were the average of the values from the screening and
+eligibility confirmation visits.
+We used the generalized linear model to assess the association
+between visual acuity and contrast sensitivity with each of the dry
+eye symptom measurements (Ocular Surface Disease Index total
+score, vision-related subscale score of the Ocular Surface Disease
+Index, and Short Form-36 score). In these analyses, visual acuity
+or contrast sensitivity was modeled as an independent variable,
+and each dry eye symptom score was modeled as a dependent variable, to determine whether subjects with worse vision reported
+more symptoms. Because the dry eye symptom measure is person
+specific, the visual acuity or contrast sensitivity was based on the
+better eye of this specific measurement. To help with the clinical
+interpretation and to avoid the strong assumption of linear association, the continuous measures (when modeled as independent variables) were categorized into severity levels, and a linear trend
+P value was used to test the association.
+We used the generalized linear models to evaluate the associations between each dry eye sign with visual acuity and with contrast
+sensitivity. In these models, each dry eye sign was modeled as an
+independent variable, and visual acuity or contrast sensitivity was
+modeled as the dependent variable, to determine whether eyes
+with more severe signs had worse visual acuity scores or contrast
+sensitivity. Because measures of dry eye signs, visual acuity, and
+contrast sensitivity are all eye specific, these analyses were performed at the eye level, and their intereye correlation was accounted
+for by using generalized estimating equations.
+Because these associations may differ by the status of Sjögren
+syndrome, we tested the interaction of Sjögren syndrome status
+with each independent variable. When a statistically significant interaction was found, analyses stratified by Sjögren syndrome status
+were performed. Dry Eye Assessment and Management patients
+
+TABLE 2. Adjusted mean scores for the OSDI and SF-36 by visual acuity score and contrast sensitivity in the better eye
+Patients (n)
+
+OSDI (total),
+mean (SE)*
+
+OSDI vision-related
+scale, mean (SE)*
+
+SF-36 physical health
+scale, mean (SE)*
+
+SF-36 mental health
+scale, mean (SE)*
+
+20/16 or better
+
+154
+
+41.0 (1.57)
+
+32.4 (1.92)
+
+47.0 (0.98)
+
+52.6 (0.92)
+
+20/20
+
+142
+
+41.7 (1.54)
+
+34.8 (1.89)
+
+46.9 (0.96)
+
+51.7 (0.91)
+
+20/25
+
+139
+
+43.3 (1.54)
+
+36.7 (1.88)
+
+47.0 (0.96)
+
+52.0 (0.91)
+
+52
+
+43.2 (2.37)
+
+39.4 (2.91)
+
+47.3 (1.48)
+
+49.6 (1.40)
+
+.22 (0.44)
+
+.01 (0.02)
+
+.93 (0.93)
+
+.14 (0.14)
+
+Visual acuity in the better eye
+
+20/32 or worse
+Linear trend P (adjusted P†)
+Contrast sensitivity in the better eye
+1.72–1.92
+
+187
+
+42.5 (1.42)
+
+34.2 (1.74)
+
+46.9 (0.88)
+
+52.7 (0.84)
+
+1.56–1.68
+
+105
+
+40.3 (1.74)
+
+32.9 (2.13)
+
+47.7 (1.08)
+
+51.8 (1.03)
+
+1.44–1.52
+
+120
+
+43.2 (1.65)
+
+38.5 (2.03)
+
+46.4 (1.03)
+
+51.1 (0.98)
+
+0.84–1.40
+
+77
+
+42.1 (1.98)
+
+35.4 (2.43)
+
+47.2 (1.23)
+
+51.1 (1.17)
+
+.86 (0.86)
+
+.20 (0.20)
+
+.90 (0.93)
+
+.12 (0.14)
+
+Linear trend P (adjusted P†)
+
+Boldface indicates statistical significance. *Adjusted by age (continuous), refractive error status (emmetropia, hyperopia >0.5 to ≤1.5 diopters, hyperopia
+>1.5 diopters, myopia >0.5 to ≤3 diopters, myopia >3 to ≤6 diopters, myopia >6 diopters), and cataract status. †Adjust for two comparisons for each of
+outcome measure using the Hochberg procedure. OSDI = Ocular Surface Disease Index; SF-36 = Short Form-36.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+390
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+TABLE 3. Adjusted* mean scores (letters) for visual acuity and log contrast sensitivity by eye-specific signs
+Dry eye signs
+
+Eyes
+
+VA score (letters),
+mean (SE)
+
+TBUT (s)
+
+Linear trend P
+(adjusted P†)
+
+Log contrast sensitivity score,
+mean (SE)
+
+<.0001 (<.0001)
+
+.003 (.02)
+
+>5
+
+114
+
+79.7 (0.62)
+
+1.57 (0.02)
+
+>2 and ≤5
+
+598
+
+82.1 (0.38)
+
+1.58 (0.01)
+
+≤2
+
+262
+
+82.7 (0.49)
+
+Schirmer test score
+
+1.51 (0.02)
+.98 (.98)
+
+.75 (.96)
+
+≤5
+
+304
+
+81.6 (0.45)
+
+1.55 (0.02)
+
+6–10
+
+361
+
+82.4 (0.44)
+
+1.56 (0.02)
+
+11–20
+
+220
+
+82.0 (0.51)
+
+1.57 (0.02)
+
+21–30
+
+66
+
+80.8 (0.77)
+
+1.51 (0.03)
+
+>30
+
+23
+
+82.5 (1.26)
+
+Tear film debris
+
+1.52 (0.04)
+.003 (.02)
+
+.11 (.55)
+
+None
+
+639
+
+81.5 (0.38)
+
+1.55 (0.01)
+
+Mild
+
+269
+
+82.9 (0.49)
+
+1.55 (0.02)
+
+66
+
+83.5 (0.94)
+
+Moderate
+Corneal staining score
+
+1.64 (0.03)
+.70 (.98)
+
+.96 (.96)
+
+0–1
+
+266
+
+81.4 (0.47)
+
+1.54 (0.02)
+
+2–3
+
+210
+
+82.5 (0.52)
+
+1.58 (0.02)
+
+4–5
+
+278
+
+82.5 (0.49)
+
+1.57 (0.02)
+
+≥6
+
+218
+
+81.6 (0.55)
+
+1.54 (0.02)
+
+0
+
+613
+
+82.0 (0.36)
+
+1.56 (0.01)
+
+1
+
+271
+
+83.1 (0.47)
+
+1.58 (0.02)
+
+2
+
+72
+
+79.8 (0.80)
+
+1.53 (0.03)
+
+3
+
+18
+
+77.3 (1.34)
+
+1.42 (0.06)
+
+0–1
+
+136
+
+81.3 (0.56)
+
+1.56 (0.02)
+
+2–3
+
+511
+
+82.5 (0.40)
+
+1.57 (0.01)
+
+≥4
+
+327
+
+81.6 (0.45)
+
+1.54 (0.01)
+
+144
+
+82.1 (0.56)
+
+Central corneal staining score
+
+.07 (.42)
+
+Conjunctival staining
+
+.26 (.78)
+
+.82 (.98)
+
+Meibomian gland
+
+.15 (.60)
+
+.64 (.98)
+
+None plugged
+
+.007 (.04)
+1.54 (0.02)
+
+Mild
+
+295
+
+82.3 (0.47)
+
+1.59 (0.02)
+
+Moderate
+
+316
+
+81.6 (0.45)
+
+1.57 (0.02)
+
+Severe
+
+219
+
+82.1 (0.56)
+
+Secretions from meibomian glands
+
+Linear trend P
+(adjusted P†)
+
+1.48 (0.02)
+.94 (.98)
+
+.0003 (.002)
+
+Clear
+
+180
+
+81.9 (0.53)
+
+1.57 (0.02)
+
+Mild haze/cloudiness
+
+387
+
+82.2 (0.44)
+
+1.58 (0.01)
+
+Paste
+
+182
+
+81.9 (0.60)
+
+1.56 (0.02)
+
+Obstructed
+
+225
+
+82.0 (0.55)
+
+1.49 (0.02)
+
+Boldface indicates statistical significance. Log contrast sensitivity score ranges from 0 (100% contrast required to read letters) to 1.92 (1.2% contrast
+required to read letters). A score of 1.56 means that 2.8% contrast is required to read letters. A VA (score ranges from 0 to 100) score of 80 is equivalent
+to 20/25, and a score of 85 is equivalent to 20/20. *Adjusted by age (continuous), refractive error status (emmetropia, hyperopia >0.5 to ≤1.5 diopters,
+hyperopia >1.5 diopters, myopia >0.5 to ≤3 diopters, myopia >3 to ≤6 diopters, myopia >6 diopters), and ocular status of cataract. †Adjusted for eight
+comparisons of visual acuity scores and for eight comparisons of contrast sensitivity scores using the Hochberg procedure. TBUT = tear breakup time;
+VA = visual acuity.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+391
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+were classified as having Sjögren syndrome if an antibody profile
+met the 2012 American College of Rheumatology criteria and
+had a sum of the Dry Eye Assessment and Management corneal
+and conjunctival staining scores of ≥3.
+All these statistical models included adjustment of pre-selected
+covariates (age, refractive error, and status of cataract). All statistical analyses were performed in SAS v9.4 (SAS Institute Inc., Cary,
+NC). To account for the multiple comparisons from analyzing the
+association of multiple factors with dry eye symptoms and from
+analyzing multiple dry eyes signs as predictors for visual acuity
+and contrast sensitivity, we calculated adjusted P value using
+the Hochberg procedure.30 Adjusted P values of <.05 were
+considered statistically significant.
+
+RESULTS
+Characteristics of Analysis Cohort
+Among 535 Dry Eye Assessment and Management participants,
+487 participants (974 eyes) were eligible for the analysis after excluding participants with visual acuity 20/50 or worse in at least
+one eye (n = 45 participants), without visual acuity (n = 1 participant), or with diabetic retinopathy (n = 2 participants; Fig. 1).
+Among these remaining 487 eligible subjects, 61 had no Sjögren
+syndrome tests or indeterminate Sjögren syndrome status, leaving
+45 subjects who had Sjögren syndrome at baseline and 381 subjects
+without Sjögren syndrome.
+The participant and ocular characteristics of the 487 participants
+are displayed in Table 1. The mean (standard deviation) age was 58
+(13) years, 81% were female, 74% were white, 13% were black, and
+13% were Hispanic. The mean (standard deviation) Ocular Surface
+Disease Index scores were 42 (16) for the total and 35 (19) for the
+
+vision-related subscale. The mean Medical Outcomes Study 36-Item
+Short Form Health Survey scores were 48 (9.7) for physical health
+and 52 (9.4) for mental health. The mean (standard deviation)
+scores of dry eye signs for the cohort are displayed in Table 1.
+
+Association of Visual Acuity and Contrast Sensitivity
+with Dry Eye Symptoms
+In adjusted analyses (adjusted for age, refractive error, and status of cataract), poorer visual acuity was significantly associated
+with worse mean Ocular Surface Disease Index vision-related subscale score (adjusted means, 39.4 for visual acuity 20/32 or worse
+and 32.4 for visual acuity 20/16 or better; adjusted linear trend,
+P = .02). However, visual acuity was not significantly associated
+with the mean Ocular Surface Disease Index total score or the
+mean Medical Outcomes Study 36-Item Short Form Health Survey
+scores (Table 2).
+Contrast sensitivity was not significantly associated with mean
+Ocular Surface Disease Index scores and mean Medical Outcomes
+Study 36-Item Short Form Health Survey scores (Table 2). There
+were no significant interactions between Sjögren syndrome and
+visual acuity or contrast sensitivity on the association with dry
+eye symptoms (all, P ≥ .21).
+
+Association between Dry Eye Signs and Visual Acuity
+The results of the adjusted analysis (adjusted for age, refractive
+error, and status of cataract) for associations between dry eye signs
+and visual acuity are shown in Table 3. Measures of tear film disruption, including tear film debris and tear breakup time, were
+not associated with worse mean visual acuity. Counterintuitively,
+increased tear film debris was significantly associated with better
+visual acuity score (adjusted mean visual acuity scores, 83.5
+
+FIGURE 2. Adjusted mean visual acuity score for signs of dry eye disease associated with visual acuity scores. Greater tear film debris (left) and longer
+tear breakup time (TBUT; right) were associated with better visual acuity. A letter score of 80 is Snellen 20/25.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+392
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+TABLE 4. Multivariable* analysis for visual acuity and contrast sensitivity by signs of dry eye
+All patients (n = 974 eyes)
+Dry eye signs
+
+Eyes (n)
+
+Mean (SE)
+
+None
+
+639
+
+Mild
+
+Patients without Sjögren syndrome (n = 762 eyes)
+
+Linear trend P
+
+Eyes (n)
+
+Mean (SE)
+
+81.1 (0.40)
+
+498
+
+81.0 (0.43)
+
+269
+
+82.3 (0.53)
+
+209
+
+82.6 (0.61)
+
+66
+
+83.0 (0.91)
+
+55
+
+83.3 (1.01)
+
+>5
+
+114
+
+80.4 (0.67)
+
+84
+
+80.4 (0.73)
+
+>2 and ≤5
+
+598
+
+82.7 (0.47)
+
+478
+
+82.7 (0.53)
+
+≤2
+
+262
+
+83.3 (0.53)
+
+200
+
+83.9 (0.60)
+
+Linear trend P
+
+Visual acuity score (letters)
+Tear film debris
+
+.004
+
+Moderate
+TBUT (s)
+
+.002
+
+.0009
+
+.0002
+
+Log contrast sensitivity score
+Meibomian gland
+
+.01
+
+.003
+
+None plugged
+
+144
+
+1.54 (0.02)
+
+109
+
+1.57 (0.02)
+
+Mild
+
+295
+
+1.58 (0.02)
+
+241
+
+1.59 (0.02)
+
+Moderate
+
+316
+
+1.57 (0.02)
+
+243
+
+1.57 (0.02)
+
+Severe
+
+219
+
+1.48 (0.02)
+
+169
+
+1.49 (0.03)
+
+>5
+
+114
+
+1.55 (0.02)
+
+200
+
+1.56 (0.03)
+
+>2 and ≤5
+
+598
+
+1.56 (0.01)
+
+478
+
+1.57 (0.02)
+
+≤2
+
+262
+
+1.51 (0.02)
+
+84
+
+1.53 (0.02)
+
+TBUT (s)
+
+.009
+
+.10
+
+*The model includes age, refractive error status (emmetropia, hyperopia >0.5 to ≤1.5 diopters, hyperopia >1.5 diopters, myopia >0.5 to ≤3 diopters,
+myopia >3 to ≤6 diopters, myopia >6 diopters), and ocular status of cataract, tear film debris, and TBUT as predictors. Bold numbers are significant.
+TBUT = tear breakup time.
+
+letters for moderate tear film debris and 81.5 letters for none; linear trend adjusted, P = .02), and longer tear breakup time was
+significantly associated with worse visual acuity score (adjusted
+mean visual acuity scores, 79.7 letters for tear breakup time
+>5 seconds and 82.7 letters for tear breakup time ≤2 seconds;
+linear trend, P < .0001; Fig. 2). When the tear film debris and
+tear breakup time were considered together in a multivariate
+model that was adjusted for age, refractive error status, and cataract status, their association with visual acuity remained statistically significant for both tear film debris (P = .004) and tear
+breakup time (P = .0009; Table 4). Signs of meibomian gland dysfunction (plugged glands and cloudy secretions), conjunctival staining, and Schirmer test scores were not significantly associated with
+visual acuity (all linear trends, P > .64; Table 3).
+There was a statistically significant interaction between the
+presence of Sjögren syndrome and tear film debris (adjusted,
+P = .02) for the association with visual acuity. In an analysis stratified by Sjögren syndrome status (Appendix Table A1, available at
+http://links.lww.com/OPX/A404), the mean visual acuity score significantly increased with severity of tear film debris (adjusted linear
+trend, P = .001) in non–Sjögren syndrome patients; however, in
+Sjögren syndrome patients, the mean visual acuity scores did not
+show an association with tear film severity (linear trend, P = .07).
+
+plugging was significantly associated with worse mean log contrast
+sensitivity in both the unadjusted and adjusted analyses (adjusted
+mean log contrast sensitivity score, 1.48 for severe vs. 1.54 for
+none plugged; linear trend adjusted, P = .04). Similarly, the degree
+of abnormality in meibomian gland secretions was significantly associated with worse mean log contrast sensitivity (adjusted mean
+log contrast sensitivity scores, 1.49 for obstructed and 1.57 for
+clear; linear trend adjusted, P = .002). Longer tear breakup time
+was significantly associated with better mean log contrast sensitivity (adjusted log contrast sensitivity scores, 1.57 for tear breakup
+time >5 seconds and 1.51 for tear breakup time ≤2 seconds; linear
+trend adjusted, P = .02). When meibomian gland plugging and tear
+breakup time were considered together in a multivariate model that
+was adjusted for age, refractive error status, and cataract status,
+the significant association with contrast sensitivity remained for
+meibomian gland plugging (P = .01) and tear breakup time
+(P = .009; Table 4, Fig. 3). Tear film debris, conjunctival staining,
+corneal staining, and Schirmer test score were not significantly associated with contrast sensitivity (all linear trend adjusted,
+P ≥ .55, Table 4).
+
+Associations between Dry Eye Signs with
+Contrast Sensitivity
+
+Dry eye has a deleterious effect on multiple aspects of visual
+function despite normal visual acuity being documented using
+standard testing techniques.31 Our data substantiate the finding
+that, even among patients with relatively good visual acuity (20/50
+
+The adjusted analyses for associations of dry eye signs with contrast sensitivity are shown in Table 3. Severe meibomian gland
+www.optvissci.com
+
+DISCUSSION
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+393
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+FIGURE 3. Adjusted mean log contrast sensitivity score for signs of dry eye disease associated with contrast sensitivity. Greater meibomian gland
+plugging (left) and shorter tear breakup time (TBUT; right) were associated with worse contrast sensitivity.
+
+or better), worse visual acuity corresponded to worse scores on the
+Ocular Surface Disease Index vision-related symptoms subscale in
+dry eye patients. However, none of the dry eye signs we measured
+in the study deleteriously impacted visual acuity. Although subtle
+visual acuity changes could be documented based on differences
+in tear film debris and tear breakup time, the mean changes were
+small (approximately two letters) and not in the direction one would
+expect. Alternatively, we found that contrast sensitivity measurements were more sensitive to differences based on dry eye signs related to tear film stability (tear breakup time and meibomian gland
+dysfunction) than conventional visual acuity assessments.
+We included evaluation of central corneal fluorescein staining
+on vision in the Dry Eye Assessment and Management participants,
+as this has been shown to decrease quality of life in other ocular
+surface disease patients and central corneal staining directly impacted functional, dynamic visual acuity in a small dry eye study
+of 22 patients.15,32 In addition, Huang and colleagues15 previously
+found that, in dry eye patients with punctate epithelial keratopathy,
+contrast sensitivity improved after instillation of artificial tears.
+However, we were not able to demonstrate an impact on highcontrast visual acuity or contrast sensitivity with increased central
+corneal staining in our dry eye cohort. The Dry Eye Assessment
+and Management cohort had relatively low corneal staining scores
+overall (mean staining score, 3.6 of 15; Table 1), and we used
+static measures of visual acuity and contrast sensitivity rather than
+dynamic, which may account for the differences in our findings compared with others.
+Using low-contrast optotypes, the measurement of contrast
+sensitivity can detect subtle vision changes that may not be detected
+with standard visual acuity testing. In our study, we detected a
+~0.07 difference in log contrast sensitivity in eyes with severe
+
+www.optvissci.com
+
+meibomian gland dysfunction or obstructed meibomian gland secretions compared with normal eyes and in eyes with short (≤2 seconds)
+tear breakup time compared with eyes with longer (>5 seconds)
+times. In other ocular diseases such as glaucoma and age-related
+macular degeneration, standard high-contrast visual acuity testing
+did not differentiate between milder ocular disease states when
+contrast sensitivity did.23–27 For example, in patients with different
+stages of glaucoma, mean log contrast sensitivity differed significantly between patients with early and moderate visual field defects (1.76 vs. 1.51, respectively).33 In another study, the mean
+log contrast sensitivity was 1.62 for healthy subjects aged 22 to
+77 years, with significantly lower values in patients with glaucoma
+(1.56) or age-related macular degeneration (1.03).34 In addition,
+in a study evaluating visual function in recalcitrant neovascular
+age-related macular degeneration after switching anti–vascular
+endothelial growth factor treatments, mean log contrast sensitivity improved from 1.32 to 1.40 units, whereas visual acuity remained
+stable throughout.35
+The findings of improved visual acuity with worse tear film
+debris and shorter breakup time were unexpected and counterintuitive. These patients may be compensating by blinking more
+to distribute the tear film and remove debris that could contribute
+to improved vision. Evaluating only the Sjögren syndrome group
+can provide us an indication of the impact of aqueous deficiency
+on these associations. When we scrutinized only the Sjögren
+syndrome group, we found no impact of any ocular signs on highcontrast visual acuity. That is, the previous associations and trends
+of tear film debris and tear breakup time on visual acuity as noted
+in the entire cohort were not present in the Sjögren syndrome
+group, suggesting that aqueous deficiency does not contribute to
+these relationships.
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+394
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+
+Limitations of our study and analyses include having patients
+with a limited range of symptoms because patients with mild or
+very severe symptoms as measured by the Ocular Surface Disease Index were excluded. Also, as in most research studies,
+visual function was measured as a patient read a chart in an
+examination room where blinking may differ from other everyday activities such as viewing a display screen or reading
+printed material.
+
+ARTICLE INFORMATION
+Supplemental Digital Content: Appendix Table A1, Adjusted mean scores for visual acuity (letters) by tear film
+debris stratified by presence or absence of Sjögren syndrome are available at http://links.lww.com/OPX/A404.
+Submitted: August 1, 2018
+Accepted: February 17, 2019
+Funding/Support: This work was supported by cooperative
+agreements U10EY022879 and U10EY022881 from the
+National Eye Institute, National Institutes of Health,
+Department of Health and Human Services. Additional
+support was provided by grants from the Office of Dietary
+Supplements National Institutes of Health, Department of
+Health and Human Services.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest. The sponsor
+provided financial support and had a role in the study
+design and conduct but not the analysis, interpretation, or
+writing of the report.
+Study Registration Information: ClinicalTrials.gov/NCT02128763.
+Author Contributions: Conceptualization: LBS-F, MGM, PAA;
+Data Curation: MGM, MCL; Formal Analysis: MGM,
+G-sY; Funding Acquisition: MGM, PAA; Investigation:
+VYB, RD, PAA; Methodology: MGM, G-sY, PAA; Project
+Administration: LBS-F, MGM, PAA; Writing – Original Draft:
+LBS-F, MGM, G-sY, MCL; Writing – Review & Editing:
+LBS-F, MGM, G-sY, MCL, VYB, RD, PAA.
+The Dry Eye Assessment and Management (DREAM) Study
+Research Group
+The members of the Dry Eye Assessment and Management
+(DREAM) Study Research Group who contributed to the
+research presented in this article are listed below.
+Certified roles at clinical centers: clinician (CL), clinic
+coordinator (CC), data entry staff (DE) principal
+investigator (PI), technician (T).
+Milton M. Hom (Azusa, CA): Milton M. Hom, OD, FAAO
+(PI); Melissa Quintana (CC/T); Angela Zermeno (CC/T).
+Pendleton Eye Center (Oceanside, CA): Robert
+Pendleton, MD, PhD (PI); Debra McCluskey (CC);
+Diana Amador (T); Ivette Corona (CC/T); Victor
+Wechter, MD (CL).
+University of California School of Optometry, Berkeley
+(Berkeley, CA): Meng C. Lin, OD, PhD, FAAO (PI); Carly
+Childs (CC); Uyen Do (CC); Mariel Lerma (CC); Wing Li,
+OD (T); Zakia Young (CC); Tiffany Yuen, OD (CC/T).
+Clayton Eye Center (Morrow, GA): Harvey Dubiner, MD
+(PI); Heather Ambrosia, OD (C); Mary Bowser (CC/T);
+Peter Chen, OD (CL); Helen Dubiner, PharmD, CCRC
+(CC/T); Cory Fuller (CC/T); Kristen New (DE); Tu Vy
+Nguyen (C); Ethen Seville (CC/T); Daniel Strait, OD
+(CL); Christopher Wang (CC/T); Stephen Williams (CC/T);
+Ron Weber, MD (CL).
+University of Kansas (Prairie Village, KS): John Sutphin,
+MD (PI); Miranda Bishara, MD (CL); Anna Bryan (CC);
+
+www.optvissci.com
+
+In conclusion, our study found that poorer visual acuity rather
+than worse contrast sensitivity drives visual symptoms and complaints in dry eye. However, contrast sensitivity measurements are
+more sensitive to worse tear film stability measures (such as tear
+breakup time and Meibomian gland plugging) than standard visual
+acuity assessments. Future studies that examine how specific ocular
+signs affect various measures of visual function would be helpful in
+elucidating these relationships and could in turn guide therapies.
+
+Asher Ertel (CC/T); Kristie Green (T); Gloria Pantoja,
+Ashley Small (CC); Casey Williamson (T).
+Clinical Eye Research of Boston (Boston, MA): Jack
+Greiner, MS, OD, DO, PhD (PI); EveMarie DiPronio
+(CC/T); Michael Lindsay (CC/T); Andrew McPherson
+(CC/T); Paula Oliver (CC/T); Rina Wu (T).
+Mass Eye and Ear Infirmary (Boston, MA): Reza Dana, MD
+(PI); Tulio Abud (T): Lauren Adams (T); Marissa
+Arnofsky (T); Jillian Candlish, COA (T); Pranita
+Chilakamarri (DE); Joseph Ciolino, MD (CL); Naomi
+Crandall (T); Antonio Di Zazzo (T); Merle Fernandes
+(T); Mansab Jafri (T); Britta Johnson (T); Ahmed
+Kheirkhah (T); Sally Kiebdaj (CC/T); Andrew Mullins
+(CC/T); Milka Nova (T); Vannarut Satitpitakul (T);
+Chunyi Shao (T); Kunal Suri (T); Vijeeta Tadla (CC);
+Saboo Ujwala (T); Jia Yin MD, PhD (T); Man Yu (T).
+Kellogg Eye Center, University of Michigan (Ann Arbor, MI):
+Roni Shtein, MD (PI); Christopher Hood, MD (CL);
+Munira Hussain, MS, COA, CCRP (CC/T); Erin Manno,
+COT (T); Laura Rozek, COT (T/DE).
+Minnesota Eye Consultants (Bloomington, MN): David R.
+Hardten, MD, FACS (PI); Kimberly Baker (T); Alex Belsaas
+(T); Erich Berg (CC/T); Alyson Blakstad, OD (CL); Ken
+DauSchmidt (T); Lindsey Fallenstein (CC/T); Ahmad M.
+Fahmy, OD (CL); Mona M. Fahmy, OD, FAAO (CL); Ginny
+Georges (T); Deanna E. Harter (CL); Scott G. Hauswirth, OD
+(CL); Madalyn Johnson (T); Ella Meshalkin (T); Rylee Pelzer
+(CC/T); Joshua Tisdale (CC/T); JulieAnn C. Wick (CL).
+Tauber Eye Center (Kansas City, MO): Joseph Tauber, MD,
+PhD (PI); Megan Hefter (CC/T).
+Silverstein Eye Centers (Kansas City, MO): Steven Silverstein,
+MD (PI); Cindy Bentley (CC/T); Eddie Dominguez (CC/T);
+Kelsey Kleinsasser, OD (CL).
+Icahn School of Medicine at Mt. Sinai (New York, NY):
+Penny Asbell, MD, MBA, FACS (PI); Brendan Barry
+(CC/T); Eric Kuklinski (CC/T); Afsana Amir (CC/T); Neil
+Chen (CC/T); Marko Oydanich (CC/T); Viola Spahiu (CC/T);
+An Vo, MD (T); Matthew Weinstein, DO (T).
+University of Rochester Flaum Eye Institute (Rochester,
+NY): Tara Vaz, OD (PI); Holly Hindman, MD (PI);
+Rachel Aleese (CC/T); Andrea Czubinski (CC/T); Gary
+Gagarinas, COMT, CCRA (CC/T); Peter McDowell (CC);
+George O'Gara (DE); Kari Steinmetz (CC/T).
+University of Pennsylvania Scheie Eye Institute (Philadelphia,
+PA): Vatinee Bunya, MD (PI); Michael Bezzerides (CC/T);
+Dominique Caggiano (CC/T); Sheri Drossner (T); Joan
+Dupont (CC); Marybeth Keiser (CC/T); Mina Massaro, MD
+(CL); Stephen Orlin, MD (CL); Ryan O'Sullivan (CC/T).
+Southern College of Optometry (Memphis, TN): Michael
+Christensen, OD, PhD (PI); Havilah Adkins (CC); Randy
+Brafford (CC/T); Cheryl Ervin (CL); Rachel Grant, OD
+(CL); Christina Newman (CL).
+Shettle Eye Research (Largo, FL): Lee Shettle, DO (PI);
+Debbie Shettle (CC).
+Stephen Cohen, OD, PC (Scottsdale, AZ): Stephen Cohen,
+OD (PI); Diane Rodman (CC/T).
+
+Case Western Reserve University (Cleveland, OH): Loretta
+Szczotka-Flynn, OD, PhD (PI); Tracy Caster (T); Pankaj
+Gupta MD MS (CL); Sangeetha Raghupathy (CC/T);
+Rony Sayegh, MD (CL).
+Mayo Clinic Arizona (Scottsdale, AZ): Joanne Shen, MD
+(PI); Nora Drutz, CCRC (CC); Lauren Joyner, COA (T);
+Mary Mathis, COA (T); Michaele Menghini, CCRP (CC);
+Charlene Robinson, CCRP (CC).
+Wolston & Goldberg Eye Associates (Torrance, CA):
+Damien Goldberg, MD (PI); Lydia Jenkins (T); Brittney
+Rodriguez (CC/T); Jennifer Picone Jones (CC/T); Nicole
+Thompson (T); Barry Wolstan, MD (CL).
+Northeast Ohio Eye Surgeons (Stow, OH): Marc Jones, MD
+(PI); April Lemaster (CC/T); Julie Ransom-Chaney (T);
+William Rudy, OD (CL).
+Tufts Medical Center (Boston, MA): Pedram Hamrah, MD
+(PI); Mildred Commodore (CC); Christian Iyore (T);
+Lioubov Lazarev (T): Leah Mullen (T); Nicholas
+Pondelis (T); Carly Satsuma (CC).
+University of Illinois at Chicago (Chicago, IL): Sandeep
+Jain, MD (PI); Peter Cowen (CC/T); Joelle Hallak (CC);
+Christine Mun (CC/T); Roxana Toh (CC).
+The Eye Centers of Racine & Kenosha (Racine, WI): Inder
+Singh, MD (PI); Pamela Lightfield (CC/T); Eunice
+Lowery (T); Sarita Ornelas (T); R. Krishna Sanka, MD
+(CL); Beth Saunders (T).
+Mulqueeny Eye Centers (St. Louis, MO): Sean P.
+Mulqueeny, OD (PI); Maggie Pohlmeier (CC/T).
+Oculus Research at Garner Eyecare Center (Raleigh, NC):
+Carol Aune, OD (PI); Hoda Gabriel (CC); Kim Major
+Walker, MS, RN (CC/T); Jennifer Newsome (CC/T).
+Resource Centers
+Chairman's Office (Icahn School of Medicine at Mount Sinai,
+New York, NY): Penny Asbell, MD, MBA, FACS (Study
+Chair); Brendan Barry (Clinical Research Coordinator);
+Eric Kuklinski (Clinical Research Coordinator); Shir
+Levanon (Clinical Research Coordinator); Michael
+Farkouh, MD, FRCPC, FACC, FAHA (Medical Safety
+Monitor); Seunghee Kim-Schulze, PhD (Consultant);
+Robert Chapkin, PhD, MSc (Consultant); Giampaolo
+Greco, PhD (Consultant); Artemis Simopoulos, MD
+(Consultant); Ines Lashley (Administrative Assistant);
+Peter Dentone, MD (Clinical Research Coordinator);
+Neha Gadaria-Rathod, MD (Clinical Research Coordinator);
+Morgan Massingale, MS (Clinical Research Coordinator);
+Nataliya Antonova (Clinical Research Coordinator).
+Coordinating Center (University of Pennsylvania
+Perelman School of Medicine, Philadelphia, PA):
+Maureen G. Maguire, PhD (PI); Mary BrightwellArnold, SCP (Systems Analyst); John Farrar, MD,
+PhD (Consultant); Sandra Harkins (Staff Assistant);
+Jiayan Huang, MS (Biostatistician); Kathy McWilliams,
+CCRP (Protocol Monitor); Ellen Peskin, MA, CCRP
+(Director); Maxwell Pistilli, MS, MEd (Biostatistician);
+Susan Ryan (Financial Administrator); Hilary Smolen
+(Research Fellow); Claressa Whearry (Administrative
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+395
+
+Dry Eye Impact on Vision — Szczotka-Flynn et al.
+Coordinator); Gui-Shuang Ying, PhD (Senior Biostatistician);
+Yinxi Yu (Biostatistician).
+
+REFERENCES
+
+18. Koh S. Mechanisms of Visual Disturbance in Dry
+Eye. Cornea 2016;35(Suppl. 1):S83–8.
+
+Biomarker Laboratory (Icahn School of Medicine at Mount Sinai,
+New York, NY): Yi Wei, PhD, DVM (Co-Director,
+Biomarker Laboratory); Neeta Roy, PhD (Co-Director,
+Biomarker Laboratory); Seth Epstein, MD (Former CoDirector; Biomarker Laboratory); Penny A. Asbell, MD,
+MBA, FACS (Director and Study Chair).
+
+1. Jie Y, Xu L, Wu YY, et al. Prevalence of Dry Eye Among
+Adult Chinese in the Beijing Eye Study. Eye (Lond)
+2009;23:688–93.
+
+19. Ferrer-Blasco T, Garcia-Lazaro S, Montes-Mico R,
+et al. Dynamic Changes in the Air-tear Film Interface
+Modulation Transfer Function. Graefes Arch Clin Exp
+Ophthalmol 2010;248:127–32.
+
+Investigational Drug Service (University of Pennsylvania
+Perelman School of Medicine, Philadelphia, PA):
+Kenneth Rockwell, Jr., PharmD, MS (Director).
+Peroxisomal Diseases Laboratory at the Kennedy Krieger
+Institute, Johns Hopkins University, Baltimore, MD: Ann
+Moser (Co-Director/Consultant); Richard O. Jones, PhD
+(Co-Director/Consultant).
+Meibomian Gland Reading Center (University of Pennsylvania
+Perelman School of Medicine, Philadelphia, PA): Ebenezer
+Daniel, PhD, MBBS, MPH (PI); E. Revell Martin (Image
+Grader); Candace Parker Ostroff (Image Grader); Eli Smith
+(Image Grader); Pooja Axay Kadakia (Student Researcher).
+National Eye Institute, National Institutes of Health,
+Department of Health and Human Services: Maryann
+Redford, DDS, MPH (Program Officer).
+Office of Dietary Supplements/National Institutes of Health,
+Department of Health and Human Services.
+Committees
+Executive Committee: (members from all terms of
+appointment): Penny Asbell, MD, MBA, FACS (Chair);
+Brendan Barry, MS; Munira Hussain, MS, COA, CCRP;
+Jack Greiner, OD, PhD, MS; Milton Hom, OD, FAAO;
+Holly Hindman, MD, MPH; Eric Kuklinski, BA; Meng
+C. Lin OD, PhD. FAAO; Maureen G. Maguire, PhD;
+Kathy McWilliams, CCRP; Ellen Peskin, MA, CCRP;
+Maryann Redford, DDS, MPH; Roni Shtein, MD, MS;
+Steven Silverstein, MD; John Sutphin, MD.
+Operations Committee: Penny Asbell, MD, MBA, FACS
+(Chair); Brendan Barry, MS; Eric Kuklinski, BA; Maureen
+G. Maguire, PhD; Kathleen McWilliams, CCRP, Ellen
+Peskin, MA, CCRP; Maryann Redford, DDS, MPH.
+Clinic Monitoring Committee: Ellen Peskin, MA, CCRP
+(Chair); Mary Brightwell-Arnold, SCP, Maureen G.
+Maguire, PhD; Kathleen McWilliams, CCRP.
+Data and Safety Monitoring Committee: Stephen
+Wisniewski, PhD (Chair); Tom Brenna, PhD; William G.
+Christen, Jr., SCD, OD, PhD; Jin-Feng Huang, PhD;
+Cynthia S. McCarthy, DHCE, MA; Susan T. Mayne, PhD;
+Mari Palta, PhD; Oliver D. Schein, MD, MPH, MBA.
+Industry Contributors of Products and Services
+Access Business Group, LLC (Ada, MI): Jennifer Chuang,
+PhD, CCRP; Maydee Marchan, MChE; Tian Hao, PhD;
+Christine Heisler; Charles Hu, PhD; Clint Throop; Vikas
+Moolchandani, PhD.
+Compounded Solutions in Pharmacy (Monroe, CT)
+Leiter's (San Jose, CA)
+Immco Diagnostics Inc. (Buffalo, NY)
+OCULUS Inc. (Arlington, WA)
+RPS Diagnostics, Inc. (Sarasota, FL)
+TearLab Corporation (San Diego, CA)
+TearScience Inc. (Morrisville, NC)
+
+www.optvissci.com
+
+2. Paulsen AJ, Cruickshanks KJ, Fischer ME, et al. Dry
+Eye in the Beaver Dam Offspring Study: Prevalence,
+Risk Factors, and Health-related Quality of Life. Am J
+Ophthalmol 2014;157:799–806.
+3. Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II
+Epidemiology Report. Ocul Surf 2017;15:334–65.
+4. Tian YJ, Liu Y, Zou HD, et al. Epidemiologic Study of
+Dry Eye in Populations Equal or Over 20 Years Old in
+Jiangning District of Shanghai. Zhonghua Yan Ke Za
+Zhi 2009;45:486–91.
+5. Tong L, Saw SM, Lamoureux EL, et al. A Questionnaire-based Assessment of Symptoms Associated with
+Tear Film Dysfunction and Lid Margin Disease in an
+Asian Population. Ophthalmic Epidemiol 2009;16:
+31–7.
+6. Viso E, Rodriguez-Ares MT, Gude F. Prevalence of
+and Associated Factors for Dry Eye in a Spanish Adult
+Population (the Salnes Eye Study). Ophthalmic Epidemiol
+2009;16:15–21.
+7. Le Q, Zhou X, Ge L, et al. Impact of Dry Eye Syndrome
+on Vision-related Quality of Life in a Non-clinic-based
+General Population. BMC Ophthalmol 2012;12:22.
+8. Cowell BA, Wu C, Fleiszig SM. Use of an Animal
+Model in Studies of Bacterial Corneal Infection. ILAR J
+1999;40:43–50.
+
+20. Puell MC, Benitez-del-Castillo JM, Martinez-de-laCasa J, et al. Contrast Sensitivity and Disability Glare
+in Patients with Dry Eye. Acta Ophthalmol Scand
+2006;84:527–31.
+21. Ridder WH, 3rd, LaMotte J, Hall JQ, Jr., et al. Contrast Sensitivity and Tear Layer Aberrometry in Dry Eye
+Patients. Optom Vis Sci 2009;86:E1059–68.
+22. Rolando M, Iester M, Macri A, et al. Low Spatialcontrast Sensitivity in Dry Eyes. Cornea 1998;17:
+376–9.
+23. Elliott DB, Hurst MA. Simple Clinical Techniques to
+Evaluate Visual Function in Patients with Early Cataract.
+Optom Vis Sci 1990;67:822–5.
+24. Essock EA, Fechtner RD, Zimmerman TJ, et al. Binocular Function in Early Glaucoma. J Glaucoma 1996;
+5:395–405.
+25. Ghaith AA, Daniel J, Stulting RD, et al. Contrast
+Sensitivity and Glare Disability After Radial Keratotomy
+and Photorefractive Keratectomy. Arch Ophthalmol
+1998;116:12–8.
+26. Hawkins AS, Szlyk JP, Ardickas Z, et al. Comparison
+of Contrast Sensitivity, Visual Acuity, and Humphrey Visual
+Field Testing in Patients with Glaucoma. J Glaucoma
+2003;12:134–8.
+
+9. Moss SE, Klein R, Klein BE. Long-term Incidence of
+Dry Eye in an Older Population. Optom Vis Sci 2008;
+85:668–74.
+
+27. Wood JM, Lovie-Kitchin JE. Evaluation of the Efficacy of Contrast Sensitivity Measures for the Detection
+of Early Primary Open-angle Glaucoma. Optom Vis Sci
+1992;69:175–81.
+
+10. Ali NM, Hamied FM, Farhood QK. Corneal Thickness in Dry Eyes in an Iraqi Population. Clin Ophthalmol
+2017;11:435–40.
+
+28. Asbell PA, Maguire MG, Pistilli M, et al. n-3 Fatty
+Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med 2018;378:1681–90.
+
+11. Liu Z, Pflugfelder SC. Corneal Thickness Is Reduced
+in Dry Eye. Cornea 1999;18:403–7.
+
+29. Allergan. 12-Item Ocular Surface Disease Index
+(OSDI) Administration and Scoring Manual. Madison,
+NJ: Allergan, Inc; 2004.
+
+12. Foulks GN. What Is Dry Eye and What Does It Mean
+to the Contact Lens Wearer? Eye Contact Lens 2003;29:
+S96–100.
+13. McDonnell PJ, Pflugfelder SC, Stern ME, et al.
+Study Design and Baseline Findings from the Progression of Ocular Findings (PROOF) Natural History Study
+of Dry Eye. BMC Ophthalmol 2017;17:265.
+14. Kaido M, Matsumoto Y, Shigeno Y, et al. Corneal
+Fluorescein Staining Correlates with Visual Function in
+Dry Eye Patients. Invest Ophthalmol Vis Sci 2011;52:
+9516–22.
+15. Huang FC, Tseng SH, Shih MH, et al. Effect of Artificial Tears on Corneal Surface Regularity, Contrast Sensitivity, and Glare Disability in Dry Eyes. Ophthalmology
+2002;109:1934–40.
+16. Koh S, Maeda N, Hirohara Y, et al. Serial Measurements of Higher-order Aberrations After Blinking in Patients with Dry Eye. Invest Ophthalmol Vis Sci 2008;
+49:133–8.
+17. Koh S, Maeda N, Ikeda C, et al. The Effect of Ocular
+Surface Regularity on Contrast Sensitivity and Straylight
+in Dry Eye. Invest Ophthalmol Vis Sci 2017;58:
+2647–51.
+
+30. Hochberg Y, Benjamini Y. More Powerful Procedures for Multiple Significance Testing. Stat Med
+1990;9:811–8.
+31. Uchino M, Schaumberg DA. Dry Eye Disease: Impact on Quality of Life and Vision. Curr Ophthalmol
+Rep 2013;1:51–7.
+32. Saboo US, Amparo F, Abud TB, et al. Visionrelated Quality of Life in Patients with Ocular
+Graft-versus-host Disease. Ophthalmology 2015;
+122:1669–74.
+33. Bambo MP, Ferrandez B, Guerri N, et al. Evaluation
+of Contrast Sensitivity, Chromatic Vision, and Reading
+Ability in Patients with Primary Open Angle Glaucoma.
+J Ophthalmol 2016;2016:7074016.
+34. Haymes SA, Roberts KF, Cruess AF, et al. The
+Letter Contrast Sensitivity Test: Clinical Evaluation
+of a New Design. Invest Ophthalmol Vis Sci 2006;
+47:2739–45.
+35. Nixon DR, Flinn NA. Evaluation of Contrast Sensitivity and Other Visual Function Outcomes in Neovascular
+Age-related Macular Degeneration Patients After Treatment Switch to Aflibercept from Ranibizumab. Clin
+Ophthalmol 2017;11:715–21.
+
+Optom Vis Sci 2019; Vol 96(6)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+396
+
+

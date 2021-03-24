@@ -1,0 +1,1067 @@
+1040-5488/15/9204-0471/0 VOL. 92, NO. 4, PP. 471Y479
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2015 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Different Amounts of Alcohol Consumption and
+Cataract: A Meta-analysis
+Downloaded from https://journals.lww.com/optvissci by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 10/31/2020
+
+Yu Gong*, Kehong Feng*, Ning Yan†, Yong Xu‡, and Chen-Wei Pan§
+
+ABSTRACT
+Purpose. To evaluate the association between different amounts of alcohol consumption and the risk of age-related cataract.
+Methods. We searched PubMed and Embase from their inception until May 2014 for case-control or cohort studies with
+data on alcohol consumption and age-related cataract. Heavy alcohol consumption was defined as more than two
+standard drinks per day, which is equal to a daily intake of 20 g of alcohol or 140 g per week. Moderate consumption was
+defined as less than 20 g of alcohol per day but more than never any. We performed separate meta-analyses for
+the associations of moderate or heavy alcohol consumption with age-related cataract under a random-effects model,
+respectively.
+Results. Five case-control and five cohort studies were identified through comprehensive literature search. In the metaanalysis of 10 studies, the associations between moderate alcohol consumption and age-related cataract were marginally
+nonsignificant (pooled relative risk, 0.88; 95% confidence interval, 0.74 to 1.05; I2 = 82.1%), whereas heavy alcohol
+consumption was associated with an increased risk of age-related cataract (pooled relative risk, 1.26; 95% confidence
+interval, 1.06 to 1.50; I2 = 58.9%). The association between heavy alcohol consumption and cataract was stronger in casecontrol than in cohort studies. Adjusting for smoking as a potential confounder attenuated the association between heavy
+alcohol consumption and cataract.
+Conclusions. Heavy alcohol consumption significantly increased the risk of age-related cataract, whereas moderate
+consumption may be protective for this ocular condition. Clinically, information on a patient’s alcohol drinking history
+might be valuable to general physicians and ophthalmologists when there is a diagnosis of age-related cataract and should
+be collected on a routine basis in eye clinics.
+(Optom Vis Sci 2015;92:471Y479)
+Key Words: alcohol, cataract, meta-analysis, epidemiology
+
+A
+
+ge-related cataract is the leading cause of visual impairment worldwide.1Y8 With longer life expectancies and an
+aging population throughout the world, the burden and
+impact of age-related cataract tend to increase, resulting in a global
+public health concern. The key step for the prevention of agerelated cataract is to identify the risk factors for this eye condition, especially modifiable ones. Up until now, few risk factors
+have been consistently associated with age-related cataract except
+
+*MD
+†
+BSc
+‡
+MSc
+§
+MD, PhD
+Department of Ophthalmology, Children’s Hospital of Soochow University,
+Suzhou, China (YG, KF); and Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric Diseases, School of Public Health, Medical College
+of Soochow University, Suzhou, China (NY, YX, C-WP).
+
+smoking9 and ultraviolet exposure.10 In a recently published metaanalysis, we found that obesity increased the risks of age-related
+cataract.11
+Alcohol consumption is a common modifiable lifestyle factor
+and appears to be associated with a wide range of chronic diseases
+such as cancers,12 type 2 diabetes mellitus,13 and cardiovascular
+diseases.14 However, there is uncertainty regarding its association
+with age-related cataract in elderly adults. A relationship between
+alcohol consumption and an increased risk of cataract has been
+reported from cross-sectional studies,15,16 but several prospective
+cohort studies have not found this association.17,18
+It is especially important to understand whether the association
+between alcohol consumption and age-related cataract is modified
+by the amount of alcohol consumption because there is always a
+U-shaped association observed in epidemiologic studies between
+alcohol consumption and clinical disorders. For example, light
+and moderate alcohol consumption appears to be protective for
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+472 Alcohol Consumption and CataractVGong et al.
+
+cardiovascular diseases whereas heavy consumption appears to be a
+risk factor.14 Therefore, a systematic approach to combine the
+results of all available studies evaluating the association of alcohol
+consumption with age-related cataract would be informative to
+answer this research question. To address this gap, we conducted a
+systematic review and meta-analysis of the published literatures to
+examine if different amount of alcohol consumption is associated
+with different risks of age-related cataract.
+
+We assessed the study quality using the tool described by
+Sanderson et al.20 The variables examined included the methods for
+selecting study participants, methods for measuring exposure (alcohol consumption) and outcome variable (age-related cataract),
+design-specific sources of bias (excluding confounding), methods
+for controlling confounding, statistical methods (excluding control
+of confounding), and conflict of interest.
+
+Statistical Methods
+METHODS
+Search Strategy and Inclusion Criteria
+We conducted a systematic review and meta-analysis to examine
+the association of alcohol consumption with age-related cataract
+based on the Meta-analysis of Observational Studies in Epidemiology guidelines.19 We searched the electronic databases of PubMed
+and Embase for relevant articles reporting the association published
+up to May 2014 with the following search terms (formatted for
+PubMed search): (‘‘ethanol’’[MeSH Terms] OR ‘‘ethanol’’[All
+Fields] OR ‘‘alcohol’’[All Fields] OR ‘‘alcohols’’[MeSH Terms] OR
+‘‘alcohols’’[All Fields]) AND ((‘‘cataract’[MeSH Terms] OR
+‘‘cataract’’[All Fields]) OR (‘‘cataract’’[MeSH Terms] OR
+‘‘cataract’’[All Fields] OR (‘‘lens’’[All Fields] AND ‘‘opacity’’[All
+Fields]) OR ‘‘lens opacity’’[All Fields])). Titles and abstracts of the
+studies were independently scanned by two authors (YG and KF).
+Duplicate articles from the two databases were deleted. The
+extracted studies were compared, and inconsistencies were resolved
+by consensus. In addition, the reference lists of all identified studies
+were examined. This study was approved by the Medical College of
+Soochow University Institutional Review Board.
+We included studies if they were case-control or cohort studies
+and if they reported alcohol consumption as an exposure variable
+and any subtypes of age-related cataract including cataract surgery as
+the outcome measure. Furthermore, we included studies only if the
+summary estimates such as odds ratios (ORs), relative risks (RRs),
+and hazard ratios with 95% confidence interval (CI) were reported
+in the article or allowed for the calculation of the summary estimates
+based on the data presented in the article. We only included studies
+in which age-related cataract was assessed based on lens photographs
+or diagnosed by ophthalmologists. We excluded studies if they were
+not case-control or cohort studies (e.g., cross-sectional designs or
+ecology studies) or if they measured cataract by questionnaires (selfreported). For cohort studies, if one study reported two results at
+different follow-up periods, the result with a longer follow-up period
+was included in the analysis. Although we did not specifically exclude non-English literature, the studies included in the final
+analysis were all in English.
+
+Data Extraction and Assessment of Study Quality
+For each study in the analyses, we extracted the following information: first author, publication year, study name, study design, sample size, age range of the study participants, follow-up
+periods (for cohort studies only), definitions of alcohol consumption and age-related cataract, summary estimates and corresponding 95% CI, and confounding factors adjusted for.
+
+We performed the meta-analysis using Stata version 12.0
+(StataCorp, College Station, TX). We meta-analyzed the fully
+adjusted, study-specific summary estimates using a random-effects
+model to account for both within- and between-study variability.
+Age-related cataract was treated as the outcome measure, whereas
+alcohol consumption was analyzed as the independent variable.
+Heavy alcohol consumption was defined as more than two standard drinks per day, which is equal to a daily intake of 20 g of
+alcohol or 140 g per week. Moderate alcohol consumption was
+defined as less than 20 g of alcohol per day but more than never.
+We treated ‘‘nonYalcohol drinker’’ as the reference category and
+converted summary estimates if necessary. Statistical heterogeneity among studies was evaluated using I2 statistic.21 Values of
+0 to 24%, 25 to 49%, 50 to 74%, and more than 75% denote no,
+low, moderate, and high heterogeneity, respectively.22 Sensitivity
+analysis was performed to investigate the contribution of each
+study to the heterogeneity by sequentially removing one study and
+reanalyzing the pooled estimate for the remaining studies.
+The RRs were used as the common measure of association
+across studies. Hazard ratios were directly considered as RRs.
+Where necessary, ORs were transformed into RRs with the following formula:
+
+RR ¼ OR=½ð1jPo Þ þ ðPo  ORÞ;
+in which Po is the rate of the outcome of interest in the
+nonexposed group.14
+The SE of the resulting converted RR was then determined with
+the following formula:
+
+SE logðRRÞ ¼ SE logðORÞ  logðRRÞ= logðORÞ:
+In some studies, a single summary estimate was not available
+for moderate/heavy drinkers versus nondrinkers because the data
+were presented as only a dose-response. In these cases, we first
+pooled across levels of alcohol intake within the study using a
+random-effects model to derive a single summary estimate for
+moderate/heavy drinkers versus nondrinkers. The resulting single,
+study-specific summary estimate was then pooled with those of
+other studies.
+We evaluated publication bias using the Egger regression
+asymmetry test and the Begg test. A two-sided p value of less than
+0.05 was regarded as significant for all analyses.
+
+RESULTS
+We identified 1542 unique titles and abstracts in the electronic
+databases of PubMed and Embase. After two rounds of reviews and
+searching citations of retained articles, we identified 42 studies as
+potentially relevant for analysis, from which we retrieved 29 full text
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Alcohol Consumption and CataractVGong et al.
+
+473
+
+FIGURE 1.
+Flow chart describing the selection of studies.
+
+articles for review. Finally, we included 5 cohort studies17,18,23Y25
+and 5 case-control studies26Y30 in this meta-analysis (Fig. 1).
+Characteristics of the 10 studies included in the meta-analysis are
+
+summarized in Table 1. Among the identified 10 studies, 4 were
+conducted in the United States18,24,25,29 whereas the other 6
+were in Australia,23 Sweden,17 Nigeria,26 India,27 Scotland,30 and
+
+TABLE 1.
+
+Characteristics of the included studies on association between alcohol consumption and age-related cataract in the
+meta-analysis
+Author (year)
+Cohort studies
+Kanthan et al.
+(2010)23
+Lindblad et al.
+(2007)17
+Klein et al.
+(2003)18
+Chasan-Taber
+et al. (2000)24
+Manson et al.
+(1994)25
+Case-control studies
+Echebiri et al.
+(2010)26
+Ughade et al.
+(1998)27
+Phillips et al.
+(1996)30
+Tavani et al.
+(1996)28
+Munoz et al.
+(1993)29
+
+Study name
+
+Region
+
+Blue Mountain
+Australia
+Eye Study
+Swedish
+Sweden
+Mammography
+Cohort
+Beaver Dam
+United States
+Eye Study
+Nurses’ Health
+United States
+Study
+Physicians’ Health United States
+Study
+
+Ethnicity
+
+Sample size
+
+Follow-up Cataract
+period, y assessment
+
+Age, y
+
+Sex
+
+Q49
+
+Both
+
+10
+
+Extraction
+
+Whites
+
+2078
+
+Whites
+
+34,713
+
+49Y83
+
+Female
+
+7
+
+Extraction
+
+Whites
+
+3334
+
+43Y86
+
+Both
+
+10
+
+Whites
+
+50,461
+
+Q45
+
+Female
+
+12
+
+NC, CC,
+PSC
+Extraction
+
+Whites
+
+17,824
+
+40Y84
+
+Male
+
+5
+
+Extraction
+
+Both
+
+V
+
+NC, PSC
+
+Both
+
+V
+
+Both
+
+V
+
+Both
+
+V
+
+Both
+
+V
+
+Any
+cataract
+Any
+cataract
+Any
+cataract
+PSC
+
+V
+
+Nigeria
+
+Blacks
+
+V
+
+India
+
+Indians
+
+V
+
+Scotland
+
+Whites
+
+V
+
+Italy
+
+Whites
+
+V
+
+United States
+
+Whites
+
+530 Case patients/
+40Y89
+530 control subjects
+262 Case patients/
+51Y70
+262 control subjects
+990 Case patients/
+NA
+900 control subjects
+207 Case patients/
+Median age,
+706 control subjects
+63/62
+119 Case patients/
+NA
+120 control subjects
+
+NA indicates not available; NC, nuclear cataract; CC, cortical cataract; PSC, posterior subcapsular cataract.
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+474 Alcohol Consumption and CataractVGong et al.
+TABLE 2.
+
+Assessment of methodological quality of included studies on association between alcohol consumption and age-related
+cataract
+
+Study
+
+Methods for selecting study participants
+
+Kanthan et al. (2010)
+
+23
+
+Lindblad et al. (2007)17
+
+Klein et al. (2003)18
+
+Chasan-Taber et al.
+(2000)24
+
+Manson et al. (1994)25
+
+Echebiri et al. (2010)26
+
+Ughade et al. (1998)27
+Phillips et al. (1996)30
+Tavani et al. (1996)28
+
+Munoz et al. (1993)29
+Kanthan et al. (2010)23
+
+Methods for
+Methods for
+measuring
+measuring exposure
+(alcohol consumption) outcome (cataract)
+
+Questionnaire
+At baseline examinations (1992Y1994), 3654 were
+interviewed and examined. All surviving participants
+were invited for reexamination after 5 y (1997Y1999)
+and 10 y (2002Y2004), with 2335 (75.1% of survivors)
+and 1952 (75.6% of survivors) returning for reexaminations
+at these times, respectively.
+Questionnaire
+Between March 1987 and December 1990, all women born
+between 1914 and 1948 living in the county of Uppsala
+and all women born between 1917 and 1948 living in the
+county of Västmanland received by mail a self-administered
+questionnaire regarding information about diet, family history
+of breast cancer, and some lifestylefactors together with an
+invitation to participate in a mammography screening program.
+In September 1997, an extended follow-up questionnaire was
+mailed to 56,030 women remaining in the cohort after
+exclusion of those who had died or permanently moved out
+of the study areas.
+Questionnaire
+4926 persons participated in a baseline examination from March
+1988 to September 1990. Of the 3334 surviving persons who
+participated in a 5-y follow-up examination, 2764 (82.9%)
+participated in the 10-y follow-up examination.
+Questionnaire
+The Nurses’ Health Study began in 1976 when 121,701, female
+registered nurses aged 30Y55 y and residing in 11 states
+returned a mailed questionnaire on medical history, use of oral
+contraceptives, and risk factors for cancer and cardiovascular
+disease. The follow-up rate for the cohort was 90.2% in 1992
+as a percentage of total possible follow-up time.
+Questionnaire
+Participants in the Physicians’ Health Study, a randomized trial
+of aspirin and beta-carotene among 22,071 male physicians
+aged 40Y84 y at entry in 1982, were included in these analyses
+if they did not report cataract at baseline and if they provided
+information about alcohol consumption and other cataract risk
+factors. A total of 17,824 physicians satisfied these criteria.
+530 subjects with visually impairing cataracts and 530 age- and
+Questionnaire
+sex-matched control subjects were recruited from patients
+aged 40 to 89 y attending the ophthalmology clinics at the
+same hospital.
+The study included 262 cases of age-related cataract and an
+Questionnaire
+equal number of control subjects from the same hospital.
+Stringently matched cataract-control pairs were included from
+Questionnaire
+the same hospital.
+Questionnaire
+A total of 207 patients who had cataract extraction and 706
+control subjects in a hospital for acute, nonneoplastic,
+nonoculistic, nondigestive tract diseases were interviewed
+during their hospital stay.
+Clinical-based study including 238 case patients and
+Questionnaire
+control subjects.
+Lost-to-follow-up bias; survival bias;
+Multivariate analysis
+chance finding; residual confounding
+adjusted for age,
+sex,smoking,
+diabetes, myopia,
+socioeconomic
+status, and
+steroid use
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Wisconsin Grading
+System
+
+National Cataract
+Registry
+
+Wisconsin Grading
+System
+
+Diagnosed by
+ophthalmologist
+
+Review of medical
+record
+
+Diagnosed by
+ophthalmologist
+
+Diagnosed by
+ophthalmologist
+Medical record
+Diagnosed by
+ophthalmologist
+
+Medical record
+None reported
+
+Alcohol Consumption and CataractVGong et al.
+
+475
+
+TABLE 2.
+
+(Continued)
+Study
+
+Design-specific sources of bias
+
+Lindblad et al. (2007)
+
+17
+
+Klein et al. (2003)18
+
+Lost-to-follow-up bias; survival bias;
+misclassification bias; chance finding;
+residual confounding
+
+Lost-to-follow-up bias; survival bias;
+chance finding; residual confounding
+Lost-to-follow-up bias; survival bias;
+misclassification bias; chance finding;
+residual confounding
+
+Chasan-Taber et al.
+(2000)24
+
+Manson et al. (1994)25
+
+Lost-to-follow-up bias; survival bias;
+misclassification bias; chance finding;
+residual confounding
+
+Echebiri et al. (2010)26
+
+Selection bias; misclassification bias;
+chance finding; residual confounding
+Selection bias; misclassification bias;
+chance finding; residual confounding;
+small sample size
+
+Ughade et al. (1998)27
+
+Phillips et al. (1996)30
+Tavani et al. (1996)28
+
+Munoz et al. (1993)29
+
+Selection bias; misclassification bias;
+chance finding; residual confounding
+Selection bias; misclassification bias;
+chance finding; residual confounding;
+small sample size
+Selection bias; misclassification bias;
+chance finding; residual confounding;
+small sample size
+
+Italy.28 Of the 10 studies, 2 reported on all-female cohorts,17,24
+1 reported on men only,25 and the other 7 included both men and
+women. Two studies26,27 did not report the findings of moderate
+alcohol consumption, whereas all identified studies reported the
+associations between heavy alcohol consumption and cataract.
+For the assessment of study quality, we examined the variables
+included, methods for selecting study participants, methods for
+measuring exposure (alcohol consumption) and outcome variable
+(age-related cataract), design-specific sources of bias (excluding
+confounding), methods for controlling confounding, statistical
+methods (excluding control of confounding), and conflict of interest.
+In general, all studies described sampling methods in the texts, albeit
+in varying degrees. Six studies outlined specific exclusion criteria and
+provided information on nonresponders. Among the five cohort
+studies, three were population based and two were on specific working
+groups. All the five case-control studies were clinically based. Data on
+alcohol consumption were all self-reported and collected from
+questionnaires whereas only two studies diagnosed cataract based on
+lens photographs. In most of the included studies, cataract data were
+retrieved by medical records or clinically diagnosed by ophthalmologists. Age and sex were adjusted in all included studies, whereas
+smoking was adjusted in six studies. No studies reported conflict of
+interest. The detailed assessment of study quality is shown in Table 2.
+
+Methods for controlling
+confounding and statistical methods
+Multivariate analysis adjusted for
+age, smoking,diabetes, hypertension,
+steroid medication use, vitamin
+supplement use, body mass index,
+and educational level
+Only age and sex were adjusted in
+the analysis
+Multivariate analysis adjusted for age,
+period, smoking, body mass index,
+area of residence, number of physician
+visits, aspirin use, calories, regular
+physical activity, hypertension,
+or diabetes
+Multivariate analysis adjusted for age,
+aspirin, and beta-carotene treatment,
+smoking, history ofdiabetes, physical
+activity, hypertension, and obesity
+Only age and sex were adjusted in
+the analysis
+Multivariate analysis adjusted for age, sex,
+socioeconomic status, illiteracy, history
+ofdiabetes, diarrhea, glaucoma, myopia,
+hypertension, and cheap cooking fuel
+Only age and sex were adjusted in
+the analysis
+Multivariate analysis adjusted for age, sex,
+education, smoking, diabetes, body mass
+index, and energy intake
+Multivariate analysis adjusted for age,
+sex, diabetes, education, smoking,
+and hypertension
+
+Conflict of interest
+None reported
+
+None reported
+None reported
+
+None reported
+
+None reported
+None reported
+
+None reported
+None reported
+
+None reported
+
+In the meta-analysis of 10 studies, the associations between
+moderate alcohol consumption and age-related cataract were marginally nonsignificant (pooled RR, 0.88; 95% CI, 0.74 to 1.05; I2 =
+82.1%) (Fig. 2), whereas heavy alcohol consumption was associated
+with an increased risk of age-related cataract (pooled RR, 1.26; 95%
+CI, 1.06 to 1.50; I2 = 58.9%) (Fig. 3).
+Subgroup analyses were performed on study designs (cohort
+studies vs. case-control studies) and confounders adjusted for (studies
+adjusted for smoking vs. studies that did not adjust for smoking). The
+association between heavy alcohol consumption and cataract was
+stronger in case-control studies than in cohort studies. Adjusting for
+smoking as a potential confounder attenuated the association between
+heavy alcohol consumption and cataract. (Table 3).
+Omission of individual studies revealed that no single study had
+a particular influence on the pooled estimate. There was no evidence of publication bias as indicated by a nonsignificant Egger
+test (all p 9 0.05) and Begg test (all p 9 0.05) in all analyses.
+
+DISCUSSION
+In this systematic review and meta-analysis, we found that
+heavy alcohol consumption significantly increased the risk of agerelated cataract, whereas moderate alcohol consumption may be
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+476 Alcohol Consumption and CataractVGong et al.
+
+FIGURE 2.
+Random-effects meta-analysis evaluating the association between moderate alcohol consumption and cataract. ID, identiﬁcation.
+
+FIGURE 3.
+Random-effects meta-analysis evaluating the association between heavy alcohol consumption and cataract. ID, identiﬁcation.
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Alcohol Consumption and CataractVGong et al.
+
+477
+
+TABLE 3.
+
+Associations of alcohol consumption and age-related cataract stratiﬁed by study design and confounders adjusted for
+Moderate alcohol consumption
+Study design
+Cohort studies
+Case-control studies
+Confounders adjusted for
+Adjusted for smoking
+Did not adjust for smoking
+
+Heavy alcohol consumption
+
+No. studies
+
+RR
+
+95% CI
+
+I ,%
+
+No. studies
+
+RR
+
+95% CI
+
+I2 , %
+
+5
+3
+
+0.87
+0.92
+
+0.70Y1.07
+0.62Y1.37
+
+87.5
+68.4
+
+5
+5
+
+1.09
+1.64
+
+0.93Y1.28
+1.28Y2.11
+
+46.7
+15.1
+
+6
+2
+
+0.93
+0.76
+
+0.75Y1.16
+0.65Y0.90
+
+84
+0
+
+6
+4
+
+1.17
+1.49
+
+0.97Y1.41
+1.01Y2.21
+
+52.8
+69.2
+
+protective for this ocular condition, although the finding was
+marginally nonsignificant. Clinically, the findings indicated that information on a patient’s alcohol drinking history might be valuable to
+general physicians and ophthalmologists when there is a diagnosis of
+age-related cataract and should be collected on a routine basis in eye
+clinics. Ophthalmologists should be aware that risk of age-related
+cataract appears to vary by the amount of alcohol consumption.
+Our study indicated that there may be a U-shaped association
+between alcohol consumption and age-related cataract, which is
+commonly observed in studies assessing the association between
+alcohol consumption and cardiovascular diseases. These findings
+may not be surprising as there are some shared risk factors between
+age-related cataract and clinical cardiovascular diseases. A large
+retrospective case-control study31 of adults older than 50 years
+who underwent cataract surgery in Israel found that all risk factors
+for cardiovascular diseases were significantly more prevalent in
+cataract patients in univariate analysis. Meanwhile, multivariate
+analysis also revealed a significant association of the exposures
+related to cataractogenesis including diabetes, carotid artery disease, systemic arterial hypertension, peripheral vascular disease,
+smoking, ischemic heart disease, chronic renal failure, hyperlipidemia, and Ashkenazi origin. In addition, the Blue Mountain Eye
+Study found that baseline cardiovascular disease or vascular risk
+factors such as obesity, hypertension, or angina were associated
+with incident age-related cataract.32 Therefore, the effects of alcohol consumption on cardiovascular system and lens may share
+common pathways in pathophysiology.
+The biological plausibility behind the observed association has
+not been elucidated, and we offer several possible explanations.
+Oxidative stress is well known to be involved in the pathogenesis
+of cataract.33 Heavy alcohol consumption could induce microsomal enzyme cytochrome CYP2E1 in the liver.34 Metabolism of
+ethanol by cytochrome CYP2E1 could produce free radicals, which
+may also lead to aggregation of lens proteins, leading to cataract
+formation in elderly adults. Alternatively, maintenance of calcium
+homeostasis is essential for normal functioning of the lens. Several
+lens enzymes are calcium dependent and higher calcium levels are
+shown to induce cataract in vitro, in both animal and human
+studies.35 Acute alcohol exposure increases calcium permeability of
+lens fiber cell membrane and inhibits calcium pumps on lens fiber
+cells, resulting in higher intracellular lens calcium levels.36 This
+disruption in calcium homeostasis may lead to cataract formation.
+Despite a marginally nonsignificant association, our analysis revealed that moderate alcohol consumption may reduce the risk for
+age-related cataract. A population-based cohort study has shown
+that light to moderate alcohol consumption could reduce the risk
+
+2
+
+of atherosclerosis of blood vessels.37 The protection afforded by
+light to moderate alcohol consumption may possibly be attributed
+to antithrombotic effects and inhibition of the atherogenic action of high levels of low-density lipoprotein cholesterol. The atherosclerosis of local blood vessels may reduce the risk of cataract by
+supplying the lens with more oxygen and nutrients.
+We have noticed that smoking is a confirmed risk factor for agerelated cataract and the observed association between alcohol
+consumption and age-related cataract may be confounded by
+smoking status. The subgroup analysis in our study found that
+pooling the studies that had adjusted for smoking as a potential
+confounder attenuated the associations between alcohol consumption and age-related cataract but did not alter the trend.
+Considering that there are only six studies that had adjusted for
+smoking in this review, we cannot confirm whether smoking is a
+confounder for the association between alcohol consumption and
+age-related cataract. More well-designed cohort studies in nonsmokers are warranted to confirm if alcohol consumption is independently related to cataract.
+During the peer-review process of this article, another metaanalysis on the association between alcohol intake and agerelated cataract was published by Wang and Zhang.38 However,
+the hypotheses, methods for study selection, and statistical analyses between our study and theirs were completely different. First,
+our hypothesis was that the risk of cataract is modified by the
+amount of alcohol consumption whereas theirs was that the risk
+of cataract differs between alcohol drinkers and nondrinkers.
+Therefore, the main analyses as shown in the forest plots of the two
+articles were completely different. In addition, some studies39,40
+included in the article by Wang and Zhang were not included in
+our analysis because these studies did not report the amountstratified analysis on the association between alcohol consumption
+and cataract. Second, we included both case-control and cohort
+studies whereas the article by Wang and Zhang only included cohort
+studies. Although we acknowledge that cohort design provides
+stronger evidence than case-control design, we think that it is important to include case-control studies in this meta-analysis, especially when the number of studies identified is small. Finally, we
+believe that a stratified analysis for the studies that did and did not
+adjust for smoking status should be performed on this research topic
+because smoking is a well-established risk factor for age-related
+cataract and is always associated with alcohol intake. Therefore,
+smoking may be an important confounder for the association between alcohol intake and age-related cataract.
+There are several strengths of the meta-analysis. From epidemiologic perspectives, only case-control or cohort studies were included,
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+478 Alcohol Consumption and CataractVGong et al.
+
+which results in the analysis having a higher evidence level than those
+including cross-sectional studies or ecologic studies. In addition, the
+sample sizes of the included studies are large and the follow-up periods
+of the cohort studies are relatively longer (at least 5 years). Limitations
+of this meta-analysis should also be acknowledged. First, the potential
+biases in the original studies, methodological issues, and different
+strategies for adjusting for confounders could affect the results from
+this meta-analysis. The observed association may have been confounded by other unadjusted factors or selection bias. Second, the
+number of the contributing studies was small such that the results of
+subgroups analysis may not be robust. Third, different studies
+reported different outcomes of age-related cataract, which make it
+impossible for us to perform subgroup analysis on different cataract
+subtypes including nuclear, cortical, and posterior subcapsular cataract. Finally, publication bias could be of concern because studies that
+report statistically significant results are more likely to get published
+than studies that report nonsignificant results, and this could have
+distorted the findings of our meta-analyses. Although the Egger test
+and the Begg test indicated little evidence of publication bias in this
+meta-analysis, the estimation may not be accurate enough as the
+number of the studies is small.
+In conclusion, this systematic review and meta-analysis of 10
+epidemiologic studies demonstrated that effect of alcohol consumption on age-related cataract is not linear and varies by the
+amount of alcohol consumption. Moderate consumption appears to
+be protective for age-related cataract with marginally nonsignificant
+association, whereas heavy alcohol consumption is a risk factor for
+this eye condition. The results of the meta-analysis suggest that
+lifestyle changes in alcohol intake would help alter the incidence and
+associated costs of age-related cataract, subsequently changing visual
+functioning and health-related quality of life.
+
+ACKNOWLEDGMENTS
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+
+13.
+
+14.
+
+15.
+16.
+
+17.
+
+Authors Yu Gong and Kehong Feng contributed equally to the work presented
+and therefore should be considered equivalent first authors.
+Received July 31, 2014; accepted February 6, 2015.
+
+REFERENCES
+
+18.
+
+19.
+
+1. Duerksen R, Limburg H, Carron JE, Foster A. Cataract blindness in
+ParaguayVresults of a national survey. Ophthalmic Epidemiol
+2003;10:349Y57.
+2. Dunzhu S, Wang FS, Courtright P, Liu L, Tenzing C, Noertjojo K,
+Wilkie A, Santangelo M, Bassett KL. Blindness and eye diseases in
+Tibet: findings from a randomised, population based survey. Br J
+Ophthalmol 2003;87:1443Y8.
+3. Zheng Y, Lavanya R, Wu R, Wong WL, Wang JJ, Mitchell P,
+Cheung N, Cajucom-Uy H, Lamoureux E, Aung T, Saw SM, Wong
+TY. Prevalence and causes of visual impairment and blindness in an
+urban Indian population: the Singapore Indian Eye Study. Ophthalmology 2011;118:1798Y804.
+4. Thulasiraj RD, Nirmalan PK, Ramakrishnan R, Krishnadas R,
+Manimekalai TK, Baburajan NP, Katz J, Tielsch JM, Robin AL.
+Blindness and vision impairment in a rural south Indian population:
+the Aravind Comprehensive Eye Survey. Ophthalmology 2003;
+110:1491Y8.
+5. Murthy GV, Gupta S, Ellwein LB, Munoz SR, Bachani D, Dada VK.
+A population-based eye survey of older adults in a rural district of
+
+20.
+
+21.
+22.
+23.
+
+24.
+
+Rajasthan: I. Central vision impairment, blindness, and cataract
+surgery. Ophthalmology 2001;108:679Y85.
+Zhao J, Ellwein LB, Cui H, Ge J, Guan H, Lv J, Ma X, Yin J, Yin ZQ,
+Yuan Y, Liu H. Prevalence of vision impairment in older adults in
+rural China: the China Nine-Province Survey. Ophthalmology
+2010;117:409Y16, 16.e1.
+Hyman L, Wu SY, Connell AM, Schachat A, Nemesure B, Hennis A,
+Leske MC. Prevalence and causes of visual impairment in The
+Barbados Eye Study. Ophthalmology 2001;108:1751Y6.
+Varma R, Ying-Lai M, Klein R, Azen SP. Prevalence and risk indicators
+of visual impairment and blindness in Latinos: the Los Angeles Latino
+Eye Study. Ophthalmology 2004;111:1132Y40.
+Ye J, He J, Wang C, Wu H, Shi X, Zhang H, Xie J, Lee SY. Smoking
+and risk of age-related cataract: a meta-analysis. Invest Ophthalmol
+Vis Sci 2012;53:3885Y95.
+Ayala MN, Michael R, Soderberg PG. Influence of exposure time for
+UV radiation-induced cataract. Invest Ophthalmol Vis Sci 2000;41:
+3539Y43.
+Pan CW, Lin Y. Overweight, obesity, and age-related cataract: a
+meta-analysis. Optom Vis Sci 2014;91:478Y83.
+Varela-Rey M, Woodhoo A, Martinez-Chantar ML, Mato JM, Lu
+SC. Alcohol, DNA methylation, and cancer. Alcohol Res 2013;35:
+25Y35.
+Baliunas DO, Taylor BJ, Irving H, Roerecke M, Patra J, Mohapatra
+S, Rehm J. Alcohol as a risk factor for type 2 diabetes: a systematic
+review and meta-analysis. Diabetes Care 2009;32:2123Y32.
+Ronksley PE, Brien SE, Turner BJ, Mukamal KJ, Ghali WA. Association of alcohol consumption with selected cardiovascular disease
+outcomes: a systematic review and meta-analysis. BMJ 2011;
+342:d671.
+Cumming RG, Mitchell P. Alcohol, smoking, and cataracts: the Blue
+Mountains Eye Study. Arch Ophthalmol 1997;115:1296Y303.
+Morris MS, Jacques PF, Hankinson SE, Chylack LT Jr., Willett WC,
+Taylor A. Moderate alcoholic beverage intake and early nuclear and
+cortical lens opacities. Ophthalmic Epidemiol 2004;11:53Y65.
+Lindblad BE, Hakansson N, Philipson B, Wolk A. Alcohol consumption and risk of cataract extraction: a prospective cohort study
+of women. Ophthalmology 2007;114:680Y5.
+Klein BE, Klein R, Lee KE, Meuer SM. Socioeconomic and lifestyle
+factors and the 10-year incidence of age-related cataracts. Am J
+Ophthalmol 2003;136:506Y12.
+Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie
+D, Moher D, Becker BJ, Sipe TA, Thacker SB. Meta-analysis of
+observational studies in epidemiology: a proposal for reporting.
+Meta-analysis Of Observational Studies in Epidemiology (MOOSE)
+group. JAMA 2000;283:2008Y12.
+Sanderson S, Tatt ID, Higgins JP. Tools for assessing quality and susceptibility to bias in observational studies in epidemiology: a systematic
+review and annotated bibliography. Int J Epidemiol 2007;36:666Y76.
+Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003;327:557Y60.
+Higgins JP, Thompson SG. Quantifying heterogeneity in a metaanalysis. Stat Med 2002;21:1539Y58.
+Kanthan GL, Mitchell P, Burlutsky G, Wang JJ. Alcohol consumption and the long-term incidence of cataract and cataract surgery: the Blue Mountains Eye Study. Am J Ophthalmol 2010;
+150:434Y40.e1.
+Chasan-Taber L, Willett WC, Seddon JM, Stampfer MJ, Rosner B,
+Colditz GA, Speizer FE, Hankinson SE. A prospective study of alcohol consumption and cataract extraction among U.S. women. Ann
+Epidemiol 2000;10:347Y53.
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+Alcohol Consumption and CataractVGong et al.
+25. Manson JE, Christen WG, Seddon JM, Glynn RJ, Hennekens CH.
+A prospective study of alcohol consumption and risk of cataract. Am
+J Prev Med 1994;10:156Y61.
+26. Echebiri SI, Odeigah PG, Myers SN. Case-control studies and risk
+factors for cataract in two population studies in Nigeria. Middle East
+Afr J Ophthalmol 2010;17:303Y9.
+27. Ughade SN, Zodpey SP, Khanolkar VA. Risk factors for cataract: a
+case control study. Indian J Ophthalmol 1998;46:221Y7.
+28. Tavani A, Negri E, La Vecchia C. Food and nutrient intake and risk
+of cataract. Ann Epidemiol 1996;6:41Y6.
+29. Munoz B, Tajchman U, Bochow T, West S. Alcohol use and risk of
+posterior subcapsular opacities. Arch Ophthalmol 1993;111:110Y2.
+30. Phillips CI, Clayton RM, Cuthbert J, Qian W, Donnelly CA,
+Prescott RJ. Human cataract risk factors: significance of abstention
+from, and high consumption of, ethanol (U-curve) and nonsignificance of smoking. Ophthalmic Res 1996;28:237Y47.
+31. Nemet AY, Vinker S, Levartovsky S, Kaiserman I. Is cataract associated with cardiovascular morbidity? Eye (Lond) 2010;24:1352Y8.
+32. Younan C, Mitchell P, Cumming R, Rochtchina E, Panchapakesan
+J, Tumuluri K. Cardiovascular disease, vascular risk factors and the
+incidence of cataract and cataract surgery: the Blue Mountains Eye
+Study. Ophthalmic Epidemiol 2003;10:227Y40.
+33. Beebe DC, Holekamp NM, Shui YB. Oxidative damage and the
+prevention of age-related cataracts. Ophthalmic Res 2010;44:155Y65.
+34. Das SK, Vasudevan DM. Alcohol-induced oxidative stress. Life Sci
+2007;81:177Y87.
+
+479
+
+35. Hightower KR, Reddy VN. Calcium content and distribution in
+human cataract. Exp Eye Res 1982;34:413Y21.
+36. Zeng J, Borchman D, Paterson CA. Acute effect of ethanol on lens
+cation homeostasis. Alcohol 1998;16:189Y93.
+37. Kiechl S, Willeit J, Rungger G, Egger G, Oberhollenzer F, Bonora E.
+Alcohol consumption and atherosclerosis: what is the relation?
+Prospective results from the Bruneck Study. Stroke 1998;29:900Y7.
+38. Wang W, Zhang X. Alcohol intake and the risk of age-related cataracts: a meta-analysis of prospective cohort studies. PLoS One
+2014;9:e107820.
+39. Storey P, Munoz B, Friedman D, West S. Racial differences in lens
+opacity incidence and progression: the Salisbury Eye Evaluation
+(SEE) study. Invest Ophthalmol Vis Sci 2013;54:3010Y8.
+40. Kuang TM, Tsai SY, Liu CJ, Ko YC, Lee SM, Chou P. Seven-year
+incidence of age-related cataracts among an elderly Chinese population in Shihpai, Taiwan: The Shihpai Eye Study. Invest
+Ophthalmol Vis Sci 2013;54:6409Y15.
+
+Chen-Wei Pan
+School of Public Health
+Medical College of Soochow University
+199 Ren Ai Rd
+Suzhou 215123
+China
+e-mail: pcwonly@gmail.com
+
+Optometry and Vision Science, Vol. 92, No. 4, April 2015
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
